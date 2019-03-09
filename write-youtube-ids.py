@@ -3,7 +3,8 @@ import json
 import requests
 
 def get_youtube_id(search_string):
-    API_KEY = "AIzaSyBQnISjzNNGwITiZ9IGa8h-ACv-zFcQnZw"
+    # API_KEY = "AIzaSyBQnISjzNNGwITiZ9IGa8h-ACv-zFcQnZw"
+    # API_KEY = "AIzaSyD708scD_-j8jkICMSLnhWl9wTDMEN9w3c"
     payload = {"part": "snippet", "key": API_KEY, "q": search_string, "maxResults": 1}
     response = requests.get("https://www.googleapis.com/youtube/v3/search", payload).text
     return json.loads(response)["items"][0]["id"]["videoId"]
