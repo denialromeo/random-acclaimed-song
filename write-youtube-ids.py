@@ -9,6 +9,10 @@ api_keys = ["AIzaSyBQnISjzNNGwITiZ9IGa8h-ACv-zFcQnZw",
             "AIzaSyD708scD_-j8jkICMSLnhWl9wTDMEN9w3c",
             "AIzaSyD6aJcm4_kvngKdzyh59yOZ_5dM_2NwSvc",
             "AIzaSyBXIjogxwr82ek2VYgEg9RHt3sRP4Ekf58",
+            "AIzaSyDHzbRIM7RxxEwTd0lJBeQuaNvp3udKBRo",
+            "AIzaSyDEfuQXfKR2yYPTMEgMSelgq7G0wnuttxw",
+            "AIzaSyB9fqAJboeWVkw16vbTS6CDT5eQ3NOrDK8",
+            "AIzaSyC7jeqYlI0of9ytBWsFCMil_1BHLECaSXw",
             "AIzaSyAX5l_PLHVgw1OC-hepf2SHgSIDC-2uUlE",
             "AIzaSyBUY4lBhusyDjODp0o6dfJNAg3gxmpDIe4",
             "AIzaSyAES65sOUOS22G4XD5ink6EBEoIAN-WUmo"]
@@ -17,7 +21,7 @@ def get_response(payload):
     return json.loads(requests.get("https://www.googleapis.com/youtube/v3/search", payload).text)
 
 def get_youtube_id(search_string):
-    payload = {"part": "snippet", "key": api_keys[-1], "q": search_string, "maxResults": 1, "type": "video"}
+    payload = {"part": "snippet", "key": api_keys[-1], "q": search_string, "maxResults": 1, "type": "video", "regionCode": "US"}
     response = get_response(payload)
     while "error" in response:
         print(api_keys[-1], response)
