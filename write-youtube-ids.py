@@ -20,6 +20,7 @@ def get_youtube_id(search_string):
     payload = {"part": "snippet", "key": api_keys[-1], "q": search_string, "maxResults": 1, "type": "video"}
     response = get_response(payload)
     while "error" in response:
+        print(api_keys[-1], response)
         api_keys.pop()
         payload["key"] = api_keys[-1]
         response = get_response(payload)
