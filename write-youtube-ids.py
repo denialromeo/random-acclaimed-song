@@ -13,15 +13,18 @@ api_keys = ["AIzaSyBQnISjzNNGwITiZ9IGa8h-ACv-zFcQnZw",
             "AIzaSyBUY4lBhusyDjODp0o6dfJNAg3gxmpDIe4",
             "AIzaSyAES65sOUOS22G4XD5ink6EBEoIAN-WUmo"]
 
+def get_response(payload):
+    return json.loads(requests.get("https://www.googleapis.com/youtube/v3/search", payload).text)
+
 def get_youtube_id(search_string):
     payload = {"part": "snippet", "key": api_keys[-1], "q": search_string, "maxResults": 1, "type": "video"}
-    try:
-        response = requests.get("https://www.googleapis.com/youtube/v3/search", payload).text
-    except KeyError: # When we hit the YouTube API daily usage limit.
+    response = get_response(payload)
+    while "error" in response:
         api_keys.pop()
         payload["key"] = api_keys[-1]
-        response = requests.get("https://www.googleapis.com/youtube/v3/search", payload).text
-    return json.loads(response)["items"][0]["id"]["videoId"]
+        response = get_response(payload)
+    print(payload["key"], response)
+    return response["items"][0]["id"]["videoId"]
 
 def num_songs_processed():
     with open(OUTFILE) as f:
@@ -39,5 +42,5 @@ if __name__ == "__main__":
         for idx, row in enumerate(input_reader):
             if (idx >= num_songs_written):
                 search_string = str.join(" ", row[0:2])
-                row.append(search_string)
+                row.append(get_youtube_id(search_string))
                 write_to_output(row)
