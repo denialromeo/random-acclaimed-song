@@ -17,8 +17,9 @@ def get_youtube_id(search_string):
     payload = {"part": "snippet", "key": api_keys[-1], "q": search_string, "maxResults": 1, "type": "video"}
     try:
         response = requests.get("https://www.googleapis.com/youtube/v3/search", payload).text
-    except KeyError:
-        payload["key"] = api_keys.pop()
+    except KeyError: # When we hit the YouTube API daily usage limit.
+        api_keys.pop()
+        payload["key"] = api_keys[-1]
         response = requests.get("https://www.googleapis.com/youtube/v3/search", payload).text
     return json.loads(response)["items"][0]["id"]["videoId"]
 
