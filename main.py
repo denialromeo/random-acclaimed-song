@@ -21,7 +21,7 @@ def get_response(payload):
     return json.loads(requests.get("https://www.googleapis.com/youtube/v3/search", payload).text)
 
 def get_youtube_id(search_string):
-    payload = {"part": "snippet", "key": api_keys[-1], "q": search_string, "maxResults": 1, "type": "video", "regionCode": "US"}
+    payload = {"part": "snippet", "key": api_keys[-1], "q": search_string, "maxResults": 1, "type": "video", "regionCode": "US", "videoEmbeddable": "true"}
     response = get_response(payload)
     while "error" in response:
         print(api_keys[-1], response)
