@@ -37,14 +37,12 @@ def num_songs_processed():
 
 def write_to_output(row):
     with open(OUTFILE, "a") as csvfile:
-        output_writer = csv.writer(csvfile, delimiter="|", lineterminator="\n")
-        output_writer.writerow(row)
+        csv.writer(csvfile, delimiter="|", lineterminator="\n").writerow(row)
 
 if __name__ == "__main__":
     num_songs_written = num_songs_processed()
     with open(INFILE) as csvfile:
-        input_reader = csv.reader(csvfile, delimiter="|")
-        for idx, row in enumerate(input_reader):
+        for idx, row in enumerate(csv.reader(csvfile, delimiter="|")):
             if (idx >= num_songs_written):
                 search_string = str.join(" ", row[0:2])
                 row.append(get_youtube_id(search_string))
