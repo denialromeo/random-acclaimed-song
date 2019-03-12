@@ -28,7 +28,7 @@ def get_youtube_id(search_string):
         api_keys.pop()
         payload["key"] = api_keys[-1]
         response = get_response(payload)
-    print(payload["key"], response)
+    print(payload["key"], response["items"][0]["snippet"]["title"])
     return response["items"][0]["id"]["videoId"]
 
 def num_songs_processed():
