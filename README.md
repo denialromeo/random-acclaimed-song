@@ -9,3 +9,5 @@ YouTube is more ban-happy than I'd like, so I assume I'll have to run this scrip
 YouTube's Search API has a daily usage limit of 100 requests per day per API key (in practice, I seem to get 97). Since there's ~10,000 songs I'd like to process with 11 API keys, it will always take me at least 10 days to write Youtube ID's to an output file.
 
 I can set up `schtasks` to do this for me, so it isn't that much of a hassle, but still, two weeks is two weeks.
+
+There's probably an easier way to do this. Maybe use a less costly API to check if videos exist, then only download when needed?
