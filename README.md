@@ -119,3 +119,30 @@ There's probably an easier way to do this. Maybe use a less costly API to check 
      ]
     }
     ```
+
+* https://www.googleapis.com/youtube/v3/videos?part=status&key=AIzaSyBQnISjzNNGwITiZ9IGa8h-ACv-zFcQnZw&id=Ldyx3KHOFXw
+
+    ```
+    {
+     "kind": "youtube#videoListResponse",
+     "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Js7-vyqzYRehGGaYnSPHo6Ouh6U\"",
+     "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+     },
+     "items": [
+      {
+       "kind": "youtube#video",
+       "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/9mlWHJaDwMHlQYzknvLuUtgQ5VY\"",
+       "id": "Ldyx3KHOFXw",
+       "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": false,
+        "publicStatsViewable": true
+       }
+      }
+     ]
+    }
+    ```
