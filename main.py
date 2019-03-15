@@ -37,7 +37,7 @@ def num_songs_processed():
 
 def write_to_output(row):
     with open(OUTFILE, "a") as csvfile:
-        csv.writer(csvfile, delimiter="|", lineterminator="\n").writerow(row)
+        csv.writer(csvfile, delimiter="|", lineterminator="\n", quotechar="~").writerow(row)
 
 if __name__ == "__main__":
     num_songs_written = num_songs_processed()
