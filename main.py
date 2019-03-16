@@ -37,16 +37,12 @@ def get_youtube_id(search_string):
     print(response["items"][0]["snippet"]["title"])
     return response["items"][0]["id"]["videoId"]
 
-def video_exists(id):
-    url = "https://www.googleapis.com/youtube/v3/videos"
-    payload = {"part": "contentDetails", "id": id}
-    response = get_response(url, payload)
-    return (len(response["items"]) > 0)
-
 def video_is_playable_in_US(id):
     url = "https://www.googleapis.com/youtube/v3/videos"
     payload = {"part": "contentDetails", "id": id}
     response = get_response(url, payload)
+    if not (len(response["items"]) > 0): # Does the video exist?
+        return False
     contentDetails = response["items"][0]["contentDetails"]
     if "regionRestriction" in contentDetails:
         if "blocked" in contentDetails["regionRestriction"]:
