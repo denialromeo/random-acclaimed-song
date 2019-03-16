@@ -34,6 +34,7 @@ def get_youtube_id(search_string):
     url = "https://www.googleapis.com/youtube/v3/search"
     payload = {"part": "snippet", "q": search_string, "maxResults": 1, "type": "video", "regionCode": "US", "videoEmbeddable": "true"}
     response = get_response(url, payload)
+    print(response["items"][0]["snippet"]["title"])
     return response["items"][0]["id"]["videoId"]
 
 def video_exists(id):
