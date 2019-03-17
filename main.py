@@ -2,8 +2,9 @@ import csv
 import json
 import requests
 
-INFILE  = "all-songs"
-OUTFILE = "written"
+INFILE   = "all-songs"
+OUTFILE  = "written"
+TEMPFILE = "new-written"
 
 api_keys = ["AIzaSyBQnISjzNNGwITiZ9IGa8h-ACv-zFcQnZw",
             "AIzaSyD708scD_-j8jkICMSLnhWl9wTDMEN9w3c",
@@ -37,9 +38,9 @@ def get_youtube_id(search_string):
     print(response["items"][0]["snippet"]["title"])
     return response["items"][0]["id"]["videoId"]
 
-def video_is_playable_in_US(id):
+def video_is_playable_in_US(video_id):
     url = "https://www.googleapis.com/youtube/v3/videos"
-    payload = {"part": "contentDetails", "id": id}
+    payload = {"part": "contentDetails", "id": video_id}
     response = get_response(url, payload)
     if not (len(response["items"]) > 0): # Does the video exist?
         return False
@@ -53,9 +54,9 @@ def video_is_playable_in_US(id):
                 return True
     return True
 
-def video_is_embeddable(id):
+def video_is_embeddable(video_id):
     url = "https://www.googleapis.com/youtube/v3/videos"
-    payload = {"part": "status", "id": id}
+    payload = {"part": "status", "id": video_id}
     response = get_response(url, payload)
     return response["items"][0]["status"]["embeddable"]
 
@@ -67,7 +68,7 @@ def append_to_file(file, row):
     with open(file, "a") as csvfile:
         csv.writer(csvfile, delimiter="|", lineterminator="\n", quotechar="~").writerow(row)
 
-if __name__ == "__main__":
+def initial():
     num_songs_written = num_lines_in_file(OUTFILE)
     with open(INFILE) as csvfile:
         for idx, row in enumerate(csv.reader(csvfile, delimiter="|")):
@@ -75,3 +76,19 @@ if __name__ == "__main__":
                 search_string = row[0] + " " + row[1]
                 row.append(get_youtube_id(search_string))
                 append_to_file(OUTFILE, row)
+
+def maintenance():
+    num_songs_written = num_lines_in_file(TEMPFILE)
+    with open(OUTFILE) as csvfile:
+        for idx, row in enumerate(csv.reader(csvfile, delimiter="|")):
+            if (idx >= num_songs_written):
+                video_id = row[3]
+                if (video_is_playable_in_US(video_id) and video_is_embeddable(video_id)):
+                    pass
+                else:
+                    search_string = row[0] + " " + row[1]
+                    row[3] = get_youtube_id(search_string)
+                append_to_file(TEMPFILE, row)
+
+if __name__ == "__main__":
+    initial()
