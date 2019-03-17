@@ -47,11 +47,9 @@ def video_is_playable_in_US(video_id):
     contentDetails = response["items"][0]["contentDetails"]
     if "regionRestriction" in contentDetails:
         if "blocked" in contentDetails["regionRestriction"]:
-            if "US" in contentDetails["regionRestriction"]["blocked"]:
-                return False
+            return (not ("US" in contentDetails["regionRestriction"]["blocked"]))
         elif "allowed" in contentDetails["regionRestriction"]:
-            if "US" in contentDetails["regionRestriction"]["allowed"]:
-                return True
+            return ("US" in contentDetails["regionRestriction"]["allowed"])
     return True
 
 def video_is_embeddable(video_id):
