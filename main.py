@@ -81,7 +81,7 @@ def maintenance():
         for idx, row in enumerate(csv.reader(csvfile, delimiter="|")):
             if (idx >= num_songs_written):
                 video_id = row[3]
-                if (video_is_playable_in_US(video_id) and video_is_embeddable(video_id)):
+                if (video_is_playable_in_US(video_id)):
                     pass
                 else:
                     search_string = row[0] + " " + row[1]
@@ -89,4 +89,4 @@ def maintenance():
                 append_to_file(TEMPFILE, row)
 
 if __name__ == "__main__":
-    initial()
+    maintenance()
