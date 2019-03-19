@@ -6,3 +6,4 @@
 @echo console.log(songs) >> songs.js
 @del t
 @del g
+@copy /y songs.js ..\..\danielmoore.us\js\songs.js
