@@ -1,5 +1,6 @@
 import csv
 import json
+import re
 import requests
 
 INFILE   = "all-songs"
@@ -20,6 +21,20 @@ api_keys = ["AIzaSyBQnISjzNNGwITiZ9IGa8h-ACv-zFcQnZw",
 
 def poll_api(url, payload):
     return json.loads(requests.get(url, payload).text)
+
+def wikipedia_title(artist):
+    url = "https://en.wikipedia.org/w/api.php"
+    search_string = re.compile("( [fF]eat\.?)|( with )").split(artist)[0]
+    payload = {"action": "query", "list": "search", "format": "json", "srsearch": search_string}
+    response = poll_api(url, payload)
+    poss_title = response["query"]["search"][0]["title"]
+    if ((poss_title.lower() == search_string.lower()) and ("may refer to" not in response["query"]["search"][0]["snippet"])):
+        return poss_title
+    else:
+        payload["srsearch"] = search_string + " band"
+        response = poll_api(url, payload)
+        poss_title = response["query"]["search"][0]["title"]
+        return poss_title
 
 def get_response(url, payload):
     payload["key"] = api_keys[-1]
@@ -74,6 +89,14 @@ def initial():
                 search_string = row[0] + " " + row[1]
                 row.append(get_youtube_id(search_string))
                 append_to_file(OUTFILE, row)
+
+def wikipedia_titles():
+    num_songs_written = num_lines_in_file(TEMPFILE)
+    with open(OUTFILE) as csvfile:
+        for idx, row in enumerate(csv.reader(csvfile, delimiter="|")):
+            if (idx >= num_songs_written):
+                row.append(wikipedia_title(row[0]))
+                append_to_file(TEMPFILE, row)
 
 def maintenance():
     num_songs_written = num_lines_in_file(TEMPFILE)
