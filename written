@@ -546,7 +546,7 @@ Fleetwood Mac|Dreams|1977|mrZRURcb1cM|Fleetwood Mac|S1560
 ZZ Top|La Grange|1973|Vppbdf-qtGU|ZZ Top|S3993
 Kelly Clarkson|Since U Been Gone|2004|R7UrFYvl5TE|Kelly Clarkson|S3006
 Carole King|It's Too Late|1971|VkKxmnrRVHo|Carole King|S822
-The Wailers|Get Up, Stand Up|1973|UubfH-1S43k|The Wailers Band|S753
+The Wailers|Get Up, Stand Up|1973|UubfH-1S43k|Bob Marley and the Wailers|S753
 Sparks|This Town Ain't Big Enough for Both of Us|1974|QAzESJ62irI|Sparks (band)|S734
 Pink Floyd|Shine On You Crazy Diamond|1975|cWGE9Gi0bB0|Pink Floyd|S1771
 Public Image Ltd.|Public Image|1978|ylOCIP54PIQ|Public Image Ltd|S602
@@ -820,7 +820,7 @@ Ben E. King|Spanish Harlem|1960|OGd6CdtOqEE|Ben E. King|S1122
 David Bowie|The Man Who Sold the World|1970|HSH--SJKVQQ|David Bowie|S5960
 Small Faces|Itchycoo Park|1967|14ViwvgtvbA|Small Faces|S958
 Althea and Donna|Uptown Top Ranking|1977|OMrNDnU6PPk|Althea & Donna|S1558
-Nine Inch Nails|Hurt|1994|kPz21cDK7dg|Nine Inch Nails|S2952
+Nine Inch Nails|Hurt|1994|dhh21crSohs|Nine Inch Nails|S2952
 Roy Orbison|In Dreams|1963|TPqZs7Vl_xg|Roy Orbison|S1060
 George Michael|Faith|1987|6Cs3Pvmmv0E|George Michael|S348
 The Rolling Stones|Under My Thumb|1966|aGRnokznTF0|The Rolling Stones|S3780
@@ -877,7 +877,7 @@ The Allman Brothers Band|Whipping Post|1969|Wqg4taiLRRE|The Allman Brothers Band
 Bob Dylan|It's Alright, Ma (I'm Only Bleeding)|1965|mYajHZ4QUVM|Bob Dylan|S2987
 Iron Butterfly|In-A-Gadda-Da-Vida|1968|UIVe-rZBcm4|Iron Butterfly|S1699
 Kanye West feat. Jay-Z, Rick Ross, Nicki Minaj & Bon Iver|Monster|2010|Idz9aYXq98U|Kanye West|S4912
-The Wailers|I Shot the Sheriff|1973|qsYzKtnvHfs|The Wailers Band|S742
+The Wailers|I Shot the Sheriff|1973|qsYzKtnvHfs|Bob Marley and the Wailers|S742
 Vampire Weekend|Hannah Hunt|2013|uDwVMcEHG70|Vampire Weekend|S9542
 Simple Minds|Don't You (Forget About Me)|1985|CdqoNKCCt7A|Simple Minds|S1940
 Snoop Dogg feat. Pharrell|Drop It Like It's Hot|2004|RaCodgL9cvk|Snoop Dogg|S2481
@@ -1994,7 +1994,7 @@ Metronomy|The Look|2011|sFrNsSnk8GM|Metronomy|S4978
 Weezer|El Scorcho|1996|okthJIVbi6g|Weezer|S2130
 The Big Bopper|Chantilly Lace|1958|jNrpAgTXiC4|The Big Bopper|S1220
 Lana Del Rey|West Coast|2014|oKxuiw3iMBE|Lana Del Rey|S9566
-The Wailers|Stir It Up|1967|JE3WaSETf8k|The Wailers Band|S2286
+The Wailers|Stir It Up|1967|JE3WaSETf8k|Bob Marley and the Wailers|S2286
 The Black Keys|Tighten Up|2010|mpaPBCBjSVc|The Black Keys|S4927
 Eric Clapton|I Shot the Sheriff|1974|APWhx97QvxE|Eric Clapton|S2869
 Moby|Porcelain|1999|QhZnEagfjTQ|Moby|S3634
@@ -3023,7 +3023,7 @@ Battles feat. Matías Aguayo|Ice Cream|2011|dFggLJxv9zA|Battles (band)|S4943
 Vampire Weekend|Oxford Comma|2007|597M2FB0TuA|Vampire Weekend|S4762
 James Brown|Hot Pants (She Got to Use What She Got to Get What She Wants)|1971|7n14u8s9RTQ|James Brown|S1314
 The Crickets|Oh, Boy!|1957|DR4G6KUHixg|The Crickets|S3477
-The Wailers|Simmer Down|1964|7xo-BCAjMiM|The Wailers Band|S8907
+The Wailers|Simmer Down|1964|7xo-BCAjMiM|Bob Marley and the Wailers|S8907
 Placebo|Nancy Boy|1996|PBxuq_eWW94|Placebo|S4517
 Radiohead|15 Step|2007|xpqk9MD6vLM|Radiohead|S4324
 Serge Gainsbourg|Le Poinçonneur des Lilas|1958|eWkWCFzkOvU|Serge Gainsbourg|S4375
@@ -6228,7 +6228,7 @@ Tina Moore|Never Gonna Let You Go|1995|TdCCWUAWOfc|Tina Moore|S8765
 Christophe|Aline|1965|-E_Hyn53acA|Tryo|S10406
 Kris Kristofferson|Help Me Make It Through the Night|1970|ATrt1qUNUZI|Kris Kristofferson|S4543
 Bo Diddley|Mona|1957|luMQUzJzZLQ|Bo Diddley|S3332
-Young Jeezy feat. Kanye West|Put On|2008|1aEImx74gLA|U.S.D.A (band)|S4764
+Young Jeezy feat. Kanye West|Put On|2008|1aEImx74gLA|Jeezy|S4764
 Cream|Tales of Brave Ulysses|1967|J2CCfxiQ5QY|Cream|S4104
 Pacific Gas & Electric|Are You Ready?|1970|x8jhRuZhkRI|Pacific Gas & Electric (band)|S7839
 Walter Huston|September Song|1938|E3mAT-4FdP4|Walter Huston|S4061
@@ -6665,7 +6665,7 @@ The Coasters|Poison Ivy|1959|ZRfRITVdz4k|The Coasters|S5846
 Dizzee Rascal feat. Calvin Harris|Dance Wiv Me|2008|c2MiyZx8MTY|Dizzee Rascal|S4712
 Cutting Crew|(I Just) Died in Your Arms Tonight|1986|8ZIOkbrX_uU|Cutting Crew|S5931
 Christopher Cross|Sailing|1979|7khQNR7s1Ho|Christopher Cross|S5802
-Gen X|Dancing with Myself|1980|tlxbosCuRXQ|Generation X|S1841
+Gen X|Dancing with Myself|1980|tlxbosCuRXQ|Generation X (band)|S1841
 Jim Europe's 369th Infantry "Hellfighters" Band|Memphis Blues|1919|pJPztEjzf6s|James Reese Europe|S13519
 Shakira|She Wolf|2009|booKP974B0k|Shakira|S8373
 Aretha Franklin|A Rose Is Still a Rose|1998|gtMUQbnT_Lo|Aretha Franklin|S3423
@@ -9337,7 +9337,7 @@ Tarkan|Simarik|1997|Xor_g2emHMo|Manga (band)|S8689
 Earl Bostic|Flamingo|1951|lcxBLiKpRm0|Earl Bostic|S1601
 Nina Simone|I Wish I Knew How It Would Feel to Be Free|1967|HDqmJEWOJRI|Nina Simone|S7746
 Tove Lo|Disco Tits|2017|8RQDPwODja4|Tove Lo|S16506
-El Guincho + Mala Rodriguez|Comix|2016|x_Ym1D42Bfw|Vive Latino|S16081
+El Guincho + Mala Rodriguez|Comix|2016|x_Ym1D42Bfw|Mala Rodriguez|S16081
 Matias Aguayo|Minimal|2008|sVLTjeoFLUA|Chilean Electronic Music|S7471
 Nitty Gritty Dirt Band|Mr. Bojangles|1970|e-LVXR6rjXs|Nitty Gritty Dirt Band|S7757
 Death in Vegas|Scorpio Rising|2002|0T1uUmL8rog|Death in Vegas|S6006
@@ -9972,7 +9972,7 @@ Jacques Brel|Les Vieux|1963|GhIs2gD28v0|Jacques Brel|S11114
 Aaron Neville|Hercules|1973|NGGRi2CEFu8|Aaron Neville|S14030
 Darlene Love|A Fine Fine Boy|1963|-2RFHMCZssE|Darlene Love|S2408
 Björk feat. Antony Hegarty|The Dull Flame of Desire|2007|BWV4N-ZcDJg|Björk|S10186
-Young Jeezy feat. Jay-Z|Go Crazy|2005|eAE5KhQQzd4|U.S.D.A (band)|S9099
+Young Jeezy feat. Jay-Z|Go Crazy|2005|eAE5KhQQzd4|Jeezy|S9099
 Gerry Mulligan Quartet feat. Chet Baker|My Funny Valentine|1953|u8bP4jcGGAI|Gerry Mulligan|S13495
 Jefferson Airplane|Lather|1968|9WF4FF8QrQE|Jefferson Airplane|S13029
 Molotov|Voto Latino|1997|G2Do-aLB74g|Molotov (band)|S13581
