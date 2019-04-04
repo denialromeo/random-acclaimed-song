@@ -360,7 +360,7 @@ Joy Division|Transmission|1979|FnWPGSQjFUc|Joy Division|S573
 David Bowie|Starman|1972|tRcPA7Fzebw|David Bowie|S800
 Sufjan Stevens|Chicago|2005|c_-cUdmdWgU|Sufjan Stevens|S4265
 Serge Gainsbourg & Jane Birkin|Je t'aime moi non plus|1969|k3Fa4lOQfbA|Jane Birkin|S1590
-The Monkees|I'm a Believer|1966|wB9YIsKIEbA|The Monkees|S986
+The Monkees|I'm a Believer|1966|rcnsao7Y0gk|The Monkees|S986
 Dexys Midnight Runners|Come On Eileen|1982|ASwge9wc-eI|Dexys Midnight Runners|S496
 N.W.A|Straight Outta Compton|1988|TMZi25Pq3T8|N.W.A|S261
 The Knife|Heartbeats|2002|pPD8Ja64mRU|The Knife|S3117
@@ -941,7 +941,7 @@ Warren Zevon|Werewolves of London|1978|iDpYBT0XyvA|Warren Zevon|S618
 Sam & Dave|Hold On, I'm Comin'|1966|AREppyQf5uw|Sam & Dave|S967
 Little Richard|Lucille|1957|u0Ujb6lJ_mM|Little Richard|S1252
 Randy Newman|Sail Away|1972|HCRGrnhdNQE|Randy Newman|S798
-Journey|Don't Stop Believin'|1981|1k8craCGpgs|Journey|S3530
+Journey|Don't Stop Believin'|1981|1k8craCGpgs|Journey (band)|S3530
 Future|Mask Off / Mask Off (Remix feat. Kendrick Lamar)|2017|CRWI4CgC138|Future|S16383
 Carpenters|Superstar|1971|SJmmaIGiGBg|The Carpenters|S832
 Sam Cooke|Wonderful World|1960|R4GLAKEjU4w|Sam Cooke|S1151
@@ -2264,7 +2264,7 @@ Diana Ross and The Supremes|Love Child|1968|JdmGO-GvHyo|Diana Ross & the Supreme
 Chromatics|Kill for Love|2011|c0mxXrHowHQ|Chromatics (band)|S5005
 Spinners|Could It Be I'm Falling in Love|1972|EU4UTDrSwQc|Spinners|S1554
 Prince Buster|Al Capone|1965|hmsiyhOfXLw|Prince Buster|S8017
-Body Count|Cop Killer|1992|LH8gUhDd6WE|Body count|S3224
+Body Count|Cop Killer|1992|LH8gUhDd6WE|Body Count (band)|S3224
 Jamie xx|Gosh|2015|hTGJfRPLe08|Jamie xx|S9786
 Foo Fighters|This Is a Call|1995|h-Rnr3wTX9I|Foo Fighters|S78
 Everclear|Santa Monica (Watch the World Die)|1995|MW6E_TNgCsY|Everclear (band)|S2124
@@ -5989,7 +5989,7 @@ Sufjan Stevens|Come on Feel the Illinoise|2005|rmJwraC4p5A|Sufjan Stevens|S12344
 The Roots|Don't Say Nuthin'|2004|VB5coQcelAk|The Roots|S2461
 Goo Goo Dolls|Name|1995|7it5wioGixA|Goo Goo Dolls|S6610
 Luscious Jackson|Naked Eye|1996|0NhqN0KcWAE|Luscious Jackson|S7351
-Journey|Separate Ways (Worlds Apart)|1983|LatorN4P9aA|Journey|S13844
+Journey|Separate Ways (Worlds Apart)|1983|LatorN4P9aA|Journey (band)|S13844
 The Doors|Touch Me|1968|KCQ-zml9rfc|The Doors|S10642
 Judy Collins|Send in the Clowns|1975|8L6KGuTr9TI|Judy Collins|S7016
 Little Walter|My Babe|1955|duRp_avXtMM|Little Walter|S9279
@@ -6057,7 +6057,7 @@ Supergrass|Going Out|1996|Yoik35NtFPI|Supergrass|S2116
 LaVern Baker|Soul on Fire|1953|CUINUCuLu3c|LaVern Baker|S1346
 Al Green|Look What You Done for Me|1972|JQp4rHXInIU|Al Green|S1741
 Jo Stafford|You Belong to Me|1952|zQfF84ackMM|Jo Stafford|S6922
-Journey|Any Way You Want It|1980|atxUuldUcfI|Journey|S11255
+Journey|Any Way You Want It|1980|atxUuldUcfI|Journey (band)|S11255
 Queen|Who Wants to Live Forever|1986|_Jtpf8N5IDE|Queen (band)|S11980
 The Shins|So Says I|2003|L4pweTv08KU|The Shins|S4625
 Sonic Youth|Silver Rocket|1988|viF12Mu3-5w|Sonic Youth|S12257
@@ -6587,7 +6587,7 @@ Chuck Berry|My Ding-a-Ling|1972|UaEC-lWSlmI|Chuck Berry|S5810
 Madonna|True Blue|1986|P51LunEV3Sk|Madonna (entertainer)|S7369
 Underworld|Cowgirl|1993|feWNvGpWHLM|Underworld|S2374
 PJ Harvey|The Community of Hope|2016|qsLqsqbObyg|PJ Harvey|S16166
-Arthur "Big Boy" Crudup|That's All Right|1947|uxHQUvCkV20|Big Boy|S10032
+Arthur "Big Boy" Crudup|That's All Right|1947|uxHQUvCkV20|Arthur Crudup|S10032
 Bob Seger & The Silver Bullet Band|We've Got Tonite|1978|6AJ4mRPX1SQ|Bob Seger|S5565
 The Clash|Clampdown|1979|psB0cidB5bg|The Clash|S9189
 Fugazi|Merchandise|1990|JNail6JjEiE|Fugazi|S4582
@@ -6682,7 +6682,7 @@ Joe South|Walk a Mile in My Shoes|1969|ofhw0lWpVZc|Joe South|S4142
 Queen|Now I'm Here|1974|3QLhN9Wor1c|Queen (band)|S11975
 Jimmie Lunceford|Organ Grinder's Swing|1936|6og7ip44tx8|Jimmie Lunceford|S13207
 The Marvelettes|The Hunter Gets Captured by the Game|1966|DBa746RVNHA|The Marvelettes|S7451
-The Peerless Quartet|Let Me Call You Sweetheart|1911|FM4lDtsV-9Q|List of vocal groups|S9319
+The Peerless Quartet|Let Me Call You Sweetheart|1911|FM4lDtsV-9Q|Peerless Quartet|S9319
 Henri Salvador|Le loup, la biche et le chevalier|1950|ekUQpDDBzY4|Henri Salvador|S11024
 Brigitte Fontaine & Art Ensemble of Chicago|Comme à La Radio|1970|FmpW0soAwok|Art Ensemble of Chicago|S10295
 Georges Brassens|Supplique pour etre enterré a la plage de Sète|1966|iS46IzvCemI|Georges Brassens|S9228
@@ -6721,7 +6721,7 @@ Percy Faith & His Orchestra|The Theme from "A Summer Place"|1959|tFi_CKNJjwE|Per
 Ramones|Teenage Lobotomy|1977|6ssoBUb2cJk|Ramones|S12024
 Jean Michel Jarre|Oxygène (Part IV)|1976|5DDEl7JnWvo|Jean-Michel Jarre|S6885
 Depeche Mode|Somebody|1984|05qcA4KPI0k|Depeche Mode|S15417
-Starship|Nothing's Gonna Stop Us Now|1987|3wxyN3z9PL4|Starship|S8550
+Starship|Nothing's Gonna Stop Us Now|1987|3wxyN3z9PL4|Starship (band)|S8550
 Paul McCartney and Wings|Listen to What the Man Said|1975|YxslbXDBmaY|Paul McCartney and Wings|S11866
 Toots and The Maytals|Sweet and Dandy|1969|XmOKn96a1y8|Toots and the Maytals|S8819
 Billy Idol|Eyes Without a Face|1983|9OFpfTd0EIs|Billy Idol|S10171
@@ -6947,7 +6947,7 @@ Kid Rock|All Summer Long|2007|aSkFygPCTwE|Kid Rock|S7097
 Randy Newman|I Love L.A.|1983|KcADqxnQA_4|Randy Newman|S8094
 Bob Marley and The Wailers|Natural Mystic|1977|PWoDSGfSu6o|Bob Marley and the Wailers|S9156
 Isley Jasper Isley|Caravan of Love|1985|foFK6q7kF9Y|Rudolph Isley|S6873
-Journey|Wheel in the Sky|1978|MxGEVIvSFeY|Journey|S11259
+Journey|Wheel in the Sky|1978|MxGEVIvSFeY|Journey (band)|S11259
 M83|Run into Flowers|2003|hzWj-_qUBI4|M83 (band)|S7364
 Sly and Robbie|Boops (Here to Go)|1987|W7za90YerZI|Sly and Robbie|S1967
 Donovan|Sunny Goodge Street|1965|luxtMLNPZtk|Donovan|S4401
@@ -8063,7 +8063,7 @@ Bettye Swann|Today I Started Loving You Again|1969|8u0GcAY28y8|Bettye Swann|S141
 Jimmie Dale & The Flatlanders|Dallas|1972|Z1mQvHXRlZE|The Flatlanders|S11208
 Lonnie Mack|Memphis|1963|ExRdQtqHyac|Lonnie Mack|S7299
 Frida|I Know There's Something Going On|1982|372436tJiaM|Frida|S10874
-Le Mystère des Voix Bulgares|Kalimankou denkou|1975|SD83L4kI3qY|Le Mystère des Voix Bulgares|S14650
+Le Mystère des Voix Bulgares|Kalimankou denkou|1975|SD83L4kI3qY|Bulgarian State Television Female Vocal Choir|S14650
 Richard "Rabbit" Brown|James Alley-Blues|1927|MKHkG0GxA0E|List of Sesame Street Muppets|S9331
 Janet Kay|Silly Games|1979|GFHqabGMZOM|Janet Kay|S9251
 Cher|Half-Breed|1973|Z6E98ZRaU1s|Cher|S13716
@@ -8265,7 +8265,7 @@ Moris|El Oso|1969|UlVcGapeBNs|Memento Mori (band)|S11679
 Bob Dylan|When the Ship Comes In|1964|EVGU-McTUtU|Bob Dylan|S5540
 Dionne Warwicke and Spinners|Then Came You|1974|uOViqvRsIgo|Dionne Warwick|S3837
 Freddy Cannon|Way Down Yonder in New Orleans|1959|zAF5V0V_xlo|Freddy Cannon|S1188
-Journey|Faithfully|1983|OMD8hBsA-RI|Journey|S14603
+Journey|Faithfully|1983|OMD8hBsA-RI|Journey (band)|S14603
 Miguel Mateos / ZAS|Tirá para arriba|1984|1HncUEzLGPU|Miguel Mateos|S11638
 The Clash|Remote Control|1977|NaOmTHaRA1g|The Clash|S10420
 Cham feat. Akon|Ghetto Story|2006|r5rZvka7pX8|Chams|S4032
@@ -9420,7 +9420,7 @@ Eddie Amador|House Music|1998|i5vnIX1niDQ|Eddie Amador|S10678
 Benny Goodman|Moonglow|1934|4dm3Ml9g_cs|Benny Goodman|S5416
 The Motors|Airport|1978|SU5buMgojTo|The Motors|S7617
 Herman's Hermits|There's a Kind of Hush|1967|oKwSGovRACk|Herman's Hermits|S11031
-Starship|We Built This City|1985|K1b8AhIsSYQ|Starship|S15061
+Starship|We Built This City|1985|K1b8AhIsSYQ|Starship (band)|S15061
 Marty Robbins|Don't Worry|1960|Q2WBBcH6OPU|Marty Robbins|S7447
 MØ feat. Diplo|XXX 88|2013|bmLMPFXzBLA|MØ|S9496
 Lucio Battisti|I giardini di marzo|1972|jET8mmn5IJA|Lucio Battisti|S13037
