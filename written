@@ -422,7 +422,7 @@ Kendrick Lamar|DNA.|2017|NLZRYQMLDW4|Kendrick Lamar|S16412
 Radiohead|Karma Police|1997|1uYWYWPc9HU|Radiohead|S22
 Eminem|My Name Is|1999|sNPnbI1arSE|Eminem|S1359
 Screamin' Jay Hawkins|I Put a Spell on You|1956|PwXai-sgM-s|Screamin' Jay Hawkins|S1273
-M/A/R/R/S|Pump Up the Volume|1987|w9gOQgfPW4Y|R.E.M.|S333
+M/A/R/R/S|Pump Up the Volume|1987|w9gOQgfPW4Y|MARRS|S333
 Depeche Mode|Enjoy the Silence|1990|m0AKJMGxwpE|Depeche Mode|S235
 David Bowie|Lazarus|2015|y-JqH1M4Ya8|David Bowie|S16069
 The Beatles|Revolution / Revolution 1|1968|BGLGzRXY5Bw|The Beatles|S2523
@@ -686,7 +686,7 @@ Everything But the Girl|Missing (Todd Terry Remix)|1995|6Lfo2IPvXMw|Everything b
 Joy Division|Atmosphere|1980|1EdUjlawLJM|Joy Division|S545
 Tammy Wynette|Stand by Your Man|1968|AM-b8P1yj9w|Tammy Wynette|S913
 David Bowie|Sound and Vision|1977|WoDamvrfUbQ|David Bowie|S2326
-Dion|Runaround Sue|1961|4NQLmUOgT5M|Josh Dion Band|S1115
+Dion|Runaround Sue|1961|4NQLmUOgT5M|Dion DiMucci|S1115
 Elvis Costello and The Attractions|Oliver's Army|1979|LrjHz5hrupA|Elvis Costello|S1496
 Fats Domino|Ain't That a Shame|1955|I6JZW7zMDfY|Fats Domino|S1295
 Bauhaus|Bela Lugosi's Dead|1979|OKRJfIPiJGY|Bauhaus|S1822
@@ -1138,7 +1138,7 @@ Chuck Berry|Rock and Roll Music|1957|0XSaKQlBZuE|Chuck Berry|S1245
 Bruce Springsteen|Streets of Philadelphia|1993|4z2DtNW79sQ|Bruce Springsteen|S2948
 Neutral Milk Hotel|Holland, 1945|1998|XLaFLztnL84|Neutral Milk Hotel|S4527
 The Drifters|On Broadway|1963|yPYRtjxYEH8|The Drifters|S1061
-Dion|The Wanderer|1961|IkoidwsLXCg|Josh Dion Band|S1116
+Dion|The Wanderer|1961|IkoidwsLXCg|Dion DiMucci|S1116
 Grimes|Genesis|2012|1FH-q0I1fJY|Scott Grimes|S5014
 Suicide|Ghost Rider|1977|Dn7SBQ6X5HU|Suicide (band)|S8631
 Millie|My Boy Lollipop|1964|dwrHCa9t0dM|Joe Keery|S1048
@@ -3411,7 +3411,7 @@ Led Zeppelin|What Is and What Should Never Be|1969|WnMiXsRtsfc|Led Zeppelin|S720
 Orbital|The Box|1996|cONv26K0vL8|Orbital (band)|S42
 Original Dixieland Jazz Band|Tiger Rag|1918|oz0fk3G7upQ|Original Dixieland Jass Band|S2727
 Merrilee Rush|Angel of the Morning|1968|24rYz9QAvdQ|Merrilee Rush|S3790
-U.T.F.O.|Roxanne, Roxanne|1984|sgaedPLT43k|List of band name etymologies|S1917
+U.T.F.O.|Roxanne, Roxanne|1984|sgaedPLT43k|UTFO|S1917
 Marc Cohn|Walking in Memphis|1991|PTVbf44HMkY|Marc Cohn|S7417
 Stevie Wonder|As|1976|GYQfWJNWe3I|Stevie Wonder|S8583
 U2|Moment of Surrender|2009|-k18rlUe_nc|U2|S8883
@@ -3914,7 +3914,7 @@ Wolf Parade|Shine a Light|2005|Kh8-r6O43Rw|Wolf Parade|S3047
 Teenage Fanclub|Star Sign|1991|YHfasfkX8MM|Teenage Fanclub|S189
 Nirvana|Polly|1991|scmOYyBRdy8|Nirvana (band)|S7753
 Tori Amos|Silent All These Years|1991|HSYr0etDzRM|Tori Amos|S8821
-The Korgis|Everybody's Got to Learn Sometime|1980|UOqXy64-hTw|The Korgis|S7143
+The Korgis|Everybody's Got to Learn Sometime|1980|fOVECbr-vsc|The Korgis|S7143
 Deerhunter|Agoraphobia|2008|QNO_D6TikFI|Deerhunter|S4777
 Beastie Boys|Shake Your Rump|1989|BptQHAW2T5M|Beastie Boys|S3178
 James Taylor|You've Got a Friend|1971|xEkIou3WFnM|James Taylor|S1733
@@ -5111,7 +5111,7 @@ Los Del Río|Macarena (Bayside Boys Mix)|1995|4-2R6B3oFE4|Los del Río|S3571
 Suzanne Vega|Tom's Diner|1987|-26hsZqwveA|Suzanne Vega|S8654
 Stories|Brother Louie|1973|wmF3jDwSTmI|Stories (band)|S3083
 Lee Dorsey|Get Out of My Life, Woman|1965|uxp0Kfgpft8|Lee Dorsey|S2276
-Dion|Born to Be with You|1975|U6dU_-4kd7o|Josh Dion Band|S4427
+Dion|Born to Be with You|1975|U6dU_-4kd7o|Dion DiMucci|S4427
 Beyoncé|All Night|2016|gM89Q5Eng_M|Beyoncé|S16034
 Big Daddy Kane|Raw|1987|nZAOqSUWctQ|Big Daddy Kane|S5435
 Buffalo Springfield|Broken Arrow|1967|lDUC1WBzMgo|Buffalo Springfield|S10322
@@ -5237,7 +5237,7 @@ Crystal Castles|Celestica|2010|Y05H4Snyuz8|Crystal Castles|S5916
 Led Zeppelin|Houses of the Holy|1975|ohDQ1FUUjPs|Led Zeppelin|S11387
 Scott Walker|The Old Man's Back Again (Dedicated to the Neo-Stalinist Regime)|1969|N-zgdGQB4S4|Scott Walker (singer)|S12704
 Tom Jones|Green, Green Grass of Home|1966|u81CTfbc99c|Tom Jones (singer)|S8785
-Dion|Abraham, Martin and John|1968|a5hFMy4pTrs|Josh Dion Band|S1696
+Dion|Abraham, Martin and John|1968|a5hFMy4pTrs|Dion DiMucci|S1696
 Los Brincos|Mejor|1966|BEhWMJ_WUJU|Los Brincos|S13115
 Joni Mitchell|Amelia|1976|gcTDoi9JQiY|Joni Mitchell|S3628
 Bangles|Eternal Flame|1988|PSoOFn3wQV4|The Bangles|S3169
@@ -5857,7 +5857,7 @@ Kate Bush|Army Dreamers|1980|QOZDKlpybZE|Kate Bush|S4445
 Kings of Convenience|I'd Rather Dance with You|2004|OczRpuGKTfY|Kings of Convenience|S4636
 Saint Etienne|He's on the Phone|1995|1d5-MVFqJuk|Saint Etienne (band)|S8300
 Danzig|Mother|1988|Q7KLdET1lBM|Danzig (band)|S4856
-Eurythmics with Aretha Franklin|Sisters Are Doin' It for Themselves|1985|VtUWs6muGzg|Eurythmics|S6313
+Eurythmics with Aretha Franklin|Sisters Are Doin' It for Themselves|1985|drGx7JkFSp4|Eurythmics|S6313
 The Smiths|Stop Me If You Think You've Heard This One Before|1987|SckD99B51IA|The Smiths|S8465
 Missy Misdemeanor Elliott|Sock It 2 Me|1997|9UvBX3REqSY|Missy Elliott|S2134
 Metric|Help I'm Alive|2008|ZoK63Bk7pgw|Metric (band)|S7526
@@ -9393,7 +9393,7 @@ Fettes Brot|Schwule Mädchen|2001|q6m-0IjONkM|Fettes Brot|S6370
 Kendrick Lamar feat. Zacari|LOVE.|2017|ox7RsX1Ee34|Kendrick Lamar|S16417
 Pink Floyd|The Gunner's Dream|1983|Cy0ABjAP0TI|Pink Floyd|S11912
 Serge Gainsbourg|La Chanson de Prévert|1961|5DeA8FPqWwc|Serge Gainsbourg|S12177
-Dion|Lovers Who Wander|1962|thNWwGGRMCk|Josh Dion Band|S6082
+Dion|Lovers Who Wander|1962|thNWwGGRMCk|Dion DiMucci|S6082
 Stereolab|Jenny Ondioline|1993|4nSmBWacnqE|Stereolab|S12304
 Johnny Mathis|It's Not for Me to Say|1957|YZ84XJzxQWg|Johnny Mathis|S6986
 Odyssey|Going Back to My Roots|1981|H3RGP2imSk0|Odyssey|S7790
@@ -10161,7 +10161,7 @@ World Party|Is It Like Today?|1993|0tyLGi2LtlU|World Party|S9398
 Junior Boys|Teach Me How to Fight|2004|8PhSpJppLu4|Junior Boys|S4687
 Fats Domino|I'm Ready|1959|L2eZZBMt1CQ|Fats Domino|S6359
 Spoonie Gee|The New Rap Language|1980|IydP1lUzFWQ|Spoonie Gee|S4448
-Dion|Lonely Teenager|1960|A8b8fd6K5PI|Josh Dion Band|S4385
+Dion|Lonely Teenager|1960|A8b8fd6K5PI|Dion DiMucci|S4385
 The Breeders|Divine Hammer|1993|tUiP5eyx3NM|The Breeders|S3238
 Ultramarine|Kingdom|1993|BTbHxoAttyk|Ultramarine|S8891
 Neneh Cherry|I've Got U Under My Skin|1990|29J2B2FIgt0|Neneh Cherry|S7695
