@@ -59,6 +59,8 @@ def video_is_playable_in_US(video_id):
     response = get_response(url, payload)
     if not (len(response["items"]) > 0): # Does the video exist?
         return False
+    if "contentDetails" not in response["items"][0]:
+        return False
     contentDetails = response["items"][0]["contentDetails"]
     if "regionRestriction" in contentDetails:
         if "blocked" in contentDetails["regionRestriction"]:
