@@ -330,7 +330,7 @@ Burial|Archangel|2007|E2qLD9c3Gq4|Burial|S4698
 The Rolling Stones|Wild Horses|1971|QhwwCWkmYoc|The Rolling Stones|S1312
 Daft Punk|Around the World|1997|yca6UsllwYs|Daft Punk|S18
 Primal Scream|Loaded|1990|wf73xqZvk6k|Primal Scream|S217
-Chuck Berry|Roll Over Beethoven|1956|WXQLyzeysGU|Chuck Berry|S1271
+Chuck Berry|Roll Over Beethoven|1956|kT3kCVFFLNg|Chuck Berry|S1271
 Ann Peebles|I Can't Stand the Rain|1973|g5Rjo_imHDE|Ann Peebles|S751
 The Beach Boys|I Get Around|1964|wREBD2og5iY|The Beach Boys|S1023
 Deee-Lite|Groove Is in the Heart|1990|etviGf1uWlg|Deee-Lite|S211
@@ -3351,7 +3351,7 @@ The Knickerbockers|Lies|1965|BH9YRpz757Y|The Knickerbockers|S1545
 Jaydee|Plastic Dreams|1993|UwPKi1H8t9M|Jaydee|S2062
 Janet Jackson|Rhythm Nation|1989|OAwaNWGLM0c|Janet Jackson|S6864
 Led Zeppelin|Misty Mountain Hop|1971|2cOYzDtpEmI|Led Zeppelin|S11392
-The Jacksons|Shake Your Body|1978|vAZA6oNEWZg|Randy Jackson (The Jacksons)|S6830
+The Jacksons|Shake Your Body|1978|vAZA6oNEWZg|The Jackson 5|S6830
 Dua Lipa|New Rules|2017|k2qgadSvNyU|Dua Lipa|S16365
 Bob Dylan|My Back Pages|1964|rGEIMCWob3U|Bob Dylan|S10235
 Wilco|A Shot in the Arm|1999|Iof2IAnQKwI|Wilco|S9010
@@ -4690,7 +4690,7 @@ Keith West|Excerpt from "A Teenage Opera"|1967|ToZeWFyhp9s|Keith West|S7076
 Etta James|The Wallflower (aka "Roll with Me Henry")|1955|ppKRJfavddY|Etta James|S4367
 Manu Chao|Me gustas tú|2001|rs6Y4kZ8qtw|Manu Chao|S7415
 Morrissey|The More You Ignore Me, The Closer I Get|1994|6nAMFWDuDEI|Morrissey|S7606
-Michael Jackson & Janet Jackson|Scream|1995|0P4A1K4lXDo|Randy Jackson (The Jacksons)|S7540
+Michael Jackson & Janet Jackson|Scream|1995|0P4A1K4lXDo|Janet Jackson|S7540
 The Jam|Strange Town|1979|AVJlOPDiZNI|The Jam|S582
 Bob Lind|Elusive Butterfly|1965|n_L4rkIibtE|Bob Lind|S5556
 The Association|Windy|1967|bPYT9Vyu62A|The Association|S5259
@@ -5588,7 +5588,7 @@ Bee Gees|I Started a Joke|1968|b3kBDtjRtB0|Bee Gees|S4110
 Arcade Fire|Creature Comfort|2017|xzwicesJQ7E|Arcade Fire|S16331
 Al Green|I Can't Get Next to You|1970|FJeyL4rXPV4|Al Green|S5124
 Terence Trent D'Arby|Wishing Well|1987|ynIHsHYaig0|Terence Trent D'Arby|S1980
-The Jacksons|Blame It on the Boogie|1978|nqxVMLVe62U|Randy Jackson (The Jacksons)|S11109
+The Jacksons|Blame It on the Boogie|1978|nqxVMLVe62U|The Jackson 5|S11109
 Delorean|Stay Close|2010|55wlNgFTDR0|Delorean (band)|S6033
 Kate Bush|Breathing|1980|VzlofSthVwc|Kate Bush|S7061
 Young Thug feat. Birdman|Constantly Hating|2015|Va9fNf4FZyM|Young Thug|S9873
@@ -7283,7 +7283,7 @@ The The|Dogs of Lust|1993|7T-c1x0ILWI|The The|S15928
 Ariel Pink|Another Weekend|2017|nwe76N7J0EI|Ariel Pink|S16333
 Madness|The Prince|1979|mJsUblCxuJY|Madness (band)|S7366
 Tom Petty and The Heartbreakers|Mary Jane's Last Dance|1993|aowSGxim_O8|Tom Petty and the Heartbreakers|S12456
-The Jacksons|State of Shock|1984|B51442pIEV0|Randy Jackson (The Jacksons)|S11110
+The Jacksons|State of Shock|1984|B51442pIEV0|The Jackson 5|S11110
 Los Tres|Déjate caer|1995|YnlZeqs4D2Y|Los Tres|S13553
 Creedence Clearwater Revival|Long As I Can See the Light|1970|SFP5afPweVI|Creedence Clearwater Revival|S5893
 Youth Lagoon|Dropla|2013|b1XpNwKPTA8|The Year of Hibernation|S9548
@@ -7877,7 +7877,7 @@ Iron Maiden|Wrathchild|1981|u-3Ka8x4zvE|Iron Maiden|S11093
 Tensnake|Coma Cat|2010|4XKlD0D_0do|Tensnake|S4926
 The Microphones|The Moon|2001|bb2mAJbH5AU|The Microphones|S7545
 The Rolling Stones|Before They Make Me Run|1978|2dGoKgSknuk|The Rolling Stones|S12089
-The Jacksons|Can You Feel It|1980|9nP4WE_-uqE|Randy Jackson (The Jacksons)|S6831
+The Jacksons|Can You Feel It|1980|9nP4WE_-uqE|The Jackson 5|S6831
 Franco Battiato|Prospettiva Nevski|1980|zWViOtrFcrs|Franco Battiato|S6436
 John Lee Hooker|One Bourbon, One Scotch, One Beer|1966|c3o8-bcfFvE|John Lee Hooker|S14577
 The Ozark Mountain Daredevils|Jackie Blue|1974|zrbNeOEG0GY|The Ozark Mountain Daredevils|S3685
@@ -8417,7 +8417,7 @@ Orleans|Still the One|1976|S5aMMRes2u4|Orleans (band)|S7823
 My Morning Jacket|Circuital|2011|HsD8-Sx2QKw|My Morning Jacket|S7653
 Sting|Russians|1985|wHylQRVN2Qs|Sting (musician)|S12971
 3rd Bass|Pop Goes the Weasel|1991|HzXI_ApY4dY|3rd Bass|S2930
-The Jacksons|Heartbreak Hotel|1980|OOkKDqWt4uk|Randy Jackson (The Jacksons)|S3507
+The Jacksons|Heartbreak Hotel|1980|OOkKDqWt4uk|The Jackson 5|S3507
 Television|Friction|1977|RwrCUEMl76U|Television|S15117
 Robert Johnson|Me and the Devil Blues|1938|3MCHI23FTP8|Robert Johnson|S12073
 The Mothers of Invention|Brown Shoes Don't Make It|1967|EZLWD75KKGA|The Mothers of Invention|S3990
