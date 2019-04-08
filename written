@@ -62,7 +62,7 @@ The Crickets|That'll Be the Day|1957|eq9FCBatl3A|The Crickets|S1231
 Ramones|Blitzkrieg Bop|1976|8nYXTsbwsxA|Ramones|S669
 The Verve|Bitter Sweet Symphony|1997|1lyu1KKwC74|The Verve|S1
 Massive Attack|Unfinished Sympathy|1991|ZWmrfgj0MZI|Massive Attack|S187
-Eagles|Hotel California|1976|XZqgchfyPjA|Eagles (band)|S632
+Eagles|Hotel California|1976|-K8FuaGzqUU|Eagles (band)|S632
 Derek and The Dominos|Layla|1970|uSquiIVLhrQ|Derek and the Dominos|S841
 Talking Heads|Once in a Lifetime|1980|5IsSpAOD6K8|Talking Heads|S518
 The Animals|The House of the Rising Sun|1964|uS90B4sZf7U|The Animals|S1025
@@ -913,7 +913,7 @@ Rick James|Super Freak|1981|QYHxGBH6o4M|Rick James|S531
 Portishead|The Rip|2008|kBOaLjtR4mw|Portishead (band)|S4742
 Arcade Fire|Sprawl II (Mountains Beyond Mountains)|2010|rH_7_XRfTMs|Arcade Fire|S4884
 Talking Heads|Burning Down the House|1983|_3eC35LoF4U|Talking Heads|S1904
-Tame Impala|Feels Like We Only Go Backwards|2012|f8_EpxhNEsA|Tame Impala|S5045
+Tame Impala|Feels Like We Only Go Backwards|2012|wycjnCCgUes|Tame Impala|S5045
 Naughty by Nature|O.P.P.|1991|idx3GSL2KWs|Naughty by Nature|S188
 The Rolling Stones|Get Off of My Cloud|1965|QYgJZ79FmBo|The Rolling Stones|S1012
 The O'Jays|Back Stabbers|1972|hzTeLePbB08|The O'Jays|S788
@@ -1071,7 +1071,7 @@ The Electric Prunes|I Had Too Much to Dream (Last Night)|1966|IeVnbAfcwv8|The El
 Tina Turner|What's Love Got to Do with It|1984|oGpFcHTxjZs|Tina Turner|S430
 808 State|Pacific State|1989|tLxDRePUwEY|808 State|S250
 Slayer|Angel of Death|1986|K6_zsJ8KPP0|Slayer|S2625
-The Beatles|Can't Buy Me Love|1964|h3WJiqc_bEs|The Beatles|S1664
+The Beatles|Can't Buy Me Love|1964|srwxJUXPHvE|The Beatles|S1664
 Foster the People|Pumped Up Kicks|2010|SDTZ7iX4vTQ|Foster the People|S4960
 Pulp|This Is Hardcore|1998|JXbLyi5wgeg|Pulp (band)|S284
 Frankie Goes to Hollywood|Two Tribes|1984|SXWVpcypf0w|Frankie Goes to Hollywood|S439
@@ -1338,7 +1338,7 @@ Les Paul & Mary Ford|How High the Moon|1951|NkGf1GHAxhE|Les Paul|S2766
 John Lennon/Plastic Ono Band|God|1970|aCNkPpq1giU|John Lennon/Plastic Ono Band|S2556
 Nina Simone|My Baby Just Cares for Me|1958|eYSbUOoq4Vg|Nina Simone|S1638
 Duane Eddy|Rebel Rouser|1958|uGPG_Y-_BZI|Duane Eddy|S1211
-Merle Haggard|Mama Tried|1968|nbc8dntrlNA|Merle Haggard|S930
+Merle Haggard|Mama Tried|1968|loT_pYzi3Vw|Merle Haggard|S930
 Foals|Spanish Sahara|2010|eYoINidnLRQ|Foals (band)|S4901
 Arcade Fire|Neighborhood #1 (Tunnels)|2004|VU_2R1rjbD8|Arcade Fire|S4627
 Bill Doggett|Honky Tonk|1956|bq4NhcfurgU|Bill Doggett|S1264
@@ -2678,7 +2678,7 @@ Joe Jackson|Steppin' Out|1982|PJwt2dxx9yg|Joe Jackson (musician)|S3504
 Serge Gainsbourg and Jane Birkin|Ballade de Melody Nelson|1971|PsM68buT1mQ|Jane Birkin|S8363
 The Killers|Human|2008|RIZdjT1472Y|The Killers|S4751
 Donnie Trumpet & The Social Experiment|Sunday Candy|2015|i4ooH8frBWg|Nico Segal|S9741
-Anderson .Paak feat. T.I.|Come Down|2016|dRc5p2TnAXA|Anderson Paak|S16022
+Anderson .Paak feat. T.I.|Come Down|2016|-OqrcUvrbRY|Anderson Paak|S16022
 The Cadillacs|Speedoo|1955|p9uZvrsAoyE|The Cadillacs|S1303
 Smokey Robinson and The Miracles|Going to a Go-Go|1965|sWt4Hz1KGcQ|The Miracles|S977
 Survivor|Eye of the Tiger|1982|btPJPFnesV4|Survivor (band)|S3875
@@ -4193,7 +4193,7 @@ Bruce Springsteen|American Skin (41 Shots)|2001|aQMqWAiWPMs|Bruce Springsteen|S5
 Santana|Evil Ways|1969|_tKIPuLfeKg|Santana (band)|S3794
 Chuck Berry|Too Much Monkey Business|1956|fCmXVi0FL6g|Chuck Berry|S4071
 Charlie Christian|Swing to Bop [Topsy]|1941|Ce9Jtl9D6FQ|Charlie Christian|S5762
-Simon and Garfunkel|A Hazy Shade of Winter|1966|ZTCrqXpKHec|Simon & Garfunkel|S3804
+Simon and Garfunkel|A Hazy Shade of Winter|1966|dVA-1iJxRQI|Simon & Garfunkel|S3804
 LFO|LFO|1990|RpZVPSCv79U|LFO (American band)|S4214
 Green Day|Welcome to Paradise|1994|OR7R9Kuw2fY|Green Day|S6638
 John Fogerty|Rockin' All Over the World|1975|fEUP5yjIOB8|John Fogerty|S716
@@ -4235,7 +4235,7 @@ John Cage|4'33''|1952|JTEFKFiXSx4|John Cage|S2768
 R.E.M.|World Leader Pretend|1988|YoQ4aR393Is|R.E.M.|S3097
 Rancid|Time Bomb|1995|DhKHAopx7D0|Rancid (band)|S8090
 Carlos Gardel|Volver|1935|I5JQ1m3mxKw|Carlos Gardel|S5719
-Dusty Springfield|I Only Want to Be with You|1963|osVaF4t-zFc|Dusty Springfield|S1653
+Dusty Springfield|I Only Want to Be with You|1963|CL7t22rypew|Dusty Springfield|S1653
 Depeche Mode|Policy of Truth|1990|M2VBmHOYpV8|Depeche Mode|S4482
 Bad Brains|Pay to Cum|1980|PaXikmzQX_I|Bad Brains|S4443
 Kanye West|Father Stretch My Hands|2016|wuO4_P_8p-Q|Kanye West|S16114
@@ -6816,7 +6816,7 @@ Sting|Fortress Around Your Heart|1985|7qcVtEy6G1Q|Sting (musician)|S9369
 Jackson Browne|The Load Out|1977|scsJZ67ssDY|Jackson Browne|S11108
 Rod Stewart|You’re in My Heart (The Final Acclaim)|1977|Hf6ng1Hsb7I|Rod Stewart|S12998
 The Wedding Present|Kennedy|1989|PuNYyNqCSSg|The Wedding Present|S8960
-Paul McCartney and Wings|My Love|1973|eKuFyHwG188|Paul McCartney and Wings|S7886
+Paul McCartney and Wings|My Love|1973|ZmjN1O1ejS4|Paul McCartney and Wings|S7886
 Billy Squier|Everybody Wants You|1982|okZ0jctQWXg|Billy Squier|S3850
 St Germain|Rose rouge|2000|o7gdC6XWIoU|Saint-Germain-des-Prés|S8540
 Prince|Batdance|1989|ulOLYnOthIw|Prince (musician)|S3101
