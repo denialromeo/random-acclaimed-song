@@ -53,6 +53,14 @@ def get_youtube_id(search_string):
     print(response["items"][0]["snippet"]["title"], response["items"][0]["id"]["videoId"])
     return response["items"][0]["id"]["videoId"]
 
+def video_title(video_id):
+    url = "https://www.googleapis.com/youtube/v3/videos"
+    payload = {"part": "snippet", "id": video_id}
+    response = get_response(url, payload)
+    title = response["items"][0]["snippet"]["title"]
+    if ("lyric" in title) or ("Lyric" in title):
+        print(title.encode('utf-8'))
+
 def video_is_playable_in_US(video_id):
     url = "https://www.googleapis.com/youtube/v3/videos"
     payload = {"part": "contentDetails", "id": video_id}
@@ -113,5 +121,13 @@ def maintenance():
                     row[3] = get_youtube_id(search_string)
                 append_to_file(TEMPFILE, row)
 
+def print_titles(s=0):
+    with open(OUTFILE) as csvfile:
+        for idx, row in enumerate(csv.reader(csvfile, delimiter="|")):
+            if (idx >= s):
+                video_id = row[3]
+                video_title(video_id)
+
 if __name__ == "__main__":
     maintenance()
+    # print_titles()
