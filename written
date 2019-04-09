@@ -428,7 +428,7 @@ David Bowie|Lazarus|2015|y-JqH1M4Ya8|David Bowie|S16069
 The Beatles|Revolution / Revolution 1|1968|BGLGzRXY5Bw|The Beatles|S2523
 The Doors|Riders on the Storm|1971|iv8GW1GaoIc|The Doors|S828
 Solange|Cranes in the Sky|2016|S0qrinhNnOM|Solange Knowles|S16189
-Phoenix|1901|2009|HL548cHH3OY|Phoenix|S4822
+Phoenix|1901|2009|HL548cHH3OY|Phoenix (band)|S4822
 Muddy Waters|Hoochie Coochie Man|1954|fQ4NFsw4bOU|Muddy Waters|S1334
 Neil Young|Cortez the Killer|1975|uX9k9aoX6gk|Neil Young|S3984
 Beck|Where It's At|1996|EPfmNxKLDG4|Beck|S37
@@ -664,7 +664,7 @@ James Blake|Retrograde|2013|XClvMMxBg1k|James Blake (musician)|S9459
 Bobby Darin|Mack the Knife|1959|SEllHMWkXEU|Bobby Darin|S2799
 The Avalanches|Since I Left You|2000|wpqm-05R2Jk|The Avalanches|S1410
 Arctic Monkeys|Do I Wanna Know?|2013|bpOSxM0rNPM|Arctic Monkeys|S9406
-Phoenix|Lisztomania|2009|uF3reVVUbio|Phoenix|S4823
+Phoenix|Lisztomania|2009|uF3reVVUbio|Phoenix (band)|S4823
 Jimmy Cliff|The Harder They Come|1972|7Znh0OM9jiA|Jimmy Cliff|S2571
 Missy Elliott|Work It|2002|cjIvu7e6Wq8|Missy Elliott|S1502
 Morrissey|Everyday Is Like Sunday|1988|nHBZFSYA12A|Morrissey|S312
@@ -1890,7 +1890,7 @@ Jimi Hendrix|Star Spangled Banner|1970|TKAwPA14Ni4|Jimi Hendrix|S3473
 The Del-Vikings|Come Go with Me|1956|P1eU_lDQaVM|The Del-Vikings|S1251
 The Undisputed Truth|Smiling Faces Sometimes|1971|8CJZcVi5BA4|The Undisputed Truth|S840
 A$AP Rocky|Peso|2011|ob3ktDxAjWI|ASAP Rocky|S4939
-Phoenix|Too Young|2000|HyU24rr0doo|Phoenix|S2188
+Phoenix|Too Young|2000|HyU24rr0doo|Phoenix (band)|S2188
 Wayne Smith|Under Me Sleng Teng|1985|Wjw7m-BKmQ8|Kenny Wayne Shepherd|S418
 Raspberries|Go All the Way|1972|jfgnc6Ey0q0|Raspberries (band)|S806
 Bruce Springsteen|4th of July, Asbury Park (Sandy)|1973|KgFHM8HMbWQ|Bruce Springsteen|S5636
@@ -1979,7 +1979,7 @@ Jan and Dean|Surf City|1963|ERrwjR4ZlfI|Jan and Dean|S1070
 Blood Orange feat. Empress Of|Best to You|2016|cR2EzHlPzxA|Dev Hynes|S16041
 Primal Scream|Kowalski|1997|2l-V6KygkFU|Primal Scream|S10
 Kanye West feat. Rihanna|All of the Lights|2010|HAfFfqiYLp0|Kanye West|S4911
-Phoenix|If I Ever Feel Better|2000|jJp3kVelU3c|Phoenix|S2197
+Phoenix|If I Ever Feel Better|2000|jJp3kVelU3c|Phoenix (band)|S2197
 Stevie Wonder|Master Blaster (Jammin')|1980|V4n27JuJhXc|Stevie Wonder|S546
 Talk Talk|It's My Life|1984|5ixRWvrkUHo|Talk Talk|S2351
 Taana Gardner|Heartbeat|1981|7NiqRRaCp_o|Taana Gardner|S521
@@ -2749,7 +2749,7 @@ Ian Dury and The Blockheads|Hit Me with Your Rhythm Stick|1978|yzIotBytvGk|The B
 Aretha Franklin|Do Right Woman - Do Right Man|1967|VhdgFfNsst0|Aretha Franklin|S2514
 Diana Ross|Upside Down|1980|30pt2XUJKGQ|Diana Ross|S569
 The Rolling Stones|Time Is on My Side|1964|_oSRvcdlgSI|The Rolling Stones|S1045
-Phoenix|Everything Is Everything|2004|TFVeSefg72U|Phoenix|S2476
+Phoenix|Everything Is Everything|2004|TFVeSefg72U|Phoenix (band)|S2476
 Santana|Soul Sacrifice|1969|AqZceAQSJvc|Santana (band)|S8317
 The Crows|Gee|1953|jf9SP84EgHY|The Crows|S1603
 U2|Vertigo|2004|98W9QuMq-2k|U2|S2464
@@ -3397,7 +3397,7 @@ Playboi Carti|Magnolia|2017|oCveByMXd_0|Playboi Carti|S16467
 Unknown Mortal Orchestra|Can't Keep Checking My Phone|2015|OpD_74Vc3mA|Unknown Mortal Orchestra|S9865
 Bob & Marcia|Young, Gifted and Black|1970|ubDVUQon5BE|Bob Marley and the Wailers|S5534
 Newcleus|Jam On It|1984|zEmg5GaAHbk|Newcleus|S432
-Phoenix|Entertainment!|2013|tBsRvthVhdw|Phoenix|S9506
+Phoenix|Entertainment!|2013|tBsRvthVhdw|Phoenix (band)|S9506
 Gary "U.S." Bonds|Quarter to Three|1961|hoopfp5iaKw|Gary U.S. Bonds|S1117
 Thin Lizzy|Jailbreak|1976|iC6Cgb8nHwk|Thin Lizzy|S8741
 Tommy Tucker|Hi-Heel Sneakers|1964|8bmbSC9c2ys|The Marshall Tucker Band|S3911
@@ -3434,7 +3434,7 @@ Television|Little Johnny Jewel|1975|K2lHt3YFIW4|Television|S702
 George Michael|I Want Your Sex|1987|vldh7oQD-a4|George Michael|S4208
 Spacemen 3|Revolution|1988|qdQn7c62zHM|Spacemen 3|S4478
 Van Morrison|And It Stoned Me|1970|h33h90xbFeM|Van Morrison|S3639
-Little Peggy March|I Will Follow Him|1963|jgPMYQTINNk|Peggy Lee|S3568
+Little Peggy March|I Will Follow Him|1963|jgPMYQTINNk|Peggy March|S3568
 Yardbirds|Happenings Ten Years Time Ago|1966|OJZHnZrUoQ0|The Yardbirds|S9083
 The Weeknd|The Hills|2015|yzTuBuRdAyA|The Weeknd|S9855
 The Jesus and Mary Chain|Upside Down|1984|UnO41-rKUsc|The Jesus and Mary Chain|S3515
@@ -3670,7 +3670,7 @@ Joe Walsh|Life's Been Good|1978|BXWvKDSwvls|Joe Walsh|S3088
 Annie Lennox|Why|1992|HG7I4oniOyA|Annie Lennox|S5209
 Radiohead|Jigsaw Falling into Place|2007|GoLJJRIWCLU|Radiohead|S8079
 The Association|Never My Love|1967|UzgpB9xpyT8|The Association|S3158
-Phoenix|Long Distance Call|2006|owD3d1S0LFg|Phoenix|S4026
+Phoenix|Long Distance Call|2006|owD3d1S0LFg|Phoenix (band)|S4026
 Bruce Springsteen|Nebraska|1982|iir_xAbt-ak|Bruce Springsteen|S10314
 Amos Milburn|Chicken-Shack Boogie|1948|7GvfIx_-Xm4|Amos Milburn|S5189
 Dexys Midnight Runners|There, There, My Dear|1980|3ZwWnXuB_eg|Dexys Midnight Runners|S4446
@@ -5548,7 +5548,7 @@ Kings of Tomorrow feat. Julie McKnight|Finally|2000|syPi_HXY1e0|Tomorrow People 
 Bob Dylan & The Band|This Wheel's on Fire|1975|-mlzUHxNMV8|The Band|S4854
 Underworld|Two Months Off|2002|tyKeE3fBEsM|Underworld|S2230
 Elvin Bishop|Fooled Around and Fell in Love|1975|DyMMEmwFQUE|Elvin Bishop|S6242
-Camille|Ta douleur|2005|OPGNWFQy_gg|Camille O'Sullivan|S10344
+Camille|Ta douleur|2005|OPGNWFQy_gg|Camille (singer)|S10344
 Patsy Cline|She's Got You|1962|MWCUh6tf7PA|Patsy Cline|S1644
 Neu!|Isi|1975|oO7w90YG3Rg|Neu!|S12814
 Destroyer|Dream Lover|2015|uB-KT2f71lg|Destroyer|S9737
@@ -5876,7 +5876,7 @@ Bob Wills and His Texas Playboys|Take Me Back to Tulsa|1941|BCjbMdY8dZE|Bob Will
 David Bowie|The Stars (Are Out Tonight)|2013|gH7dMBcg-gE|David Bowie|S9430
 Pearl Jam|Elderly Woman Behind the Counter in a Small Town|1993|2z0cKtSlHOU|Pearl Jam|S7917
 Killing Joke|Love Like Blood|1985|TnpwuRlXbhk|Killing Joke|S7103
-Phoenix|Consolation Prizes|2006|gnkVUReUVpQ|Phoenix|S7956
+Phoenix|Consolation Prizes|2006|gnkVUReUVpQ|Phoenix (band)|S7956
 ABC|Tears Are Not Enough|1981|rHJ4Sm-xIN8|ABC (band)|S522
 The Stone Roses|Love Spreads|1994|ct-qa6SjRZo|The Stone Roses|S2092
 Zager and Evans|In the Year 2525 (Exordium and Terminus)|1969|cBFkXZGZuqs|Zager and Evans|S9108
@@ -5902,7 +5902,7 @@ The Box Tops|Cry Like a Baby|1968|GY2f9tI9xzA|The Box Tops|S3231
 Madonna|Die Another Day|2002|VlbaJA7aO9M|Madonna (entertainer)|S2978
 Chuck Willis|Hang Up My Rock and Roll Shoes|1958|rcitG7FpMVg|Chuck Willis|S2790
 DMX|Party Up (Up in Here)|1999|thIVtEOtlWM|Ruff Ryders Entertainment|S3342
-Phoenix|J-Boy|2017|TwjMiWgCi8E|Phoenix|S16465
+Phoenix|J-Boy|2017|TwjMiWgCi8E|Phoenix (band)|S16465
 Benny Goodman|Don't Be That Way|1938|kOO8Gzr__zc|Benny Goodman|S5412
 Maria Muldaur|Midnight at the Oasis|1973|VlrKETxwRvM|Maria Muldaur|S4167
 The 1975|Somebody Else|2016|Bimd2nZirT4|The 1975|S16195
@@ -6483,7 +6483,7 @@ Pras feat. Ol' Dirty Bastard & Mýa|Ghetto Supastar (That Is What You Are)|1998|x
 Alanis Morissette|Hand in My Pocket|1995|CUjIY_XxF1g|Alanis Morissette|S5142
 Daryl Hall & John Oates|Out of Touch|1984|D00M2KZH1J0|Hall & Oates|S11005
 John Mayall|All Your Love|1966|rUUEtCBhn_Q|John Mayall|S15601
-Jason Isbell and The 400 Unit|If We Were Vampires|2017|ivYkyC8J29M|Jason Isbell and The 400 Unit|S16400
+Jason Isbell and The 400 Unit|If We Were Vampires|2017|ivYkyC8J29M|Jason Isbell|S16400
 Joe Cocker|You Are So Beautiful|1974|WvAr9umnZ54|Joe Cocker|S6933
 Weezer|Beverly Hills|2005|HL_WvOly7mY|Weezer|S12565
 Betty Boo|Where Are You Baby?|1990|H8iDrGW39EA|Betty Boo|S222
@@ -7193,7 +7193,7 @@ Kiesza|Hideaway|2014|Vnoz5uBEWOA|Kiesza|S9606
 Nathaniel Mayer and The Fabulous Twilights|Village of Love|1962|ZpA5Ljxuxl4|Fortune Records|S11717
 Toadies|Possum Kingdom|1994|EkwD5rQ-_d4|Toadies|S12442
 Catupecu Machu|Y lo que quiero es que pises sin el suelo|2000|4XErfE9Zk9U|Catupecu Machu|S10365
-Phoenix|Trying to Be Cool|2013|OePvsCfKHJg|Phoenix|S9507
+Phoenix|Trying to Be Cool|2013|OePvsCfKHJg|Phoenix (band)|S9507
 Pebbles|Mercedes Boy|1987|lQS0t5Hdc6M|Pebbles|S1986
 Paul Van Dyk|For an Angel|1998|qM5q1o7ofnc|Paul van Dyk|S14854
 The Divine Comedy|Everybody Knows (Except You)|1997|BsvMca0xG0c|The Divine Comedy (band)|S10609
@@ -8022,7 +8022,7 @@ Xavier Cugat|Brazil|1942|ldMuNoIvWkI|Xavier Cugat|S9075
 Blues Image|Ride Captain Ride|1970|r8lf7RLYIww|Blues Image|S5521
 Gil Scott-Heron|Me and the Devil|2010|OET8SVAGELA|Gil Scott-Heron|S6557
 Barry Manilow|Copacabana (At the Copa)|1978|591d-XV5rEo|Barry Manilow|S12667
-Daniel Johnston|True Love Will Find You in the End|1984|Ma7lyfYzIw8|Daniel Johnston|S15392
+Daniel Johnston|True Love Will Find You in the End|1984|f_Lwc9_0zsc|Daniel Johnston|S15392
 Glenn Miller|That Old Black Magic|1943|WrV1IvbjNZc|Glenn Miller|S6584
 Lucienne Delyle|Mon amant de Saint-Jean|1942|93_pv-XWHpQ|Lucienne Delyle|S11492
 The Slits|Shoplifting|1979|Xz6EZlGMxXY|The Slits|S8454
@@ -8350,7 +8350,7 @@ Vibrations|My Girl Sloopy|1964|fh0hHm-ckQw|Good Vibrations|S9005
 The "5" Royales|Think|1957|6HPLvUfrONY|The "5" Royales|S3406
 Vivian Girls|Where Do You Run To|2008|CRHSOH1S0QI|Vivian Girls|S4781
 Destroyer|Tinseltown Swimming in Blood|2017|h-N6jfO5NOQ|Destroyer (band)|S16361
-Phoenix|Ti Amo|2017|ZbYljhmcmII|Phoenix|S16466
+Phoenix|Ti Amo|2017|ZbYljhmcmII|Phoenix (band)|S16466
 Jelly Roll Morton|Kansas City Stomps|1929|gWyp5i0R70o|Jelly Roll Morton|S13205
 N*E*R*D|Rock Star|2001|qh9WuPzOjlI|Neverland|S7655
 David Bowie|Sweet Thing|1974|vrfc8c6VkTA|David Bowie|S5968
@@ -8491,7 +8491,7 @@ France Gall|Poupée de cire, poupée de son|1965|s5aeeSmkPwQ|France Gall|S10853
 Drangsal|Allan Align|2016|99o3AkxzTcQ|Kansas Bowling|S16078
 Wilson Pickett|Don't Knock My Love|1971|aZ0lwNceywE|Wilson Pickett|S14014
 Steve Reich|Come Out|1968|g0WVh1D0N50|Steve Reich|S15071
-Daniel Johnston|Some Things Last a Long Time|1990|TV6LPx1ezYs|Daniel Johnston|S4583
+Daniel Johnston|Some Things Last a Long Time|1990|I5hknunuPb8|Daniel Johnston|S4583
 Status Quo|Whatever You Want|1979|z7-z4Dz5ZU4|Status quo|S13136
 fIREHOSE|Sometimes|1987|IHws_DiEz1I|Firehose (band)|S2923
 Triana|En el lago|1975|CxmUcT86hw8|Triana (band)|S13140
@@ -8628,7 +8628,7 @@ Deep Purple|Space Truckin'|1972|hHOrpFeXUao|Deep Purple|S6017
 Joe Dassin|Salut les amoureux|1972|SkEyV7_eNBs|Joe Dassin|S11220
 Frank Ocean feat. Jay-Z & Tyler, the Creator|Biking / Biking (Solo)|2017|fYGPcfUqzL0|Frank Ocean|S16381
 Afrika Bambaataa & The Soulsonic Force|Renegades of Funk|1983|YkTyQ0kgmzs|Afrika Bambaataa|S5112
-Phoenix|Heatwave|1999|uc-D4u8clLk|Phoenix|S7955
+Phoenix|Heatwave|1999|uc-D4u8clLk|Phoenix (band)|S7955
 Women|Eyesore|2010|1n2gJ9TD1fE|Women (band)|S9061
 The 1975|The Sound|2016|FSnAllHtG70|The 1975|S16196
 Bloc Party|Mercury|2008|UvbJU1rj390|Bloc Party|S5501
