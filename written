@@ -321,7 +321,7 @@ The Flaming Lips|Do You Realize??|2002|lPXWt2ESxVY|The Flaming Lips|S1530
 The Beatles|Ticket to Ride|1965|SyNt5zm3U_M|The Beatles|S1001
 Pixies|Monkey Gone to Heaven|1989|XycBLF6kWuY|Pixies|S245
 The Kinks|Lola|1970|LemG0cvc4oU|The Kinks|S844
-Boston|More Than a Feeling|1976|SSR6ZzjDZ94|Boston|S667
+Boston|More Than a Feeling|1976|SSR6ZzjDZ94|Boston (band)|S667
 Grizzly Bear|Two Weeks|2009|tjecYugTbIQ|Grizzly bear|S4803
 The Jimi Hendrix Experience|Voodoo Chile (Slight Return)|1968|IZBlqcbpmxY|The Jimi Hendrix Experience|S845
 The Jam|Going Underground|1980|AE1ct5yEuVY|The Jam|S544
@@ -1046,7 +1046,7 @@ The Platters|Only You (And You Alone)|1955|3FygIKsnkCw|The Platters|S1292
 The Moody Blues|Nights in White Satin|1967|9muzyOd4Lh8|The Moody Blues|S939
 Blondie|Rapture|1980|pHCdS7O248g|Blondie (band)|S523
 The Drifters|Up on the Roof|1962|puM1k-S86nE|The Drifters|S1085
-Wire|Outdoor Miner|1978|83fpEaEET7k|Wire|S2596
+Wire|Outdoor Miner|1978|83fpEaEET7k|Wire (band)|S2596
 The Replacements|I Will Dare|1984|RJcCzWcgPsY|The Replacements (band)|S443
 Frank Ocean|Thinkin Bout You|2012|6JHu3b-pbh8|Frank Ocean|S5028
 The xx|On Hold|2016|blJKoXWlqJk|The xx|S16205
@@ -1594,7 +1594,7 @@ The Beatles|Nowhere Man|1965|8scSwaKbE64|The Beatles|S3197
 T. Rex|Metal Guru|1972|MQr9WbBfoD8|T. Rex (band)|S8664
 KC and The Sunshine Band|That's the Way (I Like It)|1975|q3svW8PM_jc|KC and the Sunshine Band|S713
 Pixies|Here Comes Your Man|1989|tPgf_btTFlc|Pixies|S3708
-Funky Four Plus One|That's the Joint|1980|SVxk9PW62Vk|Del the Funky Homosapien|S539
+Funky Four Plus One|That's the Joint|1980|SVxk9PW62Vk|Funky 4 + 1|S539
 Elvis Costello and The Attractions|Shipbuilding|1983|fprYfInkErg|Elvis Costello|S3302
 R.E.M.|Drive|1992|-UE7tXDKIus|R.E.M.|S154
 Dead Boys|Sonic Reducer|1977|30bv915bDtY|Dead Boys|S4431
@@ -1779,7 +1779,7 @@ Kelela|LMK|2017|ePi5BLJogyA|Kelela|S16410
 John Lennon|(Just Like) Starting Over|1980|pZCxyOcvp5A|John Lennon|S551
 Doug E. Fresh|La-Di-Da-Di|1985|zM0KAh5w7Rs|Doug E. Fresh|S2912
 Iron Maiden|Hallowed Be Thy Name|1982|J51LPlP-s9o|Iron Maiden|S6800
-Spinners|I'll Be Around|1972|ojCikI9npJQ|Spinners|S801
+Spinners|I'll Be Around|1972|ojCikI9npJQ|The Spinners (American R&B group)|S801
 Duran Duran|Rio|1982|nTizYn3-QN0|Duran Duran|S3363
 Electric Six|Danger! High Voltage|2002|2a4gyJsY0mc|Electric Six|S2227
 John Cale|Paris 1919|1973|q5YHqWqhFkU|John Cale|S6940
@@ -2262,7 +2262,7 @@ Green Day|When I Come Around|1994|i8dh9gDzmz8|Green Day|S3453
 The Kinks|Days|1968|h2svmUcsKeg|The Kinks|S7125
 Diana Ross and The Supremes|Love Child|1968|JdmGO-GvHyo|The Supremes|S3874
 Chromatics|Kill for Love|2011|c0mxXrHowHQ|Chromatics (band)|S5005
-Spinners|Could It Be I'm Falling in Love|1972|EU4UTDrSwQc|Spinners|S1554
+Spinners|Could It Be I'm Falling in Love|1972|EU4UTDrSwQc|The Spinners (American R&B group)|S1554
 Prince Buster|Al Capone|1965|hmsiyhOfXLw|Prince Buster|S8017
 Body Count|Cop Killer|1992|LH8gUhDd6WE|Body Count (band)|S3224
 Jamie xx|Gosh|2015|hTGJfRPLe08|Jamie xx|S9786
@@ -2629,7 +2629,7 @@ Afrika Bambaataa & The Soulsonic Force|Looking for the Perfect Beat|1982|pWOe28n
 Paramore|Hard Times|2017|AEB6ibtdPZc|Paramore|S16461
 The Clovers|Love Potion No. 9|1959|Nt7htnE1s4o|The Clovers|S1184
 The Carter Family|Keep on the Sunny Side|1928|ZbmQQ4RfzVE|Carter Family|S2659
-Wire|I Am the Fly|1978|OnIXXe83fe4|Wire|S3970
+Wire|I Am the Fly|1978|OnIXXe83fe4|Wire (band)|S3970
 Love|A House Is Not a Motel|1967|2Z4LNBq3WxE|Love|S12702
 Crosby, Stills, Nash & Young|Teach Your Children|1970|EkaKwXddT_I|Crosby, Stills, Nash & Young|S5904
 The Moonglows|Sincerely|1954|XsxVKN114M0|The Moonglows|S1293
@@ -2933,7 +2933,7 @@ Wall of Voodoo|Mexican Radio|1982|eyCEexG9xjw|Wall of Voodoo|S3930
 Prince and The Revolution|Pop Life|1985|56Hvoqgdlfk|The Revolution (band)|S2914
 Bruce Springsteen|Lost in the Flood|1973|-h9Zki_4e98|Bruce Springsteen|S5639
 Stan Getz & Charlie Byrd|Desafinado|1962|L7lmMNweUVU|Charlie Byrd|S3444
-Wire|The 15th|1979|gV9MIQGgTEo|Wire|S9045
+Wire|The 15th|1979|gV9MIQGgTEo|Wire (band)|S9045
 EMA|California|2011|RjSOcoDJYQg|Erika M. Anderson|S4957
 The B-52's|Dance This Mess Around|1979|dRuRKirloQ8|The B-52's|S3159
 ‘Til Tuesday|Voices Carry|1985|uejh-bHa4To|'Til Tuesday|S3125
@@ -3708,7 +3708,7 @@ Sly and the Family Stone|If You Want Me to Stay|1973|gZFabOuF4Ps|Sly and the Fam
 Emmylou Harris|Boulder to Birmingham|1975|P0oemBPggGI|Emmylou Harris|S6277
 The Boo Radleys|Wake Up Boo!|1995|YJXPTnPmm78|The Boo Radleys|S2105
 Tom Waits|Time|1985|3_eR0IVSOhY|Tom Waits|S4205
-Spinners|It's a Shame|1970|WoZP18U5VyY|Spinners|S3838
+Spinners|It's a Shame|1970|WoZP18U5VyY|The Spinners (American R&B group)|S3838
 Aterciopelados|Bolero falaz|1995|GEe-G4w0ifc|Aterciopelados|S5265
 Todd Terje|Strandbar|2013|uEhge2_L9tI|Todd Terje|S9538
 The Sons of the Pioneers|Tumbling Tumbleweeds|1934|JQc5gDXQGIs|Sons of the Pioneers|S2747
@@ -4383,7 +4383,7 @@ The Bob Seger System|Ramblin' Gamblin' Man|1968|kKwXHDs1R6Y|Bob Seger|S3800
 Tim Buckley|Buzzin' Fly|1969|n7SUqKJb7tk|Tim Buckley|S3253
 Vitalic|La Rock 01|2001|XGOaXphpT7w|Vitalic|S9052
 Wilco|Misunderstood|1996|3NRr2QrXn7s|Wilco|S9008
-Wire|Ex Lion Tamer|1977|6nE8DFaxd94|Wire|S9043
+Wire|Ex Lion Tamer|1977|6nE8DFaxd94|Wire (band)|S9043
 Siouxsie and The Banshees|Happy House|1980|amR6-neQBPE|Siouxsie and the Banshees|S8429
 R. Kelly|I Believe I Can Fly|1996|GIQn8pab8Vc|R. Kelly|S2125
 Swans|A Little God in My Hands|2014|vfmi0v5vIGo|Swans (band)|S9626
@@ -4933,7 +4933,7 @@ Gene Pitney|Twenty Four Hours from Tulsa|1963|zugy2rkSM7g|Gene Pitney|S4087
 Ramones|Bonzo Goes to Bitburg|1985|Su0Hvt6hTmA|Ramones|S401
 Chicago|25 or 6 to 4|1970|iUAYeN3Rp2E|Chicago (band)|S5780
 Badly Drawn Boy|The Shining|2000|H4o5tGajfYE|Badly Drawn Boy|S4665
-Wire|Three Girl Rhumba|1977|Qr9Cn3yFnnQ|Wire|S2595
+Wire|Three Girl Rhumba|1977|Qr9Cn3yFnnQ|Wire (band)|S2595
 Caribou|Melody Day|2007|PNbuMeK3f58|Dan Snaith|S4330
 Sleater-Kinney|Bury Our Friends|2014|tRNDB9VqI3Q|Sleater-Kinney|S9622
 Elvis Costello and The Attractions|I Can't Stand Up for Falling Down|1980|P7HBhjCMhbE|Elvis Costello|S4191
@@ -6104,7 +6104,7 @@ Dan Hartman|Relight My Fire|1979|AoiSjVBvpso|Dan Hartman|S12671
 Mazzy Star|Into Dust|1993|SiO_7LhPZFM|Mazzy Star|S9292
 Sumo|La rubia tarada|1985|jlUXIfPt5tk|Sumo|S8634
 Michael Penn|No Myth|1989|IxkJHX7ukKE|Michael Penn|S7541
-Spinners|The Rubberband Man|1976|jdiB3cISeBk|Spinners|S3839
+Spinners|The Rubberband Man|1976|jdiB3cISeBk|The Spinners (American R&B group)|S3839
 Solomon Burke|Just Out of Reach (Of My Two Empty Arms)|1961|zWTc5yxU9tc|Solomon Burke|S4079
 Throbbing Gristle|United|1978|5XpqCxJZdGs|Throbbing Gristle|S8752
 Joe Tex|I Gotcha|1972|qDEZQxg2TSM|Joe Tex|S6939
@@ -6388,7 +6388,7 @@ Lambchop|Your Fucking Sunny Day|1997|S8qUpq_arik|Lambchop (band)|S11366
 The Bluetones|Slight Return|1995|B-3UpL6MkZ0|The Bluetones|S2122
 Candido|Jingo|1979|B85dYk77V-o|Candido|S4439
 Cigarettes After Sex|Apocalypse|2017|tLqfkSTtEAI|Cigarettes After Sex|S16354
-Spinners|One of a Kind (Love Affair)|1973|_jDR3KSllTQ|Spinners|S1749
+Spinners|One of a Kind (Love Affair)|1973|_jDR3KSllTQ|The Spinners (American R&B group)|S1749
 The Prisonaires|Just Walkin' in the Rain|1953|8DOdqOkYjtA|The Prisonaires|S4068
 It's Immaterial|Driving Away from Home (Jim's Tune)|1986|6jehlXSr-x8|It's Immaterial|S6804
 The Hold Steady|Chill Out Tent|2006|aqdT8tIrfEU|The Hold Steady|S6719
@@ -6429,7 +6429,7 @@ Embrace|All You Good Good People|1997|jLi2EkEQo2g|Embrace (English band)|S12
 Cameo|Room 123 (She's Strange)|1984|7MRtAYVqfao|Cameo (band)|S2346
 Charlie Rich|Lonely Weekends|1960|-mXyYTquXRc|Charlie Rich|S3759
 Girls|Hellhole Ratrace|2008|lcqwfFKagH4|Girls (band)|S4800
-Wire|Map Ref. 41 Deg. N 93 Deg. W|1979|XZ2RvSHK_B8|Wire|S9044
+Wire|Map Ref. 41 Deg. N 93 Deg. W|1979|XZ2RvSHK_B8|Wire (band)|S9044
 Connie Francis|Stupid Cupid|1958|2kJA8v577W8|Connie Francis|S5862
 Beth Orton|She Cries Your Name|1996|rFZc4ax4tJs|Beth Orton|S10158
 The Tubes|White Punks on Dope|1975|FFltXDMQsQQ|The Tubes|S8857
@@ -8574,7 +8574,7 @@ The Kinks|David Watts|1967|hGrniCrIHGg|The Kinks|S7123
 Bessie Smith|T Ain't Nobody's Bizness If I Do|1923|1VKEKkTQU-k|Bessie Smith|S3819
 The DeFranco Family|Heartbeat, It's a Lovebeat|1973|I3Iw2qYtN8A|The DeFranco Family|S13736
 The Subways|Rock & Roll Queen|2005|rr6qBaLu7rI|The Subways|S8621
-Wire|1 2 X U|1977|FdNS4g8vOnc|Wire|S9042
+Wire|1 2 X U|1977|FdNS4g8vOnc|Wire (band)|S9042
 Roger Glover|Love Is All|1974|RW9OYsMn4ds|Roger Glover|S8204
 Beyoncé feat. Kendrick Lamar|Freedom|2016|GFKo95dMzro|Beyoncé|S16039
 The Staple Singers|Slippery People|1984|ug80a-MTHG4|The Staple Singers|S1911
@@ -8768,7 +8768,7 @@ Jelly Roll Morton|Dead Man Blues|1926|m0JBNj2urb8|Jelly Roll Morton|S11186
 Michigan & Smiley|Nice Up the Dance|1979|1-fAy5_tb_0|Michigan & Smiley|S14748
 The Turbans|When You Dance|1955|WWB9ZXMsMDY|Turban|S2775
 Mercury Rev|Opus 40|1998|fusKcZjj7dg|Mercury Rev|S7518
-Boston|Amanda|1986|j4FbRl1Lms4|Boston|S5600
+Boston|Amanda|1986|j4FbRl1Lms4|Boston (band)|S5600
 James Ingram|Yah Mo B There|1983|MJTiDMfDeyE|James Ingram|S2909
 1910 Fruitgum Company|1, 2, 3, Red Light|1968|ACHBnbktFJs|1910 Fruitgum Company|S4109
 The Beta Band|Needles in My Eyes|1998|9e0VXY6EJ10|The Beta Band|S5420
@@ -9903,7 +9903,7 @@ Tricky Woo|Fly the Orient|1999|cj3QuobCyA0|Tricky Woo|S8848
 Animal Collective|FloriDada|2015|cuoIvNFUY7I|Animal Collective|S16026
 The War on Drugs|Baby Missiles|2010|rMToQg0vSds|The War on Drugs (band)|S12548
 Guy Clark|L.A. Freeway|1975|sa7EkXpy8jE|Guy Clark|S13800
-Boston|Foreplay/Long Time|1976|TnwqUEelQjE|Boston|S10278
+Boston|Foreplay/Long Time|1976|TnwqUEelQjE|Boston (band)|S10278
 Lady Sovereign|Random|2005|4TAnOg2YPRs|Lady Sovereign|S4264
 The Righteous Brothers|Just Once in My Life|1965|Z2vMp0kJHyo|The Righteous Brothers|S8160
 The Hombres|Let It Out (Let It All Hang Out)|1967|XWN65nAkk20|The Hombres|S11039
@@ -10255,12 +10255,12 @@ Eddy Arnold|Make the World Go Away|1965|BdWEbweX1rQ|Eddy Arnold|S1669
 The Byrds|You Ain't Goin' Nowhere|1968|s2JnDKvuNzw|The Byrds|S4112
 Depeche Mode|Get the Balance Right|1983|zfiISFiozg8|Depeche Mode|S1891
 Eddy Arnold|The Cattle Call|1955|-JX50rZae2M|Eddy Arnold|S1298
-Wire|Blessed State|1979|LeCI9kww3Dk|Wire|S4190
+Wire|Blessed State|1979|LeCI9kww3Dk|Wire (band)|S4190
 U-Roy|Wake the Town|1970|j-Nm6XtZUxQ|U-Roy|S2303
 Ray Price|Make the World Go Away|1963|MzNQapcmRb4|Ray Price (musician)|S2411
 LTJ Bukem|Horizons|1994|omJuxrA5NhM|LTJ Bukem|S2094
 Gram Parsons|Hickory Wind|1974|ZJKRA1ZIeiM|Gram Parsons|S2585
-Funky Four Plus One|Rappin' and Rocking the House|1979|L3SFuURpWr8|Del the Funky Homosapien|S3431
+Funky Four Plus One|Rappin' and Rocking the House|1979|L3SFuURpWr8|Funky 4 + 1|S3431
 Japan|Visions of China|1981|ll37rY-yiQQ|Japan (band)|S1859
 Bing Crosby|Pistol Packin' Mama|1944|PjgqQcKE3DY|Bing Crosby|S2670
 Schoolly D|Gucci Time|1985|gnByhvr5n4c|Schoolly D|S3796
