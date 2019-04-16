@@ -62,8 +62,7 @@ def video_title(video_id):
         print(title.encode('utf-8'))
 
 def video_is_playable_in_US(video_id):
-    if video_id.startswith("http"):
-        video_id = video_id[30:41]
+    video_id = video_id[0:11]
     url = "https://www.googleapis.com/youtube/v3/videos"
     payload = {"part": "contentDetails", "id": video_id}
     response = get_response(url, payload)
