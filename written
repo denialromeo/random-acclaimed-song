@@ -326,7 +326,7 @@ Grizzly Bear|Two Weeks|2009|tjecYugTbIQ|Grizzly bear|S4803
 The Jimi Hendrix Experience|Voodoo Chile (Slight Return)|1968|IZBlqcbpmxY|The Jimi Hendrix Experience|S845
 The Jam|Going Underground|1980|AE1ct5yEuVY|The Jam|S544
 Aretha Franklin|I Say a Little Prayer|1968|KtBbyglq37E|Aretha Franklin|S907
-Burial|Archangel|2007|E2qLD9c3Gq4|Burial|S4698
+Burial|Archangel|2007|E2qLD9c3Gq4|Burial (musician)|S4698
 The Rolling Stones|Wild Horses|1971|QhwwCWkmYoc|The Rolling Stones|S1312
 Daft Punk|Around the World|1997|yca6UsllwYs|Daft Punk|S18
 Primal Scream|Loaded|1990|vDK2svrGG_c|Primal Scream|S217
@@ -832,7 +832,7 @@ The Penguins|Earth Angel (Will You Be Mine)|1954|VJcGi4-n_Yw|The Penguins|S1340
 Pixies|Gigantic|1988|2B6qerZlczw|Pixies|S309
 Bruce Springsteen|Jungleland|1975|JR_0nbEzVdY|Bruce Springsteen|S3846
 Bob Dylan|Don't Think Twice, It's All Right|1963|u-Y3KfJs6T0|Bob Dylan|S2984
-Geto Boys|Mind Playing Tricks on Me|1991|uV3QYQzlcJ4|Geto Boys|S199
+Geto Boys|Mind Playing Tricks on Me|1991|KutXyPEEbQs|Geto Boys|S199
 House of Pain|Jump Around|1992|XhzpxjuwZy0|House of Pain|S155
 Guns N' Roses|November Rain|1991|8SbUC-UaAxE|Guns N' Roses|S3455
 Crowded House|Don't Dream It's Over|1986|J9gKyRmic20|Crowded House|S1955
@@ -5808,7 +5808,7 @@ Haddaway|What is Love?|1992|HEXWRTEbj1I|Haddaway|S9238
 The Blues Brothers|Everybody Needs Somebody To Love|1980|EHV0zs0kVGg|The Blues Brothers|S12932
 Panda Bear|Mr Noah|2014|CmXIIL2tmR8|Panda Bear (musician)|S9637
 The Beatles|No Reply|1964|YgFo9STa70E|The Beatles|S5365
-Beenie Man|Who Am I|1998|9NYaCurTpyE|Beenie Man|S2158
+Beenie Man|Who Am I|1998|WI-xQ7IksUc|Beenie Man|S2158
 Julian Cope|World Shut Your Mouth|1986|DhRrr6ZqiXI|Julian Cope|S7019
 Night Ranger|Sister Christian|1983|z92bmlcmyq0|Night Ranger|S7741
 Johnny Cash|The Man Comes Around|2002|k9IfHDi-2EA|Johnny Cash|S6978
@@ -6400,7 +6400,7 @@ Depeche Mode|New Life|1981|ZFnEhwmpjXI|Depeche Mode|S13439
 Tavares|Heaven Must Be Missing an Angel|1976|5UCbUXo9ZVE|Tavares (group)|S1776
 Steve Forbert|Romeo's Tune|1979|ixTXmKauL8A|Steve Forbert|S8570
 SBTRKT feat. Ezra Koenig|NEW DORP. NEW YORK|2014|gs0xe9DQEPc|Sbtrkt|S9664
-Burial|Street Halo|2011|L_ijVnXIWBk|Burial|S5677
+Burial|Street Halo|2011|L_ijVnXIWBk|Burial (musician)|S5677
 Dominique A.|Le courage des oiseaux|1992|SgeI6G4CLMk|Dominique A|S9206
 Ten Years After|I'm Going Home|1968|bW5M5xljdCI|Ten Years After|S8718
 Bo Diddley|Road Runner|1960|ijjPEmej-eg|Bo Diddley|S5531
@@ -6438,7 +6438,7 @@ Bobby Darin|Splish Splash|1958|QSA-yHzkvP8|Bobby Darin|S3318
 Marley Marl feat. Masta Ace, Craig G, Kool G Rap & Big Daddy Kane|The Symphony|1988|yZ82kNPgqpc|Marley Marl|S7437
 Peter Gabriel|Big Time|1986|PBAl9cchQac|Peter Gabriel|S7946
 Argent|Hold Your Head Up|1971|FBnSWJHawQQ|Argent|S5232
-Burial|Kindred|2012|wC16FJTI6XM|Burial|S5678
+Burial|Kindred|2012|wC16FJTI6XM|Burial (musician)|S5678
 These New Puritans|We Want War|2010|mJ7YmtWM5gE|These New Puritans|S8739
 PJ Harvey|Good Fortune|2000|gDBZZ3uvimE|PJ Harvey|S4601
 Chairlift|Bruises|2008|w8HRCacAQ-4|Chairlift|S4705
@@ -6621,7 +6621,7 @@ The The|Heartland|1986|fPSO8pdAX6c|The The|S1953
 Death Cab for Cutie|I Will Follow You into the Dark|2005|aoR0mGq_z2I|Death Cab for Cutie|S5998
 Beck|Blue Moon|2014|WIWbgR4vYiw|Beck|S9608
 Mott the Hoople|The Golden Age of Rock 'n' Roll|1974|jToqxJfUZTc|Mott the Hoople|S7619
-Neutral Milk Hotel|Oh Comely|1998|Z-fjyEIgWik|Neutral Milk Hotel|S15736
+Neutral Milk Hotel|Oh Comely|1998|OALwvzmW6_o|Neutral Milk Hotel|S15736
 Elvis Presley|An American Trilogy|1972|jrsbC-IMayg|Elvis Presley|S6265
 Porter|Espiral|2004|Jb7BgzFaMZc|Porter (band)|S13597
 Coldplay|Paradise|2011|1G4isv_Fylg|Coldplay|S10446
@@ -10233,7 +10233,7 @@ Killer Mike|That's Life|2006|F8FnQ3k4qu0|Killer Mike|S7098
 Hercules and Love Affair|Hercules Theme|2008|aaUMPGx2-Io|Hercules and Love Affair|S4779
 Billie Holiday|Summertime|1936|uYUqbnk7tCY|Billie Holiday|S9145
 Ratatat|Seventeen Years|2003|H9IKD9ayQeg|Ratatat|S8101
-Burial|Fostercare|2009|vTs7KXqZRmA|Burial|S5676
+Burial|Fostercare|2009|vTs7KXqZRmA|Burial (musician)|S5676
 Ruthless Rap Assassins|And It Wasn't a Dream|1990|2G6Lzm5SZSg|Ruthless Rap Assassins|S8284
 Clipse|Mr. Me Too|2006|TdJjqApa3e0|Clipse|S4033
 Broken Social Scene|World Sick|2010|Lb9WKJhqVWs|Broken Social Scene|S5631
