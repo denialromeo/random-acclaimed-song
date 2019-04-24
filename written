@@ -237,7 +237,7 @@ Beyoncé|Formation|2016|WDZJPJV__bQ|Beyoncé|S16036
 Elvis Presley|Don't Be Cruel|1956|ViMF510wqWA|Elvis Presley|S2489
 The Beatles|Something|1969|UelDrZ1aFeY|The Beatles|S878
 Michael Jackson|Don't Stop 'Til You Get Enough|1979|yURRmWtbTbo|Michael Jackson|S574
-James Brown|I Got You (I Feel Good)|1965|1lEPDx5r30w|James Brown|S1013
+James Brown|I Got You (I Feel Good)|1965|Lrv-Morm-c0|James Brown|S1013
 The Temptations|Papa Was a Rolling Stone|1972|nXiQtD5gcHU|The Temptations|S783
 The Killers|Mr. Brightside|2003|gGdGFtwCNBE|The Killers|S2456
 Pixies|Where Is My Mind?|1988|49FB9hhoO6c|Pixies|S2630
@@ -916,7 +916,7 @@ Talking Heads|Burning Down the House|1983|_3eC35LoF4U|Talking Heads|S1904
 Tame Impala|Feels Like We Only Go Backwards|2012|wycjnCCgUes|Tame Impala|S5045
 Naughty by Nature|O.P.P.|1991|idx3GSL2KWs|Naughty by Nature|S188
 The Rolling Stones|Get Off of My Cloud|1965|QYgJZ79FmBo|The Rolling Stones|S1012
-The O'Jays|Back Stabbers|1972|hzTeLePbB08|The O'Jays|S788
+The O'Jays|Back Stabbers|1972|SBLM0KUERxQ|The O'Jays|S788
 Al Green|Take Me to the River|1974|vGD8aQ2GKr0|Al Green|S2584
 Slade|Cum On Feel the Noize|1973|Qu_ozjAu_vM|Slade|S778
 Faces|Stay with Me|1971|zSQp7YOPdJ8|Faces (band)|S1740
@@ -1038,7 +1038,7 @@ Bikini Kill|Rebel Girl|1993|L0oeqAQ1qE8|Bikini Kill|S1536
 ABBA|The Winner Takes It All|1980|iyIOl-s7JTU|ABBA|S554
 Bob Dylan|I Want You|1966|MoOLYtpVqkk|Bob Dylan|S1432
 Dirty Projectors|Stillness Is the Move|2009|YMPF6lpM0XM|Dirty Projectors|S4794
-America|A Horse with No Name|1972|zSAJ0l4OBHM|America (band)|S3149
+America|A Horse with No Name|1972|QRmvNMUEFZg|America (band)|S3149
 Curtis Mayfield|Superfly|1972|-cmo6MRYf5g|Curtis Mayfield|S808
 Joe Cocker|With a Little Help from My Friends|1968|NR-H2uFCQls|Joe Cocker|S917
 The Young Rascals|Good Lovin'|1966|1vWUM0m4AE4|The Rascals|S970
@@ -1079,7 +1079,7 @@ Dexys Midnight Runners|Geno|1980|RQO2wEJefjM|Dexys Midnight Runners|S566
 Sonic Youth|Kool Thing|1990|SDTSUwIZdMk|Sonic Youth|S239
 Neil Young|Cowgirl in the Sand|1969|zphUt_tp898|Neil Young|S4137
 Smashing Pumpkins|Today|1993|xmUZ6nCFNoU|The Smashing Pumpkins|S142
-Jay-Z|IZZO (H.O.V.A.)|2001|4wwCAXbQxXI|Jay-Z|S1466
+Jay-Z|IZZO (H.O.V.A.)|2001|cJoLqqiGU64|Jay-Z|S1466
 Gotye feat. Kimbra|Somebody That I Used to Know|2011|8UVNT4wvIGY|Gotye|S5012
 The Streets|Weak Become Heroes|2002|GMAVR4AId1g|The Streets|S1523
 The Beatles|We Can Work It Out|1965|Qyclqo_AV2M|The Beatles|S2493
@@ -1168,7 +1168,7 @@ Frank Ocean|Nikes|2016|diIFhc_Kzng|Frank Ocean|S16088
 Interpol|Obstacle 1|2002|OC5zHACynR4|Interpol|S3115
 Primal Scream|Higher Than the Sun|1991|GpvccejvVng|Primal Scream|S184
 ABBA|Waterloo|1974|Sj_9CiNkkn4|ABBA|S749
-The Guess Who|American Woman|1970|gkqfpkTTy2w|The Guess Who|S2300
+The Guess Who|American Woman|1970|C_fNGa26hig|The Guess Who|S2300
 Lily Allen|Smile|2006|0WxDrVUrSvI|Lily Allen|S3057
 The B-52's|Love Shack|1989|9SOryJvTAGs|The B-52's|S258
 Alvvays|Archie, Marry Me|2014|ZAn3JdtSrnY|Alvvays|S9559
@@ -1730,7 +1730,7 @@ Heaven 17|(We Don't Need This) Fascist Groove Thang|1981|lV5dbcOmw6I|Heaven 17|S
 George Michael|Freedom '90|1990|diYAc7gB-0A|George Michael|S3622
 Tom Waits|Downtown Train|1985|rLtZKkCIVmI|Tom Waits|S1930
 Beyoncé|Countdown|2011|2XY3AvVgDns|Beyoncé|S4944
-Crosby, Stills & Nash|Wooden Ships|1969|3Q3j-i7GLr0|Crosby, Stills, Nash & Young|S5903
+Crosby, Stills & Nash|Wooden Ships|1969|_2e2kC-geMI|Crosby, Stills, Nash & Young|S5903
 The Jaynetts|Sally, Go 'Round the Roses|1963|icLLcMCoX08|The Jaynetts|S1078
 The Marcels|Blue Moon|1961|v0fy1HeJv80|The Marcels|S1127
 Fleetwood Mac|Don't Stop|1977|OvSbZEYlfnM|Fleetwood Mac|S6393
@@ -4846,7 +4846,7 @@ Stevie Wonder|Boogie On Reggae Woman|1974|ylQMhYqSntk|Stevie Wonder|S740
 Kings of Convenience|Toxic Girl|1999|_9UauaXTXUI|Kings of Convenience|S7113
 Dick Annegarn|Bruxelles|1973|rYdk70VSfv8|Dick Annegarn|S6066
 Anthony Red Rose|Tempo|1985|EatWwMArlw4|Anthony Red Rose|S5211
-Jay-Z|Takeover|2001|sZyGPU-tqBE|Jay-Z|S4607
+Jay-Z|Takeover|2001|v09VIXllqiM|Jay-Z|S4607
 Vince Staples|Señorita|2015|5OAYMMod9Wo|Vince Staples|S9871
 Bob Dylan|If You See Her, Say Hello|1975|BWzMVNy0YwE|Bob Dylan|S10230
 Deep Purple|Speed King|1970|9sGy_-p_sVE|Deep Purple|S10559
@@ -5064,7 +5064,7 @@ Canned Heat|Going Up the Country|1968|p0PjECSyJ7w|Canned Heat|S5706
 The Beatles|This Boy|1963|VhuU8KDLdO4|The Beatles|S10122
 Mekons|Where Were You?|1978|71s-T8oUTQs|The Mekons|S625
 U2|Discothèque|1997|p2AjpPNDe-8|U2|S3919
-The Band|Tears of Rage|1968|RMqJ2V6zOd0|The Band|S3168
+The Band|Tears of Rage|1968|Blz_sef-jj4|The Band|S3168
 Chromatics|Shadow|2015|IGUboLZx3Tk|Chromatics (band)|S16305
 Tool|Sober|1993|GqmRDV0a_70|Tool|S12465
 Eagles|Best of My Love|1974|srOHZ8fOYHg|Eagles (band)|S6183
@@ -6406,7 +6406,7 @@ Ten Years After|I'm Going Home|1968|bW5M5xljdCI|Ten Years After|S8718
 Bo Diddley|Road Runner|1960|ijjPEmej-eg|Bo Diddley|S5531
 Guided by Voices|Teenage FBI|1999|INN4DF2BgLs|Guided by Voices|S2184
 Otis Rush|Double Trouble|1958|b2TvnZshoo8|Otis Rush|S14831
-The World Famous Supreme Team|Hey DJ|1984|Lq1RCMROWDo|Malcolm McLaren|S1925
+The World's Famous Supreme Team|Hey DJ|1984|Lq1RCMROWDo|The World's Famous Supreme Team|S1925
 The Nutmegs|Story Untold|1955|XAGQZIFf_H8|Nutmeg (band)|S3671
 Inez & Charlie Foxx|Mockingbird|1963|g47_NI1CWNQ|Inez and Charlie Foxx|S6782
 Suzi Quatro|Devil Gate Drive|1974|xqrPyedDzqU|Suzi Quatro|S12382
@@ -6679,7 +6679,7 @@ The Rolling Stones|Doom and Gloom|2012|1DWiB7ZuLvI|The Rolling Stones|S12091
 Bob Dylan|Gotta Serve Somebody|1979|wC10VWDTzmU|Bob Dylan|S5551
 The Marshall Tucker Band|Heard It in a Love Song|1977|SiLUTWcLCgU|The Marshall Tucker Band|S7444
 Joe South|Walk a Mile in My Shoes|1969|ofhw0lWpVZc|Joe South|S4142
-Queen|Now I'm Here|1974|3QLhN9Wor1c|Queen (band)|S11975
+Queen|Now I'm Here|1974|3OSd17ko3O4|Queen (band)|S11975
 Jimmie Lunceford|Organ Grinder's Swing|1936|6og7ip44tx8|Jimmie Lunceford|S13207
 The Marvelettes|The Hunter Gets Captured by the Game|1966|DBa746RVNHA|The Marvelettes|S7451
 The Peerless Quartet|Let Me Call You Sweetheart|1911|FM4lDtsV-9Q|Peerless Quartet|S9319
@@ -7539,7 +7539,7 @@ Young Fathers feat. Leith Congregational Choir|Only God Knows|2017|Nl-WyKFezig|Y
 Boogie|Oh My|2015|KuMF4EvYsuc|Boogie|S9714
 Domenico Modugno|Piove (Ciao ciao bambina)|1959|ygiHfNMwpdI|Domenico Modugno|S12937
 Mott the Hoople|Saturday Gigs|1974|M3pMoMQ61Zc|Mott the Hoople|S14780
-Frank Sinatra|(Theme from) New York, New York|1980|TKiBEgyOvb0|Frank Sinatra|S6444
+Frank Sinatra|(Theme from) New York, New York|1980|M3zCrKD__Mw|Frank Sinatra|S6444
 Nick Cave & The Bad Seeds|As I Sat Sadly by Her Side|2001|L309BqlxFHk|Nick Cave and the Bad Seeds|S7730
 Frankie Knuckles/Jamie Principle|Baby Wants to Ride|1987|2EtEPT3DvdM|Jamie Principle|S6455
 Godspeed You! Black Emperor|Storm|2000|JMDmaUO4hno|Godspeed You! Black Emperor|S6601
@@ -8715,7 +8715,7 @@ Javiera Mena|Sol de Invierno|2006|B0bjaqoftTg|Javiera Mena|S13823
 Beyoncé|Daddy Lessons/Daddy Lessons (Remix feat. Dixie Chicks)|2016|yU8Z-VJ3W9Q|Beyoncé|S16035
 Tom Jones with Mousse T.|Sex Bomb|1999|WZ32gSLNHfA|Tom Jones (singer)|S13986
 Metallica|Until It Sleeps|1996|eRV9uPr4Dz4|Metallica|S11610
-Jane's Addiction|Ted, Just Admit It...|1988|1CpRCc4Jre8|Jane's Addiction|S6860
+Jane's Addiction|Ted, Just Admit It...|1988|Ek6N_-O19do|Jane's Addiction|S6860
 Method Man|Release Yo'delf|1994|UyiFDN-V_h0|Method Man|S2631
 David Bowie|Scary Monsters (And Super Creeps)|1980|NHywdqH3F6Y|David Bowie|S10528
 Tom Petty and The Heartbreakers|Listen to Her Heart|1978|pH7nUIHLIC0|Tom Petty and the Heartbreakers|S12455
@@ -9207,7 +9207,7 @@ Andrés Calamaro|Estadio Azteca|2004|2XmBVTjVwXs|Andrés Calamaro|S9991
 The Doors|Five to One|1968|oOzpncIHCLs|The Doors|S10637
 Willie Nelson and Merle Haggard|Pancho and Lefty|1983|AbZ3VdYb90o|Merle Haggard|S12605
 Red Norvo|Dance of the Octopus|1934|uRB2JbNHn2I|Red Norvo|S15818
-The Box Tops|Neon Rainbow|1967|Ga9fd8f0THo|The Box Tops|S5602
+The Box Tops|Neon Rainbow|1967|goVlXCJUyCM|The Box Tops|S5602
 Icehouse|Hey Little Girl|1982|OKDYyFf1s0I|Icehouse (band)|S11065
 Charlie Rich|The Most Beautiful Girl|1973|qLbGeZSUrhg|Charlie Rich|S5768
 The Magnetic Fields|The Book of Love|1999|jkjXr9SrzQE|The Magnetic Fields|S9285
@@ -9469,7 +9469,7 @@ Lou Reed|Street Hassle|1978|4LK9JjW2noo|Lou Reed|S7324
 Thee Oh Sees|The Dream|2011|_mZqGxkYOFY|Oh Sees|S12418
 Daniel Guichard|Mon vieux|1974|x8l43czQAy4|https://fr.wikipedia.org/wiki/Daniel_Guichard|S10497
 The Beatles|Savoy Truffle|1968|z9EaBjFvQpc|The Beatles|S10118
-The Chordettes|Lollipop|1958|3rYoRaxgOE0|The Chordettes|S14241
+The Chordettes|Lollipop|1958|o6civIRyRtw|The Chordettes|S14241
 Roxette|It Must Have Been Love|1990|k2C5TjS2sh4|Roxette|S8251
 Dimples D.|Sucker D.J.'s|1983|UYH4GBvWXnI|Dimples D.|S3334
 La Femme|Où va le monde?|2016|fQDEUU1lyZQ|La Femme (band)|S16129
