@@ -39,7 +39,7 @@ New Order|Blue Monday|1983|LQaehcfXvK0|New Order (band)|S458
 Queen|Bohemian Rhapsody|1975|fJ9rUzIMcZQ|Queen (band)|S710
 Sam Cooke|A Change Is Gonna Come|1964|wEBlaMOmKV4|Sam Cooke|S995
 The Kingsmen|Louie Louie|1963|1RZJ4ESU52U|The Kingsmen|S1051
-The Beatles|Hey Jude|1968|A_MjCqQoLLA|The Beatles|S903
+The Beatles|Hey Jude|1968|A_MjCqQoLLA?start=53|The Beatles|S903
 R.E.M.|Losing My Religion|1991|xwtdhWltSIg|R.E.M.|S181
 The Kinks|Waterloo Sunset|1967|N_MqfF0WBsU|The Kinks|S949
 The Doors|Light My Fire|1967|tEXlWgMOtqc|The Doors|S934
@@ -495,7 +495,7 @@ Muddy Waters|Manish Boy|1955|bSfqNEvykv0|Muddy Waters|S1302
 Bob Dylan|Desolation Row|1965|ccRUMe4no-w|Bob Dylan|S2499
 Phil Collins|In the Air Tonight|1981|YkADj0TPrJA|Phil Collins|S1578
 The Righteous Brothers|Unchained Melody|1965|qiiyq2xrSI0|The Righteous Brothers|S1011
-Roy Orbison|Crying|1961|tNdBLBleO90|Roy Orbison|S1114
+Roy Orbison|Crying|1961|qLC9o_unLq4|Roy Orbison|S1114
 Cyndi Lauper|Girls Just Want to Have Fun|1983|PIb6AZdTr-A|Cyndi Lauper|S466
 The Supremes|You Can't Hurry Love|1966|7scbdxigicg|The Supremes|S987
 Aerosmith|Dream On|1973|3-2u2lhGO4w|Aerosmith|S770
@@ -1277,7 +1277,7 @@ Def Leppard|Photograph|1983|D4dHr8evt6k|Def Leppard|S479
 Franz Ferdinand|Do You Want To|2005|1OJRRUnY--A|Franz Ferdinand (band)|S3009
 Sampha|(No One Knows Me) Like the Piano|2017|_NSuIYwBxu4|Sampha|S16473
 The Rolling Stones|The Last Time|1965|ncRkWJmRzX8|The Rolling Stones|S1015
-Van Morrison|Into the Mystic|1970|PZ59spYH9mk|Van Morrison|S2559
+Van Morrison|Into the Mystic|1970|cpPSBzGEklE|Van Morrison|S2559
 LL Cool J|I Can't Live Without My Radio|1985|qqw2uby0dzc|LL Cool J|S415
 Pet Shop Boys|Being Boring|1990|DnvFOaBoieE|Pet Shop Boys|S233
 PJ Harvey|The Words That Maketh Murder|2011|KhaEt2Hdod8|PJ Harvey|S4980
@@ -2094,7 +2094,7 @@ Village People|Y.M.C.A.|1978|Vc0gYbTNctU|Village People|S1820
 John Cale|(I Keep a) Close Watch|1975|OUUvmwLVQxQ|John Cale|S9256
 Scott McKenzie|San Francisco (Be Sure to Wear Some Flowers in Your Hair)|1967|7I0vkKy504U|Scott McKenzie|S8330
 The Beatles|Hello Goodbye|1967|rblYSKz_VnI|The Beatles|S2836
-Hawkwind|Silver Machine|1972|IfniG-AdSC4|Hawkwind|S6693
+Hawkwind|Silver Machine|1972|HdTFeW8FCto|Hawkwind|S6693
 Run-DMC|Sucker MC's|1983|7PMmOdeMSzo|Run-DMC|S2613
 Jimmy Eat World|The Middle|2001|FV-HPOHu8mY|Jimmy Eat World|S1517
 Fetty Wap|Trap Queen|2014|i_kF4zLNKio|Fetty Wap|S9875
@@ -2844,7 +2844,7 @@ Alessia Cara|Here|2015|UKp2CrfmVfw|Alessia Cara|S9703
 The Who|Anyway, Anyhow, Anywhere|1965|aUkJYkVTITU|The Who|S8996
 Santo and Johnny|Sleep Walk|1959|YBRCvVpknvg|Santo & Johnny|S3795
 Arcade Fire|We Used to Wait|2010|kJ7osdJ4H_8|Arcade Fire|S4886
-Fats Domino|I'm Walkin'|1957|oqs5gkyH930|Fats Domino|S1255
+Fats Domino|I'm Walkin'|1957|Y29RZpHnkq8?start=5|Fats Domino|S1255
 The Strokes|New York City Cops|2001|rOmkPrhpQGQ|The Strokes|S8611
 U2|Gloria|1981|ybYgP48X2DY|U2|S8874
 King Oliver & His Jazz Band|Dipper Mouth Blues|1923|BEF9QeHxrYw|King Oliver|S4593
@@ -2907,7 +2907,7 @@ Kanye West, Big Sean, Pusha T and 2 Chainz|Mercy|2012|7Dqgr0wNyPo|Kanye West|S50
 Dinah Washington|Mad About the Boy|1952|STTLwI-u4Fg|Dinah Washington|S2809
 Bill Evans|Waltz for Debby|1956|dH3GSrCmzC8|Bill Evans|S2807
 The Rolling Stones|Let It Bleed|1969|DK9jyXD5yWA|The Rolling Stones|S8218
-Loretta Lynn|The Pill|1975|5DcdONaKSQM|Loretta Lynn|S1775
+Loretta Lynn|The Pill|1975|_Y5i9WUwNOg|Loretta Lynn|S1775
 Kurt Vile|Wakin on a Pretty Day|2013|2ByLFR9_phc|Kurt Vile|S9479
 2Pac feat. Shock G & Money B|I Get Around|1993|eeaQv0yc5u4|All Eyez on Me|S3126
 Led Zeppelin|Babe, I'm Gonna Leave You|1969|UyOg0mt2R2k|Led Zeppelin|S7201
@@ -3640,7 +3640,7 @@ James Brown|Night Train|1962|ZF_rZrH4yBY|James Brown|S3071
 John Travolta & Olivia Newton-John|You're the One That I Want|1978|WvOWox2o5cU|John Travolta|S6962
 Yazoo|Situation|1982|_D3udbawA1Q|Yazoo|S2903
 Algiers|The Underside of Power|2017|lGZXzmM1smM|Algiers|S16324
-Sonic Youth|Schizophrenia|1987|sf2qYa8c-cA|Sonic Youth|S8488
+Sonic Youth|Schizophrenia|1987|rRLstSmWUno|Sonic Youth|S8488
 Sonic Youth & Lydia Lunch|Death Valley '69|1984|y2Gf0MmRz9g|Lydia Lunch|S416
 Devo|Jocko Homo|1977|hRguZr0xCOc|Devo|S1559
 The Weeknd|House of Balloons / Glass Table Girls|2011|8ex38L8xtNI|The Weeknd|S4990
@@ -4242,7 +4242,7 @@ Kanye West|Father Stretch My Hands|2016|wuO4_P_8p-Q|Kanye West|S16114
 Richard Ashcroft|A Song for the Lovers|2000|3FVwCm1u8mA|Richard Ashcroft|S1403
 Kylie Minogue|Confide in Me|1994|WSFDCmmsqEI|Kylie Minogue|S7159
 Aretha Franklin|Ain't No Way|1968|WzRA9UzuU8c|Aretha Franklin|S3424
-Darlene Love|Christmas (Baby Please Come Home)|1963|UV8x7H3DD8Y|Darlene Love|S1649
+Darlene Love|Christmas (Baby Please Come Home)|1963|8V2IrH1owdw?start=302|Darlene Love|S1649
 The Beach Boys|Surfin' Safari|1962|KrPDLxmfWPM|The Beach Boys|S1107
 Neko Case|This Tornado Loves You|2009|js2wh9saLZk|Neko Case|S4836
 Sweet|Blockbuster|1973|Y64211sjSko|The Sweet|S2318
@@ -4303,7 +4303,7 @@ The J. Geils Band|Must of Got Lost|1974|gW0hxbrmFhM|The J. Geils Band|S6808
 Extreme|More Than Words|1990|UrIiLvg58SY|Extreme (band)|S6328
 AC/DC|Touch Too Much|1979|JGftIcp2SC0|AC/DC|S9924
 Mississippi Sheiks|Sitting on Top of the World|1930|RqeW7-tmVU4|Mississippi Sheiks|S4351
-Crosby, Stills, Nash & Young|Carry On|1970|nP0VBB7BO64|Crosby, Stills, Nash & Young|S5905
+Crosby, Stills, Nash & Young|Carry On|1970|_bNBzxFsA4c|Crosby, Stills, Nash & Young|S5905
 The Rolling Stones|Out of Time|1966|pXP1MSFwMnc|The Rolling Stones|S2991
 Foals|Inhaler|2012|qJ_PMvjmC6M|Foals (band)|S9450
 Vaughn Monroe|(Ghost) Riders in the Sky (A Cowboy Legend)|1949|v1TGV-KpM9I|Vaughn Monroe|S2764
@@ -6395,7 +6395,7 @@ The Hold Steady|Chill Out Tent|2006|aqdT8tIrfEU|The Hold Steady|S6719
 Fall Out Boy|Sugar, We're Goin Down|2005|uhG-vLZrb-g|Fall Out Boy|S6346
 Joni Mitchell|You Turn Me On, I'm a Radio|1972|dSSi4jZsDmo|Joni Mitchell|S2860
 Mantronix|King of the Beats|1988|z_BxXeqvzvE|Mantronix|S1987
-Sidney Bechet|Maple Leaf Rag|1932|Mr2aT9NSiDQ|Sidney Bechet|S13249
+Sidney Bechet|Maple Leaf Rag|1932|e3EkeWJPKZw|Sidney Bechet|S13249
 Depeche Mode|New Life|1981|ZFnEhwmpjXI|Depeche Mode|S13439
 Tavares|Heaven Must Be Missing an Angel|1976|5UCbUXo9ZVE|Tavares (group)|S1776
 Steve Forbert|Romeo's Tune|1979|ixTXmKauL8A|Steve Forbert|S8570
@@ -6841,7 +6841,7 @@ Kelis feat. Too $hort|Bossy|2006|SSgp-IIgr4I|Kelis|S4006
 Truth Hurts feat. Rakim|Addictive|2002|Xcj9O-Cv48c|Truth Hurts|S1522
 Sanford Clark|The Fool|1956|QfSDhVHZQY4|Sanford Clark|S2781
 Hoodoo Gurus|I Want You Back|1984|Ov_ByEAACok|Hoodoo Gurus|S6730
-Nick Drake|Cello Song|1969|h4y8WGOJu_c|Nick Drake|S11751
+Nick Drake|Cello Song|1969|MhSVh75lKiE|Nick Drake|S11751
 Ja, Panik|DMD KIU LIDT|2011|rt5wQd15qXQ|Antilopen Gang|S6815
 The Charlatans|One to Another|1996|lD8Surgpn2M|The Charlatans (English band)|S46
 Kendrick Lamar|Sing About Me (I'm Dying of Thirst)|2012|Z3CnfFQENkw|Kendrick Lamar|S7085
@@ -8377,7 +8377,7 @@ Redgum|I Was Only 19 (A Walk in the Light Green)|1983|Urtiyp-G6jY|Redgum|S12042
 The Distillers|Drain the Blood|2003|nFuP9FXLF8Q|The Distillers|S10605
 Kate Bush|Moving|1978|YSOACab2t7k|Kate Bush|S12802
 Kate Tempest|Europe Is Lost|2016|QSVyyykaEOo|Kate Tempest|S16118
-Vampire Weekend|White Sky|2010|2kz3_-arR9g|Vampire Weekend|S14000
+Vampire Weekend|White Sky|2010|nResskM1w7I|Vampire Weekend|S14000
 Sky Ferreira|I Blame Myself|2013|pWo7SC-tG4U|Sky Ferreira|S9522
 Steve Arrington|Feel So Real|1985|128qqShzEvE|Steve Arrington|S8565
 Sigur Rós|Viðrar vel til loftárása|1999|akYuy2FMQk4|Sigur Rós|S13958
@@ -8876,7 +8876,7 @@ The New Seekers|I'd Like to Teach the World to Sing (In Perfect Harmony)|1971|Jg
 Dominique A.|Le twenty-two bar|1995|QxbMcnKxde8|Dominique A|S10625
 John Miles|Music|1976|lAsvjVx-Mg4|John Miles (musician)|S6960
 La Renga|El revelde|1998|s8mphBmiMmc|La Renga|S11358
-Marmion|Schöneberg|1993|9qZdX_bTb8o|Marmion|S15686
+Marmion|Schöneberg|1993|9qZdX_bTb8o|https://de.wikipedia.org/wiki/Mijk_van_Dijk|S15686
 UB40|Food for Thought|1980|IXWBeWf185E|UB40|S8885
 Gorillaz feat. Vince Staples|Ascension|2017|hBA0PUQCvIA|Gorillaz|S16389
 Backstreet Boys|Quit Playin' Games (With My Heart)|1996|Ug88HO2mg44|Backstreet Boys|S5297
@@ -9409,7 +9409,7 @@ Renaud|Laisse Béton|1977|DmGaP5i3OpI|Renaud|S12052
 Cymande|Bra|1972|SuLnxjVo6bk|Cymande|S13724
 Lio|Les Brunes comptent pas pour des prunes|1986|hkHF0xvQOok|Lio|S15657
 Zwan|Honestly|2003|NLPgz9K4D20|Zwan|S15993
-Steve Miller Band|Space Cowboy|1969|h66V1hYAjG0|Steve Miller Band|S8574
+Steve Miller Band|Space Cowboy|1969|cwoiy-Fwm0E|Steve Miller Band|S8574
 Blood, Sweat & Tears|God Bless the Child|1969|04rClGsbWp4|Blood, Sweat & Tears|S13159
 Bunbury|Lady Blue|2002|AY8z7ZXJ-Vg|Enrique Bunbury|S13456
 Roxanne Shanté|Have a Nice Day|1987|5QkEHUMmpyM|Roxanne Shante|S8250
@@ -9558,7 +9558,7 @@ Johnny Cash with June Carter|Jackson|1967|43qK1Lh2xH0|Johnny Cash|S3267
 Nina Hagen Band|Unbeschreiblich weiblich|1979|ZLqzr29m6E4|Nina Hagen|S15743
 X|Fourth of July|1987|K_tyWt_9Bfs|X (American band)|S9074
 Vanity Fare|Hitchin' a Ride|1969|MUjmSYutW5M|Vanity Fare|S8930
-The Ruts|West One (Shine on Me)|1980|-s8k0GtLZ4o|The Ruts|S8286
+The Ruts|West One (Shine on Me)|1980|PrwLmaqx1W0|The Ruts|S8286
 Jelly Roll Morton|Mr. Jelly Lord|1924|5dNXqhPk98o|Jelly Roll Morton|S15579
 Håkan Hellström|Känn ingen sorg för mig Göteborg|2000|-fusSPk4j0k|Håkan Hellström|S4602
 James Brown|Get Up Offa That Thing|1976|1_uNMy20qAI|James Brown|S2880
@@ -9594,7 +9594,7 @@ Jennifer Paige|Crush|1998|EIhSnaqou0I|Jennifer Paige|S6892
 Air|Alone in Kyoto|2004|XUjAtYQkFm8|Air (band)|S14051
 Orchestral Manoeuvres in the Dark|Joan of Arc|1981|DL7HpfVuZwc|Orchestral Manoeuvres in the Dark|S7821
 The Cadillacs|Gloria|1954|U28e4EEC2j4|The Cadillacs|S9174
-Tom Waits|Ruby's Arms|1980|MmM7B-M3LVg|Tom Waits|S13990
+Tom Waits|Ruby's Arms|1980|9tWtwH2SQco|Tom Waits|S13990
 Razorlight|Somewhere Else|2005|Iun3RtbCE6A|Razorlight|S3048
 Disclosure feat. Lorde|Magnets|2015|b_KfnGBtVeA|Disclosure (band)|S9739
 Shamir|Call It Off|2015|10Kc7RK2rOs|Shamir (musician)|S9834
@@ -10048,7 +10048,7 @@ Shirley Ellis|The Name Game|1964|NeF7jqf0GU4|Shirley Ellis|S8398
 P!nk|Just Like a Pill|2001|JDKGWaCglRM|Pink (singer)|S11902
 Laura Nyro & Labelle|The Bells|1971|XoBnGupHVHE|Labelle|S11374
 The Move|Do Ya|1972|2I5kH0klENs|The Move|S3646
-Rick Ross feat. Big Sean & Kanye West|Sanctified|2014|P1x-2eZ5e8E|Rick Ross|S12065
+Rick Ross feat. Big Sean & Kanye West|Sanctified|2014|sbQcaRxvWgU|Rick Ross|S12065
 Inspiral Carpets|Saturn 5|1994|03cy86u6Wi4|Inspiral Carpets|S14508
 The Blue Nile|From a Late Night Train|1989|cVNfv_4HAxk|The Blue Nile|S5516
 David Ackles|Down River|1968|8-zDI5GD7co|David Ackles|S3134
