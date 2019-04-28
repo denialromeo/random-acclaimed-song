@@ -137,7 +137,7 @@ Gene Vincent and His Blue Caps|Be-Bop-a-Lula|1956|LGI4PgAHxtg|Gene Vincent and H
 Roy Orbison|Oh, Pretty Woman|1964|3KFvoDDs0XM|Roy Orbison|S1028
 The Rolling Stones|Brown Sugar|1971|3B0Y3LUqr1Q|The Rolling Stones|S816
 MGMT|Time to Pretend|2007|B9dSYgd5Elk|MGMT|S4736
-Television|Marquee Moon|1977|jlbunmCbTBA|Television|S656
+Television|Marquee Moon|1977|jlbunmCbTBA|Television (band)|S656
 The Strokes|Last Nite|2001|TOypSnKFHrE|The Strokes|S1478
 Prince and The Revolution|Purple Rain|1984|TvnYmWpD_T8|The Revolution (band)|S441
 Talking Heads|Psycho Killer|1977|jzIuZ-mrIL0|Talking Heads|S643
@@ -554,7 +554,7 @@ Portishead|Sour Times|1994|g7gutsi1uT4|Portishead (band)|S99
 Rihanna feat. Drake|Work|2016|HL1UzIK-flA|Rihanna|S16178
 Pavement|Cut Your Hair|1994|QTTgpTeb0Z8|Pavement (band)|S113
 Bobby Fuller Four|I Fought the Law|1965|OgtQj8O92eI|The Bobby Fuller Four|S981
-New Order|True Faith|1987|17CwZmI8mUQ|New Order (band)|S336
+New Order|True Faith|1987|mfI1S0PKJR8|New Order (band)|S336
 The Pogues and Kirsty MacColl|Fairytale of New York|1987|j9jbdgZidu8|Kirsty MacColl|S358
 The Beatles|Here Comes the Sun|1969|xUNqsfFUwhY|The Beatles|S3190
 Gang of Four|Damaged Goods|1978|byCqOvRMOvo|Gang of Four (band)|S626
@@ -1205,7 +1205,7 @@ Grimes|REALiTi|2015|N9XKLqGqwLA|Grimes (musician)|S9772
 Van Morrison|Madame George|1968|xrOgYjp20j0|Van Morrison|S2522
 Billie Holiday|God Bless the Child|1941|Z_1LfT1MvzI|Billie Holiday|S2694
 Elvis Presley|Can't Help Falling in Love|1961|vGJTaP6anOU|Elvis Presley|S1640
-Black Sabbath|Black Sabbath|1970|2KnyL4IFcwo|Black Sabbath|S3217
+Black Sabbath|Black Sabbath|1970|0lVdMbUx1_k|Black Sabbath|S3217
 Bon Iver|Holocene|2011|TWcyIpul8OE|Bon Iver|S4946
 The Beach Boys|Heroes and Villains|1967|5gu-hzfhv10|The Beach Boys|S2282
 SZA feat. Travis Scott|Love Galore|2017|hHXfCOjb3fk|SZA (singer)|S16492
@@ -1749,7 +1749,7 @@ Four Tops|Bernadette|1967|5pVM00eoohI|Four Tops|S1448
 Radiohead|Daydreaming|2016|TTAU7lLDZYU|Radiohead|S16170
 Orbital|Chime|1989|HXU5Rxc3vBQ|Orbital (band)|S223
 Whitney Houston|I Will Always Love You|1992|3JWTaaS7LdU|Whitney Houston|S177
-The Edwin Hawkins Singers|Oh Happy Day|1968|6tSyzTIJ82g|Oh Happy Day|S1709
+The Edwin Hawkins Singers|Oh Happy Day|1968|6tSyzTIJ82g|Edwin Hawkins|S1709
 Lady Gaga|Poker Face|2008|bESGLojNYSo|Lady Gaga|S4815
 Buzzcocks|What Do I Get?|1978|HfkMDqijvVs|Buzzcocks|S621
 Radiohead|Reckoner|2007|_uofQD-N6UI|Radiohead|S4663
@@ -2851,7 +2851,7 @@ King Oliver & His Jazz Band|Dipper Mouth Blues|1923|BEF9QeHxrYw|King Oliver|S459
 Sleater-Kinney|Dig Me Out|1997|FbmZi_VS4ZM|Sleater-Kinney|S8444
 Black Box|Ride On Time|1989|M0quXl_od3g|Black box|S266
 Big Brother and The Holding Company|Summertime|1968|A24JZkgvNv4|Big Brother and the Holding Company|S5434
-Pearl Jam|Black|1991|QV2iYFl5eSk|Pearl Jam|S3691
+Pearl Jam|Black|1991|5ZH2it92ZmA|Pearl Jam|S3691
 Jurassic 5|Concrete Schoolyard|1997|mcFmo_v81IU|Jurassic 5|S2157
 Electric Light Orchestra|Evil Woman|1975|LBtuk4JcYTs|Electric Light Orchestra|S6227
 Def Leppard|Pour Some Sugar on Me|1987|14iHRpk9qvQ|Def Leppard|S3325
@@ -3430,7 +3430,7 @@ Dick Dale|Let's Go Trippin'|1961|W1gskj1VQR0|Dick Dale|S1124
 LaVern Baker|Jim Dandy|1956|m8e3yM8KV_I|LaVern Baker|S1277
 Muse|Time Is Running Out|2003|O2IuJPh6h_A|Muse (band)|S7646
 Sleater-Kinney|A New Wave|2015|Kc1htX3q-F0|Sleater-Kinney|S9836
-Television|Little Johnny Jewel|1975|K2lHt3YFIW4|Television|S702
+Television|Little Johnny Jewel|1975|K2lHt3YFIW4|Television (band)|S702
 George Michael|I Want Your Sex|1987|vldh7oQD-a4|George Michael|S4208
 Spacemen 3|Revolution|1988|qdQn7c62zHM|Spacemen 3|S4478
 Van Morrison|And It Stoned Me|1970|h33h90xbFeM|Van Morrison|S3639
@@ -4909,7 +4909,7 @@ Wah!|The Story of the Blues|1982|FO5-w3540H8|Wah-wah pedal|S4456
 Prefab Sprout|Cars & Girls|1988|jEJdfDD4dVg|Prefab Sprout|S2924
 Billy Joel|New York State of Mind|1976|iM4LzEcaTK0|Billy Joel|S5456
 Katerine|Je vous emmerde|1999|s24wrXlA7nU|Philippe Katerine|S7066
-Michael Jackson|Ben|1972|g40WCBaUXR4|Michael Jackson|S7532
+Michael Jackson|Ben|1972|s0u8iA6bJTo?start=31|Michael Jackson|S7532
 The Soup Dragons|I'm Free|1990|ZVGf3ePIO04|The Soup Dragons|S8508
 Bad Company|Ready For Love|1974|nbqjBpNT1sc|Bad Company|S10064
 Beach House|Space Song|2015|f9X1C7pTu-M|Beach House|S9707
@@ -5015,7 +5015,7 @@ Bee Gees|New York Mining Disaster 1941|1967|S43YhQ_eGTw|Bee Gees|S5394
 OutKast|Elevators (Me & You)|1996|fAeFEmp0WFU|Outkast|S11818
 Donovan|Wear Your Love Like Heaven|1967|6bmruh9tKxM|Donovan|S3348
 Fever Ray|When I Grow Up|2009|4F-CpE73o2M|Karin Dreijer|S4798
-The Supremes|Come See About Me|1964|_CF3OsncGjU|The Supremes|S8647
+The Supremes|Come See About Me|1964|PycKSdKG_74|The Supremes|S8647
 Electric Six|Gay Bar|2003|IslF_EyhMzg|Electric Six|S2249
 Kiss|Black Diamond|1974|y0nNZ5wAWZE|Kiss|S3544
 Whitney Houston|It's Not Right But It's Okay|1998|6J538b-OLRU|Whitney Houston|S2170
@@ -5874,7 +5874,7 @@ Hombres G|Devuélveme a mi chica|1985|4iJJCaSyoSw|Hombres G|S11040
 Rancid|Ruby Soho|1995|0P9QMkm9Eew|Rancid (band)|S12026
 Bob Wills and His Texas Playboys|Take Me Back to Tulsa|1941|BCjbMdY8dZE|Bob Wills|S2763
 David Bowie|The Stars (Are Out Tonight)|2013|gH7dMBcg-gE|David Bowie|S9430
-Pearl Jam|Elderly Woman Behind the Counter in a Small Town|1993|2z0cKtSlHOU|Pearl Jam|S7917
+Pearl Jam|Elderly Woman Behind the Counter in a Small Town|1993|kEHd3fYsRyM|Pearl Jam|S7917
 Killing Joke|Love Like Blood|1985|TnpwuRlXbhk|Killing Joke|S7103
 Phoenix|Consolation Prizes|2006|gnkVUReUVpQ|Phoenix (band)|S7956
 ABC|Tears Are Not Enough|1981|rHJ4Sm-xIN8|ABC (band)|S522
@@ -6603,7 +6603,7 @@ The Loved Ones|The Loved One|1966|axUYL2I6KF8|The Loved Ones|S4097
 A$AP Rocky|Goldie|2012|fLCf-URqIf0|ASAP Rocky|S4994
 The Soggy Bottom Boys|I Am a Man of Constant Sorrow|2000|OdYGnAFaeHU|O Brother, Where Art Thou?|S8482
 The Shirelles|Mama Said|1961|L842mz-tNBQ|The Shirelles|S4392
-Barbra Streisand|Woman in Love|1980|a8DE5U6npkQ|Barbra Streisand|S5323
+Barbra Streisand|Woman in Love|1980|CzQPJy8Q6qE|Barbra Streisand|S5323
 The Ink Spots|The Gypsy|1946|vG6g5CkyWAo|The Ink Spots|S6785
 James Brown|Out of Sight|1964|zieXmNwHGYA|James Brown|S2822
 The Sisters of Mercy|Temple of Love|1983|evu3I0ZoERc|The Sisters of Mercy|S12217
@@ -6789,7 +6789,7 @@ R.E.M.|The Great Beyond|1999|k_JnCWT-_O8|R.E.M.|S11992
 New Order|Thieves Like Us|1984|Fc1ldXDJicY|New Order (band)|S11744
 Angel Olsen|Forgiven/Forgotten|2014|PinTAGbIsV4|Angel Olsen|S9615
 Jacques Higelin|Pars|1978|eNmoKIIwoWQ|Jacques Higelin|S6836
-Television|See No Evil|1977|a7L0IYPXKj8|Television|S2594
+Television|See No Evil|1977|a7L0IYPXKj8|Television (band)|S2594
 ScHoolboy Q feat. Kanye West|THat Part|2016|uQ_DHRI-Xp0|Schoolboy Q|S16183
 Coleman Hawkins|The Man I Love|1944|i7m8DRtx_Xc|Coleman Hawkins|S13430
 Ladyhawke|My Delirium|2008|X_bFO1SNRZg|Ladyhawke (musician)|S11360
@@ -6841,7 +6841,7 @@ Kelis feat. Too $hort|Bossy|2006|SSgp-IIgr4I|Kelis|S4006
 Truth Hurts feat. Rakim|Addictive|2002|Xcj9O-Cv48c|Truth Hurts|S1522
 Sanford Clark|The Fool|1956|QfSDhVHZQY4|Sanford Clark|S2781
 Hoodoo Gurus|I Want You Back|1984|Ov_ByEAACok|Hoodoo Gurus|S6730
-Nick Drake|Cello Song|1969|MhSVh75lKiE|Nick Drake|S11751
+Nick Drake|Cello Song|1969|h4y8WGOJu_c|Nick Drake|S11751
 Ja, Panik|DMD KIU LIDT|2011|rt5wQd15qXQ|Antilopen Gang|S6815
 The Charlatans|One to Another|1996|lD8Surgpn2M|The Charlatans (English band)|S46
 Kendrick Lamar|Sing About Me (I'm Dying of Thirst)|2012|Z3CnfFQENkw|Kendrick Lamar|S7085
@@ -7063,7 +7063,7 @@ The Flying Burrito Bros|Dark End of the Street|1969|ovorTymu-1A|The Flying Burri
 Pat Boone|Speedy Gonzales|1962|v4s2AMKPHnE|Pat Boone|S7858
 Laura Marling|Sophia|2011|ZVzNBRWJQBA|Laura Marling|S13864
 Des'ree|You Gotta Be|1994|pO40TcKa_5U|Des'ree|S6049
-Television|Venus|1977|4f3d5ZdE4vY|Television|S12837
+Television|Venus|1977|4f3d5ZdE4vY|Television (band)|S12837
 X|We're Desperate|1978|kt-ORs0sGQk|X (American band)|S3978
 Pink Floyd|Fearless|1971|TeyHPAdxuy0|Pink Floyd|S9321
 John Lennon|Woman|1980|ZhfWiU8wGCc|John Lennon|S6958
@@ -8166,7 +8166,7 @@ Red Foley|Chattanoogie Shoe Shine Boy|1950|u6QaW0a7DeM|Red Foley|S8118
 Friendly Fires|Skeleton Boy|2008|GyA8zfouG4Y|Friendly Fires|S6484
 Johnny Otis|Harlem Nocturne|1945|3bYPnfXXUp4|Johnny Otis|S9264
 Kate Bush|King of the Mountain|2005|F8xk_AkeP5c|Kate Bush|S11292
-Black Sabbath|Symptom of the Universe|1975|GhZ4t7pRyjE|Black Sabbath|S14154
+Black Sabbath|Symptom of the Universe|1975|I8_NCX2AwLE|Black Sabbath|S14154
 Tortoise|Gamera|1995|OLCgcp83Tfg|Tortoise (band)|S8823
 Warren Zevon|Keep Me in Your Heart|2003|6dscsGRjpxk|Warren Zevon|S8939
 Morrissey|Speedway|1994|SvbuLtncmtw|Morrissey|S7605
@@ -8418,7 +8418,7 @@ My Morning Jacket|Circuital|2011|o3lzQ32BcSI|My Morning Jacket|S7653
 Sting|Russians|1985|wHylQRVN2Qs|Sting (musician)|S12971
 3rd Bass|Pop Goes the Weasel|1991|HzXI_ApY4dY|3rd Bass|S2930
 The Jacksons|Heartbreak Hotel|1980|OOkKDqWt4uk|The Jackson 5|S3507
-Television|Friction|1977|RwrCUEMl76U|Television|S15117
+Television|Friction|1977|RwrCUEMl76U|Television (band)|S15117
 Robert Johnson|Me and the Devil Blues|1938|3MCHI23FTP8|Robert Johnson|S12073
 The Mothers of Invention|Brown Shoes Don't Make It|1967|EZLWD75KKGA|The Mothers of Invention|S3990
 Serge Lama|Je suis malade|1973|HDbpZpm9j9c|Serge Lama|S12182
@@ -9518,7 +9518,7 @@ Radiohead|Videotape|2007|-0ZECWpnQNQ|Radiohead|S15807
 Miles Davis|Right Off|1971|VN0rvZwTwRI|Miles Davis|S12810
 Clipse|Trill|2006|Dm_vSnOsb5A|Clipse|S5836
 Fabrizio De André|Il pescatore|1970|ijEHZufmKU8|Fabrizio De André|S12986
-The Plan|Mon amour|2001|itOux4cz8K4|The Dillinger Escape Plan|S7977
+The Plan|Mon amour|2001|itOux4cz8K4|The Plan (band)|S7977
 Billy Squier|The Stroke|1981|C_OGARBe6W0|Billy Squier|S5464
 The Supermen Lovers|Starlight|2001|h61QG4s0I3U|The Supermen Lovers|S15090
 Cigarettes After Sex|K.|2016|wha6bFmUtCA|Cigarettes After Sex|S16355
@@ -9912,7 +9912,7 @@ The American Breed|Bend Me, Shape Me|1967|zarsqZCXO8Y|The American Breed|S13264
 The Rolling Stones|Rip This Joint|1972|NehZl_X3hjQ|The Rolling Stones|S12098
 Generationals|Ten-Twenty-Ten|2011|f2-4PTjB7Do|Generationals|S6522
 Wynonie Harris|All She Wants to Do Is Rock|1949|T_vgfavJ50E|Wynonie Harris|S9072
-Pearl Jam|Rearviewmirror|1993|nLsnJAj5cms|Pearl Jam|S7919
+Pearl Jam|Rearviewmirror|1993|8Fxk2JrZgvA|Pearl Jam|S7919
 Vera Lynn|We'll Meet Again|1939|cHcunREYzNY|Vera Lynn|S8974
 Joe Tex|Skinny Legs and All|1967|7Sdib6gd190|Joe Tex|S6938
 Sagittarius|My World Fell Down|1967|xYol-vW_brI|Sagittarius (band)|S14984
