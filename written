@@ -350,7 +350,7 @@ Jackie Wilson|(Your Love Keeps Lifting Me) Higher and Higher|1967|mzDVaKRApcg|Ja
 Radiohead|Fake Plastic Trees|1995|n5h0qHwNrHk|Radiohead|S72
 The Supremes|Where Did Our Love Go|1964|qTBmgAOO0Nw|The Supremes|S1036
 The 13th Floor Elevators|You're Gonna Miss Me|1966|0OytJYBfwUk|The 13th Floor Elevators|S1680
-The Cure|Boys Don't Cry|1979|ryImbOTDXe8|The Cure|S596
+The Cure|Boys Don't Cry|1979|3XSMgn03uWU|The Cure|S596
 New Order|Bizarre Love Triangle|1986|Dj3p9CI9QGE|New Order (band)|S1943
 Roy Orbison|Only the Lonely (Know the Way I Feel)|1960|4YG__LBJVZ0|Roy Orbison|S1144
 Richard Hell & The Voidoids|Blank Generation|1977|TDT19fU3a9I|Richard Hell and the Voidoids|S647
@@ -967,7 +967,7 @@ The Contours|Do You Love Me|1962|3EoI-6lQFIE|The Contours|S1082
 The Beta Band|Dry the Rain|1997|DS0hSP-3U14|The Beta Band|S2144
 Charli XCX|Boys|2017|mPRy1B4t5YA|Charli XCX|S16352
 Bob Dylan|Blind Willie McTell|1991|YaoiyLYdTVo|Bob Dylan|S3365
-The Jam|In the City|1977|ZcK5Go8CzRc|The Jam|S1786
+The Jam|In the City|1977|fXz7iOmNJ8E|The Jam|S1786
 Elastica|Connection|1994|ilKcXIFi-Rc|Elastica|S93
 Chuck Berry|Sweet Little Sixteen|1958|ZLV4NGpoy_E|Chuck Berry|S1206
 John Coltrane|My Favorite Things|1961|YHVarQbNAwU|John Coltrane|S3297
@@ -1528,7 +1528,7 @@ Talking Heads|Road to Nowhere|1985|LQiOA7euaYA|Talking Heads|S1932
 Beastie Boys|Hey Ladies|1989|Naf5uJYGoiU|Beastie Boys|S1999
 Animal Collective|Summertime Clothes|2009|BAyADMSppaw|Animal Collective|S4785
 Bob Dylan|Not Dark Yet|1997|7JBHyE18L3o|Bob Dylan|S2133
-Garbage|Stupid Girl|1995|2GhPUAVgHZc|Garbage|S43
+Garbage|Stupid Girl|1995|2GhPUAVgHZc|Garbage (band)|S43
 Joe Jackson|Is She Really Going Out with Him?|1978|6TzKSFbsh2Y|Joe Jackson (musician)|S1566
 Thin Lizzy|Whiskey in the Jar|1972|_j4OC7-g_84|Thin Lizzy|S1553
 Kraftwerk|Radioaktivität / Radioactivity|1975|0EBTn_3DBYo|Kraftwerk|S7145
@@ -2161,7 +2161,7 @@ Gossip|Heavy Cross|2009|5mQVljB7JGw|Gossip (band)|S4802
 Average White Band|Pick Up the Pieces|1974|FnH_zwVmiuE|Average White Band|S1772
 Brandy and Monica|The Boy Is Mine|1998|jBmkCoiHC2c|Brandy Norwood|S281
 Mano Negra|Mala vida|1988|rc_JlAbCEeM|Mano Negra (band)|S7404
-Léo Ferré|Avec le temps|1971|ZH7dG0qyzyg|Léo Ferré|S4415
+Léo Ferré|Avec le temps|1971|bVrulTsu2S8|Léo Ferré|S4415
 Blur|Coffee + TV|1999|6oqXVx3sBOk|Blur (band)|S2177
 Yardbirds|Shapes of Things|1966|Jc17DqcA6Qc|The Yardbirds|S1441
 The Chemical Brothers|Galvanize|2005|Xu3FTEmN-eg|The Chemical Brothers|S3033
@@ -2456,7 +2456,7 @@ Rihanna|Needed Me|2016|wfN4PVaOU5Q|Rihanna|S16176
 Pink Floyd|Echoes|1971|KBca3xf-j3o|Pink Floyd|S7961
 Duffy|Mercy|2008|y7ZEVA5dy-Y|Stephen Duffy|S4714
 Hanson|Mmmbop|1997|NHozn0YXAeE|Hanson (band)|S6
-Garbage|Queer|1995|3ppiohVRZ0s|Garbage|S2430
+Garbage|Queer|1995|3ppiohVRZ0s|Garbage (band)|S2430
 Sugababes|Freak Like Me|2002|kGSajAGg9h4|Sugababes|S1505
 The Cars|Drive|1984|xuZA6qiJVfU|The Cars|S3263
 The Beach Boys|Sloop John B|1966|09dQmeB_NgU|The Beach Boys|S2280
@@ -2962,7 +2962,7 @@ Yazoo|Only You|1982|LIiyT67Sjbg|Yazoo (band)|S1882
 Hank Williams|Lost Highway|1949|lCgicPdsxxg|Hank Williams|S1604
 The Aztec Mystic|Jaguar|1999|C6xVKcvze74|Oingo Boingo|S1372
 Guided by Voices|I Am a Scientist|1994|zN9x6zckn18|Guided by Voices|S3454
-Genesis|I Know What I Like (In Your Wardrobe)|1973|y1tFQMjc-IE|Genesis (band)|S1762
+Genesis|I Know What I Like (In Your Wardrobe)|1973|CubzEiY42zk|Genesis (band)|S1762
 Beck|Lost Cause|2002|qkNa5xzOe5U|Beck|S4609
 Ella Fitzgerald|Ev'rytime We Say Goodbye|1956|GGNLLJz4Ajw|Ella Fitzgerald|S4371
 The Police|Can't Stand Losing You|1978|nH0vjLwMyc4|The Police|S3712
@@ -3306,7 +3306,7 @@ Frank Sinatra|In the Wee Small Hours of the Morning|1955|MiPUv4kXzvw|Frank Sinat
 Stereolab|French Disko|1993|IH3aQJj119Y|Stereolab|S8559
 Love|Andmoreagain|1967|zfis7-VEYMs|Love|S7337
 Pigbag|Papa's Got a Brand New Pigbag|1981|omYKI8RJaIg|Pigbag|S525
-Garbage|Only Happy When It Rains|1995|GpBFOJ3R0M4|Garbage|S2112
+Garbage|Only Happy When It Rains|1995|GpBFOJ3R0M4|Garbage (band)|S2112
 Fleetwood Mac|Sara|1979|ScSsOA4UVr8|Fleetwood Mac|S6395
 U2|Angel of Harlem|1988|xa0WNP3Zwwo|U2|S8878
 Henri Salvador|Syracuse|1963|223tksvu7uw|Henri Salvador|S4396
@@ -4814,7 +4814,7 @@ INXS|Suicide Blonde|1990|psDTiUV0PNI|INXS|S3499
 Gerry and The Pacemakers|Ferry Cross the Mersey|1964|08083BNaYcA|Gerry and the Pacemakers|S6551
 Sleater-Kinney|One More Hour|1997|3VoWc3yypHs|Sleater-Kinney|S12228
 Destiny's Child|Survivor|2001|Wmc8bQoL-J0|Destiny's Child|S1483
-Garbage|Push It|1998|Pmd3UiNfNkA|Garbage|S6499
+Garbage|Push It|1998|Pmd3UiNfNkA|Garbage (band)|S6499
 ABBA|Fernando|1976|dQsjAbZDx-4|ABBA|S5084
 Alain Bashung|Osez Josephine|1991|4bZWH1th3_w|Alain Bashung|S5137
 The Osmonds|Crazy Horses|1972|iXcj8dFOd1E|The Osmonds|S2315
@@ -4969,7 +4969,7 @@ Bruce Springsteen|Stolen Car|1980|UnHy_46DfiE|Bruce Springsteen|S4193
 Lynyrd Skynyrd|Saturday Night Special|1975|3vF66CsYEnc|Lynyrd Skynyrd|S11505
 Taylor Swift|I Knew You Were Trouble|2012|vNoKguSdy4Y|Taylor Swift|S12398
 Sufjan Stevens|I Walked|2010|JqNAdDNQP04|Sufjan Stevens|S4924
-Garbage|I Think I'm Paranoid|1998|ypr18UmxOas|Garbage|S6498
+Garbage|I Think I'm Paranoid|1998|ypr18UmxOas|Garbage (band)|S6498
 Sister Rosetta Tharpe|This Train|1939|jOrhjgt-_Qc|Sister Rosetta Tharpe|S2750
 Ginuwine|Pony|1996|lbnoG2dsUk0|Ginuwine|S6567
 Simple Minds|Waterfront|1983|vxXfu-Kbtbc|Simple Minds|S8420
@@ -5400,7 +5400,7 @@ Mama Cass with The Mamas and the Papas|Dream a Little Dream of Me|1968|ajwnmkEqY
 Donna Summer|Last Dance|1978|vqZY8P42pLo|Donna Summer|S6127
 The Waitresses|I Know What Boys Like|1982|bsneH0mOq-0|The Waitresses|S3925
 Sparks|Never Turn Your Back on Mother Earth|1974|haf5s0b--zw|Sparks (band)|S8516
-Death from Above 1979|Romantic Rights|2004|2Ia3baO8qHQ|Death from Above (band)|S6000
+Death from Above 1979|Romantic Rights|2004|6Wnl9PpnTXI|Death from Above (band)|S6000
 Raekwon feat. Ghostface Killah, Cappadonna & Method Man|Ice Cream|1995|zo8mqo5h7Gg|Raekwon|S8081
 Neil Young & Crazy Horse|Pocahontas|1979|Pm7-TdJ5dDI|Crazy Horse (band)|S7691
 Koko Taylor|Wang Dang Doodle|1966|_w6IY0v-0pA|Koko Taylor|S7141
@@ -5430,7 +5430,7 @@ Amy Winehouse|You Know I'm No Good|2006|b-I2s5zRbHg|Amy Winehouse|S5191
 The Cranberries|Dreams|1992|Yam5uK6e-bQ|The Cranberries|S3304
 Sparks|The Number One Song in Heaven|1979|P6I6yr7WDeg|Sparks (band)|S8519
 Pretenders|Don't Get Me Wrong|1986|P6u9C_SH3mQ|The Pretenders|S8001
-Garbage|#1 Crush|1995|PX7LLua5NCM|Garbage|S10899
+Garbage|#1 Crush|1995|PX7LLua5NCM|Garbage (band)|S10899
 Girls|Honey Bunny|2011|IxuDoYhQI2o|Girls (band)|S6571
 Sonny Boy Williamson (II)|Don't Start Me Talkin'|1955|lE47EQawico|Sonny Boy Williamson II|S1610
 Steve Miller Band|Abracadabra|1982|7QyoRzZrF00|Steve Miller Band|S8576
@@ -7107,12 +7107,12 @@ Blumfeld|Wir sind frei|2003|vrMTs1KwxhQ|Blumfeld|S5525
 Foreigner|Cold As Ice|1977|mjwV5w0IrcA|Foreigner|S6420
 Shanks & Bigfoot|Sweet Like Chocolate|1999|OQCQnARnKbc|Shanks & Bigfoot|S8380
 Bob Dylan|Highlands|1997|Tt-N_irbG90|Bob Dylan|S10228
-Garbage|Special|1998|raRGnueg8Lo|Garbage|S6500
+Garbage|Special|1998|raRGnueg8Lo|Garbage (band)|S6500
 Premiata Forneria Marconi|Impressioni di settembre|1971|OzbDUbu1lMM|Premiata Forneria Marconi|S13599
 Grizzly Bear|Sleeping Ute|2012|Hk3tURx8a2Q|Grizzly bear|S6649
 Pearl Jam|Sirens|2013|4jZBwyG7HPs|Pearl Jam|S11873
 D'Angelo|Devil's Pie|1998|8fNtipp5RLs|D'Angelo|S10491
-Garbage|Vow|1995|qZsVcoWRIkY|Garbage|S84
+Garbage|Vow|1995|qZsVcoWRIkY|Garbage (band)|S84
 The Lovin' Spoonful|Nashville Cats|1966|P4p7prURvIk|The Lovin' Spoonful|S7341
 Jamie Lidell|Multiply|2005|vvXNhRC8HEY|Jamie Lidell|S6852
 Elastica|Waking Up|1995|WlOje4ly4hg|Elastica|S2103
@@ -7979,7 +7979,7 @@ Gene Clark|No Other|1974|x901yPr6pP8|Gene Clark|S6516
 Maroon 5|This Love|2002|XPpTgCho5ZA|Maroon 5|S9287
 Eminem|Mosh|2004|9wRLd5l7WYE|Eminem|S2482
 Depeche Mode|Freelove|2001|2YRcCqmgko0|Depeche Mode|S6046
-John Hiatt|Riding With the King|1983|njdPbIZvONg|John Hiatt|S6945
+John Hiatt|Riding With the King|1983|aGt0uAC9FIE|John Hiatt|S6945
 Bob Seger & The Silver Bullet Band|Hollywood Nights|1978|_D4eUWBAE_A|Bob Seger|S10255
 Fleetwood Mac|Little Lies|1987|uCGD9dT12C0|Fleetwood Mac|S10827
 Guns N' Roses|Live and Let Die|1991|6D9vAItORgE|Guns N' Roses|S10992
@@ -9650,7 +9650,7 @@ G-Love and Special Sauce|Cold Beverage|1994|pk9-28HgxfE|G. Love & Special Sauce|
 Earl Sweatshirt|Chum|2012|FCbWLSZrZfw|Earl Sweatshirt|S10671
 Vox Dei|Presente (El momento en que estás)|1970|fYz80x6fY-k|Vox Dei|S12624
 The Impalas|Sorry (I Ran All the Way Home)|1959|ufz4-fRCwwo|The Impalas|S3493
-Liars|Scarecrows on a Killer Slant|2010|N9Aq-gjMzoo|Liars (band)|S7257
+Liars|Scarecrows on a Killer Slant|2010|iNEijb9s3lU|Liars (band)|S7257
 Veneno|Los Delincuentes|1977|FSG09yXgK1U|Veneno|S13111
 Elbow|Newborn|2000|syQOaO9s2Tw|Elbow (band)|S6221
 Beck|Gamma Ray|2008|NgzfncwjcCE|Beck|S5391
