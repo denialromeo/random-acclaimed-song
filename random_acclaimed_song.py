@@ -3,9 +3,10 @@ import json
 import re
 import requests
 
-INFILE   = "all-songs"
-OUTFILE  = "written"
-TEMPFILE = "new-written"
+DIR      = "C:\\Users\\hi\\Desktop\\code\\random-acclaimed-song\\"
+INFILE   = DIR + "all-songs"
+OUTFILE  = DIR + "written"
+TEMPFILE = DIR + "new-written"
 
 api_keys = ["AIzaSyBQnISjzNNGwITiZ9IGa8h-ACv-zFcQnZw",
             "AIzaSyD708scD_-j8jkICMSLnhWl9wTDMEN9w3c",
