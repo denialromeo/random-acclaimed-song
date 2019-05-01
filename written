@@ -71,7 +71,7 @@ Ben E. King|Stand by Me|1961|pKtLNYNWbBw|Ben E. King|S1111
 The Smiths|How Soon Is Now?|1984|OztC_7nkAd8|The Smiths|S394
 Missy Elliott|Get Ur Freak On|2001|FPoKiGQzbSQ|Missy Elliott|S1456
 Elvis Presley|Hound Dog|1956|lzQ8GDBA8Is|Elvis Presley|S1262
-Elvis Presley|Suspicious Minds|1969|RxOBOhRECoo|Elvis Presley|S879
+Elvis Presley|Suspicious Minds|1969|MT3P7p-WNSY|Elvis Presley|S879
 Billie Holiday|Strange Fruit|1939|hovcIcAM8g0|Billie Holiday|S2693
 Guns N' Roses|Sweet Child O' Mine|1987|1w7OgIMMRc4|Guns N' Roses|S303
 The Mamas and the Papas|California Dreamin'|1965|qhZULM69DIw|The Mamas and the Papas|S1010
@@ -742,7 +742,7 @@ Radiohead|Everything in Its Right Place|2000|GnfPaaMR6Qc|Radiohead|S2640
 The Zombies|She's Not There|1964|_2hXBf1DakE|The Zombies|S1038
 The Beach Boys|Surfin' U.S.A.|1963|H0bhSGfKTs4|The Beach Boys|S1064
 The Beach Boys|Surf's Up|1971|tyOYQ8qfFng|The Beach Boys|S1729
-Frank Sinatra|I've Got You Under My Skin|1956|OqH7VwpSwBo|Frank Sinatra|S2786
+Frank Sinatra|I've Got You Under My Skin|1956|OqH7VwpSwBo?start=5|Frank Sinatra|S2786
 Wu-Tang Clan|C.R.E.A.M. (Cash Rules Everything Around Me)|1993|PBwAxmrE194|Wu-Tang Clan|S2090
 Usher|Climax|2012|nNTyfVh3nmU|Usher (musician)|S5049
 Black Sabbath|War Pigs|1970|K3b6SGoN6dA|Black Sabbath|S4542
@@ -1018,7 +1018,7 @@ Santana|Black Magic Woman|1970|wyQUCYl-ocs|Santana (band)|S861
 Madonna|Music|2000|Sdz2oW0NMFk|Madonna (entertainer)|S1381
 Sister Sledge|We Are Family|1979|uyGY2NfYpeE|Sister Sledge|S587
 Bachman-Turner Overdrive|You Ain't Seen Nothing Yet|1974|4cia_v4vxfE|Bachman–Turner Overdrive|S726
-The Stone Roses|I Am the Resurrection|1989|57ajn-NXtdc|The Stone Roses|S2060
+The Stone Roses|I Am the Resurrection|1989|2BfnXX7EvhM|The Stone Roses|S2060
 Al Green|Love and Happiness|1972|rqqAnjY2Rmo|Al Green|S2316
 Robert Johnson|Hellhound on My Trail|1937|OHAIgpih86E|Robert Johnson|S2709
 T.I.|What You Know|2006|N5lIWti4VUw|T.I.|S4001
@@ -1439,7 +1439,7 @@ The Byrds|So You Want to Be a Rock 'n' Roll Star|1967|XMoop0rn780|The Byrds|S957
 LL Cool J|Mama Said Knock You Out|1990|vimZj8HW0Kg|LL Cool J|S2026
 The Staple Singers|I'll Take You There|1972|uY3vgBzgYn4|The Staple Singers|S1319
 Kiss|I Was Made for Lovin' You|1979|zlSFmotba2I|Kiss|S3545
-Björk|Human Behaviour|1993|Dh5t4mYKsbg|Björk|S134
+Björk|Human Behaviour|1993|36Srr08PN_Y|Björk|S134
 Four Tops|Baby I Need Your Loving|1964|joqjBAJx4ZA|Four Tops|S1029
 Blur|For Tomorrow|1993|gghFPavXE7Q|Blur (band)|S141
 Pearl Jam|Daughter|1993|zgUwd2Gkb-E|Pearl Jam|S2069
@@ -1802,7 +1802,7 @@ Joey Beltram|Energy Flash|1990|ALsHox5sYCk|Joey Beltram|S240
 The Libertines|Don't Look Back into the Sun|2003|jLYsIESNtUc|The Libertines|S2251
 The Cardigans|Lovefool|1996|NI6aOFI7hms|The Cardigans|S4514
 Pete Rock and C.L. Smooth|They Reminisce Over You (T.R.O.Y.)|1992|BONgL61snlM|Pete Rock|S169
-Björk|Jóga|1997|oFV4QCq9SEU|Björk|S4520
+Björk|Jóga|1997|BBju9Sdh94k|Björk|S4520
 R.E.M.|Nightswimming|1992|O-YHU6BwPR0|R.E.M.|S8060
 Domenico Modugno|Nel blu, dipinto di blu ("Volare")|1958|t4IjJav7xbg|Domenico Modugno|S6119
 Snoop Doggy Dogg|What's My Name?|1993|2soGJXQAQec|Snoop Dogg|S147
@@ -1977,7 +1977,7 @@ The White Stripes|Icky Thump|2007|1OjTspCqvk8|The White Stripes|S4291
 George Harrison|What Is Life|1970|fiH9edd25Bc|George Harrison|S6532
 Jan and Dean|Surf City|1963|ERrwjR4ZlfI|Jan and Dean|S1070
 Blood Orange feat. Empress Of|Best to You|2016|cR2EzHlPzxA|Dev Hynes|S16041
-Primal Scream|Kowalski|1997|2l-V6KygkFU|Primal Scream|S10
+Primal Scream|Kowalski|1997|ZVcwG-gY9dM|Primal Scream|S10
 Kanye West feat. Rihanna|All of the Lights|2010|HAfFfqiYLp0|Kanye West|S4911
 Phoenix|If I Ever Feel Better|2000|jJp3kVelU3c|Phoenix (band)|S2197
 Stevie Wonder|Master Blaster (Jammin')|1980|s-zvfdYuPc8|Stevie Wonder|S546
@@ -2347,7 +2347,7 @@ The Beatles|Drive My Car|1965|kfSQkZuIx84|The Beatles|S3184
 Violent Femmes|Gone Daddy Gone|1983|ekL7o8BQkZM|Violent Femmes|S4459
 Al Stewart|Year of the Cat|1976|2i46s52JAUE|Al Stewart|S5133
 Arcade Fire|No Cars Go|2003|P77GfpzqDvQ|Arcade Fire|S4294
-Björk|Bachelorette|1997|Th7QmZiz6Lc|Björk|S2143
+Björk|Bachelorette|1997|mZEWtivQTTg|Björk|S2143
 Bomb the Bass|Beat Dis|1987|mHh5rDcQKhQ|Bomb the Bass|S1984
 Huey "Piano" Smith & The Clowns|Rockin' Pneumonia & the Boogie Woogie Flu|1957|03o-6To7xMQ|Huey "Piano" Smith|S1248
 Robert Johnson|Terraplane Blues|1936|It-tJ8DOjIk|Robert Johnson|S2708
@@ -3423,7 +3423,7 @@ Jacques Dutronc|Les Playboys|1966|OJrmwbdDDuQ|Jacques Dutronc|S4404
 Frankie Goes to Hollywood|The Power of Love|1984|NyoTvgPn0rU|Frankie Goes to Hollywood|S4464
 Madness|Baggy Trousers|1980|Dc3AovUZgvo|Madness (band)|S3582
 The Angels [USA]|My Boyfriend's Back|1963|ebycvE3Pess|The Angels (American group)|S3151
-ABBA|Gimme! Gimme! Gimme! (A Man After Midnight)|1979|JWay7CDEyAI|ABBA|S5086
+ABBA|Gimme! Gimme! Gimme! (A Man After Midnight)|1979|Rgu_0g0ztT4|ABBA|S5086
 Buena Vista Social Club|Chan Chan|1997|UXwLBS3yUkA|Buena Vista Social Club|S5670
 Solange feat. Sampha|Don't Touch My Hair|2016|YTtrnDbOQAU|Solange Knowles|S16191
 Dick Dale|Let's Go Trippin'|1961|W1gskj1VQR0|Dick Dale|S1124
@@ -3455,7 +3455,7 @@ The National|Graceless|2013|Jpz_gUyImhw|The National (band)|S9533
 Primitive Radio Gods|Standing Outside a Broken Phone Booth with Money in My Hand|1996|4XJxFAoiWSY|Primitive Radio Gods|S31
 Lil Jon & The Eastside Boyz feat. Ying-Yang Twins|Get Low|2002|IYH7_GzP4Tg|Lil Jon|S2261
 Aretha Franklin|Rock Steady|1971|EXJx2NnnxA0|Aretha Franklin|S1731
-Dr. John|Right Place Wrong Time|1973|HT4RainY-lY|Dr. John|S1561
+Dr. John|Right Place Wrong Time|1973|nnLP3ht8yP8|Dr. John|S1561
 The Temptations|(I Know) I'm Losing You|1966|LWr_F4Gg8sY|The Temptations|S3886
 The O'Jays|For the Love of Money|1973|GXE_n2q08Yw|The O'Jays|S1757
 Van McCoy|The Hustle|1975|wj23_nDFSfE|Van McCoy|S8918
@@ -3525,7 +3525,7 @@ Arcade Fire|The Suburbs|2010|5Euj9f3gdyM|Arcade Fire|S5227
 Aphex Twin|Digeridoo|1992|S5UBYOv1G9A|Aphex Twin|S180
 Aimee Mann|Save Me|1999|4c48vs4lwgc|Aimee Mann|S3591
 Talk Talk|Such a Shame|1984|lLdvpFIPReA|Talk Talk|S8672
-Chairlift|I Belong in Your Arms|2012|3e8Ql9qFA2o|Chairlift|S5004
+Chairlift|I Belong in Your Arms|2012|3e8Ql9qFA2o|Chairlift (band)|S5004
 Bon Iver|22 (Over Soon)|2016|DJ5X8OelEgs|Bon Iver|S16043
 Sophie Tucker|Some of These Days|1911|3heCSPJrO70|Sophie Tucker|S2753
 AC/DC|Let There Be Rock|1977|3f2g4RMfhS0|AC/DC|S5088
@@ -6003,7 +6003,7 @@ The Move|Blackberry Way|1968|ELRHD4UCo74|The Move|S3645
 M.A.N.D.Y. vs. Booka Shade|Body Language|2005|VaQXQdh3698|Booka Shade|S11511
 Red Foley with the Sunshine Boys Quartet|(There'll Be) Peace in the Valley (For Me)|1951|tv5nR815Q-M|Red Foley|S8119
 Shanice|I Love Your Smile|1991|Z9GSMei0NAw|Shanice|S8379
-Björk & Thom Yorke|I've Seen It All|2000|3V1Lov1U9mU|Thom Yorke|S5477
+Björk & Thom Yorke|I've Seen It All|2000|N8FJyhnC2Eo|Björk|S5477
 Chris Isaak|Blue Hotel|1987|7s6tufofYrg|Chris Isaak|S5796
 Ashford & Simpson|Solid|1984|KrLFEHeKNBw|Ashford & Simpson|S5255
 The Radio Dept.|Heaven's On Fire|2010|r0FoVuUYh4w|The Radio Dept.|S8071
@@ -6441,7 +6441,7 @@ Argent|Hold Your Head Up|1971|FBnSWJHawQQ|Argent|S5232
 Burial|Kindred|2012|wC16FJTI6XM|Burial (musician)|S5678
 These New Puritans|We Want War|2010|mJ7YmtWM5gE|These New Puritans|S8739
 PJ Harvey|Good Fortune|2000|gDBZZ3uvimE|PJ Harvey|S4601
-Chairlift|Bruises|2008|w8HRCacAQ-4|Chairlift|S4705
+Chairlift|Bruises|2008|w8HRCacAQ-4|Chairlift (band)|S4705
 Lee Perry|Roast Fish and Corn Bread|1976|NOKJ-_xg7jQ|Lee "Scratch" Perry|S4430
 Fletcher Henderson|Queer Notions|1933|wbfJAQR4g9U|Fletcher Henderson|S10828
 Animal Collective|What Would I Want? Sky|2009|-n0_C8uIjp0|Animal Collective|S5200
@@ -6516,7 +6516,7 @@ Neneh Cherry|Woman|1996|pAYSAYg9kPI|Neneh Cherry|S4230
 Orchestral Manoeuvres in the Dark|Electricity|1979|Y43XLVqjytQ|Orchestral Manoeuvres in the Dark|S7819
 Bob Dylan|She's Your Lover Now|1991|YAg5hs00F_8|Bob Dylan|S5546
 Eno|Another Green World|1975|X1GH9WN92s0|Brian Eno|S10289
-Björk|Hidden Place|2001|gPRwItqMJJU|Björk|S5474
+Björk|Hidden Place|2001|EpLL4AiojFI|Björk|S5474
 Car Seat Headrest|Vincent|2016|bEsItsZphwQ|Car Seat Headrest|S16050
 Captain Beefheart and His Magic Band|Sure 'Nuff 'n Yes I Do|1967|9UOweeSdI2k|Captain Beefheart|S5710
 Dick & Dee Dee|The Mountain's High|1961|LU2rjoSXI34|Dick and Dee Dee|S3330
@@ -7034,7 +7034,7 @@ Prefab Sprout|Faron Young|1985|hEzLp4MWeBw|Prefab Sprout|S7997
 Willie Williams|Armagideon Time|1978|jmjx1r1omgY|Family (Willie Nelson's band)|S9032
 Prince and The Revolution|Darling Nikki|1984|j8oxXkUjYHg|The Revolution (band)|S11943
 Ray Charles|Busted|1963|N7ZjYbP6X8Y|Ray Charles|S12033
-Aerosmith|Back in the Saddle|1976|uIPS4LyveJs|Aerosmith|S3138
+Aerosmith|Back in the Saddle|1976|A3vlj8mUiPA|Aerosmith|S3138
 Black Eyed Peas|Boom Boom Pow|2009|4m48GqaOz90|The Black Eyed Peas|S5482
 Deep Purple|Burn|1974|LCnebZnysmI|Deep Purple|S10555
 Razorlight|America|2006|V9NhncU5_CE|Razorlight|S8116
@@ -7356,7 +7356,7 @@ Don Henley|Dirty Laundry|1982|YHimia_Fxzs|Don Henley|S6124
 The Leaves|Hey Joe|1965|KWv03Wgz0PQ|The Leaves|S2502
 The Sons of the Pioneers|Cool Water|1941|amDo-KqUjpA|Sons of the Pioneers|S2748
 Felt|Primitive Painters|1985|4H23WYe_pxc|Felt (band)|S10800
-Chairlift|Ch-Ching|2015|nWSFlqBOgl8|Chairlift|S9722
+Chairlift|Ch-Ching|2015|nWSFlqBOgl8|Chairlift (band)|S9722
 The Chips|Rubber Biscuit|1956|Hz0UvIZw-Y0|Chips (band)|S5790
 The High Llamas|Checkin' In Checkin' Out|1994|ats3sUKmkjw|The High Llamas|S6714
 Tegan and Sara|Boyfriend|2016|HJOHoiPGpac|Tegan and Sara|S16193
@@ -7547,7 +7547,7 @@ Elton John|Take Me to the Pilot|1970|Fi0xN499IXE|Elton John|S3523
 Def Leppard|Bringin' On the Heartbreak|1981|f_X5A-BYjO8|Def Leppard|S10561
 Buckcherry|Lit Up|1999|cABZfkRcQ6A|Buckcherry|S5666
 Roxy Music|Jealous Guy|1981|hRzGzRqNj58|Roxy Music|S8256
-Chicago|I'm a Man|1969|IvmeEyVd5w8|Chicago (band)|S13718
+Chicago|I'm a Man|1969|DPZUgfOqAdg|Chicago (band)|S13718
 David Bowie|Aladdin Sane (1913-1938-197?)|1973|Z_x9fzY4WH0|David Bowie|S10513
 Them|Mystic Eyes|1965|5e-fU0eyVUg|Them (band)|S3894
 Perry Como|Till the End of Time|1945|xSJ-oT2ZBa0|Perry Como|S7933
@@ -7656,7 +7656,7 @@ Jacques Brel|Mon enfance|1967|AtzP0k7X5eE|Jacques Brel|S11116
 Grace Jones|Private Life|1980|yvLn_qC7QAs|Grace Jones|S2345
 Peter Sarstedt|Where Do You Go To (My Lovely)|1969|L8XQZYIiNgo|Peter Sarstedt|S7948
 Michel Polnareff|Sous quelle étoile suis-je né|1966|srm1T5IXk-Q|Michel Polnareff|S13574
-Chairlift|Amanaemonesia|2011|98XRKr19jIE|Chairlift|S10369
+Chairlift|Amanaemonesia|2011|98XRKr19jIE|Chairlift (band)|S10369
 O.V. Wright|A Nickel and a Nail|1971|Q2MsF3sTftg|O. V. Wright|S13913
 The Hollies|Carrie-Anne|1967|sgA4-bLcoN8|The Hollies|S4105
 Tindersticks|Rented Rooms|1997|dqD87W0894M|Tindersticks|S8770
@@ -8706,7 +8706,7 @@ Lit|My Own Worst Enemy|1999|sc5iTNVEOAg|Lit|S7277
 INXS|Disappear|1990|Xvo-bfaVsg0|INXS|S6797
 The Beach Boys|When I Grow Up (To Be a Man)|1964|b3Npo9Zhbo8|The Beach Boys|S5341
 DJ Koze|XTC|2015|iQTcBBb8j9E|DJ Koze|S9740
-Eels|Fresh Feeling|2001|O_m-5ij0WZ8|Eels (band)|S13751
+Eels|Fresh Feeling|2001|4KtFxB1gxC4|Eels (band)|S13751
 Rickie Lee Jones|The Horses|1989|elmaK9MOuE0|Rickie Lee Jones|S4210
 MC Solaar|Bouge de là|1990|v4iZ_eQiSTY|MC Solaar|S11588
 Bobby Womack|Harry Hippie|1972|tn9hpgXaWAg|Bobby Womack|S14170
@@ -9032,7 +9032,7 @@ Lindisfarne|Lady Eleanor|1970|8zny53R1cJE|Lindisfarne|S7269
 2Pac|Brenda's Got a Baby|1991|NRWUs0KtB-I|All Eyez on Me|S5068
 The Human League|The Lebanon|1984|b5VmR6hZw2c|The Human League|S6754
 Joe Simon|The Chokin' Kind|1969|fJX_MHeMm5g|Joe Simon|S6937
-Latimore|Let's Straighten It Out|1974|CKXVOywj7T0|Latimore (musician)|S11371
+Latimore|Let's Straighten It Out|1974|DgFRxaSk5yA|Latimore (musician)|S11371
 Los Teen Tops|La Plaga|1960|1dmpC-pdPd8|Alexander Ludwig|S13552
 Kele|Tenderoni|2010|bdQioZHYpvQ|Kele Okereke|S7077
 Kaoma|Lambada|1989|csaUvkYOkLY|Kaoma|S7053
