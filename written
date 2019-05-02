@@ -652,7 +652,7 @@ Simon and Garfunkel|Mrs. Robinson|1968|9C1BCAgu2I8|Simon & Garfunkel|S929
 The Sugarcubes|Birthday|1987|edmDN11BxCY|The Sugarcubes|S334
 The Beatles|Lucy in the Sky with Diamonds|1967|naoknj1ebqI|The Beatles|S2518
 Elvis Costello|Watching the Detectives|1977|k1Qnt5bx1OI|Elvis Costello|S636
-Thelonious Monk|'Round Midnight|1948|LRgkZ7JDWNk|Thelonious Monk|S2721
+Thelonious Monk|'Round Midnight|1948|-yg7aZpIXRI|Thelonious Monk|S2721
 The Byrds|Turn! Turn! Turn! (To Everything There Is a Season)|1965|W4ga_M5Zdn4|The Byrds|S1423
 Mitski|Your Best American Girl|2016|u_hDHm9MD0I|Mitski|S16151
 Radiohead|Burn the Witch|2016|yI2oS2hoL0k|Radiohead|S16169
@@ -693,7 +693,7 @@ Bauhaus|Bela Lugosi's Dead|1979|OKRJfIPiJGY|Bauhaus (band)|S1822
 Etta James|At Last|1960|6XDtWSKM7LU|Etta James|S1134
 The Coasters|Yakety Yak|1958|-WfDYssJMqs|The Coasters|S1209
 Howlin' Wolf|Smokestack Lightnin'|1956|9Ri7TcukAJ8|Howlin' Wolf|S1269
-The Clash|Train in Vain (Stand by Me)|1979|aUzBgeI5dpc|The Clash|S555
+The Clash|Train in Vain (Stand by Me)|1979|eNot47WRBFk|The Clash|S555
 Simon and Garfunkel|America|1968|Eo2ZsAOlvEM|Simon & Garfunkel|S3805
 Public Enemy|Don't Believe the Hype|1988|9vQaVIoEjOM|Public Enemy (band)|S319
 Sam & Dave|Soul Man|1967|pYh-LwbUwoQ|Sam & Dave|S945
@@ -1303,7 +1303,7 @@ Ol' Dirty Bastard feat. Kelis|Got Your Money|1999|wQlHYvy0xdU|Ol' Dirty Bastard|
 Prince and The Revolution|Let's Go Crazy|1984|aXJhDltzYVQ|The Revolution (band)|S445
 Elis Regina & Tom Jobim|Aguas de marco|1974|E1tOV7y94DY|Waters of March|S8783
 Fiona Apple|Criminal|1996|FFOzayDpWoI|Fiona Apple|S3154
-Steely Dan|Rikki Don't Lose That Number|1974|UfZWp-hGCdA|Steely Dan|S727
+Steely Dan|Rikki Don't Lose That Number|1974|3bd43qNDk0s|Steely Dan|S727
 Drake feat. Wizkid and Kyla|One Dance|2016|iAbnEUA0wpA|Drake (musician)|S16077
 Wilbert Harrison|Kansas City|1959|f8tZO97uhyE|Wilbert Harrison|S1177
 The Seeds|Pushin' Too Hard|1966|pNZwCNSSWlI|The Seeds|S1685
@@ -2447,7 +2447,7 @@ Hank Ballard and The Midnighters|Work with Me Annie|1954|ZW7gAc96Gmc|Hank Ballar
 Primal Scream|Movin' On Up|1991|aKFYtUJFYVE|Primal Scream|S176
 Metallica|Battery|1986|_yHJBDeshPA|Metallica|S3620
 Van Halen|Ain't Talkin' 'Bout Love|1978|Y-IUB62zDlA|Van Halen|S3933
-Animal Collective|Fireworks|2007|CazApTMOrUA|Animal Collective|S4344
+Animal Collective|Fireworks|2007|ztvr09J7KK4|Animal Collective|S4344
 The Coasters|Young Blood|1957|e-Exe4YUJyI|The Coasters|S1625
 Ennio Morricone|The Good, the Bad and the Ugly|1966|KkM71JPHfjk|Ennio Morricone|S6287
 Janet Jackson|Got 'Til It's Gone|1997|ld6wkHWrfjQ|Janet Jackson|S17
@@ -3934,7 +3934,7 @@ Molotov|Gimme Tha Power|1997|hfmY9Wlxx0o|Molotov (band)|S7594
 The Isley Brothers|Fight the Power (Part I)|1975|8QZvoOqUkqw|The Isley Brothers|S4424
 The Kinks|See My Friends|1965|_XvHSIIL9To|The Kinks|S1018
 Travis Scott & Young Thug feat. Quavo|Pick Up the Phone|2016|mZDinQ92OZQ|Days Before Rodeo|S16208
-Herbie Hancock|Maiden Voyage|1966|hwmRQ0PBtXU|Herbie Hancock|S11027
+Herbie Hancock|Maiden Voyage|1966|p3QrW_RrVEw|Herbie Hancock|S11027
 The Weeknd|The Morning|2011|5TAko3RH0bk|The Weeknd|S4991
 SOS Band|Take Your Time (Do It Right)|1980|0d27679i-X4|The S.O.S. Band|S3791
 Solomon Linda|Mbube|1939|mrrQT4WkbNE|Solomon Linda|S8485
@@ -5362,7 +5362,7 @@ Destiny's Child|Jumpin' Jumpin'|1999|Vjw92oUduEM|Destiny's Child|S1397
 Van Morrison|Astral Weeks|1968|4ech6pZoBJ4|Van Morrison|S8919
 Benny Goodman & His Orchestra feat. Charlie Christian|Seven Come Eleven|1940|mOnhcdAMInA|Benny Goodman|S13165
 Primal Scream|Accelerator|2000|CUszjRc3-VM|Primal Scream|S1393
-P. P. Arnold|The First Cut Is the Deepest|1967|y1-g5VG2pWg|P. P. Arnold|S3157
+P. P. Arnold|The First Cut Is the Deepest|1967|oo__EIXzAco|P. P. Arnold|S3157
 The Coral|In the Morning|2005|KErHjXpsfwA|The Coral|S3049
 Aretha Franklin|Baby I Love You|1967|Xoagkpi5B4Q|Aretha Franklin|S3425
 Big Star|Kanga-Roo|1978|p3dYmtbLs20|Big Star|S3213
@@ -6081,7 +6081,7 @@ Ofra Haza|Im nin'alu|1984|ZRnzTTYk7_Q|Ofra Haza|S7795
 Mary J. Blige|My Life|1994|IN3yMjnyXyU|Mary J. Blige|S3219
 Zebra Katz feat. Njena Reddd Foxxx|Ima Read|2012|oo4Sqt2Bmag|Zebra Katz|S5056
 UFO|Doctor Doctor|1974|c4LhQA-YoBs|UFO (band)|S8888
-Papa Roach|Last Resort|2000|Hm7vnOC4hoY|Papa Roach|S2199
+Papa Roach|Last Resort|2000|j0lSpNtjPM8|Papa Roach|S2199
 Janet Jackson|No Sleeep|2015|2_t0ffY3JvE|Janet Jackson|S9789
 Big Brother and The Holding Company|Down on Me|1967|ZfFvw2ZSshs|Big Brother and the Holding Company|S14136
 The Lemonheads|Into Your Arms|1993|GeLFkYNyJc8|The Lemonheads|S3555
@@ -6477,7 +6477,7 @@ Tom Robinson Band|2-4-6-8 Motorway|1977|ar_saHB60qU|Tom Robinson Band|S1790
 The Sabres of Paradise|Wilmot|1994|7VGPvkjyQnQ|The Sabres of Paradise|S115
 Bing Crosby & The Andrews Sisters|Don't Fence Me In|1944|vMnLoOnrwbg|The Andrews Sisters|S2669
 Melanie|Brand New Key|1971|lKcpodt0YCU|Melanie|S7508
-Eddie and The Hot Rods|Teenage Depression|1976|Moe4DkZy5Ds|Eddie and the Hot Rods|S6194
+Eddie and The Hot Rods|Teenage Depression|1976|x3srDTWS2L4|Eddie and the Hot Rods|S6194
 Austra|Beat and the Pulse|2010|khT-s-3E8Uw|Austra (band)|S5274
 Pras feat. Ol' Dirty Bastard & Mýa|Ghetto Supastar (That Is What You Are)|1998|x0UNjZ2O0zY|Pras|S298
 Alanis Morissette|Hand in My Pocket|1995|CUjIY_XxF1g|Alanis Morissette|S5142
@@ -6509,7 +6509,7 @@ Neil Sedaka|Breaking Up Is Hard to Do|1962|tbad22CKlB4|Neil Sedaka|S1109
 Johnny Mandel|Suicide Is Painless (Theme from M*A*S*H)|1970|4gO7uemm6Yo|Johnny Mandel|S6985
 Cracker|Teen Angst|1992|42V8CqWw0xM|Cracker (band)|S2053
 Paul Kelly [Australia]|From Little Things Big Things Grow|1991|dAONlfoNVuY|Paul Kelly (Australian musician)|S14847
-Therapy?|Nowhere|1994|5Bcpj-q0Snc|Therapy?|S8737
+Therapy?|Nowhere|1994|5Bcpj-q0Snc|Therapy%3F|S8737
 NAO|Girlfriend|2016|sisOw0Y822U|Nao (singer)|S16155
 The Stone Roses|Elephant Stone|1988|picVsVudTkQ|The Stone Roses|S8592
 Neneh Cherry|Woman|1996|pAYSAYg9kPI|Neneh Cherry|S4230
@@ -6524,7 +6524,7 @@ Portishead|We Carry On|2008|MHmlGaKvtok|Portishead (band)|S7994
 Héroes del Silencio|La chispa adecuada|1995|jnDjEHyhFpU|Héroes del Silencio|S13103
 Kanye West|Real Friends|2016|fWD9GF-Ogf4|Kanye West|S16115
 Mistinguett|Mon homme|1920|BFvYjlgqh4Q|Mistinguett|S7574
-Roxy Music|Re-make / Re-model|1972|m-zSnO7sbXg|Roxy Music|S12115
+Roxy Music|Re-make / Re-model|1972|kWhzG9cQGgc|Roxy Music|S12115
 Caifanes|Viento|1988|QUH_Sr_aFy4|Caifanes|S10341
 De'Lacy|Hideaway|1994|C1sLhOcP8g4|De'Lacy|S6024
 The Coral|Pass It On|2003|BxBfQLHykfI|The Coral|S2263
@@ -8417,7 +8417,7 @@ Orleans|Still the One|1976|XrPnBkjdaFM|Orleans (band)|S7823
 My Morning Jacket|Circuital|2011|o3lzQ32BcSI|My Morning Jacket|S7653
 Sting|Russians|1985|wHylQRVN2Qs|Sting (musician)|S12971
 3rd Bass|Pop Goes the Weasel|1991|HzXI_ApY4dY|3rd Bass|S2930
-The Jacksons|Heartbreak Hotel|1980|OOkKDqWt4uk|The Jackson 5|S3507
+The Jacksons|Heartbreak Hotel|1980|CgyDHL1j_Bg|The Jackson 5|S3507
 Television|Friction|1977|RwrCUEMl76U|Television (band)|S15117
 Robert Johnson|Me and the Devil Blues|1938|3MCHI23FTP8|Robert Johnson|S12073
 The Mothers of Invention|Brown Shoes Don't Make It|1967|EZLWD75KKGA|The Mothers of Invention|S3990
@@ -9884,7 +9884,7 @@ Eddy Mitchell|Couleur menthe à l'eau|1980|W43JaufnEIU|Eddy Mitchell|S10681
 Marmalade|Reflections of My Life|1969|xTeI65yrhGw|Marmalade|S7438
 Golpes Bajos|Malos tiempos para la lirica|1983|xAYUO0QeqUk|Golpes Bajos|S13101
 Tom Waits|Frank's Wild Years|1983|1I9GqxDA4ac|Tom Waits|S15137
-Dashiell Hedayat|Chrysler (Rose)|1971|8VhQ1N6_AHQ|https://www.discogs.com/artist/388289-Dashiell-Hedayat|S5949
+Dashiell Hedayat|Chrysler (Rose)|1971|wkGFjYNiPSE?start=218|https://www.discogs.com/artist/388289-Dashiell-Hedayat|S5949
 Jamie Woon|Sharpness|2015|8J0CjQjjy24|Jamie Woon|S9784
 Beastie Boys|Shadrach|1989|MEVfHmjKOrM|Beastie Boys|S5354
 The Feelies|Fa-cé-la|1979|Fv0HcnTkO54|The Feelies|S6364
@@ -10224,7 +10224,7 @@ Antony and The Johnsons|Another World|2009|5qkfAc_6dv0|Antony and the Johnsons|S
 Ciara|Promise|2006|UcGWy7xUZQE|Ciara|S5815
 Johnny Mercer|Zip-A-Dee-Doo-Dah|1946|4rkEtnhf0J4|Johnny Mercer|S4595
 Crystal Castles|Courtship Dating|2008|MoSD22Tc_64|Crystal Castles|S5914
-Nelly|Ride wit Me|2000|EFH0gIybDR4|Nelly|S7694
+Nelly|Ride wit Me|2000|RtSDWq6HsJE|Nelly|S7694
 Ivory Joe Hunter|I Almost Lost My Mind|1949|ZKLbIn8yx-o|Ivory Joe Hunter|S6806
 Destiny's Child|Lose My Breath|2004|AqeIiF0DlTg|Destiny's Child|S6050
 Arrested Development|Revolution|1992|RWlvOolOic4|Arrested Development (group)|S2934
@@ -10251,7 +10251,7 @@ Brian Eno|Cindy Tells Me|1973|XC9Rb8G03es|Brian Eno|S3392
 The Stanley Brothers|Little Maggie|1947|8vXTTWZPXkw|The Stanley Brothers|S4065
 Uncle Dave Macon|Keep My Skillet Good and Greasy|1924|4bkLnWN9WSA|Uncle Dave Macon|S4053
 Carole King|Home Again|1971|z116O-p2g-E|Carole King|S4148
-Eddy Arnold|Make the World Go Away|1965|BdWEbweX1rQ|Eddy Arnold|S1669
+Eddy Arnold|Make the World Go Away|1965|lq0Ri9e6SY0|Eddy Arnold|S1669
 The Byrds|You Ain't Goin' Nowhere|1968|s2JnDKvuNzw|The Byrds|S4112
 Depeche Mode|Get the Balance Right|1983|zfiISFiozg8|Depeche Mode|S1891
 Eddy Arnold|The Cattle Call|1955|-JX50rZae2M|Eddy Arnold|S1298
