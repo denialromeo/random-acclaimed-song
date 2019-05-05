@@ -125,7 +125,7 @@ Jerry Lee Lewis|Great Balls of Fire|1957|ZD8YPY8RBQc|Jerry Lee Lewis|S1238
 Amy Winehouse|Rehab|2006|KUmZp8pR1uc|Amy Winehouse|S4050
 Chuck Berry|Maybellene|1955|v124f0i0Xh4|Chuck Berry|S1301
 Booker T. & The MG's|Green Onions|1962|_bpS-cOBK6Q|Booker T. & the M.G.'s|S1081
-Underworld|Born Slippy .NUXX|1995|mQwg2JJFm6A|Underworld|S83
+Underworld|Born Slippy .NUXX|1995|mQwg2JJFm6A|Underworld (band)|S83
 Rod Stewart|Maggie May|1971|7T5hYlUsQ0s|Rod Stewart|S813
 Radiohead|Creep|1992|XFkzRNyygfk|Radiohead|S151
 Oasis|Live Forever|1994|TDe1DqxwJoc|Oasis (band)|S96
@@ -2899,7 +2899,7 @@ Cream|Strange Brew|1967|m_NholHANoY|Cream (band)|S5888
 Childish Gambino|Redbone|2016|Kp7eSUU9oy8|Donald Glover|S16061
 The Police|So Lonely|1978|MX6MvV8cbh8|The Police|S7985
 A Certain Ratio|Shack Up|1980|pRVORzxxm5s|A Certain Ratio|S568
-Underworld|Rez|1993|F6Y7lcvubhU|Underworld|S145
+Underworld|Rez|1993|F6Y7lcvubhU|Underworld (band)|S145
 Makaveli|Hail Mary|1996|UIDUx-WQsaY|Tupac Shakur|S5070
 Brook Benton|Rainy Night in Georgia|1969|bDRbF80NKDU|Brook Benton|S2301
 The Heartbreakers|Chinese Rocks|1977|2xiWjpjRl1Q|The Heartbreakers|S4433
@@ -3004,7 +3004,7 @@ Blues Explosion|Bellbottoms|1994|l2J3Xtljf1c|Jon Spencer Blues Explosion|S4223
 Django Django|Default|2011|DDjpOrlfh0Y|Django Unchained|S5009
 Louis Armstrong|Struttin' with Some Barbeque|1928|EExWrybama8|Louis Armstrong|S7328
 Jessie Ware|Running|2012|kvlFWmvgeVI|Jessie Ware|S5050
-Leonard Cohen|Everybody Knows|1988|Lin-a2lTelg|Leonard Cohen|S3290
+Leonard Cohen|Everybody Knows|1988|T4rf7bAApM4|Leonard Cohen|S3290
 Father John Misty|Hollywood Forever Cemetery Sings|2012|KtOToiIDNRA|Josh Tillman|S5010
 Marianne Faithfull|As Tears Go By|1964|j8JJ6du3Vio|Marianne Faithfull|S3400
 Ariana Grande feat. Iggy Azalea|Problem|2014|iS1g8G_njx8|Ariana Grande|S9579
@@ -4632,7 +4632,7 @@ The "5" Royales|Dedicated to the One I Love|1957|y335E8mfBAU|The "5" Royales|S12
 The xx|Say Something Loving|2017|Rh2uNrIgGf4|The xx|S16504
 Cerrone|Supernature|1977|cJ5V3OZdIZM|Cerrone|S10367
 Faces|Ooh La La|1973|1_xwnb3cymc|Faces (band)|S10777
-Cat Stevens|Peace Train|1971|_6mKMV0d2cs|Cat Stevens|S5739
+Cat Stevens|Peace Train|1971|XOk4HK72RCA|Cat Stevens|S5739
 The Jam|Beat Surrender|1982|GOK_vqtXgbk|The Jam|S1883
 Glasvegas|Geraldine|2008|QGOCEOsBE3w|Glasvegas|S4719
 Marvin Gaye & Tammi Terrell|You're All I Need to Get By|1968|Dza91W2DLWE|Tammi Terrell|S7461
@@ -5546,7 +5546,7 @@ Ray Charles|Drown in My Own Tears|1956|_ekn9dAYfz0|Ray Charles|S2488
 Cesária Évora|Sodade|1992|ERYY8GJ-i0I|Cesária Évora|S14221
 Kings of Tomorrow feat. Julie McKnight|Finally|2000|syPi_HXY1e0|Tomorrow People (band)|S2211
 Bob Dylan & The Band|This Wheel's on Fire|1975|-mlzUHxNMV8|The Band|S4854
-Underworld|Two Months Off|2002|tyKeE3fBEsM|Underworld|S2230
+Underworld|Two Months Off|2002|tyKeE3fBEsM|Underworld (band)|S2230
 Elvin Bishop|Fooled Around and Fell in Love|1975|C1GpWOdj2e0|Elvin Bishop|S6242
 Camille|Ta douleur|2005|OPGNWFQy_gg|Camille (singer)|S10344
 Patsy Cline|She's Got You|1962|MWCUh6tf7PA|Patsy Cline|S1644
@@ -6585,7 +6585,7 @@ Buddy Knox|Party Doll|1956|ofkhZNWFr0M|Buddy Knox|S1256
 Liars|No. 1 Against the Rush|2012|ggR6RuBh8I0|Liars (band)|S7258
 Chuck Berry|My Ding-a-Ling|1972|UaEC-lWSlmI|Chuck Berry|S5810
 Madonna|True Blue|1986|P51LunEV3Sk|Madonna (entertainer)|S7369
-Underworld|Cowgirl|1993|feWNvGpWHLM|Underworld|S2374
+Underworld|Cowgirl|1994|feWNvGpWHLM|Underworld (band)|S2374
 PJ Harvey|The Community of Hope|2016|qsLqsqbObyg|PJ Harvey|S16166
 Arthur "Big Boy" Crudup|That's All Right|1947|uxHQUvCkV20|Arthur Crudup|S10032
 Bob Seger & The Silver Bullet Band|We've Got Tonite|1978|6AJ4mRPX1SQ|Bob Seger|S5565
@@ -8306,7 +8306,7 @@ Lucky Millinder & His Orchestra (vocals Wynonie Harris)|Who Threw the Whiskey in
 Paul Anka|Put Your Head on My Shoulder|1959|uvxagNIBVLU|Paul Anka|S7875
 Antony and The Johnsons|Bird Gerhl|2005|v1pZgrk_WCw|Antony and the Johnsons|S13665
 Los Prisioneros|El baile de los que sobran|1986|uPJrZFBiy-A|Los Prisioneros|S13550
-Jeff Buckley|Lilac Wine|1994|5PC68rEfF-o|Jeff Buckley|S13263
+Jeff Buckley|Lilac Wine|1994|quJO5ZXzSb4|Jeff Buckley|S13263
 Syd Barrett|Opel|1988|Ch3BfpZp8PI|Syd Barrett|S8660
 Beirut|Nantes|2007|PCkT4K-hppE|Beirut|S4340
 Bloc Party|Flux|2007|ttcboE1GrNg|Bloc Party|S5499
@@ -9211,7 +9211,7 @@ The Box Tops|Neon Rainbow|1967|goVlXCJUyCM|The Box Tops|S5602
 Icehouse|Hey Little Girl|1982|OKDYyFf1s0I|Icehouse (band)|S11065
 Charlie Rich|The Most Beautiful Girl|1973|qLbGeZSUrhg|Charlie Rich|S5768
 The Magnetic Fields|The Book of Love|1999|jkjXr9SrzQE|The Magnetic Fields|S9285
-Underworld|I Exhale|2016|4izZYfo58-E|Underworld|S16210
+Underworld|I Exhale|2016|4izZYfo58-E|Underworld (band)|S16210
 Blur|Ong Ong|2015|A0qA38h9w3o|Blur (band)|S13696
 Car Seat Headrest|Something Soon|2015|WjnEkJa2Law|Car Seat Headrest|S9718
 The King Cole Trio|Embraceable You|1944|vkF3WVN5ao8|Nat King Cole|S13904
