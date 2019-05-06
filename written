@@ -72,7 +72,7 @@ The Smiths|How Soon Is Now?|1984|OztC_7nkAd8|The Smiths|S394
 Missy Elliott|Get Ur Freak On|2001|FPoKiGQzbSQ|Missy Elliott|S1456
 Elvis Presley|Hound Dog|1956|lzQ8GDBA8Is|Elvis Presley|S1262
 Elvis Presley|Suspicious Minds|1969|MT3P7p-WNSY|Elvis Presley|S879
-Billie Holiday|Strange Fruit|1939|hovcIcAM8g0|Billie Holiday|S2693
+Billie Holiday|Strange Fruit|1939|-DGY9HvChXk?start=28|Billie Holiday|S2693
 Guns N' Roses|Sweet Child O' Mine|1987|1w7OgIMMRc4|Guns N' Roses|S303
 The Mamas and the Papas|California Dreamin'|1965|qhZULM69DIw|The Mamas and the Papas|S1010
 The Velvet Underground|I'm Waiting for the Man|1967|EwdH09vJwwU|The Velvet Underground|S2512
@@ -450,7 +450,7 @@ Pearl Jam|Alive|1991|wGiTPgvKktM|Pearl Jam|S167
 Arcade Fire|Reflektor|2013|7E0fVfectDo|Arcade Fire|S9405
 The Shins|New Slang|2001|zYwCmcB0XMw|The Shins|S3111
 The Jam|That's Entertainment|1980|m-H0uIH5HHQ|The Jam|S1580
-Van Morrison|Moondance|1970|6lFxGBB4UGU|Van Morrison|S2560
+Van Morrison|Moondance|1970|V3ZY7HfCPxI|Van Morrison|S2560
 Kendrick Lamar|Alright|2015|Z-48u_uWMHY|Kendrick Lamar|S9804
 Coldplay|Viva La Vida|2008|dvgZkm1xWPE|Coldplay|S4706
 Gloria Gaynor|I Will Survive|1978|0pFoePN5sew|Gloria Gaynor|S599
@@ -1057,7 +1057,7 @@ David Bowie|Golden Years|1975|A8u8mODGOlg|David Bowie|S707
 Fleetwood Mac|Oh Well|1969|O8RhZDGLEXM|Fleetwood Mac|S1586
 Beach House|Myth|2012|3lIyDxfUhxM|Beach House|S5001
 The Beatles|With a Little Help from My Friends|1967|0C58ttB2-Qg|The Beatles|S2516
-Black Flag|Rise Above|1981|xHR-rzUjCzU|Black Flag (band)|S2608
+Black Flag|Rise Above|1981|Fsbvo5GVK10|Black Flag (band)|S2608
 The Horrors|Sea Within a Sea|2009|v7WAHnZPIX0|The Horrors|S4827
 Dion and The Belmonts|A Teenager in Love|1959|o-Xvgv92GBc|Dion and the Belmonts|S1183
 David Bowie|Station to Station|1976|ZY77zDzNmYw|David Bowie|S5969
@@ -1999,7 +1999,7 @@ The Black Keys|Tighten Up|2010|mpaPBCBjSVc|The Black Keys|S4927
 Eric Clapton|I Shot the Sheriff|1974|APWhx97QvxE|Eric Clapton|S2869
 Moby|Porcelain|1999|QhZnEagfjTQ|Moby|S3634
 Grace Jones|Slave to the Rhythm|1985|Z0XLzIswI2s|Grace Jones|S1926
-Happy Mondays|Hallelujah|1989|IAEcU-cxUGM|Happy Mondays|S2000
+Happy Mondays|Hallelujah|1989|dAk6Euat-6A|Happy Mondays|S2000
 Creedence Clearwater Revival|Up Around the Bend|1970|BnRsaHXHznQ|Creedence Clearwater Revival|S863
 The Modern Lovers|Pablo Picasso|1976|Kc2iLAubras|The Modern Lovers|S3636
 LCD Soundsystem|All I Want|2010|A6BYCcy5aeo|LCD Soundsystem|S4917
@@ -2502,7 +2502,7 @@ LCD Soundsystem|Tonite|2017|lqq3BtGrpU8|LCD Soundsystem|S16432
 The Beatles|Julia|1968|TZip_br_v3w|The Beatles|S3196
 Alicia Keys|You Don't Know My Name|2003|_ST6ZRbhGiA|Alicia Keys|S2391
 Squeeze|Tempted|1981|E5g7NdWV8ig|Squeeze (band)|S536
-Beirut|Postcards from Italy|2006|X61BVv6pLtw|Beirut|S4697
+Beirut|Postcards from Italy|2006|X61BVv6pLtw|Beirut (band)|S4697
 Michael Jackson|P.Y.T. (Pretty Young Thing)|1982|1ZZQuj6htF4|Michael Jackson|S7536
 Jane's Addiction|Jane Says|1988|Z0hFQdEUQKM|Jane's Addiction|S2629
 Madness|One Step Beyond|1979|SOJSM46nWwo|Madness (band)|S2340
@@ -4081,7 +4081,7 @@ George Benson|Give Me the Night|1980|imYJpr09IgQ|George Benson|S6528
 Mick Jagger|Memo from Turner|1970|lP0zsWupANs|Mick Jagger|S2992
 Charles Trenet|Que reste-t-il de nos amours?|1942|T_uvgm2_hRk|Charles Trenet|S5758
 Bananarama|Cruel Summer|1983|l9ml3nyww80|Bananarama|S5307
-Seals and Crofts|Summer Breeze|1972|MsW8rXPcnM0|Seals and Crofts|S8338
+Seals and Crofts|Summer Breeze|1972|Vb4O9kaWy-g|Seals and Crofts|S8338
 Kraftwerk|Nummern/Numbers|1981|4YPiCeLwh5o|Kraftwerk|S7149
 Joe Cocker|Delta Lady|1969|4LGeoLvNces|Joe Cocker|S3288
 OutKast|Spottieottiedopaliscious|1998|vXmqauitBkM|Outkast|S4590
@@ -4348,7 +4348,7 @@ U2|Hold Me, Thrill Me, Kiss Me, Kill Me|1995|A9eQ0DaHCec|U2|S8880
 Guns N' Roses|You Could Be Mine|1991|DVzcQ4_khsM|Guns N' Roses|S6663
 The Flying Burrito Bros|Christine's Tune (Devil in Disguise)|1969|BITiY8M_oDo|The Flying Burrito Brothers|S10834
 Depeche Mode|Strangelove|1987|JIrm0dHbCDU|Depeche Mode|S6043
-The Flaming Lips|Fight Test|2002|jcFKlEfu_eU|The Flaming Lips|S2403
+The Flaming Lips|Fight Test|2002|fye1XtXQn9s|The Flaming Lips|S2403
 Merle Haggard|Okie from Muskogee|1969|D5K5l89mpV8|Merle Haggard|S4127
 Charlie Rich|Behind Closed Doors|1973|O3iEFfA4TmI|Charlie Rich|S2317
 Simple Minds|Belfast Child|1989|7vhhTvcLoRw|Simple Minds|S8421
@@ -4585,7 +4585,7 @@ R.E.M.|At My Most Beautiful|1998|UIXs66BPooY|R.E.M.|S11987
 The Jimi Hendrix Experience|Burning of the Midnight Lamp|1967|BAL_NBTwj_A|The Jimi Hendrix Experience|S11201
 Ethel Waters|Stormy Weather|1933|zywZUhaUqMo|Ethel Waters|S2758
 Gino Paoli|Sapore di sale|1963|lWgJjtmr7Yk|Gino Paoli|S6565
-Beirut|Santa Fe|2011|JRCTLJQBRC4|Beirut|S5401
+Beirut|Santa Fe|2011|JRCTLJQBRC4|Beirut (band)|S5401
 Wilco|Via Chicago|1999|J7lgner6IO0|Wilco|S4867
 Duke Ellington|It Don't Mean a Thing If It Ain't Got That Swing|1932|qDQpZT3GhDg|Duke Ellington|S4353
 Tom Waits|16 Shells from a Thirty-Ought-Six|1983|0XLdxxJEB80|Tom Waits|S4201
@@ -4837,7 +4837,7 @@ Billy Riley|Red Hot|1957|Nxt_7sD9znM|Billy Riley|S1229
 Cannonball Adderley|Mercy, Mercy, Mercy|1966|s4rXEKtC8iY|Cannonball Adderley|S3137
 James & Bobby Purify|I'm Your Puppet|1966|CcD2iexGqZQ|James & Bobby Purify|S2503
 The Sabres of Paradise|Smokebelch II|1993|aGQ3iZZXaJM|The Sabres of Paradise|S140
-Minnie Riperton|Lovin' You|1974|kE0pwJ5PMDg|Minnie Riperton|S3762
+Minnie Riperton|Lovin' You|1974|K7MqTrXwojk|Minnie Riperton|S3762
 Hamilton Leithauser + Rostam|A 1000 Times|2016|K9FILAkKinQ|Hamilton Leithauser|S16095
 David Bowie|Wild Is the Wind|1976|7cSAKlu0OlU|David Bowie|S1783
 Band of Horses|Laredo|2010|YH8QICzCO8g|Band of Horses|S5313
@@ -5231,7 +5231,7 @@ Eric Burdon & War|Spill the Wine|1970|W77Kwh6f0TE|War (American band)|S2856
 The Stone Roses|One Love|1990|60qyfdcAOGE|The Stone Roses|S8594
 Gonzales|Take Me to Broadway|2001|a7pESuX9E24|Chilly Gonzales|S2968
 Love|My Little Red Book|1966|f-SuGfLhqo4|Love|S7336
-Dire Straits|Telegraph Road|1982|_4E_924b9SU|Dire Straits|S10597
+Dire Straits|Telegraph Road|1982|Q1Wp2ASqyxI|Dire Straits|S10597
 Sneaker Pimps|Spin Spin Sugar|1996|cQvpDmfqd4E|Sneaker Pimps|S2148
 Crystal Castles|Celestica|2010|IsxNUl1IHnE|Crystal Castles|S5916
 Led Zeppelin|Houses of the Holy|1975|ohDQ1FUUjPs|Led Zeppelin|S11387
@@ -5522,7 +5522,7 @@ Van Halen|Dance the Night Away|1979|pQ9pYwCKopE|Van Halen|S12537
 Van Morrison|Tupelo Honey|1971|Eq3YLhtuzTQ|Van Morrison|S8921
 Janet Jackson|The Pleasure Principle|1986|Q-gu1KETjVY|Janet Jackson|S6863
 England Dan & John Ford Coley|I'd Really Love to See You Tonight|1976|UuUVgKT4roQ|England Dan & John Ford Coley|S6285
-John Lee Hooker|I'm in the Mood|1951|umIQalOkspA|John Lee Hooker|S6949
+John Lee Hooker|I'm in the Mood|1951|rT-FoZt95D4|John Lee Hooker|S6949
 Benny Goodman feat. Charlie Christian|Good Enough to Keep/Air Mail Special|1941|3CAdejD6qbQ|Benny Goodman|S9141
 Liz Phair|Divorce Song|1993|fXnSjaYi5Ig|Liz Phair|S4586
 Wir Sind Helden|Guten Tag (Die Reklamation)|2002|chlXBRpcIFA|Wir sind Helden|S12609
@@ -5531,7 +5531,7 @@ Don Gibson|Oh Lonesome Me|1958|Xc-2eO8FJzk|Don Gibson|S3448
 Johnny Mathis|Chances Are|1957|NEH3uqbpsm8|Johnny Mathis|S2789
 Portishead|Roads|1994|Vg1jyL3cr60|Portishead (band)|S7993
 Judee Sill|Jesus Was a Cross Maker|1971|kTAesI73E1U|Judee Sill|S11267
-Del Shannon|Stranger in Town|1965|B7UD2ObBCOY|Del Shannon|S1429
+Del Shannon|Stranger in Town|1965|-fNca3JgfeY|Del Shannon|S1429
 Ricardo Villalobos|Dexter|2003|h0i1Szq6GM8|Ricardo Villalobos|S15823
 The National|Slow Show|2007|rCR0Tr2HTfA|The National (band)|S7669
 James Gang|Funk #49|1970|U_qHU_6Ofc0|James Gang|S11136
@@ -5632,7 +5632,7 @@ Ultramagnetic MCs|Ego Tripping|1986|Gnb9vljBLTg|Ultramagnetic MCs|S8890
 Loretta Lynn feat. Jack White|Portland, Oregon|2004|VuC_l3ymXhM|Loretta Lynn|S2458
 Jackie Wilson|Doggin' Around|1960|8m-euOarB0k|Jackie Wilson|S1166
 Madonna|Deeper and Deeper|1992|sJV29ZQIUhs|Madonna (entertainer)|S7371
-The Isley Brothers|Summer Breeze|1973|T88fbHOmvRk|The Isley Brothers|S2323
+The Isley Brothers|Summer Breeze|1973|2IkBBTOhfCQ?start=12|The Isley Brothers|S2323
 The Cure|Disintegration|1989|BMOlZtpANa0|The Cure|S9197
 R.E.M.|Leaving New York|2004|wo6Vh4Uz7Sk|R.E.M.|S8064
 The Jam|All Around the World|1977|GPktB0NHwDY|The Jam|S1557
@@ -5707,7 +5707,7 @@ William Bell|You Don't Miss Your Water|1961|eJPAwKPD9KU|Brian Bell|S1099
 alt-J|In Cold Blood|2017|rP0uuI80wuY|Alt-J|S16326
 The Whispers|And The Beat Goes On|1979|fOaxEa5ONJw|The Whispers|S8986
 Pet Shop Boys|Can You Forgive Her?|1993|Me4AhOi6LYE|Pet Shop Boys|S7939
-Beirut|Elephant Gun|2007|SWSz_PAfgNc|Beirut|S5399
+Beirut|Elephant Gun|2007|SWSz_PAfgNc|Beirut (band)|S5399
 Neil Diamond|Cracklin' Rosie|1970|MGemtjVtfZM|Neil Diamond|S7675
 Frank Zappa & Moon Zappa|Valley Girl|1982|Qb21lsCQ3EM|Zappa Plays Zappa|S6447
 Wreckx-N-Effect|Rump Shaker|1992|xdCp_j8Wyuw?start=9|Wreckx-n-Effect|S3977
@@ -5821,7 +5821,7 @@ Blur|Music Is My Radar|2000|49FeYz2JpHo|Blur (band)|S2186
 Destroyer|Chinatown|2011|5zCJwn3Ym7g|Destroyer|S6052
 Beastie Boys|She's On It|1985|9PLfjhQG97I|Beastie Boys|S2356
 LL Cool J|I'm Bad|1987|oVDfyc2lh4Q|LL Cool J|S1583
-Leonard Cohen|Who by Fire|1974|EgMaBreDuF4|Leonard Cohen|S7242
+Leonard Cohen|Who by Fire|1974|251Blni2AE4|Leonard Cohen|S7242
 Queen|Keep Yourself Alive|1973|JofwEB9g1zg|Queen (band)|S11974
 The Pretty Things|Don't Bring Me Down|1964|QPJPfbglyYE|Dirty Pretty Things (band)|S8003
 Ghostface Killah feat. Mary J. Blige|All That I Got Is You|1996|bhTBKzfvKUg|Ghostface Killah|S6553
@@ -6164,7 +6164,7 @@ Willie Colón & Ruben Blades|Pedro Navaja|1978|k62zZBeevWQ|Rubén Blades|S13648
 Chick Corea & Return to Forever|Spain|1973|sEhQTjgoTdU|Chick Corea|S10394
 The Swell Season|Falling Slowly|2006|pMD66iv2vyg|The Swell Season|S4660
 Future|Turn On the Lights|2012|zIrhcTkHX_A|Future (rapper)|S10888
-Radiohead|Optimistic|2000|7YUFDJneteU|Radiohead|S8075
+Radiohead|Optimistic|2000|COUaNmm53VA|Radiohead|S8075
 Al Jolson|My Mammy|1928|PIaj7FNHnjQ|Al Jolson|S4597
 Blue Öyster Cult|Godzilla|1977|TvQWBXJOgAI|Blue Öyster Cult|S10215
 Enrico Caruso|Vesti la giubba|1907|a_P1QdXMzfA|Enrico Caruso|S6288
@@ -7426,7 +7426,7 @@ Megadeth|Peace Sells|1986|aiQpRQeIiHY|Megadeth|S7502
 Aerosmith|Cryin'|1993|qfNmyxV2Ncw|Aerosmith|S5106
 Missy Misdemeanor Elliott feat. 702 and Magoo|Beep Me 911|1997|cWHicFCKxVE|Missy Elliott|S11658
 Larry Williams|Short Fat Fannie|1957|qs4eIExZols|Larry Williams|S7179
-The Police|Spirits in the Material World|1981|IBvdHXChNqY|The Police|S11933
+The Police|Spirits in the Material World|1981|BHOevX4DlGk|The Police|S11933
 Bobby Lewis|Tossin' and Turnin'|1961|ghFBvBmXv4E|Bobby Lewis|S5575
 Ibeyi feat. Kamasi Washington|Deathless|2017|yN8TUgkPnbU|Ibeyi|S16394
 Converge|Concubine/Fault & Fracture|2001|38m1NXeQP4E|Converge (band)|S14258
@@ -7984,7 +7984,7 @@ Bob Seger & The Silver Bullet Band|Hollywood Nights|1978|_D4eUWBAE_A|Bob Seger|S
 Fleetwood Mac|Little Lies|1987|uCGD9dT12C0|Fleetwood Mac|S10827
 Guns N' Roses|Live and Let Die|1991|6D9vAItORgE|Guns N' Roses|S10992
 Muse|Madness|2012|Ek0SgwWmF9w|Muse (band)|S15726
-Pearl Jam|Yellow Ledbetter|1992|hs8y3kneqrs|Pearl Jam|S7916
+Pearl Jam|Yellow Ledbetter|1992|uvrQJFVV3-o|Pearl Jam|S7916
 Social Distortion|Ball and Chain|1990|_NWjehpGSO0|Social Distortion|S3123
 Waxahatchee|Swan Dive|2013|sgqr-caLcnA|Waxahatchee|S12556
 John Lee Hooker|Dimples|1956|OC_IZlOJv94|John Lee Hooker|S6950
@@ -8308,7 +8308,7 @@ Antony and The Johnsons|Bird Gerhl|2005|v1pZgrk_WCw|Antony and the Johnsons|S136
 Los Prisioneros|El baile de los que sobran|1986|uPJrZFBiy-A|Los Prisioneros|S13550
 Jeff Buckley|Lilac Wine|1994|quJO5ZXzSb4|Jeff Buckley|S13263
 Syd Barrett|Opel|1988|Ch3BfpZp8PI|Syd Barrett|S8660
-Beirut|Nantes|2007|PCkT4K-hppE|Beirut|S4340
+Beirut|Nantes|2007|PCkT4K-hppE|Beirut (band)|S4340
 Bloc Party|Flux|2007|ttcboE1GrNg|Bloc Party|S5499
 Alice Coltrane|Universal Consciousness|1971|kxn3tCO7Q_8|Alice Coltrane|S9965
 King Cole Trio|Sweet Lorraine|1941|nj2eH_x4H54|Nat King Cole|S15730
@@ -8812,7 +8812,7 @@ A Tribe Called Quest|Scenario (Remix)|1992|ER2AT-mdB10|A Tribe Called Quest|S162
 Travis|Driftwood|1999|zzUdJ-5fscA|Travis (band)|S8838
 Los Violadores|Uno, dos, ultraviolento|1985|FIw04_pZ-C8|Los Violadores|S11480
 Bob Dylan & The Band|Million Dollar Bash|1975|vOHljR41l4Y|The Band|S10234
-Beirut|East Harlem|2011|fj1szD7KiJU|Beirut|S5400
+Beirut|East Harlem|2011|fj1szD7KiJU|Beirut (band)|S5400
 The Magnetic Fields|100,000 Fireflies|1991|lHkAqWa9gW0|The Magnetic Fields|S11519
 Superpitcher|Tomorrow|2001|M9n7QLJvWZg|Superpitcher|S8640
 Michael Jackson|You Rock My World|2001|1-7ABIM2qjU|Michael Jackson|S13570
@@ -8825,7 +8825,7 @@ Bad Brains|Banned in D.C.|1982|gnWKhq8l_5c|Bad Brains|S10061
 John Coltrane|Alabama|1964|saN1BwlxJxA|John Coltrane|S13213
 Raspberries|I Wanna Be With You|1972|5mFUYm5QFUE|Raspberries (band)|S13338
 John Stewart|Gold|1979|B3KGpIoE5CY|John Stewart (musician)|S6961
-Tanlines|All of Me|2012|zIp3SjO0yiI|Tanlines|S8685
+Tanlines|All of Me|2012|kKJ3z9Pa7AU|Tanlines|S8685
 The Crystals|He Hit Me (And It Felt Like a Kiss)|1962|f20Oz9Yr_So|The Crystals|S5919
 The Cookies|Don't Say Nothin' Bad (About My Baby)|1963|xmuDaviugls|Cookies (Hong Kong band)|S5867
 Miranda Lambert|Gunpowder and Lead|2007|ajoI8X8Ys94|Miranda Lambert|S7567
@@ -9160,7 +9160,7 @@ Miles Davis|Jeru|1949|MRjjqFogPGI|Miles Davis|S13235
 The Bobbettes|Mr. Lee|1957|XoT_7lOS-vg|The Bobbettes|S2788
 Primal Scream|If They Move, Kill 'Em|1997|frmTBFWK1o4|Primal Scream|S288
 Odyssey|Inside Out|1982|LIXK6u2bHTg|Odyssey|S7791
-King Crimson|Cat Food|1970|5LqLR-Oua0o|King Crimson|S14623
+King Crimson|Cat Food|1970|OJc9fZ-hDZA|King Crimson|S14623
 The Magic Numbers|Forever Lost|2005|FCLI66C-VDI|The Magic Numbers|S4648
 Michael Kiwanuka|Black Man in a White World|2016|-TYlcVNI2AM|Michael Kiwanuka|S16146
 James Brown|King Heroin|1972|07SWjWaOxc4|James Brown|S11132
@@ -9410,7 +9410,7 @@ Cymande|Bra|1972|SuLnxjVo6bk|Cymande|S13724
 Lio|Les Brunes comptent pas pour des prunes|1986|hkHF0xvQOok|Lio|S15657
 Zwan|Honestly|2003|NLPgz9K4D20|Zwan|S15993
 Steve Miller Band|Space Cowboy|1969|cwoiy-Fwm0E|Steve Miller Band|S8574
-Blood, Sweat & Tears|God Bless the Child|1969|04rClGsbWp4|Blood, Sweat & Tears|S13159
+Blood, Sweat & Tears|God Bless the Child|1969|Wc4JvGfRLpA?start=5|Blood, Sweat & Tears|S13159
 Bunbury|Lady Blue|2002|AY8z7ZXJ-Vg|Enrique Bunbury|S13456
 Roxanne Shanté|Have a Nice Day|1987|5QkEHUMmpyM|Roxanne Shante|S8250
 Men at Work|Overkill|1983|RY7S6EgSlCI|Men at Work|S7515
@@ -9737,7 +9737,7 @@ Fela|Original Sufferhead|1981|eXDElcfSdy4|Fela Kuti|S10794
 Molly Hatchet|Flirtin' with Disaster|1979|MOhGgRgRsmo|Molly Hatchet|S11672
 Miles Davis|Spanish Key|1970|ibanLlREjTk|Miles Davis|S11649
 Malcolm McLaren|Double Dutch|1983|FZ4jMSCBswY|Malcolm McLaren|S13563
-D-Mob feat. Gary Haisman|We Call It Acieed|1988|QMyxLbpxS6U|Lynch Mob (band)|S14312
+D-Mob feat. Gary Haisman|We Call It Acieed|1988|QMyxLbpxS6U|D Mob|S14312
 Frank Sinatra|When Your Lover Has Gone|1955|eP6CoACWyCo|Frank Sinatra|S2780
 Wild Beasts|Hooting & Howling|2009|DwHoh2vNdiA|Wild Beasts|S9021
 Warumpi Band|Blackfella Whitefella|1985|yxz7CYkQltE|Warumpi Band|S15965
