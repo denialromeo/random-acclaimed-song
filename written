@@ -67,7 +67,7 @@ Derek and the Dominos|Layla|1970|uSquiIVLhrQ|Derek and the Dominos|S841
 Talking Heads|Once in a Lifetime|1980|5IsSpAOD6K8|Talking Heads|S518
 The Animals|The House of the Rising Sun|1964|uS90B4sZf7U|The Animals|S1025
 The Jimi Hendrix Experience|All Along the Watchtower|1968|TLV4_xaYynY|The Jimi Hendrix Experience|S905
-Ben E. King|Stand by Me|1961|pKtLNYNWbBw|Ben E. King|S1111
+Ben E. King|Stand by Me|1961|TYDkQgKgghc|Ben E. King|S1111
 The Smiths|How Soon Is Now?|1984|OztC_7nkAd8|The Smiths|S394
 Missy Elliott|Get Ur Freak On|2001|FPoKiGQzbSQ|Missy Elliott|S1456
 Elvis Presley|Hound Dog|1956|lzQ8GDBA8Is|Elvis Presley|S1262
@@ -999,7 +999,7 @@ Manu Dibango|Soul Makossa|1972|aWK_Josc0Og|Manu Dibango|S2867
 King Krule|Dum Surfer|2017|K5-f1Bnltu8|King Krule|S16423
 Madness|Our House|1982|oXA6CLTDekw|Madness (band)|S499
 Hank Williams|Your Cheatin' Heart|1953|Jg2oR91_r5I|Hank Williams|S1294
-Aretha Franklin|(You Make Me Feel Like) A Natural Woman|1967|dEWuAcMWDLY|Aretha Franklin|S952
+Aretha Franklin|(You Make Me Feel Like) A Natural Woman|1967|kE7M2iAlU9M|Aretha Franklin|S952
 Edwyn Collins|A Girl Like You|1994|Wr_ItR4CHpg|Edwyn Collins|S118
 TV on the Radio|Staring at the Sun|2003|oHrTOQ18yzU|TV on the Radio|S2480
 The Crystals|Then He Kissed Me|1963|cE_jOD2Fxvs|The Crystals|S2409
@@ -1854,7 +1854,7 @@ Danny Brown feat. Kendrick Lamar, Ab-Soul and Earl Sweatshirt|Really Doe|2016|sp
 Yes|Roundabout|1971|kmZoQFYYx8U|Yes (band)|S3982
 Tori Amos|Cornflake Girl|1994|nUEAwySNRHA|Tori Amos|S3150
 Henry Mancini|Moon River|1961|WZ8j-X1hq1I|Henry Mancini|S2808
-Donovan|Sunshine Superman|1966|hTuPbJLqFKI|Donovan|S1440
+Donovan|Sunshine Superman|1966|A6ynnBHDsRA|Donovan|S1440
 Damian Marley|Welcome to Jamrock|2005|djWm-5fjyWA|Damian Marley|S3021
 Michael Jackson|Bad|1987|dsUXAEzaC3Q|Michael Jackson|S2921
 Terry Jacks|Seasons in the Sun|1973|cd_Fdly3rX8|Terry Jacks|S4417
@@ -3051,7 +3051,7 @@ Mississippi John Hurt|Stack O' Lee Blues|1928|4scedJs6hC8|Mississippi John Hurt|
 Judas Priest|Breaking the Law|1980|L397TWLwrUU|Judas Priest|S2604
 Kasabian|Club Foot|2004|lk5iMgG-WJI|Kasabian|S7054
 The Delfonics|La-La-Means I Love You|1968|baNbyst7aW0|The Delfonics|S2419
-Savages|Shut Up|2013|FuIB8HEmnoY|Savages|S9519
+Savages|Shut Up|2013|FuIB8HEmnoY|Savages (band)|S9519
 Jack White|Lazaretto|2014|qI-95cTMeLM|Jack White|S9597
 John Maus|Believer|2011|PMku-GbafEg|John Maus|S4970
 Sidney Bechet|Summertime|1939|Po8J4NBdiSc|Sidney Bechet|S4598
@@ -3121,7 +3121,7 @@ Heart|Crazy On You|1975|OZuW6BH_Vak|Heart (band)|S3087
 Sleigh Bells|Rill Rill|2010|nmFgejWZjtg|Sleigh Bells (band)|S4923
 Leo Reisman & His Orchestra with Fred Astaire|Night and Day|1932|DoR2uCi8d_k|Leo Reisman|S2735
 alt-J|Left Hand Free|2014|NRWUoDpo2fo|Alt-J|S9607
-John Lennon|#9 Dream|1974|0LbUjuG2uYo|John Lennon|S6955
+John Lennon|#9 Dream|1974|7zZsKOvXiFo|John Lennon|S6955
 The Mar-Keys|Last Night|1961|FX5T9GvSnbY|The Mar-Keys|S4389
 Charles Mingus|Fables of Faubus/Original Faubus Fables|1959|EtLiwC1hcrI|Charles Mingus|S5764
 Spin Doctors|Two Princes|1991|wsdy_rct6uo|Spin Doctors|S8526
@@ -3160,7 +3160,7 @@ The Rolling Stones|Waiting on a Friend|1981|MKLVmBOOqVU|The Rolling Stones|S1210
 Strafe|Set It Off|1985|YWUpgzRK1vc|Strafe (band)|S3860
 Little Richard|Rip It Up|1956|pc_F3PaYgl0|Little Richard|S1268
 The Jesus and Mary Chain|You Trip Me Up|1985|zK2nJWNgZBA|The Jesus and Mary Chain|S398
-Savages|Husbands|2012|rmJ_mcvRQsI|Savages|S5036
+Savages|Husbands|2012|rmJ_mcvRQsI|Savages (band)|S5036
 Paul Simon|You Can Call Me Al|1986|uq-gYOrU8bA|Paul Simon|S378
 Edgar Winter Group|Frankenstein|1972|P8f-Qb-bwlU|Edgar Winter|S1753
 Led Zeppelin|The Battle of Evermore|1971|7_3yDImIQYU|Led Zeppelin|S2568
@@ -3566,7 +3566,7 @@ George Jones|A Good Year for the Roses|1970|9MtdYqaLe4w|George Jones|S866
 Booker T. & The MG's|Time Is Tight|1969|50xx1_CbJTI|Booker T. & the M.G.'s|S3227
 Ben Folds Five|Brick|1997|Wt5EHAqhR1c|Ben Folds Five|S3209
 Farley Jackmaster Funk|Love Can't Turn Around|1986|UzqhRicKCLM|Steve "Silk" Hurley|S367
-Donovan|Mellow Yellow|1966|NLjyUySZAc4|Donovan|S6132
+Donovan|Mellow Yellow|1966|64mb_hUOb4g|Donovan|S6132
 Oliver Nelson|Stolen Moments|1961|RbaGDDbpcQ4|Oliver Nelson|S7804
 Bryan Ferry|Slave to Love|1985|9kp3N3wQPO0|Bryan Ferry|S5664
 Paul Weller|Wild Wood|1993|EgIw51zmiy8|Paul Weller|S4497
@@ -3715,7 +3715,7 @@ The Sons of the Pioneers|Tumbling Tumbleweeds|1934|JQc5gDXQGIs|Sons of the Pione
 Donny Hathaway|The Ghetto|1969|OqZ2JBVXgpA|Donny Hathaway|S4139
 No Doubt|Just a Girl|1995|PHzOOQfhPFg|No Doubt|S11777
 The Presidents of the United States of America|Lump|1995|_sj_U6vObUA|The Presidents of the United States of America (band)|S2107
-Savages|Adore|2016|Y7ZpPsaMNMM|Savages|S16181
+Savages|Adore|2016|Y7ZpPsaMNMM|Savages (band)|S16181
 The Coasters|Searchin'|1957|PN307ssGLuc|The Coasters|S1241
 New Order|Age of Consent|1983|0VcGJZpfl1c|New Order (band)|S4879
 Pink Floyd|Set the Controls for the Heart of the Sun|1968|8RbXIMZmVv8|Pink Floyd|S3704
@@ -3800,7 +3800,7 @@ Orchestral Manoeuvres in the Dark|If You Leave|1986|EPmTGFg06zA|Orchestral Manoe
 Duran Duran|The Chauffeur|1982|MCF2nMrQde8|Duran Duran|S6173
 The Four Seasons|Rag Doll|1964|-b8uK8znFBg|The Four Seasons (band)|S1049
 The Beatles|Everybody's Got Something to Hide Except Me and My Monkey|1968|eyV3zCq1OHM|The Beatles|S3185
-Savages|She Will|2013|kim-REn8ecg|Savages|S9518
+Savages|She Will|2013|kim-REn8ecg|Savages (band)|S9518
 Little Willie John|Need Your Love So Bad|1955|hFo7Z2fKTVk|Little Willie John|S1283
 Hüsker Dü|Pink Turns to Blue|1984|uvOvR6rCeR4|Hüsker Dü|S4570
 Claude François|Comme d'habitude|1967|GME3fMeK5ts|Claude François|S4407
@@ -5269,7 +5269,7 @@ Patti Smith Group|Frederick|1979|qFunRQfUk_Q|Patti Smith|S7868
 Lou Reed|Vicious|1972|sM9JG-oQm1Y|Lou Reed|S7320
 Babasónicos|Putita|2003|7siu5MQ_8s0|Babasónicos|S10059
 Daddy Cool|Eagle Rock|1971|XR5IBQeoTPY|Daddy Cool (band)|S4146
-Donovan|Catch the Wind|1965|J8hjEYTpwE8|Donovan|S10632
+Donovan|Catch the Wind|1965|Oyn9jtEC0uo|Donovan|S10632
 Illya Kuryaki & The Valderramas|Abarájame|1995|p3DRFGxq6EU|Illya Kuryaki and the Valderramas|S6777
 The Beatles|It's All Too Much|1969|2zc3idF_IZ0|The Beatles|S3195
 Deerhunter|Revival|2010|DaJQCTg7ohE|Deerhunter|S6019
@@ -5297,7 +5297,7 @@ Harold Melvin & The Blue Notes|Don't Leave Me This Way|1975|MnIkcB8GObo|Harold M
 TV on the Radio|Dancing Choose|2008|SBhQ22CfJJ0|TV on the Radio|S8866
 Jimmy Buffett|Margaritaville|1977|nHIVy4nGRBU|Jimmy Buffett|S3254
 Arlo Guthrie|The City of New Orleans|1972|TvMS_ykiLiQ|Arlo Guthrie|S5236
-Dennis Wilson|Riversong|1977|LHCzTLnFpLE|Dennis Wilson|S6038
+Dennis Wilson|River Song|1977|arQUVdjI2y0|Dennis Wilson|S6038
 Quincy Jones|Soul Bossa Nova|1962|T5ALPzS0QfQ|Quincy Jones|S13244
 Foreigner|Waiting for a Girl Like You|1981|5jhocSCSZzk|Foreigner|S10845
 Lisa Stansfield|All Around the World|1989|JVuuatjHGnY|Lisa Stansfield|S254
@@ -5688,7 +5688,7 @@ Eddie Cochran|Three Steps to Heaven|1960|nxj--MkqACY|Eddie Cochran|S6196
 Arthur Smith|Guitar Boogie|1945|2sT0Za4Rge0|Arthur "Guitar Boogie" Smith|S4359
 Schoolly D|Saturday Night|1987|f6_Wyt7Pf8U|Schoolly D|S1965
 Warren Zevon|Lawyers, Guns and Money|1978|lP5Xv7QqXiM|Warren Zevon|S12550
-Bush|Everything Zen|1994|kS1ggFD6g-k|Bush (British band)|S10333
+Bush|Everything Zen|1994|Ps317u9Rhl0|Bush (British band)|S10333
 Rockwell|Somebody's Watching Me|1984|7YvAYIJSSZY|Rockwell (musician)|S8195
 Michael Jackson|I Wanna Be Where You Are|1972|MFL_gYXE6Rk|Michael Jackson|S7533
 Band of Horses|Is There a Ghost|2007|JK716RqoUms|Band of Horses|S5312
@@ -6773,7 +6773,7 @@ Boards of Canada|Roygbiv|1996|yT0gRc2c2wQ|Boards of Canada|S4865
 Midnight Oil|The Dead Heart|1986|16bFBzx7I_0|Midnight Oil|S7547
 My Chemical Romance|Helena (So Long and Goodnight)|2004|UCCyoocDxBA|My Chemical Romance|S3023
 The Human League|(Keep Feeling) Fascination|1983|QqqBs6kkzHE|The Human League|S3485
-Savages|The Answer|2015|kvvhHT0B5ck|Savages|S16182
+Savages|The Answer|2015|kvvhHT0B5ck|Savages (band)|S16182
 Pearl Jam|World Wide Suicide|2006|Hq-pA4R_EMM|Pearl Jam|S4048
 U2|God, Part II|1988|TIrxVyZKuSg|U2|S12503
 Van Halen|Unchained|1981|Cn8APTMyKsg|Van Halen|S12542
@@ -7762,7 +7762,7 @@ M People|How Can I Love You More?|1991|LPIbr73oZyE|M People|S2033
 Tiga & Zyntherius|Sunglasses at Night|2001|2kE8565_xrc|Tiga (musician)|S8756
 Scorpions|Wind of Change|1990|n4RjJKxsamQ|Scorpions (band)|S12171
 Sean Paul|Like Glue|2002|0zZ2bifb338|Sean Paul|S8340
-Little Boots|Stuck on Repeat|2008|pwCRduFEMI0|Little Boots|S4729
+Little Boots|Stuck on Repeat|2008|B0mQBMI8HGk|Little Boots|S4729
 Brad Mehldau|Exit Music (for a Film)|1998|Mm-pBjBp4OA|Brad Mehldau|S13160
 Rachid Taha|Ya Rayah|1997|uUDKfK3R42Q|Rachid Taha|S11993
 The Beatles|Rocky Raccoon|1968|sDcDCZGcZj8|The Beatles|S10117
