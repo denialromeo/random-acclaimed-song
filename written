@@ -107,7 +107,7 @@ Daft Punk feat. Pharrell Williams|Get Lucky|2013|5NV6Rdv1a3I|Daft Punk|S9426
 Blondie|Heart of Glass|1978|WGU_4-5RaxU|Blondie (band)|S584
 Run-DMC|Walk This Way|1986|4B_UYYPb-Gk|Run-DMC|S363
 Creedence Clearwater Revival|Proud Mary|1969|XfyEpmQM7bw|Creedence Clearwater Revival|S874
-Chic|Good Times|1979|humibwm_-8s|Chic (band)|S572
+Chic|Good Times|1979|humibwm_-8s?start=9|Chic (band)|S572
 Sinéad O'Connor|Nothing Compares 2 U|1990|0-EF60neguk|Sinéad O'Connor|S212
 The Police|Every Breath You Take|1983|OMOGaugKpzs|The Police|S452
 Procol Harum|A Whiter Shade of Pale|1967|Mb3iPP-tHdA|Procol Harum|S935
@@ -793,7 +793,7 @@ Pink Floyd|Astronomy Domine|1967|pJh9OLlXenM|Pink Floyd|S3702
 Cream|White Room|1968|dJWnnDE4Fmg|Cream (band)|S2418
 The Rolling Stones|Start Me Up|1981|SGyOaCXr8Lw|The Rolling Stones|S520
 The Clash|White Riot|1977|8m_2XGm9GqQ|The Clash|S644
-Kiss|Rock and Roll All Nite|1975|EFMD7Usflbg|Kiss|S697
+Kiss|Rock and Roll All Nite|1975|EFMD7Usflbg|Kiss (band)|S697
 Neil Young|The Needle and the Damage Done|1972|Hd3oqvnDKQk|Neil Young|S3987
 Peter Gabriel|Sledgehammer|1986|OJWJE0x7T4Q|Peter Gabriel|S365
 Cardi B|Bodak Yellow|2017|PEGccV-NOm8|Cardi B|S16349
@@ -1401,7 +1401,7 @@ Michael Jackson|Man in the Mirror|1987|PivWY9wn5ps|Michael Jackson|S3505
 A Tribe Called Quest|Scenario|1991|Q6TLWqn82J4|A Tribe Called Quest|S2059
 This Mortal Coil|Song to the Siren|1983|HFWKJ2FUiAQ|This Mortal Coil|S478
 Weezer|Undone - The Sweater Song|1994|LHQqqM5sr7g|Weezer|S3945
-Doug E. Fresh|The Show|1985|bDkqz5C62SM|Doug E. Fresh|S408
+Doug E. Fresh|The Show|1985|S_Pmp8VtJwI|Doug E. Fresh|S408
 Fats Waller|Ain't Misbehavin'|1929|PSNPpssruFY|Fats Waller|S2755
 Kendrick Lamar|The Blacker the Berry|2015|VdPtVZDspIY|Kendrick Lamar|S9805
 The Drifters|Under the Boardwalk|1964|EPEqRMVnZNU|The Drifters|S1033
@@ -1438,7 +1438,7 @@ Patti Smith|Land: Horses/Land of a Thousand Dances/La Mer (de)|1975|wssnxfjH-zw|
 The Byrds|So You Want to Be a Rock 'n' Roll Star|1967|XMoop0rn780|The Byrds|S957
 LL Cool J|Mama Said Knock You Out|1990|vimZj8HW0Kg|LL Cool J|S2026
 The Staple Singers|I'll Take You There|1972|uY3vgBzgYn4|The Staple Singers|S1319
-Kiss|I Was Made for Lovin' You|1979|zlSFmotba2I|Kiss|S3545
+Kiss|I Was Made for Lovin' You|1979|zlSFmotba2I|Kiss (band)|S3545
 Björk|Human Behaviour|1993|36Srr08PN_Y|Björk|S134
 Four Tops|Baby I Need Your Loving|1964|joqjBAJx4ZA|Four Tops|S1029
 Blur|For Tomorrow|1993|gghFPavXE7Q|Blur (band)|S141
@@ -1617,7 +1617,7 @@ Sharon Van Etten|Your Love Is Killing Me|2014|nyuPWHwZru0|Sharon Van Etten|S9558
 Dale Hawkins|Susie-Q|1957|GmrETlIXzLg|Dale Hawkins|S1246
 Modern English|I Melt with You|1982|LuN6gs0AJls|Modern English (band)|S506
 Howlin' Wolf|Spoonful|1960|s0aIjyX7vwI|Howlin' Wolf|S1147
-Kiss|Detroit Rock City|1976|iZq3i94mSsQ|Kiss|S686
+Kiss|Detroit Rock City|1976|iZq3i94mSsQ|Kiss (band)|S686
 Billy Paul|Me and Mrs. Jones|1972|NYOQDnWFXYI|Billy Paul|S2863
 Gerry Rafferty|Baker Street|1978|dU6w56epBdc|Gerry Rafferty|S2888
 Method Man feat. Mary J. Blige|I'll Be There for You/You're All I Need to Get By|1995|siXunj15hKc|Method Man|S77
@@ -3363,7 +3363,7 @@ The Kingston Trio|Tom Dooley|1958|VhXuO4Gz3Wo|The Kingston Trio|S1230
 The Rolling Stones|Shattered|1978|Jz1FUgGb_us|The Rolling Stones|S3776
 Miriam Makeba|Pata pata|1967|Zq5S5sH1Ikk|Miriam Makeba|S11657
 Electronic|Getting Away with It|1989|DSfjtdnUsls|Electronic (band)|S2010
-Genesis|Carpet Crawlers|1974|2yUN6CsuVPw|Genesis (band)|S6524
+Genesis|Carpet Crawlers|1974|23cUcLKc374|Genesis (band)|S6524
 Billy Stewart|Summertime|1966|CDLDl0_pt_k|Billy Stewart|S3854
 M.I.A.|XXXO|2010|sfbQ5mHWkOs|M.I.A. (rapper)|S4918
 Arthur Alexander|You Better Move On|1961|AOT7OwcbK-k|Arthur Alexander|S4081
@@ -5017,7 +5017,7 @@ Donovan|Wear Your Love Like Heaven|1967|6bmruh9tKxM|Donovan|S3348
 Fever Ray|When I Grow Up|2009|4F-CpE73o2M|Karin Dreijer|S4798
 The Supremes|Come See About Me|1964|PycKSdKG_74|The Supremes|S8647
 Electric Six|Gay Bar|2003|IslF_EyhMzg|Electric Six|S2249
-Kiss|Black Diamond|1974|y0nNZ5wAWZE|Kiss|S3544
+Kiss|Black Diamond|1974|y0nNZ5wAWZE|Kiss (band)|S3544
 Whitney Houston|It's Not Right But It's Okay|1998|6J538b-OLRU|Whitney Houston|S2170
 John Lennon/Plastic Ono Band|Power to the People|1971|4Epue9X8bpc|Plastic Ono Band|S6953
 Cocteau Twins|Iceblink Luck|1990|L_Tj4bJ0VFw|Cocteau Twins|S5850
@@ -5119,7 +5119,7 @@ Daft Punk feat. Panda Bear|Doin' It Right|2013|LL-gyhZVvx0|Daft Punk|S9424
 Kanye West|Fade|2016|IxGvm6btP1A|Kanye West|S16112
 Steve "Silk" Hurley|Jack Your Body|1986|ZaHUK5GnDgE|Steve "Silk" Hurley|S8564
 Madonna|Secret|1994|EPHUZenprKc|Madonna (entertainer)|S3587
-Peter and Gordon|A World Without Love|1964|Tdx6lLvvRyg|Peter and Gordon|S3696
+Peter and Gordon|A World Without Love|1964|K1AC0ModdIc|Peter and Gordon|S3696
 Justice|Waters of Nazareth|2005|1SEgoi7kjw8|Justice (band)|S4025
 First Aid Kit|My Silver Lining|2014|DKL4X0PZz7M|First Aid Kit (band)|S9617
 Teena Marie|Lovergirl|1984|1fyWgjhe_Zg|Teena Marie|S8705
@@ -5225,7 +5225,7 @@ The Cure|Charlotte Sometimes|1981|_defwv03IfQ|The Cure|S1864
 Barbara|L'Aigle Noir|1970|d9cEY13bUTo|Barbara (singer)|S10074
 The Pretty Things|S.F. Sorrow is Born|1968|JgwnC-pEw3k|Dirty Pretty Things (band)|S3726
 Dire Straits|Brothers in Arms|1985|QuR-OeFEsHE|Dire Straits|S6090
-Buffy Sainte-Marie|Universal Soldier|1964|zYEsFQ_gt7c|Buffy Sainte-Marie|S10324
+Buffy Sainte-Marie|Universal Soldier|1964|j6imjvgJFvM|Buffy Sainte-Marie|S10324
 Stray Cats|Rock This Town|1981|m-a6ct8aalg|Stray Cats|S1857
 Eric Burdon & War|Spill the Wine|1970|W77Kwh6f0TE|War (American band)|S2856
 The Stone Roses|One Love|1990|60qyfdcAOGE|The Stone Roses|S8594
@@ -5440,7 +5440,7 @@ Blur|Fool's Day|2010|FArouKj8vGU|Blur (band)|S5529
 The Clash|Police and Thieves|1977|W6FZwVvS8_8|The Clash|S10418
 Kanye West|We Don't Care|2004|0Tdpq3FRGhY|Kanye West|S4691
 The Coasters|Charlie Brown|1959|_UnPzp2lmNk|The Coasters|S1631
-Joe Goddard feat. Valentina|Gabriel|2011|1XtEFMP3-hA|Joe Goddard|S6935
+Joe Goddard feat. Valentina|Gabriel|2011|1XtEFMP3-hA|Joe Goddard (musician)|S6935
 Grant Lee Buffalo|Fuzzy|1993|WhGreh4IoNw|Grant Lee Buffalo|S2946
 Louis Armstrong|Hello, Dolly!|1964|l7N2wssse14|Louis Armstrong|S2823
 Spike Jones and His City Slickers|Cocktails for Two|1945|lvt4b_qwC_Q|Spike Jones|S4357
@@ -5571,7 +5571,7 @@ AFX|Analogue Bubblebath I|1991|Cyo61Q69xtI|AFX|S5114
 Miles Davis|Boplicity|1949|HLzqjmoZZAc|Miles Davis|S11646
 Bessie Smith|Nobody Knows When You're Down and Out|1929|Zea-1Fzi9JQ|Bessie Smith|S4266
 Gram Parsons|She|1973|t6YMdZdD9iQ|Gram Parsons|S3687
-Kiss|Beth|1976|kHkojuUSDO8|Kiss|S7133
+Kiss|Beth|1976|kHkojuUSDO8|Kiss (band)|S7133
 Ms. Dynamite|Dy-na-mi-tee|2002|8pTYmAWBCck|Ms. Dynamite|S1516
 Wilbert Harrison|Let's Work Together, Part 1|1969|kYWiUErA9Kw|Wilbert Harrison|S9007
 En Vogue|Hold On|1990|liT8cILFAV4|En Vogue|S2929
@@ -5619,7 +5619,7 @@ Jónsi|Go Do|2010|c1WomtTi0wY|Jónsi|S7003
 The Notorious B.I.G. feat. Faith Evans|One More Chance (Stay with Me Remix)|1995|542Am04RsDs|The Notorious B.I.G.|S7773
 The Impressions|Keep On Pushing|1964|HU-mEsCk3D8|The Impressions|S2820
 Feist|I Feel It All|2007|l-iAS18rv68|Feist (singer)|S15476
-Donovan|Universal Soldier|1965|A50lVLtSQik|Donovan|S6131
+Donovan|Universal Soldier|1965|UC9pc4U40sI|Donovan|S6131
 Elton John|Don't Let the Sun Go Down on Me|1974|ncuiQAfPhTg|Elton John|S6240
 Don Covay|It's Better to Have (And Don't Need)|1974|TCnPxGuqbiM|Don Covay|S6122
 Fats Domino|I'm in Love Again|1956|SxUC2bTJ6nA|Fats Domino|S2486
@@ -7470,7 +7470,7 @@ Cocteau Twins|Carolyn's Fingers|1988|NhGoZLudKyk|Cocteau Twins|S10439
 Real Estate|Darling|2017|VUFr4SK1-l4|Real Estate (band)|S16472
 Iron Maiden|Can I Play With Madness|1988|Kvqr366Op3k|Iron Maiden|S11090
 Kool & The Gang|Ladies Night|1979|TS8xzin7z28|Kool & the Gang|S12882
-The Jam|The Butterfly Collector|1979|VdFZSF_LmVo|The Jam|S11127
+The Jam|The Butterfly Collector|1979|w1eGLbLHt3A|The Jam|S11127
 Ash|Shining Light|2001|SZGcNx8nV8U|Ash (band)|S2209
 Anita Baker|Giving You the Best That I Got|1988|rUSddpvB4X0|Anita Baker|S5204
 Zola Jesus|Night|2010|ah8QWamNXWk|Zola Jesus|S9110
@@ -9653,7 +9653,7 @@ The Impalas|Sorry (I Ran All the Way Home)|1959|ufz4-fRCwwo|The Impalas|S3493
 Liars|Scarecrows on a Killer Slant|2010|iNEijb9s3lU|Liars (band)|S7257
 Veneno|Los Delincuentes|1977|FSG09yXgK1U|Veneno|S13111
 Elbow|Newborn|2000|syQOaO9s2Tw|Elbow (band)|S6221
-Beck|Gamma Ray|2008|NgzfncwjcCE|Beck|S5391
+Beck|Gamma Ray|2008|Z25_T_wkAV4|Beck|S5391
 Little Willie John|All Around the World|1955|fzViZawss64|Little Willie John|S4368
 Teenage Head|Picture My Face|1978|Juf5fApWiIs|Teenage Head (band)|S13366
 The Allman Brothers Band|Melissa|1972|DFWHaA1B1HY?start=318|The Allman Brothers Band|S5175
