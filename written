@@ -12,7 +12,7 @@ Aretha Franklin|Respect|1967|6FOUqQt3Kg0|Aretha Franklin|S932
 Joy Division|Love Will Tear Us Apart|1980|zuuObGsB0No|Joy Division|S541
 Bruce Springsteen|Born to Run|1975|IxuThNgl3YA|Bruce Springsteen|S691
 The Rolling Stones|Sympathy for the Devil|1968|GgnClrx8N2k|The Rolling Stones|S1705
-Sex Pistols|Anarchy in the U.K.|1976|qbmWs6Jf5dc|Sex Pistols|S661
+Sex Pistols|Anarchy in the U.K.|1976|cBojbjoMttI|Sex Pistols|S661
 The Beatles|Strawberry Fields Forever|1967|HtUH9z_Oey8|The Beatles|S931
 Elvis Presley|Heartbreak Hotel|1956|e9BLw4W5KU8|Elvis Presley|S1261
 Michael Jackson|Billie Jean|1982|Zi_XLOBDo_Y|Michael Jackson|S451
@@ -155,7 +155,7 @@ The Shirelles|Will You Love Me Tomorrow|1960|cbxxkwBQk_o|The Shirelles|S1141
 Jefferson Airplane|White Rabbit|1967|WANNqr-vcx0|Jefferson Airplane|S950
 Soft Cell|Tainted Love|1981|oGXpDhNAO1Y|Soft Cell|S515
 Jay-Z feat. Alicia Keys|Empire State of Mind|2009|1TC02VaB1Rw|Jay-Z|S4806
-Johnny Cash|I Walk the Line|1956|Lq0fUa0vW_E|Johnny Cash|S1278
+Johnny Cash|I Walk the Line|1956|xObSJWIWui0|Johnny Cash|S1278
 Madonna|Like a Prayer|1989|79fzeNUqQbQ|Madonna (entertainer)|S248
 The Beatles|In My Life|1965|YBcdt6DsLQA|The Beatles|S2495
 The Undertones|Teenage Kicks|1978|PinCg7IGqHg|The Undertones|S614
@@ -168,7 +168,7 @@ The La's|There She Goes|1988|eu2iv-vMKT8|The La's|S221
 The Stooges|I Wanna Be Your Dog|1969|3gsWt7ey6bo|The Stooges|S888
 U2|Sunday Bloody Sunday|1983|EM4vblG6BVQ|U2|S467
 Rihanna feat. Jay-Z|Umbrella|2007|CvBfHwUxHIk|Rihanna|S4274
-Deep Purple|Smoke on the Water|1972|zUwEIt9ez7M|Deep Purple|S767
+Deep Purple|Smoke on the Water|1972|ikGyZh0VbPQ|Deep Purple|S767
 The Beatles|While My Guitar Gently Weeps|1968|bI8P6ZSHSvE|The Beatles|S2529
 Madonna|Into the Groove|1985|52iW3lcpK5M|Madonna (entertainer)|S396
 Sly and the Family Stone|Family Affair|1971|MbT_ask1Cco|Sly and the Family Stone|S817
@@ -1130,7 +1130,7 @@ Sam Cooke|Bring It On Home to Me|1962|QZT-eU4pizI|Sam Cooke|S1090
 The Charlatans|The Only One I Know|1990|0RJwW77Lsj8|The Charlatans (English band)|S218
 Red Hot Chili Peppers|Californication|1999|YlUKcNNmywk|Red Hot Chili Peppers|S2382
 Nilsson|Without You|1971|G-ZDKirjQgM|Harry Nilsson|S836
-Arrested Development|Tennessee|1992|81mkW-vhPBo|Arrested Development (group)|S152
+Arrested Development|Tennessee|1992|6VCdJyOAQYM|Arrested Development (group)|S152
 Massive Attack|Protection|1994|Epgo8ixX6Wo|Massive Attack|S2104
 Neil Young with Crazy Horse|Powderfinger|1979|ETOIIWot-3Y|Neil Young|S3986
 Vampire Weekend|Step|2013|_mDxcDjg9P4|Vampire Weekend|S9543
@@ -3531,7 +3531,7 @@ Sophie Tucker|Some of These Days|1911|3heCSPJrO70|Sophie Tucker|S2753
 AC/DC|Let There Be Rock|1977|3f2g4RMfhS0|AC/DC|S5088
 Patsy Montana|I Want to Be a Cowboy's Sweetheart|1935|rAYwYscqXJQ|Patsy Montana|S2724
 Bob Dylan|Boots of Spanish Leather|1964|XZ1Fwvirjgg|Bob Dylan|S5538
-HEALTH|Die Slow|2009|EWZxThGh5wQ|Health|S4805
+HEALTH|Die Slow|2009|EWZxThGh5wQ|Health (band)|S4805
 Christophe|Les Mots bleus|1974|LdfB8pM-qLw|Tryo|S4426
 The Hold Steady|Stuck Between Stations|2006|TbZ1SEy_wxk|The Hold Steady|S4659
 Tom Waits|Innocent When You Dream|1987|95gu6758320|Tom Waits|S3928
@@ -3841,7 +3841,7 @@ The Libertines|Up the Bracket|2002|0u_g6zNuP_I|The Libertines|S2974
 The Jayhawks|Blue|1995|Z9mJ69Tqh84|The Jayhawks|S3513
 Khaled|Aïcha|1996|wIsJbDZDNpo|Khaled (musician)|S7092
 Johnny and the Hurricanes|Red River Rock|1959|76OSOg5E_HE|Johnny and the Hurricanes|S4381
-Barbara Lewis|Hello Stranger|1963|S-VDbbjIto4|Barbara Lewis|S3560
+Barbara Lewis|Hello Stranger|1963|Yupq5dVNHlU|Barbara Lewis|S3560
 The Black Crowes|Hard to Handle|1990|mtLbE3IUY2U|The Black Crowes|S5480
 Tame Impala|The Less I Know The Better|2015|sBzrzS1Ag_g|Tame Impala|S9847
 Harry Chapin|Cat's in the Cradle|1974|etundhQa724|Harry Chapin|S4596
@@ -4166,7 +4166,7 @@ Iggy Azalea feat. Charli XCX|Fancy|2014|O-zpOMYRi0w|Iggy Azalea|S9605
 Chuck Willis|C.C. Rider|1957|-7R-ck2LRWo|Chuck Willis|S1244
 The Horrors|Something to Remember Me By|2017|e38KoYlHDTA|The Horrors|S16495
 Todd Rundgren|Can We Still Be Friends|1978|jI_oBXzLNmw|Todd Rundgren|S8779
-Jessie Hill|Ooh Poo Pah Doo|1960|3qhxE5z9xRI|Jessie Hill|S1158
+Jessie Hill|Ooh Poo Pah Doo|1960|7GQDtH1N8U8|Jessie Hill|S1158
 Sloan|Money City Maniacs|1998|vTnApditdAQ|Sloan (band)|S8456
 Bon Iver|Flume|2007|LuQrLsTUcN0|Bon Iver|S9169
 Nas|It Ain't Hard to Tell|1994|3hOZaTGnHU4|Nas|S7660
@@ -4232,7 +4232,7 @@ Souls of Mischief|93 'Til Infinity|1993|fXJc2NYwHjw|Souls of Mischief|S8501
 Madness|My Girl|1979|Pw-8AGRcyvk|Madness (band)|S1833
 10cc|Dreadlock Holiday|1978|PC3jt_k27No|10cc|S5064
 John Cage|4'33''|1952|JTEFKFiXSx4|John Cage|S2768
-R.E.M.|World Leader Pretend|1988|YoQ4aR393Is|R.E.M.|S3097
+R.E.M.|World Leader Pretend|1988|WwS9_vqdHcQ|R.E.M.|S3097
 Rancid|Time Bomb|1995|DhKHAopx7D0|Rancid (band)|S8090
 Carlos Gardel|Volver|1935|I5JQ1m3mxKw|Carlos Gardel|S5719
 Dusty Springfield|I Only Want to Be with You|1963|CL7t22rypew|Dusty Springfield|S1653
@@ -4328,13 +4328,13 @@ Red Hot Chili Peppers|Suck My Kiss|1991|C6jElKMMOWM|Red Hot Chili Peppers|S8121
 Missy Elliott|Pass That Dutch|2003|4d5vtbVRT1c|Missy Elliott|S2393
 Depeche Mode|Blasphemous Rumours|1984|o3EAzf5fDpY|Depeche Mode|S2352
 Orange Juice|Falling and Laughing|1980|Cdp6iBgDUpM|Orange Juice (band)|S9311
-EPMD|Strictly Business|1988|qJHEI8fJdiM|EPMD|S3393
+EPMD|Strictly Business|1988|WE2vEtsc2io|EPMD|S3393
 Uffie|Pop the Glock|2006|2RA-lXK0c0g|Uffie|S4049
 Tom Petty and the Heartbreakers|Don't Do Me Like That|1979|XbMsdCMC_N0|Tom Petty and the Heartbreakers|S3697
 Tom Petty and the Heartbreakers|Don't Come Around Here No More|1985|h0JvF9vpqx8|Tom Petty and the Heartbreakers|S8790
 The Thrills|Big Sur|2003|A1fGNCvZL_w|The Thrills|S4259
 McLusky|To Hell with Good Intentions|2002|oqOp70ZQdkk|Mclusky|S4613
-Françoise Hardy|Message personnel|1973|Lf1sOe-4u0g|Françoise Hardy|S10861
+Françoise Hardy|Message personnel|1973|ANchsQz11po|Françoise Hardy|S10861
 Tears for Fears|Sowing the Seeds of Love|1989|VAtGOESO7W8|Tears for Fears|S8696
 Johnny Horton|The Battle of New Orleans|1959|50_iRIcxsz0|Johnny Horton|S1196
 War|Why Can't We Be Friends?|1975|5DmYLrxR0Y8|War (American band)|S3937
@@ -4900,7 +4900,7 @@ Prefab Sprout|Appetite|1985|NS0hpiN_z3g|Prefab Sprout|S3716
 Bo Diddley|Say Man|1959|45ZdKCFFR3I|Bo Diddley|S2796
 Bush|Glycerine|1994|hOllF3TgAsM|Bush (British band)|S14203
 The Stone Roses|Ten Storey Love Song|1994|0uNLw3pXlVM|The Stone Roses|S2426
-Sonics Rendezvous Band|City Slang|1978|JtqTAvv2kDA|Sonic's Rendezvous Band|S12261
+Sonics Rendezvous Band|City Slang|1978|Dcf0pguTh30|Sonic's Rendezvous Band|S12261
 Professor Longhair and His Blues Scholars|Mardi Gras in New Orleans|1950|18BHdTi00DI|Professor Longhair|S4362
 Bob Dylan|Maggie's Farm|1965|G8yU8wk67gY|Bob Dylan|S5543
 Sarah McLachlan|Possession|1993|itydwcyywBc|Sarah McLachlan|S8319
@@ -5364,7 +5364,7 @@ Benny Goodman & His Orchestra feat. Charlie Christian|Seven Come Eleven|1940|q00
 Primal Scream|Accelerator|2000|CUszjRc3-VM|Primal Scream|S1393
 P. P. Arnold|The First Cut Is the Deepest|1967|oo__EIXzAco|P. P. Arnold|S3157
 The Coral|In the Morning|2005|KErHjXpsfwA|The Coral|S3049
-Aretha Franklin|Baby I Love You|1967|Xoagkpi5B4Q|Aretha Franklin|S3425
+Aretha Franklin|Baby I Love You|1967|WZ6HOUGE-Ok|Aretha Franklin|S3425
 Big Star|Kanga-Roo|1978|p3dYmtbLs20|Big Star|S3213
 The Move|Flowers in the Rain|1967|_laosNxqzNg|The Move|S11695
 Harry Choates|Jole Blon|1946|Uk85eUs06q4|Harry Choates|S6684
@@ -6351,7 +6351,7 @@ Bob B. Soxx and the Blue Jeans|Why Do Lovers Break Each Other's Heart?|1963|kI9b
 Madonna|Take a Bow|1994|XDeiovnCv1o|Madonna (entertainer)|S7373
 Randy Newman|I Miss You|1999|8O5YQ3zMDOM|Randy Newman|S13938
 Babyshambles|Delivery|2007|79Y-EHqZNQA|Babyshambles|S4307
-The Clash|This Is England|1985|ROj_1R36lX0|The Clash|S1933
+The Clash|This Is England|1985|qkj0wUcbUeE|The Clash|S1933
 Lead Belly|Rock Island Line (Railroad Song)|1942|lCiJ4QQG9WQ|Lead Belly|S11379
 Dead Kennedys|Too Drunk to Fuck|1981|uJ7pgElCPXE|Dead Kennedys|S1858
 Lefty Frizzell|The Long Black Veil|1959|50k18gL76AU|Lefty Frizzell|S7220
@@ -6533,7 +6533,7 @@ Timbuk 3|The Future's So Bright, I Gotta Wear Shades|1986|8qrriKcwvlY|Timbuk3|S3
 Emerson, Lake & Palmer|Fanfare for the Common Man|1977|c2zurZig4L8|Emerson, Lake & Palmer|S14363
 Red Hot Chili Peppers|Around the World|1999|a9eNQZbjpJk|Red Hot Chili Peppers|S8123
 Electric Light Orchestra|Telephone Line|1976|XKElk9zTB04|Electric Light Orchestra|S6228
-Frank Sinatra|Night and Day|1942|E10L8G67ozU|Frank Sinatra|S13482
+Frank Sinatra|Night and Day|1942|i86tfzP7YTM|Frank Sinatra|S13482
 Model 500|No UFO's|1985|KNz01ty-kTQ|Mossberg 500|S7583
 Womack and Womack|Love Wars|1983|42p0XApwQFw|Womack & Womack|S438
 Joan Armatrading|Drop the Pilot|1983|ifARMmcqhD8|Joan Armatrading|S6924
@@ -7127,7 +7127,7 @@ Nilsson|Jump Into the Fire|1971|CfjNpgZ4C5Q|Harry Nilsson|S11761
 Jay-Z feat. Foxy Brown|Ain't No Nigga|1996|NYI5Xnj5X6U|Jay-Z|S6882
 The Good, the Bad and the Queen|Herculean|2006|IZzhr47-GvM|The Good, the Bad & the Queen|S6611
 Fehlfarben|Paul ist tot|1980|1gKwduFVsV4|Fehlfarben|S9219
-Eagles|Heartache Tonight|1979|by5TbQzd8yQ|Eagles (band)|S6184
+Eagles|Heartache Tonight|1979|feduLprAAig|Eagles (band)|S6184
 Junior Boys|Banana Ripple|2011|8CFAatTMGfU|Junior Boys|S7026
 Elvis Presley|I Want You, I Need You, I Love You|1956|wbFz5EzhSjM|Elvis Presley|S2487
 Radiohead|Where I End and You Begin|2003|-3ZUQMBD5yI|Radiohead|S12005
@@ -8246,7 +8246,7 @@ The Rolling Stones|Jigsaw Puzzle|1968|E8cJ1Wa6U3o|The Rolling Stones|S9340
 Roxy Music|Dance Away|1979|NavzcV_gRiE|Roxy Music|S3783
 The Pretty Things|Midnight to Six Man|1965|w3qJ-KPlt4M|Dirty Pretty Things (band)|S8005
 David Bowie|The Bewlay Brothers|1971|aDRi30GNFMc|David Bowie|S10529
-Jeff Buckley|Eternal Life|1994|OFgHy-ia8RM|Jeff Buckley|S13028
+Jeff Buckley|Eternal Life|1994|ztfs2GhUwCA|Jeff Buckley|S13028
 Téléphone|La Bombe humaine|1979|lgfoOJziPfc|Téléphone|S12412
 The Band|Chest Fever|1968|h_7q9_EJYvE|The Band|S5308
 Japanese Breakfast|Road Head|2017|cCmLjb-ocPY|Japanese Breakfast|S16399
@@ -9429,7 +9429,7 @@ Al Dexter|Pistol Packin' Mama|1943|Z8Jd281xrAU|Al Dexter|S2673
 Elbow|Lippy Kids|2011|NItwaz0nLJA|Elbow (band)|S10697
 Barbara|Drouot|1970|lIPTRAyzQg0|Barbara (singer)|S13389
 Percy Sledge|Take Time to Know Her|1968|vFxnUMdQsPw|Percy Sledge|S3815
-The Go-Betweens|Love Goes On!|1988|yq8ZH-Z59hQ|The Go-Betweens|S6598
+The Go-Betweens|Love Goes On!|1988|l4pGeHg-02E?start=221|The Go-Betweens|S6598
 Tony Bennett|Stranger in Paradise|1953|jzA8gwfJr9I|Tony Bennett|S8816
 Limp Bizkit|Nookie|1999|JTMVOzPPtiw|Limp Bizkit|S7267
 George Harrison|When We Was Fab|1987|AVu6nPTVbBQ|George Harrison|S6534
@@ -10102,7 +10102,7 @@ The Hollies|Look Through Any Window|1965|CQp1IDVZdCg|The Hollies|S6723
 Eric Bogle|And the Band Played Waltzing Matilda|1977|cnFzCmAyOp8|Eric Bogle|S14368
 Stevie Wonder|Heaven Help Us All|1970|bsG20h6jkZA|Stevie Wonder|S3973
 The Main Ingredient|Everybody Plays the Fool|1972|KPeHHpXOOds|The Main Ingredient (band)|S11523
-Leon Russell|Tight Rope|1972|d2Z9qN8R9Bg|Leon Russell|S13867
+Leon Russell|Tight Rope|1972|tInVSaCI6Bo|Leon Russell|S13867
 SebastiAn|Ross Ross Ross|2006|hpnT7TBZa5Q|Sebastian (French musician)|S12174
 Massive Attack|Angel|1998|hbe3CQamF8k|Massive Attack|S11567
 Black Box Recorder|The Facts of Life|2000|FP-2VLQEv4c|Black Box Recorder|S2189
