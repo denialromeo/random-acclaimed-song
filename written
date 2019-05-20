@@ -1165,7 +1165,7 @@ Little Feat|Willin'|1972|RNqv85coyTw|Little Feat|S3567
 David Bowie|Suffragette City|1972|zLnPd7lzT4g|David Bowie|S3230
 The Doobie Brothers|What a Fool Believes|1978|qKYQNtF11eg|The Doobie Brothers|S1573
 Frank Ocean|Nikes|2016|diIFhc_Kzng|Frank Ocean|S16088
-Interpol|Obstacle 1|2002|OC5zHACynR4|Interpol|S3115
+Interpol|Obstacle 1|2002|OC5zHACynR4|Interpol (band)|S3115
 Primal Scream|Higher Than the Sun|1991|GpvccejvVng|Primal Scream|S184
 ABBA|Waterloo|1974|Sj_9CiNkkn4|ABBA|S749
 The Guess Who|American Woman|1970|C_fNGa26hig|The Guess Who|S2300
@@ -1626,7 +1626,7 @@ Gregory Isaacs|Night Nurse|1982|K6oYyG0KcvQ|Gregory Isaacs|S501
 Carly Rae Jepsen|Cut to the Feeling|2017|Qlsu7RhOnsQ|Carly Rae Jepsen|S16350
 N.W.A|Express Yourself|1988|u31FO_4d9TY|N.W.A|S1996
 LCD Soundsystem|Daft Punk Is Playing at My House|2005|d7kqfeRb0KY|LCD Soundsystem|S3017
-Interpol|Evil|2004|dkpgz3uQ58U|Interpol|S3120
+Interpol|Evil|2004|dkpgz3uQ58U|Interpol (band)|S3120
 Yoko Ono|Walking on Thin Ice|1981|XzV7FiuDYKo|Yoko Ono|S514
 Dire Straits|Money for Nothing|1985|JRDgihVDEko|Dire Straits|S1927
 The Associates|Party Fears Two|1982|Ww2AYxrPqkk|The Associates (band)|S502
@@ -2151,7 +2151,7 @@ Dirty Projectors|Gun Has No Trigger|2012|o_qFaFl7JVc|Dirty Projectors|S5008
 Backstreet Boys|I Want It That Way|1999|4fndeDfaWCg|Backstreet Boys|S1373
 Prince and the Revolution|I Would Die 4 U|1984|hkNl3pq1twE|The Revolution (band)|S8009
 Curtis Mayfield|Pusherman|1972|hCDAfa-NI-M|Curtis Mayfield|S5930
-Interpol|Slow Hands|2004|UroPqMsr3UU|Interpol|S2455
+Interpol|Slow Hands|2004|UroPqMsr3UU|Interpol (band)|S2455
 The Smiths|Hand in Glove|1983|WgHnMh-DHMQ|The Smiths|S471
 The Rolling Stones|Play with Fire|1965|FhzCnZ1vAvw|The Rolling Stones|S3775
 The Orioles|It's Too Soon to Know|1948|O1q7xXXVoCY|Oriole (band)|S2728
@@ -2460,7 +2460,7 @@ Garbage|Queer|1995|3ppiohVRZ0s|Garbage (band)|S2430
 Sugababes|Freak Like Me|2002|kGSajAGg9h4|Sugababes|S1505
 The Cars|Drive|1984|xuZA6qiJVfU|The Cars|S3263
 The Beach Boys|Sloop John B|1966|09dQmeB_NgU|The Beach Boys|S2280
-Interpol|NYC|2002|5GRNCNZ_TL4|Interpol|S4612
+Interpol|NYC|2002|5GRNCNZ_TL4|Interpol (band)|S4612
 The Dells|Oh What a Nite|1956|Z1ozQT8yQXA|The Dells|S1287
 The Strokes|Reptilia|2003|b8-tXG8KrWs|The Strokes|S2457
 Pavement|Here|1992|i5OeoVkTDLM|Pavement (band)|S9316
@@ -2867,7 +2867,7 @@ Drake|Know Yourself|2015|O2eWOqz_mJ0|Drake (musician)|S9743
 Johnny Thunders|You Can't Put Your Arms Around a Memory|1978|TknY89kECq0|Johnny Thunders|S6991
 Manfred Mann's Earth Band|Blinded by the Light|1976|lcWVL4B-4pI|Manfred Mann's Earth Band|S7396
 Gloria Gaynor|Never Can Say Goodbye|1974|ngVetZw8hSc|Gloria Gaynor|S741
-Interpol|PDA|2002|3oL5QQ-6sQ0|Interpol|S3497
+Interpol|PDA|2002|3oL5QQ-6sQ0|Interpol (band)|S3497
 Elvis Costello with Burt Bacharach|God Give Me Strength|1996|lrcNnIV6FV8|Elvis Costello|S3107
 ZZ Top|Tush|1975|-jB_QM73Slk|ZZ Top|S3994
 The Stooges|Loose|1970|5xs8E9xxREc|The Stooges|S12331
@@ -4012,7 +4012,7 @@ T. Rex|Ride a White Swan|1970|t0h5E0pxLBw|T. Rex (band)|S3879
 Yes|Close to the Edge|1972|51oPKLSuyQY|Yes (band)|S9093
 Public Image Ltd.|Poptones|1979|IQtO6R4qkg0|Public Image Ltd|S8031
 Passion Pit|Sleepyhead|2008|T0RvPYRRRbE|Passion Pit|S4819
-Interpol|All The Rage Back Home|2014|-u6DvRyyKGU|Interpol|S9620
+Interpol|All The Rage Back Home|2014|-u6DvRyyKGU|Interpol (band)|S9620
 Of Montreal|The Past Is a Grotesque Animal|2007|f3RAI8Ntamw|Of Montreal|S4325
 Travis|Writing to Reach You|1999|UeCcuH-EsuM|Travis (band)|S2378
 Bo Diddley|Hey! Bo Diddley|1957|BKYSAfbOCPc|Bo Diddley|S3331
@@ -4544,7 +4544,7 @@ Stevie Nicks with Tom Petty and the Heartbreakers|Stop Draggin' My Heart Around|
 Bran Van 3000|Astounded|2001|QUNWhKq80_s|Bran Van 3000|S1468
 Elizabeth Cotten|Freight Train|1958|If5ZGXKG9bw|Elizabeth Cotten|S6233
 Alice in Chains|No Excuses|1994|r80HF68KM8g|Alice in Chains|S3147
-The Shangri-Las|Give Him a Great Big Kiss|1964|o-NhojnwMh8|The Shangri-Las|S1420
+The Shangri-Las|Give Him a Great Big Kiss|1964|01YePzk29Mc|The Shangri-Las|S1420
 George Baker Selection|Little Green Bag|1969|0L1hD5OlPtw|George Baker Selection|S6527
 Bauhaus|She's in Parties|1983|Qxqq5vahHKk|Bauhaus (band)|S12742
 Horace Silver|Song for My Father|1965|CWeXOm49kE0|Horace Silver|S11042
@@ -6940,7 +6940,7 @@ Avi Buffalo|What's in It For?|2009|evu_MqAZpC0|Avi Buffalo|S5277
 Eric B. & Rakim|I Ain't No Joke|1987|2TN-kDEKxF0|Eric B. & Rakim|S10742
 Aretha Franklin|Spanish Harlem|1971|UmjHMUZQ8s0|Aretha Franklin|S1547
 Bob Dylan|Thunder on the Mountain|2006|0RPkJeziNyI|Bob Dylan|S13700
-Interpol|The Heinrich Maneuver|2007|Ha_bppvZ0a8|Interpol|S4333
+Interpol|The Heinrich Maneuver|2007|Ha_bppvZ0a8|Interpol (band)|S4333
 Justin Timberlake|What Goes Around...Comes Around|2006|TOrnUquxtwA|Justin Timberlake|S4314
 Rich Homie Quan|Type of Way|2013|-KKbdErJkiY|Rich Homie Quan|S9516
 Kid Rock|All Summer Long|2007|aSkFygPCTwE|Kid Rock|S7097
@@ -7281,7 +7281,7 @@ Dusty Springfield|Nothing Has Been Proved|1989|5HOfaSSIVcE|Dusty Springfield|S38
 Beach House|Walk in the Park|2010|ln_nkxwT_Tc|Beach House|S5352
 The The|Dogs of Lust|1993|7T-c1x0ILWI|The The|S15928
 Ariel Pink|Another Weekend|2017|nwe76N7J0EI|Ariel Pink|S16333
-Madness|The Prince|1979|mJsUblCxuJY|Madness (band)|S7366
+Madness|The Prince|1979|T_srIE-YAb8|Madness (band)|S7366
 Tom Petty and the Heartbreakers|Mary Jane's Last Dance|1993|aowSGxim_O8|Tom Petty and the Heartbreakers|S12456
 The Jacksons|State of Shock|1984|B51442pIEV0|The Jackson 5|S11110
 Los Tres|Déjate caer|1995|YnlZeqs4D2Y|Los Tres|S13553
@@ -7788,7 +7788,7 @@ Rino Gaetano|Ma il cielo è sempre più blu|1975|XB3TfBXUOKw|Rino Gaetano|S13613
 Kay Starr|Wheel of Fortune|1952|OeIce5NsWKk|Kay Starr|S2770
 Bryan Adams|Run to You|1984|nCBASt507WA|Bryan Adams|S5660
 Van Morrison|Jackie Wilson Said (I'm in Heaven When You Smile)|1972|aBTLetjE0fo|Van Morrison|S8922
-Interpol|Untitled|2002|Pcaeq4KDjpQ|Interpol|S6790
+Interpol|Untitled|2002|Pcaeq4KDjpQ|Interpol (band)|S6790
 Rilo Kiley|Silver Lining|2007|jVtSSCzASR0|Rilo Kiley|S8166
 Kings of Leon|Radioactive|2010|wPBbMbKSZrQ|Kings of Leon|S7118
 Element of Crime|Delmenhorst|2005|H5SrdnzuXPQ|Element of Crime|S14348
@@ -8750,7 +8750,7 @@ Alan Vega|Jukebox Babe|1980|OAQ2jq6vwsE|Alan Vega|S5141
 Neon Indian|Polish Girl|2011|Fo6ZaCTqxwM|Neon Indian|S7697
 Hervé Vilard|Capri c'est fini|1965|4TP3u0rNkys|Hervé Vilard|S11032
 Hop Along|Waitress|2015|SIPAEclVg-Y|Hop Along|S9777
-Interpol|Rest My Chemistry|2007|zTqby1Uw6Ro|Interpol|S6793
+Interpol|Rest My Chemistry|2007|zTqby1Uw6Ro|Interpol (band)|S6793
 Michel Delpech|Quand j'étais chanteur|1975|6KW9ktOwyVg|Michel Delpech|S13572
 Stupeflip|Je fume pu d'shit|2002|ZYEIFIZZXTs|Stupeflip|S15085
 2Pac|I Ain't Mad at Cha|1996|d-ELnDPmI8w|Tupac Shakur|S9124
@@ -9668,7 +9668,7 @@ Fabulous Trobadors|Pas de çi|1992|9uz38X4J-UQ|Fabulous Trobadors|S10776
 Elvis Presley|Tryin' to Get to You|1956|KZ64T6gEdC4|Elvis Presley|S10721
 Vince Guaraldi|Linus and Lucy|1964|x6zypc_LhnM|Vince Guaraldi|S9039
 World Party|Put the Message in the Box|1990|DXDJbqws3MY|World Party|S9068
-Interpol|Narc|2004|3pAcopmRJA0|Interpol|S6791
+Interpol|Narc|2004|3pAcopmRJA0|Interpol (band)|S6791
 Aaliyah|Back & Forth|1994|W8kZmWegXRc|Aaliyah|S5079
 The Black Madonna|He Is the Voice I Hear|2017|HaTLziOMJnI|The Black Madonna|S16493
 Paul Simon|Peace Like a River|1972|jAmPfEMI16g|Paul Simon|S3806
