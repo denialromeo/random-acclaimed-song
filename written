@@ -133,7 +133,7 @@ Bob Marley and the Wailers|No Woman No Cry|1974|jGqrvn3q1oo?start=25|Bob Marley 
 The Who|Won't Get Fooled Again|1971|x1_69AAX-OY|The Who|S823
 The Temptations|My Girl|1964|C_CSjcm-z1w|The Temptations|S1026
 Bee Gees|Stayin' Alive|1977|fNFzfwLM72c|Bee Gees|S640
-Gene Vincent and His Blue Caps|Be-Bop-a-Lula|1956|LGI4PgAHxtg|Gene Vincent and His Blue Caps|S1265
+Gene Vincent and His Blue Caps|Be-Bop-a-Lula|1956|LGI4PgAHxtg|Gene Vincent|S1265
 Roy Orbison|Oh, Pretty Woman|1964|3KFvoDDs0XM|Roy Orbison|S1028
 The Rolling Stones|Brown Sugar|1971|3B0Y3LUqr1Q|The Rolling Stones|S816
 MGMT|Time to Pretend|2007|B9dSYgd5Elk|MGMT|S4736
@@ -2234,7 +2234,7 @@ Whitney Houston|How Will I Know|1985|m3-hY-hlhBg|Whitney Houston|S1952
 Meat Loaf|Paradise By the Dashboard Light|1977|C11MzbEcHlw|Meat Loaf|S1816
 Conway Twitty|It's Only Make Believe|1958|LJefPaBsSug?start=8|Conway Twitty|S1630
 Eurythmics|Here Comes the Rain Again|1983|TzFnYcIqj6I|Eurythmics|S6311
-Bruce Springsteen|Darkness on the Edge of Town|1978|kg0ekQBmzKs|Bruce Springsteen|S5644
+Bruce Springsteen|Darkness on the Edge of Town|1978|ifi5Uf73bec|Bruce Springsteen|S5644
 Scissor Sisters|I Don't Feel Like Dancin'|2006|4H5I6y1Qvz0|Scissor Sisters|S4004
 The Sonics|Have Love Will Travel|1965|20S_kwNb4rg|The Sonics|S12260
 Madonna|Crazy for You|1985|DHutZXREZ0E|Madonna (entertainer)|S1931
@@ -2785,7 +2785,7 @@ The Skyliners|Since I Don't Have You|1958|ngZh6ZSRoYg|The Skyliners|S1174
 Julian Casablancas|11th Dimension|2009|pl15PlIXHIk|Julian Casablancas|S4809
 The Beatles|I Should Have Known Better|1964|5en2JMLA8Z0|The Beatles|S3193
 Guitar Slim|The Things That I Used to Do|1953|fj33EGMbazY|Guitar Slim|S1608
-David Bowie|Oh! You Pretty Things|1971|3JWGXagA1MI|David Bowie|S10525
+David Bowie|Oh! You Pretty Things|1971|3JWGXagA1MI?start=12|David Bowie|S10525
 Ricky Martin|Livin' La Vida Loca|1999|p47fEXGabaY|Ricky Martin|S2180
 The Delfonics|Didn't I (Blow Your Mind This Time)|1969|l153atE72OA|The Delfonics|S864
 Garnet Mimms & The Enchanters|Cry Baby|1963|CMs-NcuTJSg|Garnet Mimms|S1072
@@ -4244,7 +4244,7 @@ Kylie Minogue|Confide in Me|1994|WSFDCmmsqEI|Kylie Minogue|S7159
 Aretha Franklin|Ain't No Way|1968|WzRA9UzuU8c|Aretha Franklin|S3424
 Darlene Love|Christmas (Baby Please Come Home)|1963|8V2IrH1owdw?start=302|Darlene Love|S1649
 The Beach Boys|Surfin' Safari|1962|KrPDLxmfWPM|The Beach Boys|S1107
-Neko Case|This Tornado Loves You|2009|js2wh9saLZk|Neko Case|S4836
+Neko Case|This Tornado Loves You|2009|_FhVbyeWFvo|Neko Case|S4836
 Sweet|Blockbuster|1973|Y64211sjSko|The Sweet|S2318
 Nick Cave & The Bad Seeds|Straight to You|1992|CYbOHXMtelU|Nick Cave and the Bad Seeds|S7725
 The Cure|Let's Go to Bed|1982|x-JK2xyJnYQ|The Cure|S3313
@@ -6698,7 +6698,7 @@ War|The World Is a Ghetto|1972|ptIcert_Ra8|War (American band)|S3938
 Fleetwood Mac|You Make Loving Fun|1977|f5bCqZLlCC8|Fleetwood Mac|S6394
 The Sanford/Townsend Band|Smoke from a Distant Fire|1976|wCWVuCCWqzQ|Sanford-Townsend Band|S13349
 Dave Edmunds|I Hear You Knocking|1970|YTD5_FwdiBU|Dave Edmunds|S5955
-Gene Vincent and His Blue Caps|Blue Jean Bop|1956|b07HVaUtHss|Gene Vincent and His Blue Caps|S6519
+Gene Vincent and His Blue Caps|Blue Jean Bop|1956|b07HVaUtHss|Gene Vincent|S6519
 Redbone|Come and Get Your Love|1973|OnJqFrVD3uE|Redbone (band)|S3747
 Massive Attack|Hymn of the Big Wheel|1991|TYtWyhNC2Os|Massive Attack|S7468
 The Lovin' Spoonful|Darling Be Home Soon|1967|pAur4CWJIPw|The Lovin' Spoonful|S2284
@@ -7437,7 +7437,7 @@ CHVRCHES|Clearest Blue|2015|BZyzX4c1vIs|Chvrches|S9726
 Bourvil|Ballade irlandaise (un oranger)|1958|UF1WNxsjZcM|Bourvil|S10280
 Tricky|Christiansands|1996|X3Ht1RAA6Jw|Tricky (musician)|S8845
 Larry Williams|Bony Moronie|1957|5725Xf1F090|Larry Williams|S1249
-Louise Attaque|Je t'emmene au vent|1997|DAPs6XuortY|Louise Attaque|S7333
+Louise Attaque|Je t'emmene au vent|1997|xsl0tqDoCys|Louise Attaque|S7333
 Steely Dan|The Boston Rag|1973|lXE_Q5ZtB18|Steely Dan|S3852
 Aerosmith|Crazy|1993|NMNgbISmF4I|Aerosmith|S14043
 Alice Coltrane feat. Pharoah Sanders|Journey in Satchidananda|1971|TQtEFdyhgdE|Alice Coltrane|S5154
@@ -7551,7 +7551,7 @@ Chicago|I'm a Man|1969|DPZUgfOqAdg|Chicago (band)|S13718
 David Bowie|Aladdin Sane (1913-1938-197?)|1973|Z_x9fzY4WH0|David Bowie|S10513
 Them|Mystic Eyes|1965|5e-fU0eyVUg|Them (band)|S3894
 Perry Como|Till the End of Time|1945|xSJ-oT2ZBa0|Perry Como|S7933
-Léo Ferré|La Mémoire et la mer|1970|uGbSYohHcio|Léo Ferré|S7233
+Léo Ferré|La Mémoire et la mer|1970|aDHu3r2VLv0|Léo Ferré|S7233
 Herman's Hermits|I'm Into Something Good|1964|MDUCOwp1p60|Herman's Hermits|S6707
 Robert Plant|Big Log|1983|FxSsol3Zd7k|Robert Plant|S12075
 Pat Boone|Love Letters in the Sand|1957|8MCUXitxbTA|Pat Boone|S7857
@@ -7934,7 +7934,7 @@ The New Pornographers|Brill Bruisers|2014|EhhtSXk1c70|The New Pornographers|S961
 Missy Elliott feat. Eve|4 My People|2001|HWYGDFoNHko|Missy Elliott|S7572
 The Cult|Fire Woman|1989|8g6h1vI4Xv0|The Cult|S5923
 M.I.A.|Bring the Noize|2013|RvUVxYndYuU|M.I.A. (rapper)|S9484
-Gene Vincent and His Blue Caps|Race with the Devil|1956|V6scn7v6JgE|Gene Vincent and His Blue Caps|S6520
+Gene Vincent and His Blue Caps|Race with the Devil|1956|V6scn7v6JgE|Gene Vincent|S6520
 Pulp|The Trees|2001|nArZkellNyk|Pulp (band)|S3764
 Asian Dub Foundation|Free Satpal Ram|1997|lhCQeiQNIPo|Asian Dub Foundation|S5256
 The Divine Comedy|Generation Sex|1998|HNwbX-6-vZo|The Divine Comedy (band)|S10610
@@ -8967,7 +8967,7 @@ Cake|I Will Survive|1996|f9rCUQjmkxU|Cake (band)|S5695
 Neil Young and Crazy Horse|Change Your Mind|1994|45qX1VYONds|Crazy Horse (band)|S11734
 PJ Harvey|A Perfect Day Elise|1998|D3tD9EPOEik|PJ Harvey|S7972
 Malcolm McLaren|Soweto|1983|afZ7VCIeSvQ|Malcolm McLaren|S2905
-Procol Harum|Homburg|1967|whiEpmkOIV4|Procol Harum|S12997
+Procol Harum|Homburg|1967|xlZT8vBC7dg|Procol Harum|S12997
 Frank Sinatra|The Lady Is a Tramp|1958|4MMnAh23ys4?start=5|Frank Sinatra|S13484
 King Curtis & His Noble Knights|Soul Twist|1962|gMqKXGurWG8|King Curtis|S3314
 EMA|The Grey Ship|2011|i1ERrk1YLWU|Erika M. Anderson|S10723
@@ -9189,7 +9189,7 @@ Explosions in the Sky|Your Hand in Mine|2003|JzIK5FaC38w|Explosions in the Sky|S
 SOPHIE|It's Okay to Cry|2017|m_S0qCeA-pc|Sophie (musician)|S16480
 Amadou & Mariam|Senegal Fast Food|2004|J43T8rEOg-I|Amadou & Mariam|S14062
 Janet Jackson|All for You|2001|0cxG2TDGw2s|Janet Jackson|S11148
-Santa Sabina|Azul casi morado|1992|WzMa_u2cuyg|Santa Sabina|S13621
+Santa Sabina|Azul casi morado|1992|WzMa_u2cuyg|https://es.wikipedia.org/wiki/Santa_Sabina_(banda)|S13621
 Apollo Two [LTJ Bukem]|Atlantis (I Need You)|1993|TgUdOAEwPZc|LTJ Bukem|S14693
 The Chameleons|Up the Down Escalator|1983|4sL-wu5oa1w|The Chameleons|S5752
 Bruce Springsteen|I'm Goin' Down|1984|3fdZWbIsrFk|Bruce Springsteen|S10311
