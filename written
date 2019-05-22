@@ -65,7 +65,7 @@ Massive Attack|Unfinished Sympathy|1991|ZWmrfgj0MZI|Massive Attack|S187
 Eagles|Hotel California|1976|yYkL5igsG4k|Eagles (band)|S632
 Derek and the Dominos|Layla|1970|uSquiIVLhrQ|Derek and the Dominos|S841
 Talking Heads|Once in a Lifetime|1980|5IsSpAOD6K8|Talking Heads|S518
-The Animals|The House of the Rising Sun|1964|uS90B4sZf7U|The Animals|S1025
+The Animals|The House of the Rising Sun|1964|0sB3Fjw3Uvc|The Animals|S1025
 The Jimi Hendrix Experience|All Along the Watchtower|1968|TLV4_xaYynY|The Jimi Hendrix Experience|S905
 Ben E. King|Stand by Me|1961|TYDkQgKgghc|Ben E. King|S1111
 The Smiths|How Soon Is Now?|1984|OztC_7nkAd8|The Smiths|S394
@@ -195,7 +195,7 @@ Kendrick Lamar|HUMBLE.|2017|tvTRZJ-4EyI|Kendrick Lamar|S16415
 Bob Dylan|Blowin' in the Wind|1963|MMFj8uDubsE|Bob Dylan|S1073
 Future Islands|Seasons (Waiting on You)|2014|-5Ae-LhMIG0|Future Islands|S9549
 Bob Dylan|Subterranean Homesick Blues|1965|MGxjIBEZvx0|Bob Dylan|S1008
-Pixies|Debaser|1989|PVyS9JwtFoQ|Pixies|S2433
+Pixies|Debaser|1989|PVyS9JwtFoQ|Pixies (band)|S2433
 Dr. Dre feat. Snoop Doggy Dogg|Nuthin' But a 'G' Thang|1992|tNp9fzmXyn8|Dr. Dre|S124
 Kylie Minogue|Can't Get You Out of My Head|2001|YPwtJ89jes4|Kylie Minogue|S1460
 Prince|Sign 'O' the Times|1987|8EdxM72EZ94|Prince (musician)|S331
@@ -219,7 +219,7 @@ Thin Lizzy|The Boys Are Back in Town|1976|hQo1HIcSVtg|Thin Lizzy|S668
 Arcade Fire|Rebellion (Lies)|2004|MQvZ4N1RfS8|Arcade Fire|S3001
 The Velvet Underground|Sweet Jane|1970|nkumhBVPGdg|The Velvet Underground|S838
 Bo Diddley|Bo Diddley|1955|WJLy-Fnedy8|Bo Diddley|S1299
-Del Shannon|Runaway|1961|0S13mP_pfEc|Del Shannon|S1112
+Del Shannon|Runaway|1961|wSWMJxbxj7c|Del Shannon|S1112
 Johnny Cash|Folsom Prison Blues|1955|1zgja26eNeY|Johnny Cash|S1284
 Chic|Le Freak|1978|aXgSHL7efKg|Chic (band)|S605
 Patsy Cline|Crazy|1961|l6R2eqiMXsY|Patsy Cline|S1153
@@ -240,7 +240,7 @@ Michael Jackson|Don't Stop 'Til You Get Enough|1979|yURRmWtbTbo|Michael Jackson|
 James Brown|I Got You (I Feel Good)|1965|Lrv-Morm-c0|James Brown|S1013
 The Temptations|Papa Was a Rolling Stone|1972|nXiQtD5gcHU|The Temptations|S783
 The Killers|Mr. Brightside|2003|gGdGFtwCNBE|The Killers|S2456
-Pixies|Where Is My Mind?|1988|49FB9hhoO6c|Pixies|S2630
+Pixies|Where Is My Mind?|1988|49FB9hhoO6c|Pixies (band)|S2630
 The Smashing Pumpkins|1979|1995|4aeETEoNfOg|The Smashing Pumpkins|S35
 Hot Chip|Over and Over|2006|i9Xn-jzZX1E|Hot Chip|S3996
 The Impressions|People Get Ready|1965|l04yM7-BWbg|The Impressions|S1003
@@ -319,7 +319,7 @@ David Bowie|Ashes to Ashes|1980|HyMm4rJemtI|David Bowie|S549
 Jefferson Airplane|Somebody to Love|1967|JUbMWtUyIIE|Jefferson Airplane|S947
 The Flaming Lips|Do You Realize??|2002|lPXWt2ESxVY|The Flaming Lips|S1530
 The Beatles|Ticket to Ride|1965|SyNt5zm3U_M|The Beatles|S1001
-Pixies|Monkey Gone to Heaven|1989|XycBLF6kWuY|Pixies|S245
+Pixies|Monkey Gone to Heaven|1989|XycBLF6kWuY|Pixies (band)|S245
 The Kinks|Lola|1970|LemG0cvc4oU|The Kinks|S844
 Boston|More Than a Feeling|1976|SSR6ZzjDZ94|Boston (band)|S667
 Grizzly Bear|Two Weeks|2009|tjecYugTbIQ|Grizzly Bear (band)|S4803
@@ -578,7 +578,7 @@ Bob Dylan|Positively 4th Street|1965|WOP6R3JvNHg|Bob Dylan|S1014
 Perfume Genius|Queen|2014|Z7OSSUwPVM4|Perfume Genius|S9552
 Soul II Soul|Back to Life|1989|TB54dZkzZOY|Soul II Soul|S246
 The Clash|Complete Control|1977|JeTw_p_WglY|The Clash|S635
-Cheap Trick|Surrender|1978|1sAm5UCJ9vA|Cheap Trick|S627
+Cheap Trick|Surrender|1978|ZbkypX1OhZ0|Cheap Trick|S627
 The Flaming Lips|Race for the Prize|1999|bs56ygZplQA|The Flaming Lips|S1365
 Nirvana|Heart-Shaped Box|1993|n6P0SitRwy8|Nirvana (band)|S123
 The Rolling Stones|Let's Spend the Night Together|1967|l61MFiIeuVM|The Rolling Stones|S955
@@ -829,7 +829,7 @@ The Jimi Hendrix Experience|Crosstown Traffic|1968|0-xyGFI_Nq8|The Jimi Hendrix 
 Blondie|Atomic|1979|O_WLw_0DFQQ|Blondie (band)|S556
 Jamie xx feat. Romy|Loud Places|2015|TP9luRtEqjc|Jamie xx|S9785
 The Penguins|Earth Angel (Will You Be Mine)|1954|VJcGi4-n_Yw|The Penguins|S1340
-Pixies|Gigantic|1988|xJncHEZ3URs|Pixies|S309
+Pixies|Gigantic|1988|xJncHEZ3URs|Pixies (band)|S309
 Bruce Springsteen|Jungleland|1975|AjeiWVXBxqI|Bruce Springsteen|S3846
 Bob Dylan|Don't Think Twice, It's All Right|1963|u-Y3KfJs6T0|Bob Dylan|S2984
 Geto Boys|Mind Playing Tricks on Me|1991|KutXyPEEbQs|Geto Boys|S199
@@ -1593,7 +1593,7 @@ Bangles|Manic Monday|1986|SsmVgoXDq2w|The Bangles|S377
 The Beatles|Nowhere Man|1965|8scSwaKbE64|The Beatles|S3197
 T. Rex|Metal Guru|1972|MQr9WbBfoD8|T. Rex (band)|S8664
 KC and the Sunshine Band|That's the Way (I Like It)|1975|OM7zRfHG0no|KC and the Sunshine Band|S713
-Pixies|Here Comes Your Man|1989|tPgf_btTFlc|Pixies|S3708
+Pixies|Here Comes Your Man|1989|tPgf_btTFlc|Pixies (band)|S3708
 Funky Four Plus One|That's the Joint|1980|SVxk9PW62Vk|Funky 4 + 1|S539
 Elvis Costello and the Attractions|Shipbuilding|1983|fprYfInkErg|Elvis Costello|S3302
 R.E.M.|Drive|1992|-UE7tXDKIus|R.E.M.|S154
@@ -2638,10 +2638,10 @@ Jessy Lanza|It Means I Love You|2016|C216ZRVOM5A|Jessy Lanza|S16105
 Kansas|Dust in the Wind|1977|tH2w6Oxx0kQ|Kansas|S7045
 Lester Flatt and Earl Scruggs|Foggy Mountain Breakdown|1949|z_Y3mnj-8lA|Lester Flatt|S1342
 Love Unlimited Orchestra|Love's Theme|1973|nOon93WcFi0?start=5|The Love Unlimited Orchestra|S3573
-Pixies|Hey|1989|t5TBbV5DdHg|Pixies|S4882
+Pixies|Hey|1989|t5TBbV5DdHg|Pixies (band)|S4882
 Kelela|Rewind|2015|py6PgXq0yDM|Kelela|S9801
 Gladys Knight and the Pips|If I Were Your Woman|1970|qfORYJt3OJU|Gladys Knight & the Pips|S3546
-The Temptations|I Can't Get Next to You|1969|7RfGe6MvY84|The Temptations|S3890
+The Temptations|I Can't Get Next to You|1969|IA-bspSRCXE?start=17|The Temptations|S3890
 Madonna|Lucky Star|1983|ThHz9wlBeLU|Madonna (entertainer)|S3586
 SOPHIE|Bipp|2013|MVc3Z-bG6Eo|Sophie (musician)|S9524
 Nelly Furtado|Maneater|2006|PLolag3YSYU|Nelly Furtado|S3060
@@ -3154,7 +3154,7 @@ Laura Nyro|Stoned Soul Picnic|1968|N1CfSgsvqJE|Laura Nyro|S4118
 Juvenile|Ha|1998|Ww9VlmXKYgs|Juvenile (rapper)|S3532
 Nat King Cole|The Christmas Song (Merry Christmas to You)|1946|hwacxSnc4tI|Nat King Cole|S2665
 Madonna|Frozen|1998|XS088Opj9o0|Madonna (entertainer)|S286
-Pixies|Velouria|1990|jYUm5T8uQIY|Pixies|S4484
+Pixies|Velouria|1990|jYUm5T8uQIY|Pixies (band)|S4484
 Gloria Jones|Tainted Love|1965|OJKe2j9Wjh4|Gloria Jones|S6586
 The Rolling Stones|Waiting on a Friend|1981|MKLVmBOOqVU|The Rolling Stones|S12102
 Strafe|Set It Off|1985|YWUpgzRK1vc|Strafe (band)|S3860
@@ -3233,7 +3233,7 @@ Elvis Costello|Less Than Zero|1977|QrNDxNYb92U|Elvis Costello|S1787
 Minor Threat|Straight Edge|1981|Ypkmp6D90KU|Minor Threat|S2354
 Liquid Liquid|Cavern|1983|yGncWGLHdQw|Liquid Liquid|S4566
 Muse|Muscle Museum|1999|4w7zFA_BW90|Muse (band)|S7641
-Freddie King|Hide Away|1961|BEZJvyLGdwg|Freddie King|S1126
+Freddie King|Hide Away|1961|wEmGbMd2duk|Freddie King|S1126
 Professor Longhair and His Blues Scholars|Tipitina|1953|SCwp6mOCOQ0|Professor Longhair|S1327
 Peter Gabriel with Kate Bush|Don't Give Up|1986|VjEq-r2agqc|Peter Gabriel|S3433
 Raspberries|Overnight Sensation (Hit Record)|1974|ARkj12Y6Uh4|Raspberries (band)|S728
@@ -4115,7 +4115,7 @@ Blur|To the End|1994|0DjHKqb365A|Blur (band)|S2950
 Barry Manilow|Mandy|1974|2XeSQVWleqY|Barry Manilow|S5327
 Van Morrison|Domino|1970|QOsGA4_Y89c|Van Morrison|S1718
 M.I.A.|Boyz|2007|wcN1i6Qcjxg|M.I.A. (rapper)|S4300
-R.E.M.|Don't Go Back to Rockville|1984|6fXCjSgItgw|R.E.M.|S1923
+R.E.M.|Don't Go Back to Rockville|1984|4zgh0y9vTgY?start=2|R.E.M.|S1923
 The Libertines|Gunga Din|2015|LEf27xuYcw4|The Libertines|S9852
 The Byrds|My Back Pages|1967|1G9TJk853ps|The Byrds|S9173
 Sousa's Band|The Stars and Stripes Forever|1897|a-7XWhyvIpE|John Philip Sousa|S8509
@@ -5219,7 +5219,7 @@ Al Green|L-O-V-E (Love)|1975|YYooJOWH_60?start=6|Al Green|S5125
 Michel Polnareff|La Poupée qui fait non|1966|JDkVjrYNyLo|Michel Polnareff|S7543
 PJ Harvey|C'mon Billy|1995|pr1j3GfJuR4|PJ Harvey|S7971
 Irma Thomas|Time Is on My Side|1964|McOmcNwqprA|Irma Thomas|S3898
-Jackie Wilson|Baby Workout|1963|86dvTS36LaQ|Jackie Wilson|S3966
+Jackie Wilson|Baby Workout|1963|1WXZmjUtlJw|Jackie Wilson|S3966
 Creedence Clearwater Revival|Run Through the Jungle|1970|EbI0cMyyw_M|Creedence Clearwater Revival|S2549
 The Cure|Charlotte Sometimes|1981|_defwv03IfQ|The Cure|S1864
 Barbara|L'Aigle Noir|1970|d9cEY13bUTo|Barbara (singer)|S10074
@@ -5337,7 +5337,7 @@ Aztec Camera|Oblivious|1983|2B2Sc2G_5ZA|Aztec Camera|S5280
 Pet Shop Boys|Always on My Mind|1987|wDe60CbIagg|Pet Shop Boys|S11880
 Eric Burdon & The Animals|San Franciscan Nights|1967|uWb5YQPlAJc|The Animals|S6297
 Foo Fighters|Rope|2011|kbpqZT_56Ns|Foo Fighters|S10840
-Animal Collective|Grass|2005|fqWvKlOeqgU|Animal Collective|S4640
+Animal Collective|Grass|2005|gqvBoFpgXQA|Animal Collective|S4640
 Pale Saints|Sight of You|1989|az5qnVpYyEI|Pale Saints|S11833
 Chris Bell|I Am the Cosmos|1978|7VfJ8dGsAws|Chris Bell (American musician)|S5794
 Positive K|I Got a Man|1992|VvYIpa1Ulvw|Positive K|S3715
@@ -5489,7 +5489,7 @@ Miles Davis|Bitches Brew|1970|SbCt-iXIXlQ|Miles Davis|S7556
 Louis Armstrong|Ain't Misbehavin'|1929|ec0Es-Hdpn0|Louis Armstrong|S9280
 David Bowie|Sue (Or in a Season of Crime)|2014|MOGPDAFTLQY|David Bowie|S9612
 Mystery Jets|Two Doors Down|2008|8EwSdraSyec|Mystery Jets|S4737
-Pixies|Planet of Sound|1991|tzdxBYk5Bjk|Pixies|S4492
+Pixies|Planet of Sound|1991|tzdxBYk5Bjk|Pixies (band)|S4492
 Air France|Collapsing at Your Doorstep|2008|IMATnqyVMZM|Air France|S4775
 Hello Seahorse!|Bestia|2009|QNDlwHW92OY|Hello Seahorse!|S13500
 Katy B|Katy on a Mission|2010|HhgMg67hmSQ|Katy B|S7068
@@ -5561,7 +5561,7 @@ Suede|Metal Mickey|1992|0rbw5FaCAzw|Suede (band)|S158
 Hugh Roy and John Holt|Wear You to the Ball|1970|gh1mZnKff38|U-Roy|S8872
 Bettye LaVette|Let Me Down Easy|1965|-whyryu8mys|Bettye LaVette|S5427
 Kendrick Lamar feat. Gunplay|Cartoon and Cereal|2012|qbbQb9bEcDQ|Kendrick Lamar|S11306
-Pixies|Wave of Mutilation|1989|13bMfh3QQjE|Pixies|S4581
+Pixies|Wave of Mutilation|1989|13bMfh3QQjE|Pixies (band)|S4581
 Garth Brooks|Friends in Low Places|1990|t4X3ZRU5Ghg|Garth Brooks|S2016
 Super Furry Animals|Northern Lites|1999|-iGp1evBQpM|Super Furry Animals|S1366
 Manfred Mann|Mighty Quinn (Quinn the Eskimo)|1968|K13hH0pJx5s|Manfred Mann|S3592
@@ -5609,7 +5609,7 @@ Nirvana|You Know You're Right|2002|qv96yJYhk3M|Nirvana (band)|S1525
 The Youngbloods|Get Together|1967|w_inXx-J3nU|The Youngbloods|S9401
 Rachel Stevens|Some Girls|2004|ft_kFZUxYgA|Rachel Stevens|S8066
 Smiley Lewis|I Hear You Knocking|1955|DIeY7J9kjg0|Smiley Lewis|S3561
-Pixies|Dig for Fire|1990|n37Bdr559to|Pixies|S7967
+Pixies|Dig for Fire|1990|n37Bdr559to|Pixies (band)|S7967
 Kate Nash|Foundations|2007|ryH5cga0yUI|Kate Nash|S4304
 Marvin Gaye & Tammi Terrell|If I Could Build My Whole World Around You|1967|4cQURXodc4c|Tammi Terrell|S1447
 Jonathan Richman|I Was Dancing in the Lesbian Bar|1992|XjFU98mEem4|Jonathan Richman|S6993
@@ -5648,7 +5648,7 @@ REO Speedwagon|Keep On Loving You|1980|wJzNZ1c5C9c|REO Speedwagon|S3754
 Cannonball Adderley|Autumn Leaves|1958|u37RF5xKNq8|Cannonball Adderley|S10350
 Britney Spears|Oops!...I Did It Again|2000|CduA0TULnow|Britney Spears|S1399
 The Big Pink|Velvet|2009|Tt2jw-NcQ9s|The Big Pink|S4826
-Pixies|Alec Eiffel|1991|d7TjCbhq9EE|Pixies|S7968
+Pixies|Alec Eiffel|1991|d7TjCbhq9EE|Pixies (band)|S7968
 R.E.M.|The Sidewinder Sleeps Tonite|1992|mgiCechWNCo|R.E.M.|S8061
 Beyoncé|Partition|2013|pZ12_E5R3qc|Beyoncé|S9651
 Beck|Jack-Ass|1996|SXHiZr0vHPI|Beck|S10129
@@ -6973,7 +6973,7 @@ Wilco|Heavy Metal Drummer|2002|wl3u-rcVgVs|Wilco|S4842
 Randy Newman|You Can Leave Your Hat On|1972|G55cJrUs9VM|Randy Newman|S4546
 Carly Rae Jepsen|All That|2015|W374tWnsk70|Carly Rae Jepsen|S9720
 Dock Boggs|Country Blues|1927|OM8NqHzQ6i0|Dock Boggs|S2651
-Art Brut|Emily Kane|2005|uvA0UBesfbY|Art Brut|S3041
+Art Brut|Emily Kane|2005|uvA0UBesfbY?start=6|Art Brut|S3041
 Roxy Music|Mother of Pearl|1973|WwT_SbBtX8U|Roxy Music|S1747
 Spice Girls|Say You'll Be There|1996|9ro0FW9Qt-4|Spice Girls|S9361
 The Rolling Stones|Time Waits for No One|1974|YsH2In5r2sM|The Rolling Stones|S8231
@@ -7341,7 +7341,7 @@ Martin Carthy|Scarborough Fair|1965|pjWxTGPJrDM|Martin Carthy|S11557
 Johnny Cash|The Ballad of Ira Hayes|1964|WaFRa2XAmYE|Johnny Cash|S6974
 Snoop Dogg feat. B-Real|Vato|2006|UXWFqxKU2qA|Snoop Dogg|S8471
 (Sandy) Alex G|Bobby|2017|nPuxLpVus-k|Alex G|S16320
-Pixies|Tame|1989|mYCZAuhdsl4|Pixies|S11915
+Pixies|Tame|1989|mYCZAuhdsl4|Pixies (band)|S11915
 Barbra Streisand|People|1964|fPlQ6EtArSc|Barbra Streisand|S3863
 Space|Female of the Species|1996|F1NBpVKWh_c|Space (UK band)|S2119
 Glass Tiger|Don't Forget Me (When I'm Gone)|1986|Jx6_-urg5fo|Glass Tiger|S10944
@@ -9481,7 +9481,7 @@ D Train|You're the One for Me|1982|OZ5KE_XzORA|D Train (music group)|S10481
 Jens Lekman|The Opposite of Hallelujah|2005|2tgobYY8C0c|Jens Lekman|S6894
 Elvis Presley|Wear My Ring Around Your Neck|1958|D7kV6c0ZsvI|Elvis Presley|S6255
 Sparks|Amateur Hour|1974|08DFrY4ig_c|Sparks (band)|S12271
-Dan Fogelberg|Part of the Plan|1974|w5x9_vsrKZo|Dan Fogelberg|S9199
+Dan Fogelberg|Part of the Plan|1974|WWBDfgbQE5c|Dan Fogelberg|S9199
 The Swingin' Medallions|Double Shot (Of My Baby's Love)|1965|57s89xrC93o|The Swingin' Medallions|S3080
 Telepathe|So Fine|2009|_Un5SJ1aAGM|Telepathe|S8710
 Giorgio Moroder & Philip Oakey|Together in Electric Dreams|1984|Hdzt3eIfe2g|Philip Oakey|S10939
