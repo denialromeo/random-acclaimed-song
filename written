@@ -177,7 +177,7 @@ The Beatles|Eleanor Rigby|1966|HuS5NuXRb5Y|The Beatles|S1444
 Cream|Sunshine of Your Love|1967|zt51rITH3EA|Cream (band)|S915
 Dionne Warwick|Walk On By|1964|ijhL9Y7skQs|Dionne Warwick|S1027
 Beastie Boys|Sabotage|1994|z5rRZdiu1UE|Beastie Boys|S94
-Iggy and the Stooges|Search and Destroy|1973|PPDeTf7qE00|The Stooges|S769
+Iggy and the Stooges|Search and Destroy|1973|dbn0DaJHucg|The Stooges|S769
 Prince and the Revolution|Little Red Corvette|1982|v0KpfrJE4zw|The Revolution (band)|S455
 Bruce Springsteen|Born in the U.S.A.|1984|EPhWR4d3FJQ|Bruce Springsteen|S434
 Van Morrison|Brown Eyed Girl|1967|UfmkgQRmmeE|Van Morrison|S936
@@ -596,7 +596,7 @@ Dead Kennedys|Holiday in Cambodia|1980|-KTsXHXMkJA|Dead Kennedys|S565
 Leonard Cohen|Famous Blue Raincoat|1971|ohk3DP5fMCg|Leonard Cohen|S2564
 Kings of Leon|Sex on Fire|2008|RF0HhrwIwp0|Kings of Leon|S4725
 Aretha Franklin|Chain of Fools|1967|xroRNBvvF9M|Aretha Franklin|S941
-Aretha Franklin|I Never Loved a Man (The Way I Love You)|1967|waS0rKeuzg8|Aretha Franklin|S937
+Aretha Franklin|I Never Loved a Man (The Way I Love You)|1967|PCeWiplvAzU?start=43|Aretha Franklin|S937
 Madonna|Ray of Light|1998|x3ov9USxVxY|Madonna (entertainer)|S275
 Bon Jovi|Livin' on a Prayer|1986|lDK9QqIzhwk|Bon Jovi|S379
 John Lee Hooker|Boom Boom|1962|WS7_e9LdvDI|John Lee Hooker|S1098
@@ -1405,7 +1405,7 @@ Doug E. Fresh|The Show|1985|S_Pmp8VtJwI|Doug E. Fresh|S408
 Fats Waller|Ain't Misbehavin'|1929|PSNPpssruFY|Fats Waller|S2755
 Kendrick Lamar|The Blacker the Berry|2015|VdPtVZDspIY|Kendrick Lamar|S9805
 The Drifters|Under the Boardwalk|1964|EPEqRMVnZNU|The Drifters|S1033
-The Normal|Warm Leatherette|1978|S5QErPDNcj4|Normal|S1568
+The Normal|Warm Leatherette|1978|S5QErPDNcj4|The Normal|S1568
 Daryl Hall & John Oates|I Can't Go for That (No Can Do)|1981|ccenFp_3kq8|Hall & Oates|S532
 Blur|Parklife|1994|YSuHrTfcikU|Blur (band)|S1538
 Natalie Imbruglia|Torn|1997|VV1XWJN3nJo|Natalie Imbruglia|S24
@@ -1486,7 +1486,7 @@ Grimes|Flesh Without Blood|2015|Tv9YoYCKNoE|Grimes (musician)|S9771
 John Cougar|Jack & Diane|1982|h04CH9YZcpI|John Mellencamp|S1889
 The Clash|The Magnificent Seven|1980|GcHL8efKKPE|The Clash|S3281
 Lily Allen|The Fear|2008|q-wGMlSuX_c|Lily Allen|S4816
-Weather Report|Birdland|1977|Ae0nwSv6cTU|Weather Report|S2875
+Weather Report|Birdland|1977|8m-o3RE_RLc|Weather Report|S2875
 Stevie Wonder|You Are the Sunshine of My Life|1972|OVwR7v53yW8|Stevie Wonder|S779
 Robbie Williams|Angels|1997|luwAMFcc2f8|Robbie Williams|S2150
 Run-DMC|Rock Box|1984|WA-zaE6aevs|Run-DMC|S446
@@ -1544,7 +1544,7 @@ Bob Dylan|It's All Over Now, Baby Blue|1965|XQOqzBgI0bw|Bob Dylan|S1667
 Kurt Vile|Pretty Pimpin'|2015|659pppwniXA|Kurt Vile|S9807
 The Doors|Hello, I Love You|1968|c1huRuo6Wj0?start=5|The Doors|S1702
 Petula Clark|Downtown|1964|Zx06XNfDvk0|Petula Clark|S1417
-T. Rex|Telegram Sam|1972|_xl32HEJ8DE|T. Rex (band)|S786
+T. Rex|Telegram Sam|1972|IRG3ugqY4Ks|T. Rex (band)|S786
 Pet Shop Boys|Rent|1987|UfCg50a7RbE|Pet Shop Boys|S355
 White Town|Your Woman|1997|lVL-zZnD3VU|White Town|S19
 Prince|When You Were Mine|1980|HEugh8DWQqA|Prince (musician)|S2609
@@ -1648,7 +1648,7 @@ Patti Smith Group|Rock N Roll Nigger|1978|b1o68h4Usqs|Patti Smith|S4556
 Foo Fighters|Learn to Fly|1999|1VQ_3sBZEm0|Foo Fighters|S3108
 Bob Dylan|Forever Young|1974|Frj2CLGldC4|Bob Dylan|S3366
 Charles Trenet|La Mer|1946|PXQh9jTwwoA|Charles Trenet|S5760
-Peggy Lee|Fever|1958|JGb5IweiYG8|Peggy Lee|S2792
+Peggy Lee|Fever|1958|EYxoAJ3Boyc|Peggy Lee|S2792
 Small Faces|Lazy Sunday|1968|zXeRB-3nDR8|Small Faces|S1704
 The Knife|Silent Shout|2006|4uI1KXHJVO8|The Knife|S4013
 Dizzy Gillespie|Manteca|1947|A5tRGMHfKrE|Dizzy Gillespie|S2687
@@ -1664,7 +1664,7 @@ Rod Stewart|Da Ya Think I'm Sexy?|1978|Hphwfq1wLJs|Rod Stewart|S1809
 Moby|Go|1990|o72NpKj0nxw|Moby|S202
 Hank Williams|Lovesick Blues|1949|-Xu71i89xvs|Hank Williams|S1344
 Bob Dylan|Shelter from the Storm|1975|12rUOLtbQDk|Bob Dylan|S3376
-Wanda Jackson|Let's Have a Party|1958|ip_rNAASt6I|Wanda Jackson|S1167
+Wanda Jackson|Let's Have a Party|1958|7QlzOCgLzwg|Wanda Jackson|S1167
 Public Enemy|Welcome to the Terrordome|1990|e4Zey7o04Qk|Public Enemy (band)|S234
 Alicia Keys|Fallin'|2001|Urdlvw0SSEc|Alicia Keys|S1472
 Kim Carnes|Bette Davis Eyes|1981|EPOIS5taqA8|Kim Carnes|S526
@@ -2262,7 +2262,7 @@ Green Day|When I Come Around|1994|i8dh9gDzmz8|Green Day|S3453
 The Kinks|Days|1968|h2svmUcsKeg|The Kinks|S7125
 Diana Ross and the Supremes|Love Child|1968|fFg-2UrUTUc|The Supremes|S3874
 Chromatics|Kill for Love|2011|c0mxXrHowHQ|Chromatics (band)|S5005
-Spinners|Could It Be I'm Falling in Love|1972|EU4UTDrSwQc|The Spinners (American R&B group)|S1554
+Spinners|Could It Be I'm Falling in Love|1972|KIAcSfOa5Y4?start=5|The Spinners (American R&B group)|S1554
 Prince Buster|Al Capone|1965|hmsiyhOfXLw|Prince Buster|S8017
 Body Count|Cop Killer|1992|LH8gUhDd6WE|Body Count (band)|S3224
 Jamie xx|Gosh|2015|hTGJfRPLe08|Jamie xx|S9786
@@ -2358,7 +2358,7 @@ Willie Nelson|Always on My Mind|1982|yoPYQ-FmQB4|Willie Nelson|S509
 Supertramp|The Logical Song|1979|low6Coqrw9Y|Supertramp|S3871
 Beyoncé|Hold Up|2016|PeonBmeFR8o|Beyoncé|S16037
 Bee Gees|Night Fever|1977|-ihs-vT9T3Q|Bee Gees|S1534
-Dobie Gray|Drift Away|1973|gr_eVcCAUXo|Dobie Gray|S755
+Dobie Gray|Drift Away|1973|URw11Td8Zy0|Dobie Gray|S755
 New Order|The Perfect Kiss|1985|x3XW6NLILqo|New Order (band)|S1935
 Visage|Fade to Grey|1980|PeGTJOFSIgU|Visage (band)|S9048
 Courtney Barnett|Depreston|2015|1NVOawOXxSA|Courtney Barnett|S9729
@@ -3183,7 +3183,7 @@ Prefab Sprout|The King of Rock 'n' Roll|1988|4T6e3GJCjow|Prefab Sprout|S3095
 Spacemen 3|Walkin' with Jesus|1986|NRuoXqpL6ZM|Spacemen 3|S4578
 Céline Dion|My Heart Will Go On|1997|fGU7NMxboNE|Celine Dion|S2162
 Terry Riley|In C|1968|yNi0bukYRnA|Terry Riley|S2848
-The Vapors|Turning Japanese|1980|IWWwM2wwMww|The Vapors|S1850
+The Vapors|Turning Japanese|1980|RLQeb5NGt3E|The Vapors|S1850
 Delta 5|Mind Your Own Business|1979|a38HYryTiUA|Delta 5|S1815
 Gwen Guthrie|Ain't Nothin' Goin' On But the Rent|1986|gkO9us2ZmGg|Gwen Guthrie|S373
 Teenage Fanclub|The Concept|1991|rqYibZeafg8|Teenage Fanclub|S2027
@@ -3299,7 +3299,7 @@ Björk|It's Oh So Quiet|1995|htobTBlCvUU|Björk|S9151
 The Rolling Stones|Love in Vain|1969|ryRDcE2sB2A|The Rolling Stones|S4133
 Hüsker Dü|Makes No Sense at All|1985|J1sYN0PuRs4|Hüsker Dü|S392
 Grimes feat. Blood Diamonds|Go|2014|vIi57zhDl78|Grimes (musician)|S9586
-Mika|Grace Kelly|2007|0CGVgAYJyjk|Sadistic Mika Band|S4299
+Mika|Grace Kelly|2007|0CGVgAYJyjk|Mika (singer)|S4299
 George Thorogood & The Destroyers|Bad to the Bone|1982|IyhJ69mD7xI|George Thorogood|S6541
 Otis Redding|Respect|1965|211_7MctF50|Otis Redding|S1672
 Frank Sinatra|In the Wee Small Hours of the Morning|1955|MiPUv4kXzvw|Frank Sinatra|S6441
@@ -3405,7 +3405,7 @@ Girl Unit|Wut|2010|jbc-319VYlw|https://www.discogs.com/artist/1798211-Girl-Unit|
 Harold Melvin & The Blue Notes|The Love I Lost|1973|40dvcIDGIfo?start=9|Harold Melvin & the Blue Notes|S1745
 EPMD|You Gots to Chill|1988|APMJNyaDC78|EPMD|S328
 AlunaGeorge|Your Drums, Your Love|2012|VfCSx5641U4|AlunaGeorge|S4997
-Traffic|Paper Sun|1967|bEnAft8bpBA|Traffic (band)|S3907
+Traffic|Paper Sun|1967|-cp_3NEWTzU|Traffic (band)|S3907
 Barry White|You're the First, the Last, My Everything|1974|Fcd3XuQwDQQ|Barry White|S3951
 Led Zeppelin|What Is and What Should Never Be|1969|WnMiXsRtsfc|Led Zeppelin|S7203
 Orbital|The Box|1996|cONv26K0vL8|Orbital (band)|S42
@@ -4866,7 +4866,7 @@ The Folkes Brothers|Oh Carolina|1960|txJsl9ME4pE|Folkes Brothers|S6418
 Death Grips|Hacker|2012|uoZgZT4DGSY|Death Grips|S6002
 Gal Costa|Baby|1968|7ey65touQaY|Gal Costa|S6494
 M83|Don't Save Us from the Flames|2005|BpT0rrtwpLg|M83 (band)|S4647
-Nancy & Frank Sinatra|Somethin' Stupid|1967|0f48fpoSEPU|Nancy Sinatra|S12960
+Nancy & Frank Sinatra|Somethin' Stupid|1967|kn-ExYS1Pq0?start=76|Nancy Sinatra|S12960
 Radiohead|Life in a Glasshouse|2001|N92g3TQ98oI|Radiohead|S4672
 Jake Bugg|Lightning Bolt|2012|xCiQXsvPr1M|Jake Bugg|S11125
 The Hives|Main Offender|2000|6CgC9BaHqXg|The Hives|S6716
@@ -5693,7 +5693,7 @@ Rockwell|Somebody's Watching Me|1984|7YvAYIJSSZY|Rockwell (musician)|S8195
 Michael Jackson|I Wanna Be Where You Are|1972|MFL_gYXE6Rk|Michael Jackson|S7533
 Band of Horses|Is There a Ghost|2007|JK716RqoUms|Band of Horses|S5312
 Bob Dylan|Man in the Long Black Coat|1989|6aCXgFdUhbk|Bob Dylan|S5554
-Barbara|Nantes|1964|ukFXWZZ5sTw|Barbara (singer)|S10075
+Barbara|Nantes|1964|dXqYRHOCA2Y?start=3|Barbara (singer)|S10075
 Duke Ellington|Reminiscing in Tempo|1935|SEZ0bT7yQsQ|Duke Ellington|S13187
 Wilco|I Might|2011|nNs7NLwuHx0|Wilco|S9018
 Ice-T|Colors|1988|LI8Zx_QvNVU|Ice-T|S3491
@@ -6037,7 +6037,7 @@ Ash|Burn Baby Burn|2001|fNdDKhA_gkk|Ash (band)|S5254
 Lyres|Help You Ann|1983|7LqF5P3Fa84|Lyres (band)|S7359
 Section 25|Looking from a Hilltop|1984|WFwuJUeT9rU|Section 25|S8346
 Bentley Rhythm Ace|Bentley's Gonna Sort You Out|1997|3IWl77o3l50|Bentley Rhythm Ace|S2958
-The Normal|T.V.O.D.|1978|5-Yyifc6NgI|Normal|S7772
+The Normal|T.V.O.D.|1978|5-Yyifc6NgI|The Normal|S7772
 Public Enemy|Can't Truss It|1991|am9BqZ6eA5c|Public Enemy (band)|S203
 George Michael|Fastlove|1996|SHAQlFq6TFg|George Michael|S2957
 Rush|Closer to the Heart|1977|quBCjo2rUZg|Rush (band)|S8274
@@ -7550,7 +7550,7 @@ Roxy Music|Jealous Guy|1981|hRzGzRqNj58|Roxy Music|S8256
 Chicago|I'm a Man|1969|DPZUgfOqAdg|Chicago (band)|S13718
 David Bowie|Aladdin Sane (1913-1938-197?)|1973|Z_x9fzY4WH0|David Bowie|S10513
 Them|Mystic Eyes|1965|5e-fU0eyVUg|Them (band)|S3894
-Perry Como|Till the End of Time|1945|xSJ-oT2ZBa0|Perry Como|S7933
+Perry Como|Till the End of Time|1945|yL21m_R2v9g|Perry Como|S7933
 Léo Ferré|La Mémoire et la mer|1970|aDHu3r2VLv0|Léo Ferré|S7233
 Herman's Hermits|I'm Into Something Good|1964|MDUCOwp1p60|Herman's Hermits|S6707
 Robert Plant|Big Log|1983|FxSsol3Zd7k|Robert Plant|S12075
@@ -7662,7 +7662,7 @@ The Hollies|Carrie-Anne|1967|sgA4-bLcoN8|The Hollies|S4105
 Tindersticks|Rented Rooms|1997|dqD87W0894M|Tindersticks|S8770
 Carmen Miranda|O que é que a Bahiana tem|1939|ojo3I59Gn6c|Carmen Miranda|S15343
 Steve Miller Band|Rock'n Me|1976|pIF9hCgImTY|Steve Miller Band|S12312
-David Bowie|Andy Warhol|1971|P4sANPkk3ys|David Bowie|S10515
+David Bowie|Andy Warhol|1971|n--Ro4-hNbo|David Bowie|S10515
 The Beatles|I've Got a Feeling|1970|DbKPZd5oihc|The Beatles|S14111
 MC Shan|The Bridge|1986|dS4RpBR0Zn0|MC Shan|S7488
 Los Prisioneros|Tren al sur|1990|Q9DcJaW9m_M|Los Prisioneros|S11476
@@ -7934,7 +7934,7 @@ The New Pornographers|Brill Bruisers|2014|EhhtSXk1c70|The New Pornographers|S961
 Missy Elliott feat. Eve|4 My People|2001|HWYGDFoNHko|Missy Elliott|S7572
 The Cult|Fire Woman|1989|8g6h1vI4Xv0|The Cult|S5923
 M.I.A.|Bring the Noize|2013|RvUVxYndYuU|M.I.A. (rapper)|S9484
-Gene Vincent and His Blue Caps|Race with the Devil|1956|V6scn7v6JgE|Gene Vincent|S6520
+Gene Vincent and His Blue Caps|Race with the Devil|1956|A4KaFQN-v1I|Gene Vincent|S6520
 Pulp|The Trees|2001|nArZkellNyk|Pulp (band)|S3764
 Asian Dub Foundation|Free Satpal Ram|1997|lhCQeiQNIPo|Asian Dub Foundation|S5256
 The Divine Comedy|Generation Sex|1998|HNwbX-6-vZo|The Divine Comedy (band)|S10610
@@ -9981,7 +9981,7 @@ David Seville|Witch Doctor|1958|cmjrTcYMqBM|David Seville|S5983
 Sheb Wooley|The Purple People Eater|1958|X9H_cI_WCnE|Sheb Wooley|S8386
 Linda Ronstadt|When Will I Be Loved|1974|zZ7xHr23Lwg?start=205|Linda Ronstadt|S7268
 Daniel Lanois|The Maker|1989|w-JtAcpKtYQ|Daniel Lanois|S10499
-Atlas Sound|Te amo|2011|-8YrrkDvZ-8|Bradford Cox|S5269
+Atlas Sound|Te amo|2011|AQrEL5A8D8M?start=39|Bradford Cox|S5269
 Paula Cole|I Don't Want to Wait|1996|hJb5RvAs4BI|Paula Cole|S9315
 Drake|Over|2010|2lTB1pIg1y0|Drake (musician)|S6156
 Kacey Musgraves|Merry Go 'Round|2012|GZfj2Ir3GgQ|Kacey Musgraves|S11286
