@@ -589,7 +589,7 @@ Edwin Starr|War|1970|dQHUAJTZqF0|Edwin Starr|S856
 The Rolling Stones|Miss You|1978|hic-dnps6MU|The Rolling Stones|S609
 The Chemical Brothers|Block Rockin' Beats|1997|iTxOKsyZ0Lw|The Chemical Brothers|S5
 Don Henley|The Boys of Summer|1984|QWT90HzLF3U|Don Henley|S450
-Magazine|Shot by Both Sides|1978|ybUqM8jf3mU|Magazine|S607
+Magazine|Shot by Both Sides|1978|ybUqM8jf3mU|Magazine (band)|S607
 David Bowie|Let's Dance|1983|VbD_kBJc_gI|David Bowie|S453
 Nirvana|Lithium|1991|pkcJEvMcnEg|Nirvana (band)|S171
 Dead Kennedys|Holiday in Cambodia|1980|-KTsXHXMkJA|Dead Kennedys|S565
@@ -1195,7 +1195,7 @@ Bill Monroe|Blue Moon of Kentucky|1947|JAVFpThoeb4|Bill Monroe|S2723
 George McCrae|Rock Your Baby|1974|Wdo-ZiHqbls|George McCrae|S729
 Arcade Fire|Ready to Start|2010|9oI27uSzxNQ|Arcade Fire|S4885
 The Slits|Typical Girls|1979|DCcZm75wzHc|The Slits|S2889
-Sylvester|You Make me Feel (Mighty Real)|1978|VyAHULpMXKQ|Sylvester|S1810
+Sylvester|You Make me Feel (Mighty Real)|1978|VyAHULpMXKQ|Sylvester (singer)|S1810
 Crystal Castles feat. Robert Smith|Not in Love|2010|32udqal_lyQ|Crystal Castles|S4896
 AC/DC|Whole Lotta Rosie|1977|QMvE0yFnR0I|AC/DC|S1531
 Supergrass|Alright|1995|qUE4oDunYkc|Supergrass|S65
@@ -1927,7 +1927,7 @@ Japan|Ghosts|1981|7zzLU1ato2w|Japan (band)|S504
 Eddie Floyd|Knock on Wood|1966|Kceiks__PsE|Eddie Floyd|S1435
 The Beach Boys|Fun, Fun, Fun|1964|dDHErN3dOkc|The Beach Boys|S1030
 Gang of Four|(Love Like) Anthrax|1978|aj-h3zmGVO4|Gang of Four (band)|S3434
-Whitney|No Woman|2016|CGKN6qiDqnk|Whitney|S16214
+Whitney|No Woman|2016|CGKN6qiDqnk|Whitney (band)|S16214
 The Isley Brothers|Twist and Shout|1962|cTaqn8_gMR0|The Isley Brothers|S1093
 Sheryl Crow|All I Wanna Do|1993|a-SaoaXfz6E|Sheryl Crow|S91
 Carpenters|We've Only Just Begun|1970|__VQX2Xn7tI|The Carpenters|S868
@@ -2204,7 +2204,7 @@ A Tribe Called Quest|Check the Rhime|1991|BQT2DfzpCLA|A Tribe Called Quest|S206
 Bonnie Raitt|I Can't Make You Love Me|1991|nW9Cu6GYqxo|Bonnie Raitt|S2039
 Chuck Berry|Brown Eyed Handsome Man|1956|03OfDbsT68U|Chuck Berry|S1611
 Bunny Berigan|I Can't Get Started|1936|D1ycvlgrKW4|Bunny Berigan|S2650
-Minutemen|History Lesson - Part II|1984|KZvsAh5VFRw|Minutemen|S3624
+Minutemen|History Lesson - Part II|1984|KZvsAh5VFRw|Minutemen (band)|S3624
 Art Blakey & The Jazz Messengers|A Night in Tunisia|1954|ADWODreyby0|Art Blakey|S5238
 The Champs|Tequila|1958|3H6amDbAwlY|The Champs|S1227
 John Coltrane|A Love Supreme, Part 2: Resolution|1965|CsxtKQW9ggg|John Coltrane|S11225
@@ -2249,7 +2249,7 @@ The Who|Pictures of Lily|1967|7BmkBroiw1s|The Who|S1494
 Oasis|Cigarettes & Alcohol|1994|SaeLKhRnkhQ|Oasis (band)|S98
 Hank Williams|I'll Never Get Out of This World Alive|1952|GNUBqrZ765I|Hank Williams|S1415
 Nirvana|Drain You|1991|PuX2XnEamLA|Nirvana (band)|S9308
-M|Pop Muzik|1979|gPoiv0sZ4s4|M|S597
+M|Pop Muzik|1979|gPoiv0sZ4s4|M (band)|S597
 The Rolling Stones|It's All Over Now|1964|kMMxrFQKEV8|The Rolling Stones|S3182
 Take That|Back for Good|1995|N2ICtCO8TCw|Take That|S2109
 Nirvana|The Man Who Sold the World|1994|fregObNcHC8|Nirvana (band)|S2095
@@ -2635,7 +2635,7 @@ Crosby, Stills, Nash & Young|Teach Your Children|1970|EkaKwXddT_I|Crosby, Stills
 The Moonglows|Sincerely|1954|XsxVKN114M0|The Moonglows|S1293
 Malcolm McLaren|Buffalo Gals|1982|HCBN7lyLT4w|Malcolm McLaren|S494
 Jessy Lanza|It Means I Love You|2016|C216ZRVOM5A|Jessy Lanza|S16105
-Kansas|Dust in the Wind|1977|tH2w6Oxx0kQ|Kansas|S7045
+Kansas|Dust in the Wind|1977|tH2w6Oxx0kQ|Kansas (band)|S7045
 Lester Flatt and Earl Scruggs|Foggy Mountain Breakdown|1949|z_Y3mnj-8lA|Lester Flatt|S1342
 Love Unlimited Orchestra|Love's Theme|1973|nOon93WcFi0?start=5|The Love Unlimited Orchestra|S3573
 Pixies|Hey|1989|t5TBbV5DdHg|Pixies (band)|S4882
@@ -2803,7 +2803,7 @@ Manu Chao|Bongo Bong|1998|vJMLJVha5sw|Manu Chao|S7412
 Roy Acuff and the Smoky Mountain Boys|Wabash Cannonball|1938|XBN7idCbZvc|Roy Acuff|S2641
 The Clash|Lost in the Supermarket|1979|qsrEAWcAvRg|The Clash|S3089
 The Ronettes|Baby, I Love You|1963|gbbRkHazUIg|The Ronettes|S1077
-Mountain|Mississippi Queen|1970|qFhM1XZsh6o|Mountain|S7625
+Mountain|Mississippi Queen|1970|qFhM1XZsh6o|Mountain (band)|S7625
 Buffalo Springfield|Mr. Soul|1967|jyc0JSd5q7U|Buffalo Springfield|S4103
 The Sundays|Here's Where the Story Ends|1990|FHsip5xOenQ|The Sundays|S4860
 Cass McCombs|County Line|2011|sOcnITphyjk|Cass McCombs|S4950
@@ -3088,13 +3088,13 @@ Marvin Gaye|Can I Get a Witness|1963|r4nld32mRKs|Marvin Gaye|S3437
 The Cult|Love Removal Machine|1987|k6PgftKbQnQ|The Cult|S1581
 Ciara|Body Party|2013|B9rSBcoX9ak|Ciara|S9422
 AC/DC|T.N.T.|1975|fGDQ9IukMOc|AC/DC|S9921
-Jungle|Busy Earnin'|2014|BcsfftwLUf0|Jungle|S9578
+Jungle|Busy Earnin'|2014|BcsfftwLUf0|Jungle (band)|S9578
 Lyn Collins|Think (About It)|1972|CWMD3gIPu1M|Lyn Collins|S4416
 Florence + The Machine|Shake It Out|2011|WbN0nX61rIs|Florence and the Machine|S4959
 Nick Lowe|I Love the Sound of Breaking Glass|1978|BDbUEydkuR8|Nick Lowe|S624
 Chuck Berry|Promised Land|1964|cK6MElklfvM|Chuck Berry|S1041
 Kraftwerk|Tour De France|1983|Yt3p-F2x7rY|Kraftwerk|S1900
-Kansas|Carry On Wayward Son|1976|2X_2IdybTV0|Kansas|S7044
+Kansas|Carry On Wayward Son|1976|2X_2IdybTV0|Kansas (band)|S7044
 Elvis Presley|Blue Moon of Kentucky|1954|r7M0CmkJ-2o|Elvis Presley|S1602
 Blumfeld|Tausend Tränen tief|1999|8blqsN05g4Q|Blumfeld|S5524
 Simon and Garfunkel|The Only Living Boy in New York|1970|5biEjyXNa2o|Simon & Garfunkel|S8418
@@ -3277,7 +3277,7 @@ Eagles|Lyin' Eyes|1975|2PTEqZURh4o|Eagles (band)|S3381
 Lucinda Williams|Passionate Kisses|1988|1rj3Z1KPE6E|Lucinda Williams|S2008
 Bobby Bland|Farther Up the Road|1957|Rsl_swTQCVU|Bobby Bland|S1239
 Gwen Stefani|What You Waiting For?|2004|RtBPPr_GVUg|Gwen Stefani|S2471
-Antoine|Les Elucubrations d'Antoine|1966|PYSGVAQxgBw|Antoine|S5215
+Antoine|Les Elucubrations d'Antoine|1966|PYSGVAQxgBw|Antoine (singer)|S5215
 James Blake feat. Bon Iver|I Need a Forest Fire|2016|sAJgs1P-uUE|James Blake (musician)|S16100
 John Lennon|Gimme Some Truth|1971|Ma1y8pN9ryA|John Lennon|S6952
 Korn|Blind|1994|SGK00Q7xx-s|Korn|S3549
@@ -3729,7 +3729,7 @@ Serge Gainsbourg|Initials B.B|1967|NuZklVrHspM|Serge Gainsbourg|S8356
 Meade Lux Lewis|Honky Tonk Train Blues|1929|tDuLezFRMNU|Meade Lux Lewis|S11592
 Travis|Why Does It Always Rain on Me?|1999|Os853AL-Ihw|Travis (band)|S2380
 Common Sense|I Used to Love h.e.r.|1994|TrUERC2Zk64|Common (rapper)|S4500
-Venom|Black Metal|1982|fHmzFVDjVnM|Venom|S8972
+Venom|Black Metal|1982|fHmzFVDjVnM|Venom (band)|S8972
 Elton John and Kiki Dee|Don't Go Breaking My Heart|1976|z0qW9P-uYfM|Kiki Dee|S2876
 The Byrds|Hickory Wind|1968|m4dIQITw5bw|The Byrds|S2530
 Depeche Mode|Master and Servant|1984|IsvfofcIE1Q|Depeche Mode|S6040
@@ -3864,7 +3864,7 @@ Against Me!|Transgender Dysphoria Blues|2014|9K7PWLzdzP4|Against Me!|S9593
 El Guincho|Bombay|2010|AIdUBVjyY5A|El Guincho|S4899
 Queen Latifah|Ladies First|1989|8Qimg_q7LbQ|Queen Latifah|S2432
 DJ Shadow|Six Days|2002|eY-eyZuW_Uk|DJ Shadow|S2972
-Nazareth|Love Hurts|1974|G_1LP3Z6pW4|Nazareth|S2324
+Nazareth|Love Hurts|1974|G_1LP3Z6pW4|Nazareth (band)|S2324
 Ride|Leave Them All Behind|1992|gIsnb1TKYjE|Ride (band)|S9333
 Whodini|Friends|1984|LRn2VQWNkgA|Whodini|S2350
 The Music Machine|Talk Talk|1966|iZExWt-bj-k|The Music Machine|S3648
@@ -4224,7 +4224,7 @@ Queens of the Stone Age|Go with the Flow|2002|DcHKOC64KnE|Queens of the Stone Ag
 AlunaGeorge|Attracting Flies|2013|7d_HD89ZlJE|AlunaGeorge|S9403
 Fine Young Cannibals|Johnny Come Home|1985|2H5Se-9XAVE|Fine Young Cannibals|S405
 Stray Cats|Stray Cat Strut|1981|vEtbfzMLVWU|Stray Cats|S8607
-Minutemen|This Ain't No Picnic|1984|UDr25zjd4yM|Minutemen|S4572
+Minutemen|This Ain't No Picnic|1984|UDr25zjd4yM|Minutemen (band)|S4572
 Elvis Presley|Baby Let's Play House|1955|92iwC-xI3mE|Elvis Presley|S1305
 UNKLE|Rabbit in Your Headlights|1998|RCG7qJAP7Qk|Unkle|S4528
 Eddie Cantor|Makin' Whoopee|1929|ANRPmTZRqkg|Eddie Cantor|S2656
@@ -4398,7 +4398,7 @@ Paul Simon|Mother and Child Reunion|1972|L0BUsDf0dxY|Paul Simon|S1743
 Smash Mouth|All Star|1999|L_jWHffIx5E|Smash Mouth|S3817
 The Rolling Stones|Stray Cat Blues|1968|oOSYB38y2xA|The Rolling Stones|S3779
 B.B. King|Sweet Little Angel|1956|dNr_eIgP0tI|B.B. King|S2784
-Common|The Light|2000|OjHX7jf-znA|Common|S4599
+Common|The Light|2000|OjHX7jf-znA|Common (rapper)|S4599
 Grizzly Bear|Knife|2006|OJpC9JqSnJk|Grizzly Bear (band)|S4658
 The Birthday Party|Release the Bats|1981|8wGpW3iKAdU|The Birthday Party (band)|S527
 Fatboy Slim|Gangster Tripping|1998|3k1comdW1Ig|Fatboy Slim|S6354
@@ -4472,7 +4472,7 @@ Brenda Lee|Sweet Nothin's|1959|QgdVd7ujEro|Brenda Lee|S3553
 The Plimsouls|A Million Miles Away|1981|aIxgBMNhsKU|The Plimsouls|S7979
 Cloud Nothings|Stay Useless|2012|HtkePLlTUcY|Cloud Nothings|S5838
 Nick Lowe|Heart of the City|1976|4hmVPncZGVE|Nick Lowe|S4429
-Tweet|Oops (Oh My)|2002|Hb37Nh_Sg4g|Tweet|S1513
+Tweet|Oops (Oh My)|2002|Hb37Nh_Sg4g|Tweet (singer)|S1513
 Bruce Springsteen|Tenth Avenue Freeze-Out|1975|KzrtlXuiV3Y|Bruce Springsteen|S5642
 Destiny's Child|Bills, Bills, Bills|1999|NiF6-0UTqtc|Destiny's Child|S2376
 Cocteau Twins|Lorelei|1984|VhqLE7O_FTA|Cocteau Twins|S4569
@@ -4569,7 +4569,7 @@ Kendrick Lamar|Backseat Freestyle|2012|EZW7et3tPuQ|Kendrick Lamar|S7084
 Elvis Presley|If I Can Dream|1968|u-pP_dCenJA|Elvis Presley|S3722
 Elmore James|The Sky Is Crying|1960|S788gj9vdp0|Elmore James|S1186
 Jr. Walker & The All Stars|(I'm a) Road Runner|1966|SSosQRiXiPw|Junior Walker|S1437
-Metro Area|Miura|2001|rgpeZehATH4|Metro|S4678
+Metro Area|Miura|2001|rgpeZehATH4|Metro Area|S4678
 Royal Blood|Figure It Out|2014|jhgVu2lsi_k|Royal Blood (band)|S9650
 Feist|My Moon My Man|2007|ltYq-jalYm0|Feist (singer)|S4346
 Alice Cooper|Under My Wheels|1971|finr9iOH16k|Alice Cooper|S5155
@@ -4613,7 +4613,7 @@ Green Velvet|Flash|1995|l_RfediFJFQ|Curtis Jones|S6644
 Fats Waller|Handful of Keys|1929|3Qmsux0TWWI|Fats Waller|S2756
 Rainbow|Stargazer|1976|Cm1NZnA9raU|Rainbow (rock band)|S12013
 Slam|Positive Education|1993|E4dSRpSnPOU|Grand Slam (band)|S9353
-Flume feat. Kai|Never Be Like You|2016|Ly7uj0JwgKg|Flume|S16085
+Flume feat. Kai|Never Be Like You|2016|Ly7uj0JwgKg|Flume (musician)|S16085
 Bee Gees|How Can You Mend a Broken Heart|1971|frA2K5oqm54|Bee Gees|S5396
 Janis Joplin|Little Girl Blue|1969|FVpDOIPx_sY|Janis Joplin|S13027
 The Cramps|Goo Goo Muck|1981|wrarS7mLlB0|The Cramps|S4195
@@ -4851,7 +4851,7 @@ Vince Staples|Señorita|2015|5OAYMMod9Wo|Vince Staples|S9871
 Bob Dylan|If You See Her, Say Hello|1975|BWzMVNy0YwE|Bob Dylan|S10230
 Deep Purple|Speed King|1970|9sGy_-p_sVE|Deep Purple|S10559
 Stars|Your Ex-Lover Is Dead|2004|r5Or6-HOveg|Stars (Canadian band)|S8549
-Sugar|If I Can't Change Your Mind|1992|aHnFIaLp_ys|Sugar|S172
+Sugar|If I Can't Change Your Mind|1992|aHnFIaLp_ys|Sugar (American band)|S172
 Desiigner|Panda|2015|E5ONTXHS2mM|Desiigner|S16072
 The Police|Wrapped Around Your Finger|1983|svWINSRhQU0|The Police|S11936
 Franz Ferdinand|The Dark of the Matinée / Matinée|2004|cKyG1dRoDlA|Franz Ferdinand (band)|S2460
@@ -5254,7 +5254,7 @@ John Cale|Andalucia|1973|wR2Y08yty9g|John Cale|S4162
 Tom Waits|Ol' 55|1973|h7vfsHg2R9k|Tom Waits|S12973
 Daryl Hall & John Oates|Kiss on My List|1980|lsHld-iArOc|Hall & Oates|S6672
 The Smiths|Last Night I Dreamt That Somebody Loved Me|1987|4WCnl1VTEeg|The Smiths|S8463
-Superorganism|Something for your M.I.N.D.|2017|RPS-Cq4uMFs|Superorganism|S16487
+Superorganism|Something for your M.I.N.D.|2017|RPS-Cq4uMFs|Superorganism (band)|S16487
 Fred and Adele Astaire|Fascinating Rhythm|1926|6BTM07B0U64|Adele Astaire|S6474
 Queens of the Stone Age|The Way You Used to Do|2017|GvyNyFXHj4k|Queens of the Stone Age|S16471
 Luiz Gonzaga|Asa Branca|1947|zsFSHg2hxbc|Luiz Gonzaga|S11497
@@ -5292,7 +5292,7 @@ U2|Staring at the Sun|1997|7KkYkeQqDgo|U2|S3921
 Queen|Bicycle Race|1978|xt0V0_1MS0Q|Queen (band)|S11970
 Motörhead|Bomber|1979|CdsFuwavfVs|Motörhead|S7620
 Badly Drawn Boy|Silent Sigh|2002|NY-oQEy1KFU|Badly Drawn Boy|S2229
-Sugar|Changes|1992|h3Lo91Z0h3Q|Sugar|S8626
+Sugar|Changes|1992|h3Lo91Z0h3Q|Sugar (American band)|S8626
 Harold Melvin & The Blue Notes|Don't Leave Me This Way|1975|MnIkcB8GObo|Harold Melvin & the Blue Notes|S6682
 TV on the Radio|Dancing Choose|2008|SBhQ22CfJJ0|TV on the Radio|S8866
 Jimmy Buffett|Margaritaville|1977|nHIVy4nGRBU|Jimmy Buffett|S3254
@@ -5328,7 +5328,7 @@ Keith LeBlanc/Malcolm X|No Sell Out|1983|GK6KhR7meqQ|Keith LeBlanc|S463
 Pink Floyd|Brain Damage|1973|1Z39KZAryzk|Pink Floyd|S11903
 Maestro Fresh Wes|Let Your Backbone Slide|1989|8eQt3KFNeh4|Maestro (rapper)|S7376
 Le1f|Wut|2012|Nrnq4SZ0luc|Le1f|S7198
-Outlaws|Green Grass and High Tides|1975|hIaS_vYIQ_A|Outlaws|S11821
+Outlaws|Green Grass and High Tides|1975|hIaS_vYIQ_A|Outlaws (band)|S11821
 Mariah Carey|Emotions|1991|NrJEFrth27Q|Mariah Carey|S7421
 Carl Perkins|Matchbox|1957|PYH_SS_aYtA|Carl Perkins|S1624
 The Beatles|Being for the Benefit of Mr. Kite!|1967|bJVWZy4QOy0|The Beatles|S3180
@@ -5423,7 +5423,7 @@ Elliott Smith|Ballad of Big Nothing|1997|iU9yMN1MCfY|Elliott Smith|S4526
 Blur|She's So High|1990|zxFOaoJuP5E|Blur (band)|S3222
 Otis Redding|Fa-Fa-Fa-Fa-Fa (Sad Song)|1966|HUI_SBS6-Uk|Otis Redding|S3748
 Daniel Balavoine|L'Aziza|1985|7E0A6YLrnWY|Daniel Balavoine|S10494
-Bizarre Inc.|Playing with Knives|1991|TLlvYaCZ8Vc|Bizarre|S5470
+Bizarre Inc|Playing with Knives|1991|TLlvYaCZ8Vc|Bizarre Inc|S5470
 Late of the Pier|Space and the Woods|2007|q2d5VeE22uU|Late of the Pier|S7182
 Muddy Waters|I Just Want to Make Love to You|1954|RnlvHP1AXPo|Muddy Waters|S4069
 Amy Winehouse|You Know I'm No Good|2006|b-I2s5zRbHg|Amy Winehouse|S5191
@@ -5567,7 +5567,7 @@ Super Furry Animals|Northern Lites|1999|-iGp1evBQpM|Super Furry Animals|S1366
 Manfred Mann|Mighty Quinn (Quinn the Eskimo)|1968|K13hH0pJx5s|Manfred Mann|S3592
 50 Cent|I Get Money|2007|GO22Z0T3qPE|50 Cent|S4306
 Georges Brassens|Chanson pour l'Auvergnat|1954|rrZPVQN8QDY|Georges Brassens|S10919
-AFX|Analogue Bubblebath I|1991|Cyo61Q69xtI|AFX|S5114
+AFX|Analogue Bubblebath I|1991|Cyo61Q69xtI|Aphex Twin|S5114
 Miles Davis|Boplicity|1949|HLzqjmoZZAc|Miles Davis|S11646
 Bessie Smith|Nobody Knows When You're Down and Out|1929|Zea-1Fzi9JQ|Bessie Smith|S4266
 Gram Parsons|She|1973|t6YMdZdD9iQ|Gram Parsons|S3687
@@ -5861,14 +5861,14 @@ Eurythmics with Aretha Franklin|Sisters Are Doin' It for Themselves|1985|drGx7Jk
 The Smiths|Stop Me If You Think You've Heard This One Before|1987|SckD99B51IA|The Smiths|S8465
 Missy "Misdemeanor" Elliott|Sock It 2 Me|1997|9UvBX3REqSY|Missy Elliott|S2134
 Metric|Help I'm Alive|2008|ZoK63Bk7pgw|Metric (band)|S7526
-Catatonia|Road Rage|1998|U_bL0EqlDEk|Catatonia|S289
+Catatonia|Road Rage|1998|U_bL0EqlDEk|Catatonia (band)|S289
 B.B. King|Lucille|1968|L8hOvsg_AiY|B.B. King|S5285
 Spiritualized|Soul on Fire|2008|zgmoVaRbSIA|Spiritualized|S4747
 King Floyd|Groove Me|1970|DXtSI3QSPTk|King Floyd|S7108
 Jane's Addiction|Three Days|1990|SmvG2GZ3S7o|Jane's Addiction|S6861
 Kenny Loggins|Danger Zone|1986|siwpn14IE7E|Kenny Loggins|S7088
 Miles Davis|Miles Runs the Voodoo Down|1970|4QCOJo9YH9M|Miles Davis|S3321
-Spirit|I Got a Line on You|1968|wnrt6ykm6Do|Spirit|S8531
+Spirit|I Got a Line on You|1968|wnrt6ykm6Do|Spirit (band)|S8531
 Frankie Knuckles presents Satoshi Tomiie|Tears|1989|mq9CdNLLh9w|Satoshi Tomiie|S3548
 Hombres G|Devuélveme a mi chica|1985|4iJJCaSyoSw|Hombres G|S11040
 Rancid|Ruby Soho|1995|0P9QMkm9Eew|Rancid (band)|S12026
@@ -5963,7 +5963,7 @@ Eurythmics|There Must Be an Angel (Playing with My Heart)|1985|RCdneDxFRYQ|Euryt
 Nirvana|On a Plain|1991|QWrW0j6uOIU|Nirvana (band)|S11772
 The Byrds|Have You Seen Her Face|1967|25YxNSkLDB8|The Byrds|S10336
 So Solid Crew|21 Seconds|2001|g7VhofoV3qs|So Solid Crew|S1475
-Imagination|Just an Illusion|1982|xQ95XzvJtvs|Imagination|S3225
+Imagination|Just an Illusion|1982|xQ95XzvJtvs|Imagination (band)|S3225
 The B-52's|Roam|1989|iNwC0sp-uA4|The B-52's|S2011
 Joy Division|Warsaw|1978|serIf92zTDc|Joy Division|S12800
 Timex Social Club|Rumors|1986|ADwVvT7-5_0|Timex Social Club|S3905
@@ -6386,7 +6386,7 @@ Down|Stone the Crow|1995|Kdnki7XBzPE|Down (band)|S14321
 Melanie|Lay Down (Candles in the Rain)|1970|hlp3wmE4bbI|Melanie|S7507
 Lambchop|Your Fucking Sunny Day|1997|S8qUpq_arik|Lambchop (band)|S11366
 The Bluetones|Slight Return|1995|B-3UpL6MkZ0|The Bluetones|S2122
-Candido|Jingo|1979|B85dYk77V-o|Candido|S4439
+Candido|Jingo|1979|B85dYk77V-o|Cándido Camero|S4439
 Cigarettes After Sex|Apocalypse|2017|-mnH9-SX2Tg|Cigarettes After Sex|S16354
 Spinners|One of a Kind (Love Affair)|1973|_jDR3KSllTQ|The Spinners (American R&B group)|S1749
 The Prisonaires|Just Walkin' in the Rain|1953|8DOdqOkYjtA|The Prisonaires|S4068
@@ -7432,7 +7432,7 @@ Ibeyi feat. Kamasi Washington|Deathless|2017|yN8TUgkPnbU|Ibeyi|S16394
 Converge|Concubine/Fault & Fracture|2001|38m1NXeQP4E|Converge (band)|S14258
 Joe Jones|You Talk Too Much|1960|2GOYYbiEul0|Joe Jones (singer)|S6936
 The Ventures|Hawaii 5-0|1969|aQSPivbWwuY|The Ventures|S8973
-Nazareth|Hair of the Dog|1975|kyXz6eMCj2k|Nazareth|S11722
+Nazareth|Hair of the Dog|1975|kyXz6eMCj2k|Nazareth (band)|S11722
 CHVRCHES|Clearest Blue|2015|BZyzX4c1vIs|Chvrches|S9726
 Bourvil|Ballade irlandaise (un oranger)|1958|UF1WNxsjZcM|Bourvil|S10280
 Tricky|Christiansands|1996|X3Ht1RAA6Jw|Tricky (musician)|S8845
@@ -7593,7 +7593,7 @@ Teenage Fanclub|Ain't That Enough|1997|jdeqYx-9-AQ|Teenage Fanclub|S15
 Rush|2112|1976|AZm1_jtY1SQ|Rush (band)|S12127
 Money Mark|Cry|1995|doqnU2c99xc|Money Mark|S7596
 Bob Marley and the Wailers|Small Axe|1970|b0Tk-FoiX_0|Bob Marley and the Wailers|S9163
-Catatonia|Mulder and Scully|1998|FEhpmuXHmRQ|Catatonia|S5742
+Catatonia|Mulder and Scully|1998|FEhpmuXHmRQ|Catatonia (band)|S5742
 Starland Vocal Band|Afternoon Delight|1976|wu1UXCdyNo0|Starland Vocal Band|S8547
 Bobby Charles|See You Later, Alligator|1955|I2dNezWcV8I|Bobby Charles|S14165
 Steve Earle|The Mountain|1999|ZBuMFDHkrH8|Steve Earle|S8569
@@ -9588,7 +9588,7 @@ FannyPack|Cameltoe|2003|lvyt0PwMX_g|FannyPack|S2255
 Morrissey|Spent the Day in Bed|2017|1rmAi9XmlIo|Morrissey|S16448
 Jerry Butler|Hey, Western Union Man|1968|UrlCaXd49AA|Jerry Butler|S6895
 Otis Redding|My Girl|1965|0xBcpq2Dn3g|Otis Redding|S1675
-Mountain|Nantucket Sleighride (For Owen Coffin)|1971|KqWqCuHR0Og|Mountain|S11693
+Mountain|Nantucket Sleighride (For Owen Coffin)|1971|KqWqCuHR0Og|Mountain (band)|S11693
 Ivano Fossati|La costruzione di un amore|1988|o6PgXkjWGzk|Ivano Fossati|S13505
 Jennifer Paige|Crush|1998|EIhSnaqou0I|Jennifer Paige|S6892
 Air|Alone in Kyoto|2004|XUjAtYQkFm8|Air (band)|S14051
