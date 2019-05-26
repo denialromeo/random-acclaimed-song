@@ -150,7 +150,7 @@ Elvis Presley|Jailhouse Rock|1957|gj0Rz-uP4Mk|Elvis Presley|S1235
 Yeah Yeah Yeahs|Maps|2003|oIIxlgcuQRU|Yeah Yeah Yeahs|S2254
 Percy Sledge|When a Man Loves a Woman|1966|EYb84BDMbi0|Percy Sledge|S964
 The Who|Baba O'Riley|1971|LDknRxdHNog|The Who|S2570
-T. Rex|Get It On [Bang a Gong (Get It On)]|1971|TVEhDrJzM8E|T. Rex (band)|S815
+T. Rex|Get It On [Bang a Gong (Get It On)]|1971|wZkTh_T75QY|T. Rex (band)|S815
 The Shirelles|Will You Love Me Tomorrow|1960|cbxxkwBQk_o|The Shirelles|S1141
 Jefferson Airplane|White Rabbit|1967|WANNqr-vcx0|Jefferson Airplane|S950
 Soft Cell|Tainted Love|1981|oGXpDhNAO1Y|Soft Cell|S515
@@ -271,7 +271,7 @@ Eminem feat. Dido|Stan|2000|H5jXCTn_BS8|Eminem|S1385
 Michael Jackson|Beat It|1982|oRdxUFDoQe0|Michael Jackson|S457
 Radiohead|Idioteque|2000|Y7WCdYFqz5g|Radiohead|S3124
 Sam Cooke|You Send Me|1957|mrwfB4aAZZc|Sam Cooke|S1236
-? and the Mysterians|96 Tears|1966|R7uC5m-IRns|? and the Mysterians|S969
+? and the Mysterians|96 Tears|1966|R7uC5m-IRns|%3F and the Mysterians|S969
 Lynyrd Skynyrd|Free Bird|1973|QxIWDmmqZzY|Lynyrd Skynyrd|S725
 Eminem|Lose Yourself|2002|_Yhyp-_hX2s|Eminem|S1529
 Daft Punk|Da Funk|1995|mmi60Bd4jSs|Daft Punk|S80
@@ -1007,7 +1007,7 @@ The Turtles|Happy Together|1967|Tvu3xiFmfDU|The Turtles|S3915
 Hot Chip|And I Was a Boy from School|2006|j21l4LEtHbA|Hot Chip|S3999
 St. Vincent|New York|2017|4TPqUvy1vYU|St. Vincent (musician)|S16483
 At the Drive-In|One Armed Scissor|2000|7NYbojdoAQE|At the Drive-In|S2194
-The Jimi Hendrix Experience|Fire|1967|ungWNR8N7iU|The Jimi Hendrix Experience|S3468
+The Jimi Hendrix Experience|Fire|1967|0XCbfAzOq9c|The Jimi Hendrix Experience|S3468
 Elton John|Bennie and the Jets|1973|wo1OwRTRKRk|Elton John|S2582
 Coolio feat. L.V.|Gangsta's Paradise|1995|fPO76Jlnz6c|Coolio|S63
 George Jones|He Stopped Loving Her Today|1980|VExw77xJsBQ|George Jones|S567
@@ -2902,7 +2902,7 @@ A Certain Ratio|Shack Up|1980|pRVORzxxm5s|A Certain Ratio|S568
 Underworld|Rez|1993|F6Y7lcvubhU|Underworld (band)|S145
 Makaveli|Hail Mary|1996|UIDUx-WQsaY|Tupac Shakur|S5070
 Brook Benton|Rainy Night in Georgia|1969|Qr5djzzeA3M|Brook Benton|S2301
-The Heartbreakers|Chinese Rocks|1977|2xiWjpjRl1Q|The Heartbreakers|S4433
+The Heartbreakers|Chinese Rocks|1977|P-M9Ymvgd0A|The Heartbreakers|S4433
 Kanye West, Big Sean, Pusha T and 2 Chainz|Mercy|2012|7Dqgr0wNyPo|Kanye West|S5053
 Dinah Washington|Mad About the Boy|1952|STTLwI-u4Fg|Dinah Washington|S2809
 Bill Evans|Waltz for Debby|1956|dH3GSrCmzC8|Bill Evans|S2807
@@ -4574,7 +4574,7 @@ Royal Blood|Figure It Out|2014|jhgVu2lsi_k|Royal Blood (band)|S9650
 Feist|My Moon My Man|2007|ltYq-jalYm0|Feist (singer)|S4346
 Alice Cooper|Under My Wheels|1971|finr9iOH16k|Alice Cooper|S5155
 Nirvana|Scentless Apprentice|1993|RXmj0Ku3rZU|Nirvana (band)|S4585
-Rilo Kiley|Portions for Foxes|2004|2v7wXak07OY|Rilo Kiley|S4650
+Rilo Kiley|Portions for Foxes|2004|qtNV3pOqcjI|Rilo Kiley|S4650
 Guns N' Roses|Don't Cry|1991|zRIbf6JqkNc|Guns N' Roses|S10989
 Suzanne Vega|Marlene on the Wall|1985|CXb6Lb_h0Oo|Suzanne Vega|S8653
 Mecano|Cruz de Navajas|1986|xLgQ6AHZXAU|Mecano|S7500
@@ -5047,7 +5047,7 @@ Benny Goodman & His Orchestra with Martha Tilton and Ziggy|And the Angels Sing|1
 MGMT|Flash Delirium|2010|QvSMp7T2Kes|MGMT|S7527
 Live|I Alone|1994|FNrQOUtXYOo|Live (band)|S7283
 The Smiths|Cemetry Gates|1986|D5cZ-oLVJzY|The Smiths|S2918
-The Specials|Nite Klub|1979|B4JFmkB3CSE|The Specials|S8521
+The Specials|Nite Klub|1979|KaV9GYPSM94&start=15|The Specials|S8521
 Bow Wow Wow|C30 C60 C90 Go!|1980|81c1L8SrXcU|Bow Wow Wow|S550
 Eurythmics|Would I Lie to You?|1985|Uhpu2N4rQZM|Eurythmics|S2619
 Bon Iver|Blood Bank|2009|OwtkV9EOcdE|Bon Iver|S4790
@@ -5225,7 +5225,7 @@ The Cure|Charlotte Sometimes|1981|_defwv03IfQ|The Cure|S1864
 Barbara|L'Aigle Noir|1970|d9cEY13bUTo|Barbara (singer)|S10074
 The Pretty Things|S.F. Sorrow is Born|1968|JgwnC-pEw3k|Pretty Things|S3726
 Dire Straits|Brothers in Arms|1985|j62MZSaLRLw|Dire Straits|S6090
-Buffy Sainte-Marie|Universal Soldier|1964|j6imjvgJFvM|Buffy Sainte-Marie|S10324
+Buffy Sainte-Marie|Universal Soldier|1964|oSvu3Jeh0CE|Buffy Sainte-Marie|S10324
 Stray Cats|Rock This Town|1981|0RxBHRZpIdg|Stray Cats|S1857
 Eric Burdon & War|Spill the Wine|1970|W77Kwh6f0TE|War (American band)|S2856
 The Stone Roses|One Love|1990|60qyfdcAOGE|The Stone Roses|S8594
@@ -7739,7 +7739,7 @@ Ritchie Valens|Come On, Let's Go|1958|XLrnU1K2Wso|Ritchie Valens|S8169
 Maroon 5|Makes Me Wonder|2007|sAebYQgy4n4|Maroon 5|S7439
 Coleman Hawkins|Picasso|1949|XjhbUTg87jU|Coleman Hawkins|S13175
 Duffy|Warwick Avenue|2008|ScSHEnFNRck|Duffy (singer)|S4767
-Van Morrison|In the Garden|1986|Ku5gd8Gv3Bs|Van Morrison|S3642
+Van Morrison|In the Garden|1986|pmDhTMdUGR0|Van Morrison|S3642
 Buddy Holly|Well All Right|1958|P5AnUctpQXI|Buddy Holly|S5667
 The Rolling Stones|Back Street Girl|1967|2bScwCdYkDc|The Rolling Stones|S8215
 Jim O'Rourke|Halfway to a Threeway|1999|OeKCOaRPflY|Jim O'Rourke (musician)|S6910
@@ -9249,7 +9249,7 @@ Badly Drawn Boy|You Were Right|2002|G3q5VO2KzKk|Badly Drawn Boy|S10069
 Rod Stewart|Handbags and Gladrags|1969|ZXMMAA6tcMg|Rod Stewart|S12084
 Wilco|One Sunday Morning (Song for Jane Smiley's Boyfriend)|2011|xa2XnouRXKo|Wilco|S9019
 The Students|I'm So Young|1958|ZX5YPpfOINQ|Student|S3864
-Sly and the Family Stone|(You Caught Me) Smilin'|1971|gnmYME5k3Ew|Sly and the Family Stone|S12829
+Sly and the Family Stone|(You Caught Me) Smilin'|1971|5HLfsvErIC0|Sly and the Family Stone|S12829
 Van Morrison|It's All in the Game|1979|CEkeRtzbUqg|Van Morrison|S8924
 Jay-Z feat. Ja Rule & Amil|Can I Get a ...|1998|SoqZutsd1m0|Jay-Z|S294
 AC/DC|Who Made Who|1986|PiZHNw1MtzI|AC/DC|S9925
