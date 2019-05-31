@@ -116,7 +116,9 @@ def maintenance():
         for idx, row in enumerate(csv.reader(csvfile, delimiter="|")):
             if (idx >= num_songs_written):
                 video_id = row[3]
-                if (video_is_playable_in_US(video_id)):
+                if video_id.startswith("http"):
+                    pass
+                elif (video_is_playable_in_US(video_id)):
                     pass
                 else:
                     search_string = row[0] + " " + row[1]
@@ -128,6 +130,8 @@ def print_titles(s=0):
         for idx, row in enumerate(csv.reader(csvfile, delimiter="|")):
             if (idx >= s):
                 video_id = row[3]
+                if video_id.startswith("http"):
+                    continue
                 video_title(video_id)
 
 if __name__ == "__main__":
