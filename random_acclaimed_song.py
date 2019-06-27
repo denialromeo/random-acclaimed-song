@@ -81,7 +81,7 @@ def video_is_playable_in_US(video_id):
 
 def video_is_embeddable(video_id):
     url = "https://www.googleapis.com/youtube/v3/videos"
-    payload = {"part": "status", "id": video_id}
+    payload = {"part": "status", "id": video_id[0:11]}
     response = get_response(url, payload)
     return response["items"][0]["status"]["embeddable"]
 
@@ -120,6 +120,8 @@ def maintenance():
                     pass
                 elif (video_is_playable_in_US(video_id)):
                     pass
+                # elif (video_is_embeddable(video_id)):
+                    # pass
                 else:
                     search_string = row[0] + " " + row[1]
                     row[3] = get_youtube_id(search_string)
