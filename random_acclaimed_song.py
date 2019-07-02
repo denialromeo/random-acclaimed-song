@@ -56,10 +56,10 @@ def get_youtube_id(search_string):
 
 def video_title(video_id):
     url = "https://www.googleapis.com/youtube/v3/videos"
-    payload = {"part": "snippet", "id": video_id}
+    payload = {"part": "snippet", "id": video_id[0:11]}
     response = get_response(url, payload)
     title = response["items"][0]["snippet"]["title"]
-    if ("lyric" in title) or ("Lyric" in title):
+    if "album" in title.lower():
         print(title.encode('utf-8'))
 
 def video_is_playable_in_US(video_id):
