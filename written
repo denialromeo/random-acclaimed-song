@@ -1173,7 +1173,7 @@ Lily Allen|Smile|2006|0WxDrVUrSvI|Lily Allen|S3057
 The B-52's|Love Shack|1989|9SOryJvTAGs|The B-52's|S258
 Alvvays|Archie, Marry Me|2014|ZAn3JdtSrnY|Alvvays|S9559
 The Velvet Underground & Nico|All Tomorrow's Parties|1966|9pMuAgsZ2oo|The Velvet Underground|S1679
-R.E.M.|Fall on Me|1986|ChcR2gKt5WM|R.E.M.|S383
+R.E.M.|Fall on Me|1986|lf6vCjtaV1k|R.E.M.|S383
 Tennessee Ernie Ford|Sixteen Tons|1955|Joo90ZWrUkU|Tennessee Ernie Ford|S1291
 Norman Greenbaum|Spirit in the Sky|1969|AZQxH_8raCI|Norman Greenbaum|S1723
 X-Ray Spex|Oh Bondage Up Yours!|1977|ogypBUCb7DA|X-Ray Spex|S659
@@ -1755,7 +1755,7 @@ Buzzcocks|What Do I Get?|1978|-EEPvXlTUnU|Buzzcocks|S621
 Radiohead|Reckoner|2007|_uofQD-N6UI|Radiohead|S4663
 AC/DC|It's a Long Way to the Top (If You Wanna Rock and Roll)|1975|-sUXMzkh-jI|AC/DC|S4180
 Billy Bragg|Levi Stubbs' Tears|1986|I4v8VJ0LRgA|Billy Bragg|S375
-Yes|Owner of a Lonely Heart|1983|IG_VDj8Eh_g|Yes (band)|S1892
+Yes|Owner of a Lonely Heart|1983|SVOuYquXuuc|Yes (band)|S1892
 Perfume Genius|Slip Away|2017|-EVhFTw4igw|Perfume Genius|S16463
 Massive Attack|Karmacoma|1994|Vi76bxT7K6U|Massive Attack|S2108
 alt-J|Breezeblocks|2012|rVeMiVU77wo|Alt-J|S4996
@@ -2410,7 +2410,7 @@ The Prodigy|Out of Space|1992|a4eav7dFvc8|The Prodigy|S8022
 The Drums|Let's Go Surfing|2009|v-eULVz4JMk|The Drums|S4838
 Meat Puppets|Lake of Fire|1984|VzYOq8WGUxQ|Meat Puppets|S2611
 Blue Cheer|Summertime Blues|1968|YXcYZsqkZ-g|Blue Cheer|S5511
-Leonard Cohen|The Future|1992|D97OxHZzBeQ|Leonard Cohen|S2044
+Leonard Cohen|The Future|1992|D97OxHZzBeQ?start=8|Leonard Cohen|S2044
 The Rolling Stones|Memory Motel|1976|Cowl02DXx3A|The Rolling Stones|S8232
 Run-DMC|King of Rock|1985|qXzWlPL_TKw|Run-DMC|S395
 Lily Allen|LDN|2006|wmYT79tPvLg|Lily Allen|S4008
@@ -2532,7 +2532,7 @@ Elvis Presley|Are You Lonesome Tonight?|1960|HsaFnfCISQg|Elvis Presley|S3721
 Roy Orbison|Ooby Dooby|1956|3TSktJeimjE|Roy Orbison|S4072
 The Cranberries|Linger|1993|G6Kspj3OO0s|The Cranberries|S3305
 R.E.M.|Country Feedback|1991|6EHBh1FuY1Q?start=14|R.E.M.|S8058
-Lou Reed|Coney Island Baby|1975|1SHCsgqZvQM|Lou Reed|S7323
+Lou Reed|Coney Island Baby|1975|yOoXjYppyMM?start=6440|Lou Reed|S7323
 Elvis Presley|Always on My Mind|1972|n1YKv_Pl8PU|Elvis Presley|S3720
 The Beatles|The Fool on the Hill|1967|sGDuGybCRSE|The Beatles|S3186
 P.M. Dawn|Set Adrift on Memory Bliss|1991|0AOVf9p9ht4|P.M. Dawn|S185
@@ -4336,7 +4336,7 @@ The Thrills|Big Sur|2003|A1fGNCvZL_w|The Thrills|S4259
 McLusky|To Hell with Good Intentions|2002|oqOp70ZQdkk|Mclusky|S4613
 Françoise Hardy|Message personnel|1973|ANchsQz11po|Françoise Hardy|S10861
 Tears for Fears|Sowing the Seeds of Love|1989|VAtGOESO7W8|Tears for Fears|S8696
-Johnny Horton|The Battle of New Orleans|1959|50_iRIcxsz0|Johnny Horton|S1196
+Johnny Horton|The Battle of New Orleans|1959|__uFnEMJqjg|Johnny Horton|S1196
 War|Why Can't We Be Friends?|1975|W5FfJ89rGPc|War (American band)|S3937
 Bryan Ferry|Let's Stick Together|1976|Z9EbR0ckb40|Bryan Ferry|S687
 Sam & Dave|When Something Is Wrong with My Baby|1967|T246rhSoHes|Sam & Dave|S1449
@@ -5382,7 +5382,7 @@ Charly García|Demoliendo hoteles|1984|oMszTlYRxWg|Charly García|S5769
 Bruce Springsteen|Because the Night|1986|HcqUSi8QPN0|Bruce Springsteen|S5652
 Rainbow|Since You Been Gone|1979|1P17ct4e5OE|Rainbow (rock band)|S2339
 Gin Blossoms|Hey Jealousy|1989|ah5gAkna3jI|Gin Blossoms|S6563
-Dizzy Gillespie|Hot House|1945|rFFfoLhxgmI|Dizzy Gillespie|S13182
+Dizzy Gillespie|Hot House|1945|tJYO6_t4d08|Dizzy Gillespie|S13182
 Judy Collins|Amazing Grace|1970|AtteRD5bBNQ|Judy Collins|S9266
 Lou Reed|Caroline Says I|1973|-wL1edIlgzs|Lou Reed|S12807
 Usher|You Make Me Wanna…|1997|bQRzrnH6_HY|Usher (musician)|S8901
@@ -5423,7 +5423,7 @@ Elliott Smith|Ballad of Big Nothing|1997|iU9yMN1MCfY|Elliott Smith|S4526
 Blur|She's So High|1990|zxFOaoJuP5E|Blur (band)|S3222
 Otis Redding|Fa-Fa-Fa-Fa-Fa (Sad Song)|1966|HUI_SBS6-Uk|Otis Redding|S3748
 Daniel Balavoine|L'Aziza|1985|7E0A6YLrnWY|Daniel Balavoine|S10494
-Bizarre Inc|Playing with Knives|1991|TLlvYaCZ8Vc|Bizarre Inc|S5470
+Bizarre Inc|Playing with Knives|1991|X7Vx0SLjtvA|Bizarre Inc|S5470
 Late of the Pier|Space and the Woods|2007|q2d5VeE22uU|Late of the Pier|S7182
 Muddy Waters|I Just Want to Make Love to You|1954|RnlvHP1AXPo|Muddy Waters|S4069
 Amy Winehouse|You Know I'm No Good|2006|b-I2s5zRbHg|Amy Winehouse|S5191
@@ -7486,7 +7486,7 @@ Scott Walker|My Death|1967|OfvFa8KexRw|Scott Walker (singer)|S8331
 Billy Joel|Allentown|1982|BHnJp0oyOxs|Billy Joel|S3517
 Grandaddy|Hewlett's Daughter|2000|Ibshu3vkkgY|Grandaddy|S6629
 Bobbie Gentry|Fancy|1969|1XkcrHz26CI|Bobbie Gentry|S4413
-Ought|Beautiful Blue Sky|2015|fEQyi6eCxWw|Ought (band)|S9827
+Ought|Beautiful Blue Sky|2015|L-KdrAVh52I|Ought (band)|S9827
 Keith Richards|Take It So Hard|1988|vbaiQ00gywI|Keith Richards|S327
 Charles Trenet|L'âme Des Poêtes|1951|1hfCVJUXHRs|Charles Trenet|S9182
 George Harrison|Isn't It a Pity|1970|V-eLzxxrowM|George Harrison|S6531
@@ -8312,7 +8312,7 @@ Beirut|Nantes|2007|R781LDKOVJE|Beirut (band)|S4340
 Bloc Party|Flux|2007|ttcboE1GrNg|Bloc Party|S5499
 Alice Coltrane|Universal Consciousness|1971|kxn3tCO7Q_8|Alice Coltrane|S9965
 King Cole Trio|Sweet Lorraine|1941|bl8xeunYuJc|Nat King Cole|S15730
-Dazz Band|Let It Whip|1982|WSIL-SU--Lw|Dazz Band|S10539
+Dazz Band|Let It Whip|1982|Gd3gl5gnMeA?start=11|Dazz Band|S10539
 Lauryn Hill feat. Santana|To Zion|1998|iwJ3u2wk0Ko|Lauryn Hill|S4239
 Smashing Pumpkins|I Am One|1990|Pi6RJmUNBbw|The Smashing Pumpkins|S8458
 Racing Cars|They Shoot Horses, Don't They?|1976|7l4L6HW5mQE|Racing Cars|S8068
@@ -9943,7 +9943,7 @@ Death|The Philosopher|1993|k_cn9TVSi2o|Death (metal band)|S15409
 Bloc Party|The Prayer|2007|ogE4qbkwYVI|Bloc Party|S5500
 Jim Croce|I Got a Name|1973|YcqauC49Xmc|Jim Croce|S11199
 Marvin Gaye|Hitch Hike|1962|6-USBFIzNis|Marvin Gaye|S7454
-Metallica|Welcome Home (Sanitarium)|1986|V6Dfo4zDduI|Metallica|S14741
+Metallica|Welcome Home (Sanitarium)|1986|Lqee-u7Uq2I|Metallica|S14741
 Roy Harper|When an Old Cricketer Leaves the Crease|1975|GJCqECUmx44|Roy Harper (singer)|S8259
 Herman's Hermits|A Must to Avoid|1965|-kXRpJh3UtY|Herman's Hermits|S6708
 Otis Redding|Change Gonna Come|1965|-M_wkYDE7PU|Otis Redding|S14828
