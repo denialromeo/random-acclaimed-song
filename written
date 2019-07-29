@@ -186,7 +186,7 @@ The Beatles|Let It Be|1970|QDYfEBY9NM4|The Beatles|S858
 Buddy Holly|Peggy Sue|1957|bfu_gfPBPWc|Buddy Holly|S1234
 David Bowie|Changes|1971|pl3vxEudif8|David Bowie|S790
 MC5|Kick Out the Jams|1969|yvJGQ_piwI0|MC5|S891
-Johnny Cash|Hurt|2002|vt1Pwfnh5pc|Johnny Cash|S2266
+Johnny Cash|Hurt|2002|3aF9AJm0RFc|Johnny Cash|S2266
 Kraftwerk|Autobahn|1974|PJM9xpvMbJ0|Kraftwerk|S693
 Animal Collective|My Girls|2009|zol2MJf6XNE|Animal Collective|S4784
 M83|Midnight City|2011|dX3k_QDnzHE|M83 (band)|S4976
@@ -247,7 +247,7 @@ The Impressions|People Get Ready|1965|l04yM7-BWbg|The Impressions|S1003
 Otis Redding|Try a Little Tenderness|1966|IQ9n2_5mbig|Otis Redding|S971
 Frankie Goes to Hollywood|Relax|1983|7WZ33w3B8Hw|Frankie Goes to Hollywood|S462
 OutKast|Ms. Jackson|2000|MYxAiK6VnXw|Outkast|S1395
-Alice Cooper|School's Out|1972|gcVEhtojXlc|Alice Cooper|S796
+Alice Cooper|School's Out|1972|3xyyBPQEntI?start=742|Alice Cooper|S796
 Bob Dylan|The Times They Are A-Changin'|1964|e7qQ6_RV4VQ|Bob Dylan|S1020
 The Human League|Don't You Want Me|1981|uPudE8nDog0|The Human League|S516
 Steppenwolf|Born to Be Wild|1968|5UWRypqz5-o|Steppenwolf (band)|S911
@@ -289,7 +289,7 @@ The White Stripes|Fell in Love with a Girl|2001|fTH71AAxXmM|The White Stripes|S1
 Lana Del Rey|Video Games|2011|cE6wxDqdOV0|Lana Del Rey|S4972
 Isaac Hayes|Theme from Shaft|1971|Q429AOpL_ds|Isaac Hayes|S818
 Marvin Gaye|Let's Get It On|1973|9vAiESu5wrA|Marvin Gaye|S754
-The Stone Roses|Fools Gold|1989|BBsazIACpYM|The Stone Roses|S253
+The Stone Roses|Fools Gold|1989|NSD11dnphg0|The Stone Roses|S253
 Spencer Davis Group|Gimme Some Lovin'|1966|ko3m0NBbq1o|The Spencer Davis Group|S972
 Public Enemy|Bring the Noise|1987|l_Jeyif7bB4|Public Enemy (band)|S332
 Beastie Boys|(You Gotta) Fight for Your Right (To Party!)|1986|eBShN8qT4lk|Beastie Boys|S380
@@ -400,7 +400,7 @@ Kanye West feat. Jamie Foxx|Gold Digger|2005|6vwNcNOTVzY|Kanye West|S3029
 Eric B. & Rakim|Paid in Full|1987|E7t8eoA_1jQ|Eric B. & Rakim|S335
 R.E.M.|Everybody Hurts|1992|5rOiW_xY-kc|R.E.M.|S130
 Justice Vs. Simian|Never Be Alone/We Are Your Friends|2004|nr90nbqxuZk|Simian (band)|S4045
-Crosby, Stills, Nash & Young|Ohio|1970|M0BUJtLXXS8|Crosby, Stills, Nash & Young|S859
+Crosby, Stills, Nash & Young|Ohio|1970|TRE9vMBBe10|Crosby, Stills, Nash & Young|S859
 George Harrison|My Sweet Lord|1970|NNrAoMwbm9g|George Harrison|S867
 The Clash|Should I Stay or Should I Go|1982|xMaE6toi4mk|The Clash|S493
 Fugazi|Waiting Room|1988|SGJFWirQ3ks|Fugazi|S2628
@@ -503,7 +503,7 @@ The Band|The Night They Drove Old Dixie Down|1969|jREUrbGGrgM|The Band|S889
 The Hives|Hate to Say I Told You So|2000|Uz1Jwyxd4tE|The Hives|S1402
 The Isley Brothers|Shout (Parts 1 and 2)|1959|DPVf01jXL7M|The Isley Brothers|S1181
 Vampire Weekend|A-Punk|2007|_XC2mqcMMGQ|Vampire Weekend|S4760
-Creedence Clearwater Revival|Who'll Stop the Rain|1970|lIPan-rEQJA|Creedence Clearwater Revival|S848
+Creedence Clearwater Revival|Who'll Stop the Rain|1970|jaEEFBTtofc|Creedence Clearwater Revival|S848
 AC/DC|You Shook Me All Night Long|1980|Lo2qQmj0_h4|AC/DC|S564
 Sex Pistols|Pretty Vacant|1977|VcauCclfytI|Sex Pistols|S634
 Jay-Z & Kanye West|Niggas in Paris|2011|gG_dA32oH44|Jay-Z|S4969
@@ -3087,7 +3087,7 @@ Louis Jordan and His Tympany Five|Saturday Night Fish Fry|1949|FCkFrff__QE|Louis
 Marvin Gaye|Can I Get a Witness|1963|r4nld32mRKs|Marvin Gaye|S3437
 The Cult|Love Removal Machine|1987|k6PgftKbQnQ|The Cult|S1581
 Ciara|Body Party|2013|B9rSBcoX9ak|Ciara|S9422
-AC/DC|T.N.T.|1975|fGDQ9IukMOc|AC/DC|S9921
+AC/DC|T.N.T.|1975|44XYEeD1A1U|AC/DC|S9921
 Jungle|Busy Earnin'|2014|BcsfftwLUf0|Jungle (band)|S9578
 Lyn Collins|Think (About It)|1972|CWMD3gIPu1M|Lyn Collins|S4416
 Florence + The Machine|Shake It Out|2011|WbN0nX61rIs|Florence and the Machine|S4959
@@ -4049,7 +4049,7 @@ J Hus|Did You See|2017|3rk6_Ax0mQo|J Hus|S16398
 Sonny Boy Williamson (I)|Good Morning (Little) School Girl|1937|Zj293l5w2MU|Sonny Boy Williamson I|S2761
 Bryan Adams|(Everything I Do) I Do It for You|1991|Y0pdQU87dc8|Bryan Adams|S5661
 Kate Bush|Wow|1978|0ar7vovnH5I|Kate Bush|S7059
-Elton John|Saturday Night's Alright for Fighting|1973|26wEWSUUsUc|Elton John|S6239
+Elton John|Saturday Night's Alright for Fighting|1973|dmF6vmUVSsc|Elton John|S6239
 Joe South|Games People Play|1968|5znh58WITU8|Joe South|S3834
 U2|Lemon|1993|LZTNBdKNUek|U2|S150
 Soda Stereo|Cuando pase el temblor|1985|ZNzYr4U7Zs8|Soda Stereo|S8476
@@ -5525,7 +5525,7 @@ England Dan & John Ford Coley|I'd Really Love to See You Tonight|1976|UuUVgKT4ro
 John Lee Hooker|I'm in the Mood|1951|rT-FoZt95D4|John Lee Hooker|S6949
 Benny Goodman feat. Charlie Christian|Good Enough to Keep/Air Mail Special|1941|wPFL7CbtWcg|Benny Goodman|S9141
 Liz Phair|Divorce Song|1993|fXnSjaYi5Ig|Liz Phair|S4586
-Wir Sind Helden|Guten Tag (Die Reklamation)|2002|chlXBRpcIFA|Wir sind Helden|S12609
+Wir sind Helden|Guten Tag (Die Reklamation)|2002|chlXBRpcIFA|Wir sind Helden|S12609
 Paolo Conte|Via con me|1981|7KrzN_Nl5Po|Paolo Conte|S11837
 Don Gibson|Oh Lonesome Me|1958|-Z4kPGcmyPI|Don Gibson|S3448
 Johnny Mathis|Chances Are|1957|-7ECVVoE7DI|Johnny Mathis|S2789
@@ -6519,7 +6519,7 @@ Eno|Another Green World|1975|X1GH9WN92s0|Brian Eno|S10289
 Björk|Hidden Place|2001|EpLL4AiojFI|Björk|S5474
 Car Seat Headrest|Vincent|2016|bEsItsZphwQ|Car Seat Headrest|S16050
 Captain Beefheart and His Magic Band|Sure 'Nuff 'n Yes I Do|1967|9UOweeSdI2k|Captain Beefheart|S5710
-Dick & Deedee|The Mountain's High|1961|LU2rjoSXI34|Dick and Dee Dee|S3330
+Dick and Dee Dee|The Mountain's High|1961|LU2rjoSXI34|Dick and Dee Dee|S3330
 Portishead|We Carry On|2008|MHmlGaKvtok|Portishead (band)|S7994
 Héroes del Silencio|La chispa adecuada|1995|jnDjEHyhFpU|Héroes del Silencio|S13103
 Kanye West|Real Friends|2016|fWD9GF-Ogf4|Kanye West|S16115
@@ -6910,7 +6910,7 @@ Laura Pausini|La solitudine|1993|FpOEN93LX-E|Laura Pausini|S7188
 Sandy Nelson|Teen Beat|1959|1lbxeJRtfGw|Sandy Nelson|S14989
 Hoodoo Gurus|What's My Scene?|1987|ugA5bLqivkY|Hoodoo Gurus|S6731
 Yo La Tengo|Sugarcube|1997|zASj0vOml4E|Yo La Tengo|S15217
-Crowded House|Four Seasons in One Day|1991|dXiIU6ZcXdQ|Crowded House|S5909
+Crowded House|Four Seasons in One Day|1991|si3dBlNdifE|Crowded House|S5909
 Poni Hoax|She's on the Radio|2006|kX99wntVo4o|Poni Hoax|S9322
 Vashti Bunyan|Diamond Day|1970|7-HDcMplduA|Vashti Bunyan|S12554
 Rancid|Salvation|1994|jkdZn34AsXo|Rancid (band)|S4222
@@ -7039,7 +7039,7 @@ Black Eyed Peas|Boom Boom Pow|2009|4m48GqaOz90|The Black Eyed Peas|S5482
 Deep Purple|Burn|1974|B8YU-FcmGA0?start=82|Deep Purple|S10555
 Razorlight|America|2006|V9NhncU5_CE|Razorlight|S8116
 Mason Williams|Classical Gas|1968|mREi_Bb85Sk|Mason Williams|S9290
-Nacha Pop|La Chica de ayer|1980|2pRmTJjBr6c|Nacha Pop|S11709
+Nacha Pop|La Chica de ayer|1980|oAcwJlNdwso|Nacha Pop|S11709
 James Taylor|Handy Man|1977|S_lDP67LwoY|James Taylor|S1791
 The Sensational Alex Harvey Band|Next|1973|dpl_8N6647M|The Sensational Alex Harvey Band|S8350
 Elliott Smith|Say Yes|1997|-o35i6bIOZw|Elliott Smith|S9213
@@ -8027,7 +8027,7 @@ Glenn Miller|That Old Black Magic|1943|SASuqxhmEUg|Glenn Miller|S6584
 Lucienne Delyle|Mon amant de Saint-Jean|1942|93_pv-XWHpQ|Lucienne Delyle|S11492
 The Slits|Shoplifting|1979|Xz6EZlGMxXY|The Slits|S8454
 Bon Jovi|Bed of Roses|1992|NvR60Wg9R7Q|Bon Jovi|S14173
-Erykah Badu|Appletree|1997|T67cJLg8kpM|Erykah Badu|S10757
+Erykah Badu|Appletree|1997|2guVxli2s88|Erykah Badu|S10757
 Jon Hopkins|Light Through the Veins|2009|8Qq_zxDZDXM|Jon Hopkins|S11249
 The Who|Join Together|1972|_HDMCCLlGl4|The Who|S3956
 Mercury Rev|The Dark Is Rising|2001|1N0JgOpTjdI|Mercury Rev|S7520
