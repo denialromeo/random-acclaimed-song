@@ -507,7 +507,7 @@ Creedence Clearwater Revival|Who'll Stop the Rain|1970|jaEEFBTtofc|Creedence Cle
 AC/DC|You Shook Me All Night Long|1980|Lo2qQmj0_h4|AC/DC|S564
 Sex Pistols|Pretty Vacant|1977|VcauCclfytI|Sex Pistols|S634
 Jay-Z & Kanye West|Niggas in Paris|2011|gG_dA32oH44|Jay-Z|S4969
-Simon and Garfunkel|The Boxer|1969|6JUbFj0BIc4|Simon & Garfunkel|S893
+Simon and Garfunkel|The Boxer|1969|l3LFML_pxlY|Simon & Garfunkel|S893
 John Coltrane|A Love Supreme, Part 1: Acknowledgement|1965|fth9UUa1Mfw|John Coltrane|S2824
 Bill Withers|Ain't No Sunshine|1971|tIdIqbv7SPo|Bill Withers|S839
 Antony and the Johnsons|Hope There's Someone|2005|LyMGEq82uL4|Antony and the Johnsons|S3000
@@ -539,7 +539,7 @@ The Black Keys|Lonely Boy|2011|a_426RiwST8|The Black Keys|S4986
 Fela and Africa 70|Zombie|1976|_kVkNtOdM-Q|Fela Kuti|S4876
 The Notorious B.I.G.|Juicy|1994|_JZom_gVfuw|The Notorious B.I.G.|S2078
 Free|All Right Now|1970|lSdBtoIIYT4|Free (band)|S850
-Big Brother and the Holding Company|Piece of My Heart|1968|qA78eLqHLkM|Big Brother and the Holding Company|S919
+Big Brother and the Holding Company|Piece of My Heart|1968|9hcxbIln3sc|Big Brother and the Holding Company|S919
 The Police|Message in a Bottle|1979|MbXWrmQW-OE|The Police|S588
 The Five Satins|In the Still of the Nite|1956|fBT3oDMCWpI|The Five Satins|S1275
 Fleetwood Mac|Dreams|1977|Y3ywicffOj4|Fleetwood Mac|S1560
@@ -979,7 +979,7 @@ The Beatles|Blackbird|1968|Man4Xw8Xypo|The Beatles|S3181
 The Cars|Just What I Needed|1978|gvy2yqUHLLg|The Cars|S623
 Jimmie Rodgers|Blue Yodel (T for Texas)|1928|qEIBmGZxAhg|Jimmie Rodgers (country singer)|S2738
 The Smiths|Bigmouth Strikes Again|1986|RvvbCoE4g2E|The Smiths|S371
-Daryl Hall & John Oates|She's Gone|1973|3Cos7id7HtE|Hall & Oates|S670
+Daryl Hall & John Oates|She's Gone|1973|bnVXIUyshng|Hall & Oates|S670
 Electric Light Orchestra|Mr. Blue Sky|1977|aQUlA8Hcv4s|Electric Light Orchestra|S1570
 The Velvet Underground|Sister Ray|1968|53F5nY68cBM|The Velvet Underground|S2288
 Manic Street Preachers|A Design for Life|1996|Pz00_3LbdmM|Manic Street Preachers|S33
@@ -1551,7 +1551,7 @@ Prince|When You Were Mine|1980|HEugh8DWQqA|Prince (musician)|S2609
 Neil Young|Southern Man|1970|m5FCcDEA6mY|Neil Young|S4145
 Nirvana|In Bloom|1991|PbgKEjNBHqM|Nirvana (band)|S2046
 Radiohead|Street Spirit (Fade Out)|1995|LCJblaUkkfc|Radiohead|S8073
-The Cure|Killing an Arab|1978|SdbLqOXmJ04|The Cure|S4185
+The Cure|Killing an Arab|1978|welNcCrXuJE|The Cure|S4185
 Kendrick Lamar|i|2014|8aShfolR6w8|Kendrick Lamar|S9560
 Dillinger|Cocaine in My Brain|1976|5xVp1mauGnU|The Dillinger Escape Plan|S683
 Belle and Sebastian|The State I Am In|1996|3TSAU7Ocroc|Belle and Sebastian|S4862
@@ -1701,7 +1701,7 @@ Marvin Gaye|Got to Give It Up, Part 1|1977|Ayyy-03ITDg|Marvin Gaye|S1794
 Crosby, Stills, Nash & Young|Helpless|1970|C8LYOyqJE7k|Crosby, Stills, Nash & Young|S862
 Los Fabulosos Cadillacs|Matador|1993|pjPA7CXutDw|Los Fabulosos Cadillacs|S7307
 LCD Soundsystem|I Can Change|2010|tW8FKkVnqng|LCD Soundsystem|S4915
-Elliott Smith|Miss Misery|1997|zH8-lQ9CeyI|Elliott Smith|S3820
+Elliott Smith|Miss Misery|1997|HsixXCnYVfA|Elliott Smith|S3820
 S'Express|Theme from S-Express|1988|NGbUOlTLzqk|S'Express|S316
 My Chemical Romance|Welcome to the Black Parade|2006|RRKJiM9Njr8|My Chemical Romance|S4007
 Kid Cudi|Day 'N' Nite|2008|VrDfSZ_6f4U|Kid Cudi|S4810
@@ -4831,7 +4831,7 @@ Men at Work|Who Can It Be Now?|1981|SECVGN4Bsgg|Men at Work|S3619
 The Beatles|I'm a Loser|1964|f70Z3cvrQd0|The Beatles|S5364
 The Toys|A Lover's Concerto|1965|p7fQSlvd0so|The Toys|S8828
 Radiohead|A Wolf at the Door|2003|DyMzWR8ON_Y|Radiohead|S11998
-Rhoda Dakar|The Boiler|1982|Va5Rdg3ibBI|Rhoda Dakar|S508
+Rhoda Dakar|The Boiler|1982|Va5Rdg3ibBI?start=7|Rhoda Dakar|S508
 The Tammys|Egyptian Shumba|1963|Er8PN385PEA|The Tammys|S8680
 Billy Riley|Red Hot|1957|Nxt_7sD9znM|Billy Lee Riley|S1229
 Cannonball Adderley|Mercy, Mercy, Mercy|1966|s4rXEKtC8iY|Cannonball Adderley|S3137
@@ -6058,7 +6058,7 @@ LaVern Baker|Soul on Fire|1953|CUINUCuLu3c|LaVern Baker|S1346
 Al Green|Look What You Done for Me|1972|qHxp6L1BmHw|Al Green|S1741
 Jo Stafford|You Belong to Me|1952|cDQtNSafPHs|Jo Stafford|S6922
 Journey|Any Way You Want It|1980|atxUuldUcfI|Journey (band)|S11255
-Queen|Who Wants to Live Forever|1986|_Jtpf8N5IDE|Queen (band)|S11980
+Queen|Who Wants to Live Forever|1986|_Jtpf8N5IDE?start=5|Queen (band)|S11980
 The Shins|So Says I|2003|L4pweTv08KU|The Shins|S4625
 Sonic Youth|Silver Rocket|1988|viF12Mu3-5w|Sonic Youth|S12257
 Green Day|Minority|2000|cDBlqu6KF4k|Green Day|S6639
@@ -7768,7 +7768,7 @@ Rachid Taha|Ya Rayah|1997|uUDKfK3R42Q|Rachid Taha|S11993
 The Beatles|Rocky Raccoon|1968|sDcDCZGcZj8|The Beatles|S10117
 Camarón de la Isla|Soy gitano|1989|g4kredH68yM|Camarón de la Isla|S13083
 James Blake|Radio Silence|2016|TTglDb7qjvQ|James Blake (musician)|S16099
-Björk|New World|2000|KqnL6ie_FTw|Björk|S4666
+Björk|New World|2000|UZt8eic_KNw|Björk|S4666
 New Edition|Candy Girl|1983|qAFg2TQk9v0|New Edition|S7704
 Pearl Jam|State of Love and Trust|1992|N8r_anyZERw|Pearl Jam|S11874
 Tasmin Archer|Sleeping Satellite|1992|lOqVQPq8zm8|Tasmin Archer|S8691
