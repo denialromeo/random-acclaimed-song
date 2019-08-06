@@ -184,7 +184,7 @@ Van Morrison|Brown Eyed Girl|1967|UfmkgQRmmeE|Van Morrison|S936
 Elvis Presley|Mystery Train|1955|Q_eE0NPArEY|Elvis Presley|S1297
 The Beatles|Let It Be|1970|QDYfEBY9NM4|The Beatles|S858
 Buddy Holly|Peggy Sue|1957|bfu_gfPBPWc|Buddy Holly|S1234
-David Bowie|Changes|1971|pl3vxEudif8|David Bowie|S790
+David Bowie|Changes|1971|xMQ0Ryy01yE|David Bowie|S790
 MC5|Kick Out the Jams|1969|yvJGQ_piwI0|MC5|S891
 Johnny Cash|Hurt|2002|3aF9AJm0RFc|Johnny Cash|S2266
 Kraftwerk|Autobahn|1974|PJM9xpvMbJ0|Kraftwerk|S693
@@ -756,7 +756,7 @@ Chet Baker|My Funny Valentine|1954|8SGAcP7Zh6U?start=25|Chet Baker|S2772
 Eminem|The Real Slim Shady|2000|eJO5HU_7_1w|Eminem|S1383
 Led Zeppelin|Black Dog|1971|yBuub4Xe1mw|Led Zeppelin|S1735
 The Chemical Brothers|Hey Boy Hey Girl|1999|tpKCqp9CALQ|The Chemical Brothers|S1352
-My Bloody Valentine|Soon|1990|586-G4TcUxQ|My Bloody Valentine (band)|S219
+My Bloody Valentine|Soon|1990|ft56il9bGMk|My Bloody Valentine (band)|S219
 Angel Olsen|Shut Up Kiss Me|2016|nleRCBhLr3k|Angel Olsen|S16024
 The Zombies|Time of the Season|1968|qzpPy9hJYA8|The Zombies|S3992
 Radiohead|Pyramid Song|2001|3M_Gg1xAHE4|Radiohead|S2213
@@ -1848,7 +1848,7 @@ ZZ Top|Gimme All Your Lovin'|1983|k4VFFBCa5Aw|ZZ Top|S477
 Louis Jordan and His Tympany Five|Choo Choo Ch'Boogie|1946|_A2pRVyBmOY|Louis Jordan|S3528
 Ministry|Jesus Built My Hotrod|1992|GXCh9OhDiCI|Ministry (band)|S2057
 Sufjan Stevens|John Wayne Gacy, Jr.|2005|K5ygoDnlGCg|Sufjan Stevens|S3052
-Bob Dylan|The Lonesome Death of Hattie Carroll|1964|1jiYVUU1RXQ|Bob Dylan|S2985
+Bob Dylan|The Lonesome Death of Hattie Carroll|1964|t_v3w30XdhI|Bob Dylan|S2985
 The Beatles|Eight Days a Week|1964|kle2xHhRHg4|The Beatles|S1451
 Danny Brown feat. Kendrick Lamar, Ab-Soul and Earl Sweatshirt|Really Doe|2016|spfsdpuvUyQ|Danny Brown|S16066
 Yes|Roundabout|1971|kmZoQFYYx8U|Yes (band)|S3982
@@ -1925,7 +1925,7 @@ Alabama Shakes|Hold On|2011|Le-3MIBxQTw|Alabama Shakes|S4995
 Lil' Louis|French Kiss|1989|3Y8w2W1uy2A|Lil Louis|S268
 Japan|Ghosts|1981|7zzLU1ato2w|Japan (band)|S504
 Eddie Floyd|Knock on Wood|1966|jkF4K2xuSF4?start=3|Eddie Floyd|S1435
-The Beach Boys|Fun, Fun, Fun|1964|5a4YupnT1sM&start=49|The Beach Boys|S1030
+The Beach Boys|Fun, Fun, Fun|1964|5a4YupnT1sM?start=49|The Beach Boys|S1030
 Gang of Four|(Love Like) Anthrax|1978|aj-h3zmGVO4|Gang of Four (band)|S3434
 Whitney|No Woman|2016|CGKN6qiDqnk|Whitney (band)|S16214
 The Isley Brothers|Twist and Shout|1962|cTaqn8_gMR0|The Isley Brothers|S1093
@@ -4612,7 +4612,7 @@ OMC|How Bizarre|1995|C2cMG33mWVY|OMC (band)|S3679
 Green Velvet|Flash|1995|l_RfediFJFQ|Curtis Jones|S6644
 Fats Waller|Handful of Keys|1929|3Qmsux0TWWI|Fats Waller|S2756
 Rainbow|Stargazer|1976|Cm1NZnA9raU|Rainbow (rock band)|S12013
-Slam|Positive Education|1993|E4dSRpSnPOU|Grand Slam (band)|S9353
+Slam|Positive Education|1993|E4dSRpSnPOU|Slam (DJs)|S9353
 Flume feat. Kai|Never Be Like You|2016|-KPnyf8vwXI|Flume (musician)|S16085
 Bee Gees|How Can You Mend a Broken Heart|1971|frA2K5oqm54|Bee Gees|S5396
 Janis Joplin|Little Girl Blue|1969|rX8hOw31wCQ|Janis Joplin|S13027
@@ -5047,7 +5047,7 @@ Benny Goodman & His Orchestra with Martha Tilton and Ziggy|And the Angels Sing|1
 MGMT|Flash Delirium|2010|QvSMp7T2Kes|MGMT|S7527
 Live|I Alone|1994|FNrQOUtXYOo|Live (band)|S7283
 The Smiths|Cemetry Gates|1986|D5cZ-oLVJzY|The Smiths|S2918
-The Specials|Nite Klub|1979|KaV9GYPSM94&start=15|The Specials|S8521
+The Specials|Nite Klub|1979|KaV9GYPSM94?start=15|The Specials|S8521
 Bow Wow Wow|C30 C60 C90 Go!|1980|81c1L8SrXcU|Bow Wow Wow|S550
 Eurythmics|Would I Lie to You?|1985|Uhpu2N4rQZM|Eurythmics|S2619
 Bon Iver|Blood Bank|2009|OwtkV9EOcdE|Bon Iver|S4790
@@ -7129,7 +7129,7 @@ The Good, the Bad and the Queen|Herculean|2006|iSj0dkqBiWc|The Good, the Bad & t
 Fehlfarben|Paul ist tot|1980|1gKwduFVsV4|Fehlfarben|S9219
 Eagles|Heartache Tonight|1979|feduLprAAig|Eagles (band)|S6184
 Junior Boys|Banana Ripple|2011|8CFAatTMGfU|Junior Boys|S7026
-Elvis Presley|I Want You, I Need You, I Love You|1956|HFnaGgULRpg|Elvis Presley|S2487
+Elvis Presley|I Want You, I Need You, I Love You|1956|HFnaGgULRpg?start=79|Elvis Presley|S2487
 Radiohead|Where I End and You Begin|2003|-3ZUQMBD5yI|Radiohead|S12005
 Fairground Attraction|Perfect|1988|txapREGWHp0|Fairground Attraction|S6334
 Yves Montand|La Bicyclette|1968|eoHjQs6C4UY|Yves Montand|S12653
