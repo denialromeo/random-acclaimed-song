@@ -836,7 +836,7 @@ Geto Boys|Mind Playing Tricks on Me|1991|KutXyPEEbQs|Geto Boys|S199
 House of Pain|Jump Around|1992|XhzpxjuwZy0|House of Pain|S155
 Guns N' Roses|November Rain|1991|8SbUC-UaAxE|Guns N' Roses|S3455
 Crowded House|Don't Dream It's Over|1986|J9gKyRmic20|Crowded House|S1955
-Tears for Fears|Everybody Wants to Rule the World|1985|ST86JM1RPl0|Tears for Fears|S2916
+Tears for Fears|Everybody Wants to Rule the World|1985|g6NRbSOTrM4|Tears for Fears|S2916
 David Bowie|Fame|1975|9tnRWcEg6i8|David Bowie|S701
 Manic Street Preachers|Motorcycle Emptiness|1992|gavcjNniIvk|Manic Street Preachers|S162
 Whitney Houston|I Wanna Dance with Somebody (Who Loves Me)|1987|eH3giaIzONA|Whitney Houston|S3481
@@ -1421,7 +1421,7 @@ Blind Faith|Can't Find My Way Home|1969|PJJnA6zEcGk|Blind Faith|S5492
 Dead Kennedys|California Über Alles|1979|GoA_zY6tqQw|Dead Kennedys|S1829
 Martha and the Vandellas|Nowhere to Run|1965|mG9m-6dVKRI|Martha and the Vandellas|S1543
 Adele|Someone Like You|2011|hLQl3WQQoQ0|Adele|S4941
-New Order|Crystal|2001|eH-GzcgZj48|New Order (band)|S1463
+New Order|Crystal|2001|KVMyXDsadLQ|New Order (band)|S1463
 Roberta Flack|The First Time Ever I Saw Your Face|1969|VqW-eO3jTVU|Roberta Flack|S4156
 Gorillaz feat. Shaun Ryder|DARE|2005|uAOR6ib95kQ|Gorillaz|S3012
 Skepta|Shutdown|2015|MQOG5BkY2Bc|Skepta|S9835
@@ -1452,7 +1452,7 @@ The Stranglers|Golden Brown|1981|AWAsI3U2EaE|The Stranglers|S4453
 Kendrick Lamar|Swimming Pools (Drank)|2012|B5YNiCfWC3A|Kendrick Lamar|S5021
 David Bowie|Moonage Daydream|1972|LaqMwE5NKaM|David Bowie|S5963
 Nicki Minaj|Super Bass|2011|4JipHEz53sU|Nicki Minaj|S4979
-The Monkees|Daydream Believer|1967|xvqeSJlgaNk|The Monkees|S3637
+The Monkees|Daydream Believer|1967|xvqeSJlgaNk?start=20|The Monkees|S3637
 Madonna|Papa Don't Preach|1986|G333Is7VPOg|Madonna (entertainer)|S370
 Aaliyah|Are You That Somebody?|1998|Z5338B36j0M|Aaliyah|S280
 OutKast|Rosa Parks|1998|drsQLEU0N1Y|Outkast|S299
@@ -3371,7 +3371,7 @@ Bell Biv Devoe|Poison|1990|sb2np1HGqxg|Bell Biv DeVoe|S3206
 Smashing Pumpkins|Mayonaise|1993|s7-30i1f5e0|The Smashing Pumpkins|S12239
 The Godfathers|Birth School Work Death|1987|QO5dcW0P75M|The Godfathers|S3092
 Howlin' Wolf|Evil|1954|mRlbgi82tss|Howlin' Wolf|S3482
-Eddie Kendricks|Keep On Truckin'|1973|aElKjhSwjBc|Eddie Kendricks|S4165
+Eddie Kendricks|Keep On Truckin'|1973|v2x9GbxqvmA|Eddie Kendricks|S4165
 Lana Del Rey|High by the Beach|2015|QnxpHIl5Ynw|Lana Del Rey|S9809
 The Records|Starry Eyes|1978|lAH1ioLiaHw|The Records|S4442
 Michael Jackson|Off the Wall|1979|G7ZPcjMgP3A|Michael Jackson|S7534
@@ -4395,7 +4395,7 @@ Fela Ransome Kuti & Africa 70|Water No Get Enemy|1975|IQBC5URoF0s|Fela Kuti|S922
 Roy Ayers|Everybody Loves the Sunshine|1976|Ck_jz6m-8_M?start=11|Roy Ayers|S12118
 Röyksopp|Eple|2001|qczr6Z2qtpE|Röyksopp|S2214
 Paul Simon|Mother and Child Reunion|1972|E_52QR3TptY|Paul Simon|S1743
-Smash Mouth|All Star|1999|L_jWHffIx5E|Smash Mouth|S3817
+Smash Mouth|All Star|1999|L_jWHffIx5E?start=37|Smash Mouth|S3817
 The Rolling Stones|Stray Cat Blues|1968|oOSYB38y2xA|The Rolling Stones|S3779
 B.B. King|Sweet Little Angel|1956|dNr_eIgP0tI|B.B. King|S2784
 Common|The Light|2000|OjHX7jf-znA|Common (rapper)|S4599
@@ -5361,7 +5361,7 @@ Foals|Mountain At My Gates|2015|l_EIE5f2t6M|Foals (band)|S9768
 Destiny's Child|Jumpin' Jumpin'|1999|Vjw92oUduEM|Destiny's Child|S1397
 Van Morrison|Astral Weeks|1968|4kDhaH_mXEA|Van Morrison|S8919
 Benny Goodman & His Orchestra feat. Charlie Christian|Seven Come Eleven|1940|q006fsnIdfY|Benny Goodman|S13165
-Primal Scream|Accelerator|2000|CUszjRc3-VM|Primal Scream|S1393
+Primal Scream|Accelerator|2000|oLGQHxJ9U6U|Primal Scream|S1393
 P. P. Arnold|The First Cut Is the Deepest|1967|oo__EIXzAco|P. P. Arnold|S3157
 The Coral|In the Morning|2005|KErHjXpsfwA|The Coral|S3049
 Aretha Franklin|Baby I Love You|1967|WZ6HOUGE-Ok|Aretha Franklin|S3425
@@ -6139,7 +6139,7 @@ Element of Crime|Weißes Papier|1993|U_j6q6GB0ZI|Element of Crime|S6232
 Mogwai|2 Rights Make 1 Wrong|2001|5q5NOdEgIHQ|Mogwai|S4671
 Ryan Adams|Oh My Sweet Carolina|2000|eMZYRvDvgT4|Ryan Adams|S8287
 Soulwax|NY Excuse|2004|EF3bu9fmheA|Soulwax|S8503
-Foreigner|Urgent|1981|JA6id4--BDg|Foreigner (band)|S3414
+Foreigner|Urgent|1981|Lcb-Fsx_phM|Foreigner (band)|S3414
 Erykah Badu|Otherside of the Game|1997|3qpyDUfMq-8|Erykah Badu|S16237
 Betty Everett|It's in His Kiss (The Shoop-Shoop Song)|1963|B4KN6TFhy2I|Betty Everett|S1047
 Black Sabbath|Sweet Leaf|1971|whSTyqI0fV4|Black Sabbath|S10202
@@ -9115,7 +9115,7 @@ Lana Del Rey feat. The Weeknd|Lust for Life|2017|eP4eqhWc7sI|Lana Del Rey|S16426
 Altered Images|I Could Be Happy|1981|dfqPJp7Q7qE|Altered Images|S9980
 Chauncey Olcott|When Irish Eyes Are Smiling|1913|UmRIWHmAXm0|Chauncey Olcott|S2726
 Kool Keith|Sex Style|1997|RHfVP3Hv5nc|Kool Keith|S14634
-Jay-Jay Johanson|So Tell the Girls That I Am Back in Town|1996|NPXy5S8yH9I|Jay-Jay Johanson|S15571
+Jay-Jay Johanson|So Tell the Girls That I Am Back in Town|1996|_UJy2-TWKdI|Jay-Jay Johanson|S15571
 Nick Cave & The Bad Seeds|Higgs Boson Blues|2013|1GWsdqCYvgw|Nick Cave and the Bad Seeds|S9498
 Elli & Jacno|Main dans la main|1980|SolYdL5tcag|Elli et Jacno|S6234
 Sam Roberts|Brother Down|2002|71EnaOs-Xdk|Sam Roberts|S12153
@@ -9592,7 +9592,7 @@ Mountain|Nantucket Sleighride (to Owen Coffin)|1971|830WN8K5mYw|Mountain (band)|
 Ivano Fossati|La costruzione di un amore|1988|o6PgXkjWGzk|Ivano Fossati|S13505
 Jennifer Paige|Crush|1998|EIhSnaqou0I|Jennifer Paige|S6892
 Air|Alone in Kyoto|2004|dJ4Gb8k_2Lc?start=19|Air (band)|S14051
-Orchestral Manoeuvres in the Dark|Joan of Arc|1981|gMtC0eVShf8|Orchestral Manoeuvres in the Dark|S7821
+Orchestral Manoeuvres in the Dark|Joan of Arc|1981|I_KR2QnjCM8|Orchestral Manoeuvres in the Dark|S7821
 The Cadillacs|Gloria|1954|U28e4EEC2j4|The Cadillacs|S9174
 Tom Waits|Ruby's Arms|1980|9tWtwH2SQco|Tom Waits|S13990
 Razorlight|Somewhere Else|2005|Iun3RtbCE6A|Razorlight|S3048
