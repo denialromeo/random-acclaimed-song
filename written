@@ -261,7 +261,7 @@ Stevie Wonder|Living for the City|1973|99gNYaz6YaM|Stevie Wonder|S757
 Kate Bush|Running Up That Hill|1985|wp43OdtAAkM|Kate Bush|S393
 Metallica|Enter Sandman|1991|CD-E-LDc384|Metallica|S183
 Kraftwerk|Das Modell/The Model|1978|OQIYEPe6DWY|Kraftwerk|S630
-Drake|Hotline Bling|2015|uxpDa-c-4Mc|Drake (musician)|S9742
+Drake|Hotline Bling|2015|uxpDa-c-4Mc?start=21|Drake (musician)|S9742
 Blur|Girls & Boys|1994|WDswiT87oo8|Blur (band)|S92
 Lorde|Royals|2013|nlcIKh6sBtc|Lorde|S9482
 Aphex Twin|Windowlicker|1999|5ZT3gTu4Sjw|Aphex Twin|S1362
@@ -659,7 +659,7 @@ Radiohead|Burn the Witch|2016|yI2oS2hoL0k|Radiohead|S16169
 Elton John|Goodbye Yellow Brick Road|1973|RZ3Bb4UsXhU|Elton John|S773
 The Weeknd|Can't Feel My Face|2015|KEI4qSrkPAs|The Weeknd|S9854
 Nirvana|About a Girl|1989|AhcttcXcRYY|Nirvana (band)|S2431
-The Cure|A Forest|1980|-CtgAgTqx0w|The Cure|S1853
+The Cure|A Forest|1980|Q-QITfqH7Os?start=1|The Cure|S1853
 James Blake|Retrograde|2013|6p6PcFFUm5I|James Blake (musician)|S9459
 Bobby Darin|Mack the Knife|1959|SEllHMWkXEU|Bobby Darin|S2799
 The Avalanches|Since I Left You|2000|wpqm-05R2Jk|The Avalanches|S1410
@@ -1500,7 +1500,7 @@ The Beatles|Here, There and Everywhere|1966|xdcSFVXd3MU|The Beatles|S3191
 Stereo MC's|Connected|1992|LMGdRgtblmk|Stereo MC's|S164
 Bruce Springsteen|Brilliant Disguise|1987|idnJnjV_8rg|Bruce Springsteen|S357
 Todd Rundgren|I Saw the Light|1972|C5zPHZ3i_FU|Todd Rundgren|S802
-Gorillaz|On Melancholy Hill|2010|04mfKJWDSzI|Gorillaz|S4902
+Gorillaz|On Melancholy Hill|2010|04mfKJWDSzI?start=31|Gorillaz|S4902
 Santana|Oye Como Va|1970|J7ATTjg7tpE|Santana (band)|S1732
 Björk|Venus As a Boy|1993|iSNz1BYANnM|Björk|S131
 Carpenters|(They Long to Be) Close to You|1970|oaOyoVS-IAI|The Carpenters|S1306
@@ -2169,7 +2169,7 @@ Nolan Strong & The Diablos|The Wind|1954|bIVKaayaNaY|Nolan Strong & the Diablos|
 Marshall Jefferson|Move Your Body (House Music Anthem)|1986|QAR8cq5Bl94|Marshall Jefferson|S1942
 Arctic Monkeys|Cornerstone|2009|LIQz6zZi7R0|Arctic Monkeys|S4786
 Tori Amos|Professional Widow (Armand's Star Trunk Funkin' Mix)|1996|BOnoA9aZbg0|Tori Amos|S2128
-Os Mutantes|A Minha Menina|1968|SEpSFOibJho|Os Mutantes|S7826
+Os Mutantes|A Minha Menina|1968|XIbJylD_c84|Os Mutantes|S7826
 Eric Clapton|Wonderful Tonight|1977|vUSzL2leaFM|Eric Clapton|S1802
 Nick Drake|Things Behind the Sun|1972|L1AkYgBTc4M|Nick Drake|S7732
 Lydia Mendoza|Mal Hombre|1934|IpejsYhqN7M|Lydia Mendoza|S7355
@@ -2694,7 +2694,7 @@ Ted Nugent|Stranglehold|1975|4kBIhOn_9CM|Ted Nugent|S12404
 Run-DMC|Peter Piper|1986|L2PtCmUAZp0|Run-DMC|S2621
 Editors|Smokers Outside the Hospital Door|2007|Ub81XBbvURs|Editors (band)|S4296
 Steppenwolf|Magic Carpet Ride|1968|U4WiyxXpyZc|Steppenwolf (band)|S3853
-Slade|Coz I Luv You|1971|VxFHTxI_dzs|Slade|S2310
+Slade|Coz I Luv You|1971|4BqJUiaINGg|Slade|S2310
 Leonard Cohen|Tower of Song|1988|oiAuXRK3Ogk|Leonard Cohen|S2627
 Black Sabbath|Sabbath Bloody Sabbath|1973|mfTpjrzas5E|Black Sabbath|S1750
 Elton John|Daniel|1973|NnJTSqR612Y|Elton John|S6237
@@ -3184,7 +3184,7 @@ Spacemen 3|Walkin' with Jesus|1986|NRuoXqpL6ZM|Spacemen 3|S4578
 Céline Dion|My Heart Will Go On|1997|fGU7NMxboNE|Celine Dion|S2162
 Terry Riley|In C|1968|yNi0bukYRnA|Terry Riley|S2848
 The Vapors|Turning Japanese|1980|RLQeb5NGt3E|The Vapors|S1850
-Delta 5|Mind Your Own Business|1979|sUzdv3S7KTY?start=5|Delta 5|S1815
+Delta 5|Mind Your Own Business|1979|sUzdv3S7KTY?start=7|Delta 5|S1815
 Gwen Guthrie|Ain't Nothin' Goin' On But the Rent|1986|gkO9us2ZmGg|Gwen Guthrie|S373
 Teenage Fanclub|The Concept|1991|rqYibZeafg8|Teenage Fanclub|S2027
 P!nk|Get the Party Started|2001|mW1dbiD_zDk|Pink (singer)|S2223
@@ -7921,7 +7921,7 @@ Peter, Paul and Mary|Leaving on a Jet Plane|1967|zVQAhhlq798?start=3|Peter, Paul
 Cerrone|Love In C Minor|1976|Xay4S_3oWu4|Cerrone|S12859
 Danny O'Keefe|Good Time Charlie's Got the Blues|1971|-YP3pIPp8P8|Danny O'Keefe|S5945
 Cornelius Brothers & Sister Rose|Too Late to Turn Back Now|1972|Q1vkx8URDuc?start=7|Cornelius Brothers & Sister Rose|S5872
-Squeeze|Take Me I'm Yours|1978|6S0j8E4f8i4|Squeeze (band)|S13630
+Squeeze|Take Me I'm Yours|1978|Qllf43RZhJA|Squeeze (band)|S13630
 Charlie Parker and His Re-Boppers|Billie's Bounce|1946|S4mRaEzwTYo|Charlie Parker|S9186
 Frank Black|Headache|1994|ytQhL0-3FtM|Black Francis|S4499
 Grateful Dead|China Cat Sunflower|1969|IXLP7SDksao|Grateful Dead|S3451
