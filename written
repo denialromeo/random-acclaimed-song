@@ -5,7 +5,7 @@ The Beach Boys|Good Vibrations|1966|apBWI6xrbLY|The Beach Boys|S961
 The Rolling Stones|(I Can't Get No) Satisfaction|1965|nrIPxlFzDi0|The Rolling Stones|S992
 Chuck Berry|Johnny B. Goode|1958|6swgiM9vSEE|Chuck Berry|S1201
 The Ronettes|Be My Baby|1963|3pJeBHgYi6Q|The Ronettes|S1052
-Marvin Gaye|I Heard It Through the Grapevine|1968|Y7dGdrP3pms|Marvin Gaye|S901
+Marvin Gaye|I Heard It Through the Grapevine|1968|Y7dGdrP3pms?start=5|Marvin Gaye|S901
 Marvin Gaye|What's Going On|1971|fPkM8F0sjSw|Marvin Gaye|S811
 The Who|My Generation|1965|qN5zw04WxCc|The Who|S993
 Aretha Franklin|Respect|1967|ykxuu8LNluY|Aretha Franklin|S932
@@ -463,7 +463,7 @@ Gladys Knight and the Pips|Midnight Train to Georgia|1973|A0F9lh8TiSM|Gladys Kni
 Robyn|Dancing on My Own|2010|CcNo07Xp8aQ|Robyn|S4920
 Jamie xx feat. Young Thug & Popcaan|I Know There's Gonna Be (Good Times)|2015|BjLBB-TMa84|Jamie xx|S9787
 Sly and the Family Stone|Dance to the Music|1967|1kzyRM0Sjl8?start=48|Sly and the Family Stone|S909
-The War on Drugs|Red Eyes|2013|bsoqmFL1vlU|The War on Drugs (band)|S9553
+The War on Drugs|Red Eyes|2013|1LmX5c7HoUw|The War on Drugs (band)|S9553
 Ray Charles|I've Got a Woman|1954|Bbqks4aGOm8?start=95|Ray Charles|S1304
 James Taylor|Fire and Rain|1970|JOIo4lEpsPY|James Taylor|S860
 Fatboy Slim|The Rockafeller Skank|1998|nmsTwQb1csc|Fatboy Slim|S271
@@ -1115,7 +1115,7 @@ Danny and the Juniors|At the Hop|1957|F3SrtN6tMyg|Danny & the Juniors|S1250
 Kanye West|Black Skinhead|2013|q604eed4ad0|Kanye West|S9471
 Jackie Wilson|Lonely Teardrops|1958|2nEfuE8Pw4U|Jackie Wilson|S1207
 Depeche Mode|Just Can't Get Enough|1981|_6FBfAQ-NDE|Depeche Mode|S1866
-The Strokes|Someday|2001|FFnjZY1vRzk|The Strokes|S1519
+The Strokes|Someday|2001|knU9gRUWCno|The Strokes|S1519
 Frank Sinatra|My Way|1969|qQzdAsjWGPg|Frank Sinatra|S2855
 Thunderclap Newman|Something in the Air|1969|RTZoJ01FpD8|Thunderclap Newman|S881
 Blur|The Universal|1995|BrbxWOMpwfs|Blur (band)|S2110
@@ -1262,7 +1262,7 @@ Fine Young Cannibals|She Drives Me Crazy|1989|UtvmTu4zAMg|Fine Young Cannibals|S
 Roger Miller|King of the Road|1965|oKF-712iz9w|Roger Miller|S1427
 AC/DC|Hells Bells|1980|etAIpkdhU9Q|AC/DC|S3131
 Grand Funk Railroad|We're an American Band|1973|Zc_JcGuH5Z8|Grand Funk Railroad|S1563
-Johnny Kidd and the Pirates|Shakin' All Over|1960|n327ncoU_ZU|Johnny Kidd & the Pirates|S1142
+Johnny Kidd & the Pirates|Shakin' All Over|1960|n327ncoU_ZU|Johnny Kidd & the Pirates|S1142
 Lead Belly|Midnight Special|1934|CrdioqIMtpY|Lead Belly|S2716
 Elvis Costello|Pump It Up|1978|3Y71iDvCYXA|Elvis Costello|S1533
 T-Bone Walker|Call It Stormy Monday (But Tuesday's Just As Bad)|1947|xQEEWC4ZxYQ|T-Bone Walker|S2754
@@ -1665,7 +1665,7 @@ Moby|Go|1990|o72NpKj0nxw|Moby|S202
 Hank Williams|Lovesick Blues|1949|R46WSbXpMpE|Hank Williams|S1344
 Bob Dylan|Shelter from the Storm|1975|12rUOLtbQDk|Bob Dylan|S3376
 Wanda Jackson|Let's Have a Party|1958|7QlzOCgLzwg|Wanda Jackson|S1167
-Public Enemy|Welcome to the Terrordome|1990|e4Zey7o04Qk|Public Enemy (band)|S234
+Public Enemy|Welcome to the Terrordome|1990|2BBgOlfSLQI?start=12|Public Enemy (band)|S234
 Alicia Keys|Fallin'|2001|Urdlvw0SSEc|Alicia Keys|S1472
 Kim Carnes|Bette Davis Eyes|1981|EPOIS5taqA8|Kim Carnes|S526
 The Isley Brothers|That Lady|1973|S1Mvy3E8P2U|The Isley Brothers|S1748
@@ -1922,7 +1922,7 @@ The Isley Brothers|It's Your Thing|1969|Tqc_EhmL8-E|The Isley Brothers|S883
 Iron Maiden|Run to the Hills|1982|86URGgqONvA|Iron Maiden|S3500
 Aphex Twin|Minipops 67 [120.2][source field mix]|2014|RUAJ8KLGqis|Aphex Twin|S9568
 Alabama Shakes|Hold On|2011|Le-3MIBxQTw|Alabama Shakes|S4995
-Lil' Louis|French Kiss|1989|3Y8w2W1uy2A|Lil Louis|S268
+Lil Louis|French Kiss|1989|3Y8w2W1uy2A|Lil Louis|S268
 Japan|Ghosts|1981|7zzLU1ato2w|Japan (band)|S504
 Eddie Floyd|Knock on Wood|1966|jkF4K2xuSF4?start=3|Eddie Floyd|S1435
 The Beach Boys|Fun, Fun, Fun|1964|5a4YupnT1sM?start=49|The Beach Boys|S1030
@@ -2915,7 +2915,7 @@ The War on Drugs|Under the Pressure|2014|vkLOg252KRE|The War on Drugs (band)|S95
 Dr. Dre feat. Eminem|Forgot About Dre|1999|QFcv5Ma8u8k|Dr. Dre|S2190
 Helen Reddy|I Am Woman|1972|rptW7zOPX2E|Helen Reddy|S2314
 The 5th Dimension|Aquarius/Let the Sun Shine In|1969|oPK7ZF6jfJE|The 5th Dimension|S2294
-Brownsville Station|Smokin' in the Boys Room|1973|Q9zWw0Ru28w|Brownsville Station (band)|S5634
+Brownsville Station|Smokin' in the Boys Room|1973|oksTiOIuhHA|Brownsville Station (band)|S5634
 Divinyls|I Touch Myself|1990|wv-34w8kGPM|Divinyls|S3337
 Tom Petty and the Heartbreakers|Learning to Fly|1991|s5BJXwNeKsQ|Tom Petty|S8791
 Stevie Wonder|Don't You Worry 'Bout a Thing|1973|zywDiFdxopU|Stevie Wonder|S3972
@@ -2959,7 +2959,7 @@ The Von Bondies|C'mon C'mon|2004|RFGo5cqcxP4|The Von Bondies|S2447
 Black Kids|I'm Not Gonna Teach Your Boyfriend How to Dance with You|2007|rOV6I4fYnvQ|Black Kids|S4703
 Jeru the Damaja|Come Clean|1993|QznoTgWVo_E|Jeru the Damaja|S148
 Yazoo|Only You|1982|w67Uspp_PsQ|Yazoo (band)|S1882
-Hank Williams|Lost Highway|1949|lCgicPdsxxg|Hank Williams|S1604
+Hank Williams|Lost Highway|1949|WeGpCYU-9Cs|Hank Williams|S1604
 The Aztec Mystic|Jaguar|1999|C6xVKcvze74|DJ Rolando|S1372
 Guided by Voices|I Am a Scientist|1994|zN9x6zckn18|Guided by Voices|S3454
 Genesis|I Know What I Like (In Your Wardrobe)|1973|CubzEiY42zk|Genesis (band)|S1762
@@ -5693,7 +5693,7 @@ Rockwell|Somebody's Watching Me|1984|7YvAYIJSSZY|Rockwell (musician)|S8195
 Michael Jackson|I Wanna Be Where You Are|1972|ZAtjdBgafrk?start=15|Michael Jackson|S7533
 Band of Horses|Is There a Ghost|2007|JK716RqoUms|Band of Horses|S5312
 Bob Dylan|Man in the Long Black Coat|1989|LfGRvwBn7VU|Bob Dylan|S5554
-Barbara|Nantes|1964|dXqYRHOCA2Y?start=3|Barbara (singer)|S10075
+Barbara|Nantes|1964|dXqYRHOCA2Y?start=4|Barbara (singer)|S10075
 Duke Ellington|Reminiscing in Tempo|1935|SEZ0bT7yQsQ|Duke Ellington|S13187
 Wilco|I Might|2011|nNs7NLwuHx0|Wilco|S9018
 Ice-T|Colors|1988|LI8Zx_QvNVU|Ice-T|S3491
@@ -7276,7 +7276,7 @@ Charlie Parker|Embraceable You|1948|tqQfX4j6Mi0|Charlie Parker|S13425
 Sylvie Vartan|La plus belle pour aller danser|1964|sfiuaOWjEkI?start=11|Sylvie Vartan|S13638
 Saint Etienne|Like a Motorway|1994|MP4Pxpu4W2k|Saint Etienne (band)|S4508
 Louis Armstrong|Mack the Knife|1955|28ULUQgxJ5M|Louis Armstrong|S3156
-Frank Sinatra|I've Got the World on a String|1953|1cPG1t52GgI|Frank Sinatra|S2771
+Frank Sinatra|I've Got the World on a String|1953|3jTIRkXCaF0|Frank Sinatra|S2771
 Dusty Springfield|Nothing Has Been Proved|1989|5HOfaSSIVcE|Dusty Springfield|S3843
 Beach House|Walk in the Park|2010|HeaHW-rUsUQ?start=4|Beach House|S5352
 The The|Dogs of Lust|1993|7T-c1x0ILWI|The The|S15928
@@ -8337,7 +8337,7 @@ Jethro Tull|Bourée|1969|N2RNe2jwHE0|Jethro Tull (band)|S11195
 Lykke Li|Get Some|2010|-TTPGAy5H_E|Lykke Li|S7357
 Carole King|It Might As Well Rain Until September|1962|a0Nbg48Xi-Y|Carole King|S2812
 Whale|Hobo Humpin' Slobo Babe|1993|2up7su7CeMU|Whale (band)|S8980
-Liam Lynch|United States of Whatever|2002|IEJstE3xwkI|Liam Lynch (musician)|S2262
+Liam Lynch|United States of Whatever|2002|e1zvhJRIM7M|Liam Lynch (musician)|S2262
 The Cure|A Letter to Elise|1992|ckgKJXP4syA|The Cure|S13723
 Timber Timbre|Hot Dreams|2014|En1llevuLQ4|Timber Timbre|S9694
 Lionel Richie|Say You Say Me|1985|we0mk_J0zyc|Lionel Richie|S7274
@@ -9502,7 +9502,7 @@ Amadou & Mariam|Le Réalité|2004|7O4lGQsf8Tw|Amadou & Mariam|S9982
 Woody Guthrie|Tom Joad|1940|I61U4Gob_MI|Woody Guthrie|S15198
 Kettcar|Landungsbrücken raus|2002|8eZ3AaiBnU0|Kettcar|S14618
 Sting|If I Ever Lose My Faith in You|1993|cye8eT_eoqU|Sting (musician)|S3856
-Johnny Kidd and the Pirates|Please Don't Touch|1959|tvXeBNZngiA|Johnny Kidd & the Pirates|S11245
+Johnny Kidd & the Pirates|Please Don't Touch|1959|tvXeBNZngiA|Johnny Kidd & the Pirates|S11245
 Beastie Boys|Make Some Noise|2011|WdgLMslbDuY|Beastie Boys|S5358
 Sidney Bechet & Claude Luter|Petite Fleur|1952|wMwckuWpxDs|Sidney Bechet|S15868
 Bob Dylan|When I Paint My Masterpiece|1971|lZQ69w8NmxI|Bob Dylan|S10247
