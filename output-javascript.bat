@@ -6,3 +6,4 @@
 @del t
 @del g
 @copy /y songs.js C:\Users\hi\Desktop\danielmoore.us\js\songs.js
+@del *~
