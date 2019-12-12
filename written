@@ -925,7 +925,7 @@ Elliott Smith|Waltz #2 (XO)|1998|RWn9ocrMhlE|Elliott Smith|S3821
 Joni Mitchell|A Case of You|1971|2U8t0by4tfw|Joni Mitchell|S3627
 The Kinks|Sunny Afternoon|1966|PMHfYLZS4cI|The Kinks|S3079
 New Order|Regret|1993|71ZHVmSuBJM|New Order (band)|S127
-Portishead|Machine Gun|2008|kbJeiWYFrio|Portishead (band)|S4741
+Portishead|Machine Gun|2008|SjcU9yjMapc|Portishead (band)|S4741
 Culture Club|Do You Really Want to Hurt Me|1982|2nXGPZaTKik|Culture Club|S490
 Flamin' Groovies|Shake Some Action|1976|PIcmk8WA10A|Flamin' Groovies|S680
 !!! (Chk Chk Chk)|Me and Giuliani Down by the Schoolyard (A True Story)|2003|yaqQYetCH8U|!!!|S2247
@@ -1053,7 +1053,7 @@ The xx|On Hold|2016|blJKoXWlqJk|The xx|S16205
 Madonna|Holiday|1983|IHknoSQZibU|Madonna (entertainer)|S473
 The Velvet Underground|Pale Blue Eyes|1969|KisHhIRihMY|The Velvet Underground|S2545
 Pink Floyd|Arnold Layne|1967|5neI304MOug|Pink Floyd|S1691
-David Bowie|Golden Years|1975|HRD0ghlFSgk|David Bowie|S707
+David Bowie|Golden Years|1975|-xfa4BAeo2c|David Bowie|S707
 Fleetwood Mac|Oh Well|1969|O8RhZDGLEXM|Fleetwood Mac|S1586
 Beach House|Myth|2012|3lIyDxfUhxM|Beach House|S5001
 The Beatles|With a Little Help from My Friends|1967|0C58ttB2-Qg|The Beatles|S2516
@@ -1295,7 +1295,7 @@ Alice Cooper|I'm Eighteen|1970|OSxuXsyanCI|Alice Cooper|S1726
 Elliott Smith|Between the Bars|1997|p4cJv6s_Yjw|Elliott Smith|S4234
 The Beach Boys|Caroline, No|1966|SoqYQdregRI|The Beach Boys|S1684
 The Trammps|Disco Inferno|1976|A_sY2rjxq6M|The Trammps|S637
-Cat Power|The Greatest|2006|QT9qM99l9Yk|Cat Power|S4016
+Cat Power|The Greatest|2006|0KtrQ5nWl7w|Cat Power|S4016
 Missy "Misdemeanor" Elliott|The Rain (Supa Dupa Fly)|1997|hHcyJPTTn9w|Missy Elliott|S27
 Bruce Springsteen|Badlands|1978|KDz62awS6qU|Bruce Springsteen|S5643
 Elvis Costello and the Attractions|(What's So Funny 'Bout) Peace, Love and Understanding|1978|Ssd3U_zicAI|Elvis Costello|S1812
@@ -1570,7 +1570,7 @@ Maxïmo Park|Apply Some Pressure|2005|wNU0ndhdmqE|Maxïmo Park|S3022
 Duran Duran|Girls on Film|1981|KCjMZMxNr-0|Duran Duran|S1863
 Leftfield feat. John Lydon|Open Up|1993|uctraa3zKCI|Leftfield|S125
 The Melodians|Rivers of Babylon|1970|e57brp0HGDA|The Melodians|S3617
-Sigur Rós|Svefn-G-Englar|1999|8L64BcCRDAE|Sigur Rós|S2175
+Sigur Rós|Svefn-g-englar|1999|8L64BcCRDAE|Sigur Rós|S2175
 The Beat|Mirror in the Bathroom|1980|SHWrmIzgB5A|The Beat (British band)|S561
 T. Rex|Children of the Revolution|1972|pu3-ZGbqUyk|T. Rex (band)|S810
 Burning Spear|Marcus Garvey|1975|AHbvg8xhJkk|Burning Spear|S5680
@@ -1875,7 +1875,7 @@ Kanye West|Through the Wire|2003|GLTQPR8PoZU|Kanye West|S2483
 Veruca Salt|Seether|1994|jC9AUR-iTo0|Veruca Salt|S95
 Lionel Richie|All Night Long (All Night)|1983|nqAvFx3NxUM|Lionel Richie|S470
 James|Laid|1993|g_qZ5B-yioU|James (band)|S3509
-Kanye West feat. Dwele|Flashing Lights|2007|ila-hAUXR5U|Kanye West|S4771
+Kanye West feat. Dwele|Flashing Lights|2007|ila-hAUXR5U?start=6|Kanye West|S4771
 Queen|Somebody to Love|1976|kijpcUv-b8M|Queen (band)|S8043
 Arcade Fire|Afterlife|2013|EcKinnMXuKg|Arcade Fire|S9404
 The Carter Family|Can the Circle Be Unbroken (Bye and Bye)|1935|qjHjm5sRqSA|Carter Family|S2661
@@ -1890,7 +1890,7 @@ Jimi Hendrix|Star Spangled Banner|1970|TKAwPA14Ni4|Jimi Hendrix|S3473
 The Del-Vikings|Come Go with Me|1956|P1eU_lDQaVM|The Del-Vikings|S1251
 The Undisputed Truth|Smiling Faces Sometimes|1971|8CJZcVi5BA4|The Undisputed Truth|S840
 A$AP Rocky|Peso|2011|ob3ktDxAjWI|ASAP Rocky|S4939
-Phoenix|Too Young|2000|HyU24rr0doo|Phoenix (band)|S2188
+Phoenix|Too Young|2000|yIOL5SSjWdw|Phoenix (band)|S2188
 Wayne Smith|Under Me Sleng Teng|1985|H_STPoI_eoM|Wayne Smith (musician)|S418
 Raspberries|Go All the Way|1972|jfgnc6Ey0q0|Raspberries (band)|S806
 Bruce Springsteen|4th of July, Asbury Park (Sandy)|1973|kB1d0eey5ho|Bruce Springsteen|S5636
@@ -3145,7 +3145,7 @@ The-Dream|Yamaha|2010|L_j7eyqW8lA|The-Dream|S4931
 Neil Young|A Man Needs a Maid|1972|bORW_YEmHwY|Neil Young|S4547
 Guillemots|Trains to Brazil|2005|dX3AcSrt9Co|Guillemots (band)|S4263
 Leonard Cohen|Bird on the Wire|1969|K8fT7rnRotY|Leonard Cohen|S7239
-Duran Duran|Ordinary World|1993|wUgLge_MPIM|Duran Duran|S3362
+Duran Duran|Ordinary World|1993|FqIACCH20JU|Duran Duran|S3362
 Wilson Pickett|Land of 1000 Dances|1966|3mz_EXHKGHs|Wilson Pickett|S1434
 Steve Winwood|Higher Love|1986|XqeMDAv_i6k|Steve Winwood|S376
 Weezer|Hash Pipe|2001|_9BGLtqqkVI|Weezer|S2216
@@ -3630,7 +3630,7 @@ The KLF|3 A.M. Eternal|1989|ZpzpwpCDzEQ|The KLF|S2032
 Passion Pit|The Reeling|2009|qVstHPhaJ6M|Passion Pit|S4820
 The El Dorados|At My Front Door|1955|xAP_z-kEhgk|El Dorado|S1594
 Hunters & Collectors|Throw Your Arms Around Me|1984|5-hDK76bIps|Hunters & Collectors|S6757
-Rick Nelson|Garden Party|1972|PECmjB9df0w|Ricky Nelson|S803
+Rick Nelson|Garden Party|1972|uAHR7_VZdRw|Ricky Nelson|S803
 Lady Gaga feat. Beyoncé|Telephone|2009|EVBsypHzF3U|Lady Gaga|S4914
 Creedence Clearwater Revival|Suzie Q|1968|7x60p7UNLnQ|Creedence Clearwater Revival|S5890
 Carla Bruni|Quelqu'un m'a dit|2002|8Urmj2Q3hY8|Carla Bruni|S4610
@@ -4350,9 +4350,9 @@ The Flying Burrito Bros|Christine's Tune (Devil in Disguise)|1969|BITiY8M_oDo|Th
 Depeche Mode|Strangelove|1987|JIrm0dHbCDU|Depeche Mode|S6043
 The Flaming Lips|Fight Test|2002|fye1XtXQn9s|The Flaming Lips|S2403
 Merle Haggard|Okie from Muskogee|1969|68cbjlLFl4U|Merle Haggard|S4127
-Charlie Rich|Behind Closed Doors|1973|O3iEFfA4TmI|Charlie Rich|S2317
+Charlie Rich|Behind Closed Doors|1973|Rf_baiRNUYU|Charlie Rich|S2317
 Simple Minds|Belfast Child|1989|7vhhTvcLoRw|Simple Minds|S8421
-King Crimson|I Talk to the Wind|1969|B1HlzfF0w78|King Crimson|S12991
+King Crimson|I Talk to the Wind|1969|JtJ4iocSlG4|King Crimson|S12991
 Sam Cooke|Another Saturday Night|1963|0O8m0mMDpHw|Sam Cooke|S1655
 Harry Belafonte|Banana Boat (Day-O)|1956|PMigXnXMhQ4|Harry Belafonte|S4370
 David Gray|Babylon|1998|zI_SBAkdKzc|David Gray (musician)|S2379
@@ -5710,7 +5710,7 @@ Pet Shop Boys|Can You Forgive Her?|1993|Me4AhOi6LYE|Pet Shop Boys|S7939
 Beirut|Elephant Gun|2007|SWSz_PAfgNc|Beirut (band)|S5399
 Neil Diamond|Cracklin' Rosie|1970|MGemtjVtfZM|Neil Diamond|S7675
 Frank Zappa & Moon Zappa|Valley Girl|1982|Qb21lsCQ3EM|Moon Zappa|S6447
-Wreckx-N-Effect|Rump Shaker|1992|xdCp_j8Wyuw?start=9|Wreckx-n-Effect|S3977
+Wreckx-n-Effect|Rump Shaker|1992|xdCp_j8Wyuw?start=9|Wreckx-n-Effect|S3977
 Supertramp|Take the Long Way Home|1979|qmWC5dGVvH4|Supertramp|S8645
 Kraftwerk|Die Mensch-Maschine / The Man Machine|1978|Mkd7LbQnfIQ|Kraftwerk|S7147
 Eurythmics|Who's That Girl|1983|-5iDKWV6Chg|Eurythmics|S4462
@@ -5950,7 +5950,7 @@ Mylo|Drop the Pressure|2004|er1hvGFQ8Xg|Mylo|S3119
 Elvis Presley|Surrender|1961|O3Bj9fQkvGo|Elvis Presley|S6261
 Boogie Down Productions|My Philosophy|1988|h1vKOchATXs|Boogie Down Productions|S5595
 Bilderbuch|Bungalow|2017|pV-GGCrRcu0|Bilderbuch|S16341
-Laura Branigan|Self Control|1984|7ZFUns38D_Q|Laura Branigan|S7184
+Laura Branigan|Self Control|1984|RP0_8J7uxhs|Laura Branigan|S7184
 Belle and Sebastian|Wrapped Up in Books|2003|iBU-MxydbWQ|Belle and Sebastian|S5405
 David Bowie|Boys Keep Swinging|1979|2KcOs70dZAw|David Bowie|S5973
 Lyle Lovett|If I Had a Boat|1988|hpM8FjO4Vko|Lyle Lovett|S11502
@@ -6448,7 +6448,7 @@ Animal Collective|What Would I Want? Sky|2009|-n0_C8uIjp0|Animal Collective|S520
 John Prine|Hello in There|1971|RfwGkplB_sY|John Prine|S3731
 Peter Gabriel|Digging in the Dirt|1992|X0C3DHp36zc|Peter Gabriel|S11886
 Frank Ocean|Pink + White|2016|uzS3WG6__G4|Frank Ocean|S16089
-Sniff 'n' The Tears|Driver's Seat|1978|blrHHRWKygw|Sniff 'n' the Tears|S12250
+Sniff 'n' The Tears|Driver's Seat|1978|9SCzVEUlqqA|Sniff 'n' the Tears|S12250
 Arab Strap|The First Big Weekend|1996|g9Krvl7AEAs|Arab Strap|S5222
 Bee Gees|Tragedy|1979|lk0alJGhSp0|Bee Gees|S5397
 Redskins|Keep On Keeping On|1984|SibgDQWU85g|The Redskins|S1924
@@ -7355,7 +7355,7 @@ Beck|Deadweight|1997|vptfm9D6owo|Beck|S5389
 Don Henley|Dirty Laundry|1982|YHimia_Fxzs|Don Henley|S6124
 The Leaves|Hey Joe|1965|KWv03Wgz0PQ|The Leaves|S2502
 The Sons of the Pioneers|Cool Water|1941|amDo-KqUjpA|Sons of the Pioneers|S2748
-Felt|Primitive Painters|1985|4H23WYe_pxc|Felt (band)|S10800
+Felt|Primitive Painters|1985|7Jtejnvza2U|Felt (band)|S10800
 Chairlift|Ch-Ching|2015|nWSFlqBOgl8|Chairlift (band)|S9722
 The Chips|Rubber Biscuit|1956|Hz0UvIZw-Y0|The Chips|S5790
 The High Llamas|Checkin' In Checkin' Out|1994|ats3sUKmkjw|The High Llamas|S6714
