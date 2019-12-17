@@ -644,7 +644,7 @@ Crosby, Stills & Nash|Suite: Judy Blue Eyes|1969|kVUwrifwKrI|Crosby, Stills, Nas
 The Rolling Stones|Angie|1973|RcZn2-bGXqQ|The Rolling Stones|S764
 Justin Timberlake|Cry Me a River|2002|DksSPZTZES0|Justin Timberlake|S2246
 Janelle Monáe feat. Big Boi|Tightrope|2010|pwnefUaKCbc|Janelle Monáe|S4908
-Queen|We Will Rock You|1977|-tJYN-eG1zk|Queen (band)|S649
+Queen|We Will Rock You|1977|-tJYN-eG1zk?start=5|Queen (band)|S649
 Led Zeppelin|When the Levee Breaks|1971|uwiTs60VoTM|Led Zeppelin|S4149
 Ramones|I Wanna Be Sedated|1978|bm51ihfi1p4|Ramones|S600
 The Tornados|Telstar|1962|ryrEPzsx1gQ|The Tornados|S1105
@@ -723,7 +723,7 @@ Ariel Pink's Haunted Graffiti|Round and Round|2010|y_VJwFNrvlE|Ariel Pink|S4888
 The Marvelettes|Please Mr. Postman|1961|rGJcbHni4rc|The Marvelettes|S1121
 Leonard Cohen|Hallelujah|1984|YrLk4vdY28Q|Leonard Cohen|S3291
 Fatboy Slim|Praise You|1998|ruAi4VBoBSM|Fatboy Slim|S1355
-Queen|We Are the Champions|1977|04854XqcfCY|Queen (band)|S2592
+Queen|We Are the Champions|1977|04854XqcfCY?start=5|Queen (band)|S2592
 Green Day|American Idiot|2004|Ee_uujKuJMI|Green Day|S2474
 Robert Wyatt|Sea Song|1974|ExfewKLuoNc|Robert Wyatt|S1758
 Miles Davis|So What|1959|zqNTltOGh5c|Miles Davis|S2800
@@ -882,7 +882,7 @@ Vampire Weekend|Hannah Hunt|2013|uDwVMcEHG70|Vampire Weekend|S9542
 Simple Minds|Don't You (Forget About Me)|1985|CdqoNKCCt7A|Simple Minds|S1940
 Snoop Dogg feat. Pharrell|Drop It Like It's Hot|2004|RaCodgL9cvk|Snoop Dogg|S2481
 Goldie|Inner City Life/Timeless (Part 1: Inner City Life)|1994|anQgfwdZUkE|Goldie|S109
-Queen|Killer Queen|1974|2ZBtPf7FOoM|Queen (band)|S3085
+Queen|Killer Queen|1974|2ZBtPf7FOoM?start=5|Queen (band)|S3085
 Radiohead|No Surprises|1997|u5CVsCnxyXg|Radiohead|S2154
 Fairport Convention|Who Knows Where the Time Goes|1969|OkOB57UcYk8|Fairport Convention|S2539
 Snoop Doggy Dogg|Gin and Juice|1993|DI3yXg-sX5c|Snoop Dogg|S112
@@ -1062,7 +1062,7 @@ The Horrors|Sea Within a Sea|2009|v7WAHnZPIX0|The Horrors|S4827
 Dion and the Belmonts|A Teenager in Love|1959|2pwgswchPDo?start=34|Dion and the Belmonts|S1183
 David Bowie|Station to Station|1976|WSQHFUe6Y5s?start=377|David Bowie|S5969
 James Blake|Limit to Your Love|2010|oOT2-OTebx0|James Blake (musician)|S4906
-Queen|Another One Bites the Dust|1980|rY0WxgSXdEE|Queen (band)|S1854
+Queen|Another One Bites the Dust|1980|rY0WxgSXdEE?start=5|Queen (band)|S1854
 David Bowie|Modern Love|1983|HivQqTtiHVw|David Bowie|S4197
 The Smiths|Panic|1986|wMykYSQaG_c|The Smiths|S369
 The Cure|Friday I'm in Love|1992|ucX9hVCQT_U|The Cure|S2042
@@ -1876,7 +1876,7 @@ Veruca Salt|Seether|1994|jC9AUR-iTo0|Veruca Salt|S95
 Lionel Richie|All Night Long (All Night)|1983|nqAvFx3NxUM|Lionel Richie|S470
 James|Laid|1993|g_qZ5B-yioU|James (band)|S3509
 Kanye West feat. Dwele|Flashing Lights|2007|ila-hAUXR5U?start=6|Kanye West|S4771
-Queen|Somebody to Love|1976|kijpcUv-b8M|Queen (band)|S8043
+Queen|Somebody to Love|1976|kijpcUv-b8M?start=3|Queen (band)|S8043
 Arcade Fire|Afterlife|2013|EcKinnMXuKg|Arcade Fire|S9404
 The Carter Family|Can the Circle Be Unbroken (Bye and Bye)|1935|qjHjm5sRqSA|Carter Family|S2661
 Tom Waits|(Looking For) The Heart of Saturday Night|1974|lyyFLYNbQpg|Tom Waits|S8796
@@ -3216,7 +3216,7 @@ INXS|Never Tear Us Apart|1987|yyZU4iNRdsM|INXS|S6796
 Alice in Chains|Rooster|1992|uAE6Il6OTcs|Alice in Chains|S5161
 Ted Leo, Rx/Pharmacists|Where Have All the Rude Boys Gone?|2003|hzTZzo40PUg|Ted Leo and the Pharmacists|S4255
 Tommy Edwards|It's All in the Game|1958|eB_9YloCXok|Tommy Edwards|S3065
-Queen|Crazy Little Thing Called Love|1979|zO6D_BAuYCI|Queen (band)|S8045
+Queen|Crazy Little Thing Called Love|1979|zO6D_BAuYCI?start=5|Queen (band)|S8045
 Lesley Gore|It's My Party|1963|XubONYtHDN0|Lesley Gore|S1076
 Manic Street Preachers feat. Nina Persson|Your Love Alone Is Not Enough|2007|XvQ-rWyqzO0|Manic Street Preachers|S4316
 Pink Floyd|The Great Gig in the Sky|1973|C8Xc0VptCBY|Pink Floyd|S7963
@@ -3240,7 +3240,7 @@ Raspberries|Overnight Sensation (Hit Record)|1974|ARkj12Y6Uh4|Raspberries (band)
 The Silhouettes|Get a Job|1957|SzWkqfQ17Eo?start=15|The Silhouettes|S1228
 Jim Croce|Time in a Bottle|1972|3_ZS56qzJLs?start=2968|Jim Croce|S3309
 Curtis Mayfield|(Don't Worry) If There's a Hell Below We're All Going to Go|1970|nGR0StlDe14|Curtis Mayfield|S1722
-Queen|Don't Stop Me Now|1978|HgzGwKwLmgM|Queen (band)|S8044
+Queen|Don't Stop Me Now|1978|HgzGwKwLmgM?start=5|Queen (band)|S8044
 Jorge Ben|Taj Mahal [1976 version]|1976|rfrpOhC6858|Jorge Ben|S7004
 Titus Andronicus|A More Perfect Union|2010|dFHlK8ZXgvE|Titus Andronicus (band)|S4932
 Bill Monroe|Mule Skinner Blues|1940|lIuuI00XY_Y|Bill Monroe|S2722
@@ -4054,7 +4054,7 @@ Joe South|Games People Play|1968|5znh58WITU8|Joe South|S3834
 U2|Lemon|1993|LZTNBdKNUek|U2|S150
 Soda Stereo|Cuando pase el temblor|1985|ZNzYr4U7Zs8|Soda Stereo|S8476
 Meinrad Jungblut [PeterLicht]|Sonnendeck|2000|Ck6BCzMcKiE|PeterLicht|S7504
-Queen|You're My Best Friend|1975|HaZpZQG2z10|Queen (band)|S8042
+Queen|You're My Best Friend|1975|HaZpZQG2z10?start=5|Queen (band)|S8042
 Them|Here Comes the Night|1965|UbdA1_X913k|Them (band)|S8734
 Keane|Somewhere Only We Know|2004|Oextk-If8HQ|Keane (band)|S2484
 Otis Redding|Mr. Pitiful|1964|Azzk9bqkaeE|Otis Redding|S3751
@@ -4365,7 +4365,7 @@ B.B. King|Rock Me Baby|1964|OK_AwCjK0Ak|B.B. King|S3539
 Montell Jordan|This Is How We Do It|1995|0hiUuL5uTKc|Montell Jordan|S7601
 U2|Even Better Than the Real Thing|1991|Yrch66gdjjk|U2|S2045
 Joe Tex|Hold What You've Got|1964|_GFq-FT1rZM|Joe Tex|S3075
-Queen|I Want to Break Free|1984|f4Mc-NYPHaQ|Queen (band)|S11973
+Queen|I Want to Break Free|1984|f4Mc-NYPHaQ?start=5|Queen (band)|S11973
 The Hives|Walk Idiot Walk|2004|ysGtBZX32I0|The Hives|S2448
 Sheryl Crow|If It Makes You Happy|1996|dyihQtBes1I|Sheryl Crow|S4515
 Bobby Bland|Ain't No Love in the Heart of the City|1974|38OOUDTsqM0|Bobby Bland|S5568
@@ -4463,7 +4463,7 @@ Roy Orbison|You Got It|1989|lvR1YgT7QYs|Roy Orbison|S8260
 Chuck Berry|Carol|1958|72_JQcup4ic|Chuck Berry|S1627
 Hüsker Dü|Sorry Somehow|1986|SjZWJoNYpHI|Hüsker Dü|S3488
 Robert Plant & Alison Krauss|Gone Gone Gone (Done Moved On)|2007|9YVRxAX6fwg|Alison Krauss|S8181
-Joan Baez|We Shall Overcome|1963|oY9_KE1SEig|Joan Baez|S1647
+Joan Baez|We Shall Overcome|1963|oY9_KE1SEig?start=7|Joan Baez|S1647
 Bright Eyes|Lua|2004|TSBs-hiapo4|Bright Eyes (band)|S4629
 Rick Ross|Hustlin'|2006|JU9TouRnO84|Rick Ross|S4029
 The Kinks|I'm Not Like Everybody Else|1966|4n5U-M7VUXE|The Kinks|S7122
@@ -5289,7 +5289,7 @@ Jens Lekman|Maple Leaves|2003|VN3Mus6dig0|Jens Lekman|S4623
 Beyoncé|1+1?|2011|KaasJ44O5lI|Beyoncé|S5429
 Wings|Mull of Kintyre|1977|EH7I-WV0LZA|Paul McCartney and Wings|S3609
 U2|Staring at the Sun|1997|7KkYkeQqDgo|U2|S3921
-Queen|Bicycle Race|1978|xt0V0_1MS0Q|Queen (band)|S11970
+Queen|Bicycle Race|1978|xt0V0_1MS0Q?start=5|Queen (band)|S11970
 Motörhead|Bomber|1979|eVxt7zM1BrU|Motörhead|S7620
 Badly Drawn Boy|Silent Sigh|2002|NY-oQEy1KFU|Badly Drawn Boy|S2229
 Sugar|Changes|1992|h3Lo91Z0h3Q|Sugar (American band)|S8626
@@ -5822,7 +5822,7 @@ Destroyer|Chinatown|2011|Z_ypVHGa1vM|Destroyer|S6052
 Beastie Boys|She's On It|1985|9PLfjhQG97I|Beastie Boys|S2356
 LL Cool J|I'm Bad|1987|oVDfyc2lh4Q|LL Cool J|S1583
 Leonard Cohen|Who by Fire|1974|251Blni2AE4|Leonard Cohen|S7242
-Queen|Keep Yourself Alive|1973|JofwEB9g1zg|Queen (band)|S11974
+Queen|Keep Yourself Alive|1973|JofwEB9g1zg?start=5|Queen (band)|S11974
 The Pretty Things|Don't Bring Me Down|1964|mMON9beHcio|Pretty Things|S8003
 Ghostface Killah feat. Mary J. Blige|All That I Got Is You|1996|bhTBKzfvKUg?start=4|Ghostface Killah|S6553
 My Bloody Valentine|Feed Me with Your Kiss|1988|7pZRfsBYsXw|My Bloody Valentine (band)|S7649
@@ -6194,7 +6194,7 @@ The Beach Boys|Sail On, Sailor|1973|Zx6dgEgbMNU|The Beach Boys|S5350
 Les Rita Mitsouko|Le petit train|1988|Pn5X4_JCJgg|Les Rita Mitsouko|S11423
 The House of Love|Destroy the Heart|1988|5nza7AlHV5I|The House of Love|S310
 Bob Wills and His Texas Playboys|San Antonio Rose|1939|1nEof88_Rho|Bob Wills|S5566
-Waylon Jennings|Luckenbach, Texas (Back to the Basics of Love)|1977|xvZeYDBY4fw|Waylon Jennings|S1788
+Waylon Jennings|Luckenbach, Texas (Back to the Basics of Love)|1977|Ti6QV90X-Sk|Waylon Jennings|S1788
 tUnE-yArDs|Gangsta|2011|EbkMPHW67xM|Tune-Yards|S12484
 Barenaked Ladies|One Week|1998|fC_q9KPczAg|Barenaked Ladies|S5325
 Beastie Boys|Root Down|1994|Xf1YF_MH1xc|Beastie Boys|S5355
@@ -6491,7 +6491,7 @@ The Kinks|Till the End of the Day|1965|yGkUwSiJ7VQ|The Kinks|S7119
 Andrés|New for U|2012|YqmlXTN3GPQ|https://www.discogs.com/artist/1095-Andr%C3%A9s|S4998
 De La Soul|Jenifa (Taught Me)|1988|FV7FGNTc1RM|De La Soul|S5986
 Bob Hope/Shirley Ross|Thanks for the Memory|1938|pIZZoaFzXaA|Shirley Ross|S2697
-Queen|Radio Ga Ga|1984|azdwsXLmrHE|Queen (band)|S11976
+Queen|Radio Ga Ga|1984|azdwsXLmrHE?start=5|Queen (band)|S11976
 Serge Gainsbourg|Melody|1971|I3WeNexb2a8|Serge Gainsbourg|S12180
 Dave Brubeck Quartet|Blue Rondo à la Turk|1959|vKNZqM0d-xo|Dave Brubeck|S10509
 Patricio Rey y sus Redonditos de Ricota|Jijiji|1986|5tHNjWdFRUU|Patricio Rey y sus Redonditos de Ricota|S11848
@@ -6679,7 +6679,7 @@ The Rolling Stones|Doom and Gloom|2012|1DWiB7ZuLvI|The Rolling Stones|S12091
 Bob Dylan|Gotta Serve Somebody|1979|wC10VWDTzmU|Bob Dylan|S5551
 The Marshall Tucker Band|Heard It in a Love Song|1977|SiLUTWcLCgU|The Marshall Tucker Band|S7444
 Joe South|Walk a Mile in My Shoes|1969|ofhw0lWpVZc|Joe South|S4142
-Queen|Now I'm Here|1974|3OSd17ko3O4|Queen (band)|S11975
+Queen|Now I'm Here|1974|3OSd17ko3O4?start=5|Queen (band)|S11975
 Jimmie Lunceford|Organ Grinder's Swing|1936|6og7ip44tx8|Jimmie Lunceford|S13207
 The Marvelettes|The Hunter Gets Captured by the Game|1966|DBa746RVNHA|The Marvelettes|S7451
 The Peerless Quartet|Let Me Call You Sweetheart|1911|FM4lDtsV-9Q|Peerless Quartet|S9319
@@ -7519,7 +7519,7 @@ Eels|Climbing to the Moon|1998|vPfz_bCwhYo|Eels (band)|S13750
 Cake|Never There|1998|FRZzUh9hcTo|Cake (band)|S5696
 Sonny Rollins|The Freedom Suite|1958|Kr_wwzhtL5Y|Sonny Rollins|S13250
 George Harrison|All Those Years Ago|1981|i0GajP1tWdM|George Harrison|S6533
-Queen|Tie Your Mother Down|1976|LvB2MnIIdMw|Queen (band)|S11979
+Queen|Tie Your Mother Down|1976|LvB2MnIIdMw?start=5|Queen (band)|S11979
 Elbow|Forget Myself|2005|q2k5EfLPB3A|Elbow (band)|S6222
 The Jesus Lizard|Mouth Breather|1990|mIERMxKaKCQ|The Jesus Lizard|S11194
 C.W. McCall|Convoy|1975|Sd5ZLJWQmss|C. W. McCall|S13710
@@ -8122,7 +8122,7 @@ The Byrds|Everybody's Been Burned|1967|I7Uh8933Jvs|The Byrds|S5687
 Isolée|Schrapnell|2005|mBfhQisZDpg|Isolée|S6803
 Devo|Uncontrollable Urge|1978|AUyiMSEwRaI?start=83|Devo|S6060
 Taylor Swift|You Belong with Me|2008|VuNIsY6JdUw|Taylor Swift|S4845
-Queen|Love of My Life|1975|sUJkCXE4sAA|Queen (band)|S14907
+Queen|Love of My Life|1975|sUJkCXE4sAA?start=5|Queen (band)|S14907
 Richard and Linda Thompson|Shoot Out the Lights|1982|60Kdf17Btrs?start=724|Richard Thompson (musician)|S9332
 Cocteau Twins|Pearly-Dewdrops' Drops|1984|s-5Xgw6d3h0|Cocteau Twins|S1915
 At the Drive-In|Pattern Against User|2000|TGMT7hb8hT8|At the Drive-In|S5262
@@ -8286,7 +8286,7 @@ Southside Johnny & The Asbury Jukes|I Don't Want to Go Home|1976|tRVkS6Owp9Q|Sou
 Nick Cave & The Bad Seeds|Stagger Lee|1996|EjIfrhSQ8Pk|Nick Cave and the Bad Seeds|S7728
 Billie Holiday|Love For Sale|1954|rwS-5M-1gas|Billie Holiday|S14144
 Colette Magny|Melocoton|1963|OPVtricblNM|https://fr.wikipedia.org/wiki/Colette_Magny|S10447
-Queen|Death on Two Legs|1975|kqVpk0qxmfA|Queen (band)|S11971
+Queen|Death on Two Legs|1975|kqVpk0qxmfA?start=8|Queen (band)|S11971
 Eddie Cochran|Sittin' in the Balcony|1957|yZ1BmskTE6A|Eddie Cochran|S4372
 Los Fabulosos Cadillacs|Mal bicho|1995|P_6V-JTGn_M|Los Fabulosos Cadillacs|S11472
 Liquid|Sweet Harmony|1991|RW4YfSxBeAw|Liquid|S11450
@@ -8858,7 +8858,7 @@ Natalie Prass|Bird of Prey|2014|HXJJSPUpAQE|Natalie Prass|S9877
 MGMT|It's Working|2010|JyaDTiXH3R4|MGMT|S11617
 Das Bo|Türlich, türlich (Sicher, dicker)|2000|n-AUUWKgCX4|https://de.wikipedia.org/wiki/Das_Bo|S14275
 Man Parrish|Hip Hop, Be Bop (Don't Stop)|1982|7tsfJn8YdwQ|Man Parrish|S11529
-The Three Johns|Death of the European|1985|KpLu17DaFOs|The Three Johns|S3903
+The Three Johns|Death of the European|1985|OZGSYjRsf5k|The Three Johns|S3903
 Clifford Brown & Max Roach|Daahoud|1954|lv4EarQxGMo|Clifford Brown|S15368
 The Shadows of Knight|Gloria|1966|YuTtFsWy0Oc|The Shadows of Knight|S2501
 Pet Shop Boys|I Don't Know What You Want But I Can't Give It Anymore|1999|rp8uNaon5B0|Pet Shop Boys|S7940
@@ -9375,7 +9375,7 @@ The Shirelles|Foolish Little Girl|1963|2H_XavjzUc0|The Shirelles|S8397
 Siouxsie and the Banshees|Dear Prudence|1983|M6rrTROoZIw|Siouxsie and the Banshees|S8431
 Mia Martini|Almeno tu nell'universo|1989|pSi0dbNAN9M|Mia Martini|S13565
 Nine Inch Nails|Only|2005|wwvLlEtxX3o|Nine Inch Nails|S11762
-Queen|Save Me|1980|Iw3izcZd9zU|Queen (band)|S12685
+Queen|Save Me|1980|Iw3izcZd9zU?start=5|Queen (band)|S12685
 Maria Schneider|Cerulean Skies|2007|WY-sorw_Vjo|Maria Schneider (musician)|S11543
 David Bowie|Jump, They Say|1993|xPZWgCLMsW8|David Bowie|S14281
 Jeans Team feat. MJ Lan|Keine Melodien|2000|yy711vsEEhs|Jeans Team|S6887
@@ -10087,7 +10087,7 @@ Adam Faith|What Do You Want?|1959|bwUMjwMppWE|Adam Faith|S5098
 Justus Köhncke|Was ist Musik?|2002|oerF-mvy_bY|Justus Köhncke|S7035
 Kasabian|eez-eh|2014|ST6nEvIEY4s|Kasabian|S13851
 Layo & Bushwacka!|Love Story|2002|hjjnZQdGwP8|Layo & Bushwacka!|S7192
-Queen|Flash|1980|LfmrHTdXgK4|Queen (band)|S8046
+Queen|Flash|1980|LfmrHTdXgK4?start=5|Queen (band)|S8046
 Public Enemy|Harder Than You Think|2007|L4EDy6wTOsg|Public Enemy (band)|S15802
 Tom Robinson Band|Up Against The Wall|1978|EXWR1sYDgGk|Tom Robinson Band|S13367
 Robbie Robertson|Somewhere Down the Crazy River|1987|4KP9PNSUME4|Robbie Robertson|S8171
