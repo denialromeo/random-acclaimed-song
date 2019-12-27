@@ -428,7 +428,7 @@ David Bowie|Lazarus|2015|y-JqH1M4Ya8|David Bowie|S16069
 The Beatles|Revolution / Revolution 1|1968|BGLGzRXY5Bw|The Beatles|S2523
 The Doors|Riders on the Storm|1971|lJZTgynPGT8|The Doors|S828
 Solange|Cranes in the Sky|2016|S0qrinhNnOM|Solange Knowles|S16189
-Phoenix|1901|2009|HL548cHH3OY|Phoenix (band)|S4822
+Phoenix|1901|2009|MJXWN0o3KfY|Phoenix (band)|S4822
 Muddy Waters|Hoochie Coochie Man|1954|fQ4NFsw4bOU|Muddy Waters|S1334
 Neil Young|Cortez the Killer|1975|uX9k9aoX6gk|Neil Young|S3984
 Beck|Where It's At|1996|EPfmNxKLDG4|Beck|S37
@@ -497,7 +497,7 @@ Phil Collins|In the Air Tonight|1981|YkADj0TPrJA|Phil Collins|S1578
 The Righteous Brothers|Unchained Melody|1965|qiiyq2xrSI0|The Righteous Brothers|S1011
 Roy Orbison|Crying|1961|qLC9o_unLq4|Roy Orbison|S1114
 Cyndi Lauper|Girls Just Want to Have Fun|1983|PIb6AZdTr-A|Cyndi Lauper|S466
-The Supremes|You Can't Hurry Love|1966|7scbdxigicg|The Supremes|S987
+The Supremes|You Can't Hurry Love|1966|uZj032MNIx4|The Supremes|S987
 Aerosmith|Dream On|1973|sZfZ8uWaOFI|Aerosmith|S770
 The Band|The Night They Drove Old Dixie Down|1969|jREUrbGGrgM|The Band|S889
 The Hives|Hate to Say I Told You So|2000|Uz1Jwyxd4tE|The Hives|S1402
@@ -664,7 +664,7 @@ James Blake|Retrograde|2013|6p6PcFFUm5I|James Blake (musician)|S9459
 Bobby Darin|Mack the Knife|1959|GSGc0bx-kKM|Bobby Darin|S2799
 The Avalanches|Since I Left You|2000|wpqm-05R2Jk|The Avalanches|S1410
 Arctic Monkeys|Do I Wanna Know?|2013|bpOSxM0rNPM|Arctic Monkeys|S9406
-Phoenix|Lisztomania|2009|EFD3sXU5xg4|Phoenix (band)|S4823
+Phoenix|Lisztomania|2009|uF3reVVUbio|Phoenix (band)|S4823
 Jimmy Cliff|The Harder They Come|1972|7Znh0OM9jiA|Jimmy Cliff|S2571
 Missy Elliott|Work It|2002|cjIvu7e6Wq8|Missy Elliott|S1502
 Morrissey|Everyday Is Like Sunday|1988|d0LeL9BUPtA|Morrissey|S312
@@ -1450,7 +1450,7 @@ Lipps Inc.|Funkytown|1979|s36eQwgPNSE|Lipps Inc.|S559
 A Tribe Called Quest|Bonita Applebum|1990|HU_4pf8BSQw|A Tribe Called Quest|S2020
 The Stranglers|Golden Brown|1981|-W4LvJ2tdvk|The Stranglers|S4453
 Kendrick Lamar|Swimming Pools (Drank)|2012|B5YNiCfWC3A|Kendrick Lamar|S5021
-David Bowie|Moonage Daydream|1972|LaqMwE5NKaM|David Bowie|S5963
+David Bowie|Moonage Daydream|1972|JFDj3shXvco|David Bowie|S5963
 Nicki Minaj|Super Bass|2011|4JipHEz53sU|Nicki Minaj|S4979
 The Monkees|Daydream Believer|1967|xvqeSJlgaNk?start=20|The Monkees|S3637
 Madonna|Papa Don't Preach|1986|G333Is7VPOg|Madonna (entertainer)|S370
@@ -1693,7 +1693,7 @@ Duke Ellington|Black and Tan Fantasy|1927|GN3_c1OnA3s|Duke Ellington|S2677
 The Futureheads|Hounds of Love|2004|PbJmqIVHH8I|The Futureheads|S3010
 Mercury Rev|Goddess on a Hiway|1998|1xJbEoc5sDw|Mercury Rev|S285
 The Beatles|She Said She Said|1966|rLzfo59AdEc|The Beatles|S2508
-Shannon|Let the Music Play|1983|_-0sUuGufmw|Shannon|S474
+Shannon|Let the Music Play|1983|_-0sUuGufmw|Shannon (American singer)|S474
 Paul Whiteman & His Concert Orchestra with George Gershwin|Rhapsody in Blue|1924|Ng8QDwkKZsU|Paul Whiteman|S2684
 Sade|Smooth Operator|1984|4TYv2PhG89A|Sade (band)|S2348
 Pulp|Babies|1992|38by00DGid0|Pulp (band)|S4493
@@ -3359,7 +3359,7 @@ Hoagy Carmichael|Stardust|1927|JjMx_Dwm_08|Hoagy Carmichael|S2657
 Luomo|Tessio|2000|DeQchIQOL6I|Vladislav Delay|S4624
 Dennis Brown|Money In My Pocket|1972|12xjh7_usG8|Dennis Brown|S2598
 Girls Aloud|Biology|2005|bBPtP4t2J1k|Girls Aloud|S4645
-The Kingston Trio|Tom Dooley|1958|VhXuO4Gz3Wo|The Kingston Trio|S1230
+The Kingston Trio|Tom Dooley|1958|S3zdE8bliGI?start=30|The Kingston Trio|S1230
 The Rolling Stones|Shattered|1978|Jz1FUgGb_us|The Rolling Stones|S3776
 Miriam Makeba|Pata pata|1967|lNeP3hrm__k|Miriam Makeba|S11657
 Electronic|Getting Away with It|1989|DSfjtdnUsls|Electronic (band)|S2010
@@ -6078,7 +6078,7 @@ Magnetic Man|I Need Air|2010|Vn3108AmAbo|Magnetic Man|S7382
 Jeff Buckley|Mojo Pin|1994|cU7GNlfMKhU|Jeff Buckley|S11181
 Natalia Lafourcade|Azul|2009|bfKs3xwj6dI|Natalia Lafourcade|S13586
 Ofra Haza|Im nin'alu|1984|ZRnzTTYk7_Q|Ofra Haza|S7795
-Mary J. Blige|My Life|1994|IN3yMjnyXyU|Mary J. Blige|S3219
+Mary J. Blige|My Life|1994|ZIfPqcynsS4|Mary J. Blige|S3219
 Zebra Katz feat. Njena Reddd Foxxx|Ima Read|2012|oo4Sqt2Bmag|Zebra Katz|S5056
 UFO|Doctor Doctor|1974|c4LhQA-YoBs|UFO (band)|S8888
 Papa Roach|Last Resort|2000|j0lSpNtjPM8|Papa Roach|S2199
@@ -7399,7 +7399,7 @@ Chance the Rapper feat. Jeremih|Summer Friends|2016|rT4wUByldo4|Chance the Rappe
 Link Wray|Raw-Hide|1959|dCUaXuvrbFc|Link Wray|S4383
 Rough Trade|High School Confidential|1980|PFwom4D3i4g|Rough Trade (band)|S8249
 The Wannadies|Hit|1997|sjlQy1Fmn7E|The Wannadies|S4524
-Dr. Dre feat. Snoop Doggy Dogg|Fuck wit Dre Day (And Everybody's Celebratin')/Dre Day|1992|s38O65mUotU|Dr. Dre|S10649
+Dr. Dre feat. Snoop Doggy Dogg|Fuck wit Dre Day (And Everybody's Celebratin')/Dre Day|1992|q4LFWfXBMjA|Dr. Dre|S10649
 Jacques Greene|Another Girl|2011|1IBpMuC-7BQ|Jacques Greene|S11121
 The Housemartins|Happy Hour|1986|7_TMUJIWwyI|The Housemartins|S4471
 Nirvana|Dumb|1993|peclQi67KS8|Kurt Cobain|S7754
@@ -8177,7 +8177,7 @@ James Taylor|Don't Let Me Be Lonely Tonight|1972|XTh1335y7EA|James Taylor|S13819
 Gladys Knight and the Pips|Neither One of Us (Wants to Be the First to Say Goodbye)|1972|uSw7vulUfME|Gladys Knight & the Pips|S3547
 Emmett Miller & His Georgia Crackers|Lovesick Blues|1928|otNICva63mQ|Emmett Miller|S4056
 Ramones|I Don't Want to Grow Up|1995|1Tpu_XoNABA|Ramones|S14920
-Tino Rossi|Petit papa Noël|1946|W2ZmTMzN5NY|Tino Rossi|S12439
+Tino Rossi|Petit papa Noël|1946|WQushjP2Wqk|Tino Rossi|S12439
 Pavement|Carrot Rope|1999|G53DW71BlNk|Pavement (band)|S7909
 Pérez Prado|Cherry Pink and Apple Blossom White|1955|zj64NlRnpDY|Pérez Prado|S9320
 Dinosaur Jr.|Almost Ready|2007|DNcoroZEQUU?start=3|Dinosaur Jr.|S6079
