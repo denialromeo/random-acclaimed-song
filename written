@@ -20,7 +20,7 @@ The Clash|London Calling|1979|EfK-WX2pa8c|The Clash|S571
 The Beach Boys|God Only Knows|1966|YHdi3zW78pg?start=2331|The Beach Boys|S978
 Led Zeppelin|Stairway to Heaven|1971|QkF3oxziUI4|Led Zeppelin|S2567
 Otis Redding|(Sittin' On) The Dock of the Bay|1968|rTVjnBo96Ug|Otis Redding|S902
-John Lennon|Imagine|1971|YkgkThdzX-8|John Lennon|S812
+John Lennon|Imagine|1971|YkgkThdzX-8?start=40|John Lennon|S812
 Grandmaster Flash and the Furious Five|The Message|1982|PobrSpMwKk4|Grandmaster Flash and the Furious Five|S481
 Sex Pistols|God Save the Queen|1977|bC4RFY8vtuM|Sex Pistols|S631
 David Bowie|Heroes|1977|lXgkuM2NhYI|David Bowie|S633
@@ -65,7 +65,7 @@ Massive Attack|Unfinished Sympathy|1991|ZWmrfgj0MZI|Massive Attack|S187
 Eagles|Hotel California|1976|qMYhayrx9Ec|Eagles (band)|S632
 Derek and the Dominos|Layla|1970|TngViNw2pOo|Derek and the Dominos|S841
 Talking Heads|Once in a Lifetime|1980|5IsSpAOD6K8|Talking Heads|S518
-The Animals|The House of the Rising Sun|1964|XPZ0qqiiYiw|The Animals|S1025
+The Animals|The House of the Rising Sun|1964|4-43lLKaqBQ|The Animals|S1025
 The Jimi Hendrix Experience|All Along the Watchtower|1968|TLV4_xaYynY|Jimi Hendrix|S905
 Ben E. King|Stand by Me|1961|TYDkQgKgghc|Ben E. King|S1111
 The Smiths|How Soon Is Now?|1984|OztC_7nkAd8|The Smiths|S394
@@ -1041,7 +1041,7 @@ Dirty Projectors|Stillness Is the Move|2009|YMPF6lpM0XM|Dirty Projectors|S4794
 America|A Horse with No Name|1972|QRmvNMUEFZg|America (band)|S3149
 Curtis Mayfield|Superfly|1972|DAh_4s_-tas|Curtis Mayfield|S808
 Joe Cocker|With a Little Help from My Friends|1968|nCrlyX6XbTU|Joe Cocker|S917
-The Young Rascals|Good Lovin'|1966|1vWUM0m4AE4|The Rascals|S970
+The Young Rascals|Good Lovin'|1966|DknhW6Mu55Q|The Rascals|S970
 The Platters|Only You (And You Alone)|1955|3FygIKsnkCw|The Platters|S1292
 The Moody Blues|Nights in White Satin|1967|9muzyOd4Lh8|The Moody Blues|S939
 Blondie|Rapture|1980|pHCdS7O248g|Blondie (band)|S523
@@ -2568,7 +2568,7 @@ The Monkees|Pleasant Valley Sunday|1967|sUzs5dlLrm0|The Monkees|S2285
 Mike Oldfield|Tubular Bells|1973|_86Gm9iclAg?start=3|Mike Oldfield|S1765
 Michael Jackson|Human Nature|1982|ujDSiL600nc|Michael Jackson|S7535
 Elvis Presley|Burning Love|1972|0SUC8sdP5eI|Elvis Presley|S4160
-R.E.M.|Shiny Happy People|1991|YYOKMUTTDdA|R.E.M.|S208
+R.E.M.|Shiny Happy People|1991|2kLUaFeWiHA|R.E.M.|S208
 Bing Crosby|Brother Can You Spare a Dime|1932|0I8-CbJYGMA|Bing Crosby|S4352
 James Brown|Try Me|1958|6HYpxd4KRSM|James Brown|S1224
 The Imposter [Elvis Costello]|Pills & Soap|1983|aTn4qGHgzFE|Elvis Costello|S459
@@ -2614,7 +2614,7 @@ David Bowie|Fashion|1980|F-z6u5hFgPk|David Bowie|S1852
 Goo Goo Dolls|Iris|1998|NdYWuo9OFAw|Goo Goo Dolls|S295
 Boris Vian|Le Déserteur|1955|gjndTXyk3mw|Boris Vian|S10276
 The Roots feat. Erykah Badu & Eve|You Got Me|1999|MJCHeEQV454|The Roots|S1357
-The Flaming Lips|Waitin' for a Superman|1999|aKiVSuDEF2c|The Flaming Lips|S4531
+The Flaming Lips|Waitin' for a Superman|1999|o0AOG7ciuJo|The Flaming Lips|S4531
 Nusrat Fateh Ali Khan|Mustt Mustt (Lost in His Work)|1990|SDfELfpumEE?start=45|Nusrat Fateh Ali Khan|S3535
 Gilbert Bécaud|Et maintenant|1961|hmSBAJdie7E|Gilbert Bécaud|S6562
 Foals|My Number|2012|QRR_pvZcu-o|Foals (band)|S9451
@@ -4363,7 +4363,7 @@ Massive Attack|Risingson|1997|85E9Q5Wx210|Massive Attack|S14
 Steve Winwood|While You See a Chance|1980|0j6g_uUhH2c|Steve Winwood|S8578
 B.B. King|Rock Me Baby|1964|OK_AwCjK0Ak|B.B. King|S3539
 Montell Jordan|This Is How We Do It|1995|0hiUuL5uTKc|Montell Jordan|S7601
-U2|Even Better Than the Real Thing|1991|Yrch66gdjjk|U2|S2045
+U2|Even Better Than the Real Thing|1991|aQsX08-viOA|U2|S2045
 Joe Tex|Hold What You've Got|1964|_GFq-FT1rZM|Joe Tex|S3075
 Queen|I Want to Break Free|1984|f4Mc-NYPHaQ?start=5|Queen (band)|S11973
 The Hives|Walk Idiot Walk|2004|ysGtBZX32I0|The Hives|S2448
@@ -5629,7 +5629,7 @@ Kyuss|Green Machine|1992|R-MSfd2S7lo|Kyuss|S14640
 Webb Pierce|There Stands the Glass|1953|P5YEHNGB0rA|Webb Pierce|S1345
 The Reels|Quasimodo's Dream|1981|CYdIwNQDuXc|The Reels|S4196
 Ultramagnetic MCs|Ego Tripping|1986|Gnb9vljBLTg|Ultramagnetic MCs|S8890
-Loretta Lynn feat. Jack White|Portland, Oregon|2004|VuC_l3ymXhM|Loretta Lynn|S2458
+Loretta Lynn feat. Jack White|Portland, Oregon|2004|S7USQodXr8Q|Loretta Lynn|S2458
 Jackie Wilson|Doggin' Around|1960|5EIaN0Wr4Zc|Jackie Wilson|S1166
 Madonna|Deeper and Deeper|1992|sJV29ZQIUhs|Madonna (entertainer)|S7371
 The Isley Brothers|Summer Breeze|1973|BsVGbV_j2aY|The Isley Brothers|S2323
