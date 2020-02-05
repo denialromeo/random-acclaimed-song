@@ -48,7 +48,7 @@ The Jackson 5|I Want You Back|1969|s3Q80mk7bxE|The Jackson 5|S872
 Led Zeppelin|Whole Lotta Love|1969|HQmmM_qwG4k|Led Zeppelin|S885
 The Smiths|There Is a Light That Never Goes Out|1986|4WPZMhFa84U|The Smiths|S354
 Gnarls Barkley|Crazy|2006|-N4jf6rtyuw|Gnarls Barkley|S3054
-David Bowie|Space Oddity|1969|iYYRH4apXDo|David Bowie|S873
+David Bowie|Space Oddity|1969|iYYRH4apXDo?start=12|David Bowie|S873
 Lou Reed|Walk on the Wild Side|1972|yOoXjYppyMM?start=3129|Lou Reed|S781
 Donna Summer|I Feel Love|1977|Nm-ISatLDG0|Donna Summer|S648
 The Byrds|Mr. Tambourine Man|1965|NyOzGPbn2tg|The Byrds|S997
@@ -1327,7 +1327,7 @@ The Beach Boys|In My Room|1963|5a4YupnT1sM?start=867|The Beach Boys|S1068
 XTC|Dear God|1986|p554R-Jq43A|XTC|S1974
 Leonard Cohen|Chelsea Hotel #2|1974|Xk7DOe5EGgM|Leonard Cohen|S4175
 The Chiffons|He's So Fine|1963|rinz9Avvq6A|The Chiffons|S1056
-Desmond Dekker & The Aces|007 (Shanty Town)|1967|az9S9FftE-U|Desmond Dekker|S960
+Desmond Dekker & The Aces|007 (Shanty Town)|1967|UsHYEiUiTaU|Desmond Dekker|S960
 Fleet Foxes|Mykonos|2008|DT-dxG4WWf4|Fleet Foxes|S4782
 Tom Waits|Tom Traubert's Blues (Four Sheets to the Wind in Copenhagen)|1976|HkOMiA_uGso|Tom Waits|S4182
 The Who|Who Are You|1978|PNbBDrceCy8|The Who|S2890
@@ -1358,7 +1358,7 @@ Eric Clapton|Tears in Heaven|1992|JxPj3GAYYZ0|Eric Clapton|S163
 Sly and the Family Stone|Hot Fun in the Summertime|1969|Bg0tFRea0wA|Sly and the Family Stone|S895
 Drake|Passionfruit|2017|COz9lDCFHjw|Drake (musician)|S16364
 Kanye West|Power|2010|k8JflBNovLE|Kanye West|S4910
-The Staple Singers|Respect Yourself|1971|oab4ZCfTbOI|The Staple Singers|S831
+The Staple Singers|Respect Yourself|1971|-1pYKdqD1ls|The Staple Singers|S831
 Vampire Weekend|Diane Young|2013|oG6lTQNW04I|Vampire Weekend|S9541
 Clyde McPhatter & The Drifters|Money Honey|1953|N8oNHMNCSjQ|The Drifters|S1330
 The Cranberries|Zombie|1994|6Ejga4kJUts|The Cranberries|S106
@@ -1456,7 +1456,7 @@ The Monkees|Daydream Believer|1967|xvqeSJlgaNk?start=20|The Monkees|S3637
 Madonna|Papa Don't Preach|1986|G333Is7VPOg|Madonna (entertainer)|S370
 Aaliyah|Are You That Somebody?|1998|Z5338B36j0M|Aaliyah|S280
 OutKast|Rosa Parks|1998|drsQLEU0N1Y|Outkast|S299
-Steve Harley & Cockney Rebel|Make Me Smile (Come Up and See Me)|1975|qpJ0cyXbMbI|Steve Harley & Cockney Rebel|S704
+Steve Harley & Cockney Rebel|Make Me Smile (Come Up and See Me)|1975|ptFegqTOYYc|Steve Harley & Cockney Rebel|S704
 The Jesus and Mary Chain|Never Understand|1985|b2bzrCCKDwc|The Jesus and Mary Chain|S397
 Kraftwerk|Die Roboter/The Robots|1978|jtq4V7bqpt4|Kraftwerk|S2332
 Jay-Z feat. UGK|Big Pimpin'|1999|Cgoqrgc_0cM|Jay-Z|S2204
@@ -3366,7 +3366,7 @@ Electronic|Getting Away with It|1989|DSfjtdnUsls|Electronic (band)|S2010
 Genesis|Carpet Crawlers|1974|23cUcLKc374|Genesis (band)|S6524
 Billy Stewart|Summertime|1966|1FJMgFxXFqo?start=18|Billy Stewart|S3854
 M.I.A.|XXXO|2010|sfbQ5mHWkOs|M.I.A. (rapper)|S4918
-Arthur Alexander|You Better Move On|1961|AOT7OwcbK-k?start=19|Arthur Alexander|S4081
+Arthur Alexander|You Better Move On|1961|5BGnvsunuFU|Arthur Alexander|S4081
 Bell Biv Devoe|Poison|1990|sb2np1HGqxg|Bell Biv DeVoe|S3206
 Smashing Pumpkins|Mayonaise|1993|s7-30i1f5e0|The Smashing Pumpkins|S12239
 The Godfathers|Birth School Work Death|1987|QO5dcW0P75M|The Godfathers|S3092
@@ -3675,7 +3675,7 @@ Bruce Springsteen|Nebraska|1982|Oy2dpbGhaz8?start=44|Bruce Springsteen|S10314
 Amos Milburn|Chicken-Shack Boogie|1948|7GvfIx_-Xm4|Amos Milburn|S5189
 Dexys Midnight Runners|There, There, My Dear|1980|3ZwWnXuB_eg|Dexys Midnight Runners|S4446
 Fairport Convention|A Sailor's Life|1969|szrGtFxtWXU|Fairport Convention|S4126
-Nina Simone|I Loves You, Porgy|1958|ewNw78TpRPk|Nina Simone|S2801
+Nina Simone|I Loves You, Porgy|1958|tq5A0YadWKs|Nina Simone|S2801
 Toto|Hold the Line|1978|htgr3pvBr-I|Toto (band)|S8824
 Depeche Mode|Precious|2005|8yn3ViE6mhY|Depeche Mode|S3044
 The Drifters|This Magic Moment|1960|bacBKKgc4Uo|The Drifters|S1165
@@ -3753,7 +3753,7 @@ The Who|I'm Free|1969|uRD_gIoVOmY|The Who|S8998
 Madness|It Must Be Love|1981|vmezIIrFQmY|Madness (band)|S1875
 The Beatles|The Ballad of John and Yoko|1969|v-1OgNqBkVE|The Beatles|S5381
 The Left Banke|Pretty Ballerina|1966|BHt7rfySxqk|The Left Banke|S7218
-Cat Stevens|Wild World|1970|Jta56wBl7SM|Cat Stevens|S5737
+Cat Stevens|Wild World|1970|Jta56wBl7SM?start=21|Cat Stevens|S5737
 Console|14 Zero Zero|1999|JuP_lrfciHU|Console (musician)|S2171
 The Avalanches|Frankie Sinatra|2016|SjfspM5sDIA|The Avalanches|S16197
 The Romantics|What I Like About You|1979|Rqnw5IfbZOU|The Romantics|S3781
@@ -3842,7 +3842,7 @@ The Jayhawks|Blue|1995|Z9mJ69Tqh84|The Jayhawks|S3513
 Khaled|Aïcha|1996|wIsJbDZDNpo|Khaled (musician)|S7092
 Johnny and the Hurricanes|Red River Rock|1959|76OSOg5E_HE|Johnny and the Hurricanes|S4381
 Barbara Lewis|Hello Stranger|1963|Yupq5dVNHlU|Barbara Lewis|S3560
-The Black Crowes|Hard to Handle|1990|mtLbE3IUY2U|The Black Crowes|S5480
+The Black Crowes|Hard to Handle|1990|h1WItDnFtTk|The Black Crowes|S5480
 Tame Impala|The Less I Know The Better|2015|sBzrzS1Ag_g?start=47|Tame Impala|S9847
 Harry Chapin|Cat's in the Cradle|1974|etundhQa724?start=65|Harry Chapin|S4596
 The Smiths|Reel Around the Fountain|1984|V04bUY5Kl8w|The Smiths|S4573
@@ -4699,7 +4699,7 @@ Felix Da Housecat|Silver Screen, Shower Scene|2001|fJvatGfD9Pg|Felix da Housecat
 Romeo Void|Never Say Never|1981|4x0fPZrPV3M|Romeo Void|S1860
 Broken Social Scene|Cause = Time|2002|fRnxSRcmBl8|Broken Social Scene|S4619
 Bill Withers|Grandma's Hands|1971|qv5pagal-ls|Bill Withers|S5445
-Miami Sound Machine|Conga|1985|54ItEmCnP80|Miami Sound Machine|S7528
+Miami Sound Machine|Conga|1985|54ItEmCnP80?start=58|Miami Sound Machine|S7528
 Édith Piaf|La Foule|1958|xvijcuD6lbU|Édith Piaf|S6205
 The Pharcyde|Runnin'|1995|pwHuEDCM7xs|The Pharcyde|S4226
 Daft Punk feat. Giorgio Moroder|Giorgio by Moroder|2013|zhl-Cs1-sG4|Daft Punk|S9425
@@ -6479,7 +6479,7 @@ Bing Crosby & The Andrews Sisters|Don't Fence Me In|1944|vMnLoOnrwbg|The Andrews
 Melanie|Brand New Key|1971|KJVUqzU7B-Q?start=7|Melanie (singer)|S7508
 Eddie and the Hot Rods|Teenage Depression|1976|x3srDTWS2L4|Eddie and the Hot Rods|S6194
 Austra|Beat and the Pulse|2010|ToXgF47nh94|Austra (band)|S5274
-Pras feat. Ol' Dirty Bastard & Mýa|Ghetto Supastar (That Is What You Are)|1998|8QKX51sIwTA|Pras|S298
+Pras feat. Ol' Dirty Bastard & Mýa|Ghetto Supastar (That Is What You Are)|1998|MnWogQTfSIY|Pras|S298
 Alanis Morissette|Hand in My Pocket|1995|CUjIY_XxF1g|Alanis Morissette|S5142
 Daryl Hall & John Oates|Out of Touch|1984|D00M2KZH1J0|Hall & Oates|S11005
 John Mayall|All Your Love|1966|OkedAcAAcU4|John Mayall|S15601
@@ -7264,7 +7264,7 @@ AlunaGeorge|You Know You Like It|2011|MIuJVYNvC-s|AlunaGeorge|S5183
 The Beatles|Yes It Is|1965|acWj7M0-9rY|The Beatles|S10124
 N.O.R.E. [Noreaga]|Nothin'|2002|sul16s0VSzs|N.O.R.E.|S7771
 Supergrass|Richard III|1997|UnXrrOxzZCE|Supergrass|S2959
-Meat Puppets|Backwater|1994|ZGbva-0zmb8|Meat Puppets|S7499
+Meat Puppets|Backwater|1994|9-HFbNhTTKQ|Meat Puppets|S7499
 Caribou|Sun|2010|f-qof_oiF0M|Dan Snaith|S5715
 Razorlight|Golden Touch|2004|KbANp9cRd6o|Razorlight|S8115
 Double 99|Rip Groove|1997|uR3Vw8J8vUo?start=5|Double 99|S2131
@@ -9506,7 +9506,7 @@ Johnny Kidd & the Pirates|Please Don't Touch|1959|tvXeBNZngiA|Johnny Kidd & the 
 Beastie Boys|Make Some Noise|2011|WdgLMslbDuY|Beastie Boys|S5358
 Sidney Bechet & Claude Luter|Petite Fleur|1952|wMwckuWpxDs|Sidney Bechet|S15868
 Bob Dylan|When I Paint My Masterpiece|1971|lZQ69w8NmxI|Bob Dylan|S10247
-Lil Wayne|Georgia...Bush|2006|wkA3p3YqH9U|Lil Wayne|S7263
+Lil Wayne|Georgia Bush|2006|wkA3p3YqH9U|Lil Wayne|S7263
 Paolo Conte|Max|1987|dSIg58v0Epc|Paolo Conte|S7845
 Charles Aznavour|Emmenez-moi|1968|ieYQKS9-Is0|Charles Aznavour|S13421
 Roxanne Shanté|Roxanne's Revenge|1984|0eckRNcHCKA|Roxanne Shante|S12724
