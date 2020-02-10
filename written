@@ -24,7 +24,7 @@ John Lennon|Imagine|1971|YkgkThdzX-8?start=40|John Lennon|S812
 Grandmaster Flash and the Furious Five|The Message|1982|PobrSpMwKk4|Grandmaster Flash and the Furious Five|S481
 Sex Pistols|God Save the Queen|1977|bC4RFY8vtuM|Sex Pistols|S631
 David Bowie|Heroes|1977|lXgkuM2NhYI|David Bowie|S633
-OutKast|Hey Ya!|2003|PWgvGjAhvIw|Outkast|S2245
+OutKast|Hey Ya!|2003|PWgvGjAhvIw?start=67|Outkast|S2245
 The Kinks|You Really Got Me|1964|fTTsY-oz6Go|The Kinks|S1021
 Prince and the Revolution|When Doves Cry|1984|UG3VcCAlUgE|Prince (musician)|S421
 Little Richard|Tutti Frutti|1955|F13JNjpNW6c|Little Richard|S1296
@@ -106,12 +106,12 @@ James Brown|Get Up (I Feel Like Being a) Sex Machine|1970|1UzZUfFUnxY|James Brow
 Daft Punk feat. Pharrell Williams|Get Lucky|2013|5NV6Rdv1a3I|Daft Punk|S9426
 Blondie|Heart of Glass|1978|WGU_4-5RaxU|Blondie (band)|S584
 Run-DMC|Walk This Way|1986|4B_UYYPb-Gk|Run-DMC|S363
-Creedence Clearwater Revival|Proud Mary|1969|zS3rNUYR8b0?start=1587|Creedence Clearwater Revival|S874
+Creedence Clearwater Revival|Proud Mary|1969|XfyEpmQM7bw|Creedence Clearwater Revival|S874
 Chic|Good Times|1979|humibwm_-8s?start=9|Chic (band)|S572
 Sinéad O'Connor|Nothing Compares 2 U|1990|0-EF60neguk|Sinéad O'Connor|S212
 The Police|Every Breath You Take|1983|OMOGaugKpzs|The Police|S452
 Procol Harum|A Whiter Shade of Pale|1967|Mb3iPP-tHdA|Procol Harum|S935
-Creedence Clearwater Revival|Fortunate Son|1969|zS3rNUYR8b0?start=911|Creedence Clearwater Revival|S875
+Creedence Clearwater Revival|Fortunate Son|1969|ec0XKhAHR5I|Creedence Clearwater Revival|S875
 LCD Soundsystem|Losing My Edge|2002|HmrOHxS_cK0|LCD Soundsystem|S1509
 Black Sabbath|Paranoid|1970|0qanF-91aJo|Black Sabbath|S846
 The Beatles|She Loves You|1963|6RRwSI5I9EU|The Beatles|S1055
@@ -1556,7 +1556,7 @@ Kendrick Lamar|i|2014|8aShfolR6w8|Kendrick Lamar|S9560
 Dillinger|Cocaine in My Brain|1976|5xVp1mauGnU|Dillinger (musician)|S683
 Belle and Sebastian|The State I Am In|1996|3TSAU7Ocroc|Belle and Sebastian|S4862
 The Go-Betweens|Cattle and Cane|1983|ZCbyByY-A6w|The Go-Betweens|S4198
-Creedence Clearwater Revival|Green River|1969|zS3rNUYR8b0?start=317|Creedence Clearwater Revival|S880
+Creedence Clearwater Revival|Green River|1969|L5V9nK7-OkM|Creedence Clearwater Revival|S880
 The Human League|Being Boiled|1978|myzrnWbyz1s|The Human League|S1569
 Eagles|One of These Nights|1975|ESc2Tq2HzhQ|Eagles (band)|S700
 Pulp|Disco 2000|1995|qJS3xnD7Mus|Pulp (band)|S8037
@@ -1721,7 +1721,7 @@ The Rolling Stones|Mother's Little Helper|1966|OusADDs_3ps|The Rolling Stones|S8
 Primal Scream|Swastika Eyes|1999|bY6Wqp5UYJE|Primal Scream|S1358
 Robert Palmer|Addicted to Love|1985|XcATvu5f9vE|Robert Palmer (singer)|S368
 Carly Rae Jepsen|Run Away With Me|2015|TeccAtqd5K8|Carly Rae Jepsen|S9719
-Nena|99 Luftballons|1983|hIIVK0NgK38|Nena|S3659
+Nena|99 Luftballons|1983|zvoiHjZju5I|Nena|S3659
 Elton John|Crocodile Rock|1972|B8dqdRDCLB4|Elton John|S2312
 Annie|Heartbeat|2004|f9Wf46tLonM|Annie (singer)|S2468
 U2|Mysterious Ways|1991|TxcDTUMLQJI|U2|S2037
@@ -1950,7 +1950,7 @@ Blind Willie McTell|Statesboro Blues|1928|fnWxZtI3ONY|Blind Willie McTell|S2717
 Mark Ronson feat. Bruno Mars|Uptown Funk|2014|OPf0YbXqDm0|Mark Ronson|S9667
 Twin Shadow|Five Seconds|2012|HiC9XNQSxFQ|Twin Shadow|S5048
 Madness|House of Fun|1982|GJ2X9SANsME|Madness (band)|S487
-Nirvana|Where Did You Sleep Last Night|1994|CISzg6yi8YE|Kurt Cobain|S3668
+Nirvana|Where Did You Sleep Last Night|1994|hEMm7gxBYSc|Kurt Cobain|S3668
 David Bowie|The Jean Genie|1972|kMYg_Ra4cr8|David Bowie|S5965
 Jackie DeShannon|What the World Needs Now Is Love|1965|IQ2SAtkEsqU|Jackie DeShannon|S3328
 A Tribe Called Quest|Can I Kick It?|1990|O3pyCGnZzYA|A Tribe Called Quest|S2021
@@ -2263,7 +2263,7 @@ The Kinks|Days|1968|ptMgZI6O8gg|The Kinks|S7125
 Diana Ross and the Supremes|Love Child|1968|fFg-2UrUTUc|The Supremes|S3874
 Chromatics|Kill for Love|2011|c0mxXrHowHQ|Chromatics (band)|S5005
 Spinners|Could It Be I'm Falling in Love|1972|nVGagFVhbAw|The Spinners (American R&B group)|S1554
-Prince Buster|Al Capone|1965|l1lSIIOQ1Ck|Prince Buster|S8017
+Prince Buster|Al Capone|1965|OaDx6_-WbLs|Prince Buster|S8017
 Body Count|Cop Killer|1992|LH8gUhDd6WE|Body Count (band)|S3224
 Jamie xx|Gosh|2015|hTGJfRPLe08|Jamie xx|S9786
 Foo Fighters|This Is a Call|1995|h-Rnr3wTX9I|Foo Fighters|S78
@@ -2513,7 +2513,7 @@ Suede|Trash|1996|-PdKGDMhau4|Suede (band)|S39
 Kate Bush|The Man with the Child in His Eyes|1978|NAj8suae3WY|Kate Bush|S4436
 Little Richard|The Girl Can't Help It|1956|egiR3FgtHe0|Little Richard|S7280
 Lykke Li|I Follow Rivers|2011|6QuYne6ATwY|Lykke Li|S4975
-Creedence Clearwater Revival|Born on the Bayou|1969|zS3rNUYR8b0?start=11|Creedence Clearwater Revival|S3307
+Creedence Clearwater Revival|Born on the Bayou|1969|wIjUY3pjN8E|Creedence Clearwater Revival|S3307
 Led Zeppelin|Achilles Last Stand|1976|1t4KLOm7pO0|Led Zeppelin|S7211
 The Pop Group|She Is Beyond Good and Evil|1979|sL0tYowbIxE|The Pop Group|S589
 Pulp|Sorted for E's & Wizz|1995|PbcR0x60WN0|Pulp (band)|S71
@@ -3178,7 +3178,7 @@ Suede|Stay Together|1994|LPfhAksS28g|Suede (band)|S2086
 Randy Newman|Short People|1977|8bfyS-S-IJs|Randy Newman|S2327
 Elvis Costello and the Attractions|Everyday I Write the Book|1983|V1d4r9awjKE|Elvis Costello|S472
 Status Quo|Down Down|1974|d1gYJDQXPOk|Status Quo (band)|S1761
-Muddy Waters|I Can't Be Satisfied|1948|oSF-T5gwdxU|Muddy Waters|S3941
+Muddy Waters|I Can't Be Satisfied|1948|LG95MseHfgA|Muddy Waters|S3941
 Prefab Sprout|The King of Rock 'n' Roll|1988|4T6e3GJCjow|Prefab Sprout|S3095
 Spacemen 3|Walkin' with Jesus|1986|NRuoXqpL6ZM|Spacemen 3|S4578
 Céline Dion|My Heart Will Go On|1997|fGU7NMxboNE|Celine Dion|S2162
@@ -4578,7 +4578,7 @@ Rilo Kiley|Portions for Foxes|2004|qtNV3pOqcjI|Rilo Kiley|S4650
 Guns N' Roses|Don't Cry|1991|zRIbf6JqkNc|Guns N' Roses|S10989
 Suzanne Vega|Marlene on the Wall|1985|CXb6Lb_h0Oo|Suzanne Vega|S8653
 Mecano|Cruz de Navajas|1986|AbdWwmD_lr4|Mecano|S7500
-Björk|The Gate|2017|RIGgn1s3AvI|Björk|S16343
+Björk|The Gate|2017|VaexK3JlJg0|Björk|S16343
 Captain and Tennille|Love Will Keep Us Together|1975|_QNEf9oGw8o|Captain & Tennille|S3086
 Van Halen|Hot For Teacher|1984|6M4_Ommfvv0|Van Halen|S3935
 R.E.M.|At My Most Beautiful|1998|UIXs66BPooY|R.E.M.|S11987
@@ -5943,7 +5943,7 @@ Editors|Munich|2005|ugWtuTmiGLM|Editors (band)|S3008
 Fairport Convention|Meet on the Ledge|1968|avX5VlU7MXM|Fairport Convention|S6335
 The Strokes|Is This It|2001|RHrGj1IyE0Y|The Strokes|S4250
 Maxime Le Forestier|San Francisco|1971|0uT87XQrki0|Maxime Le Forestier|S7480
-Snap!|The Power|1990|nm6DO_7px1I|Snap!|S3825
+Snap!|The Power|1990|j1BNcSBApOU|Snap!|S3825
 Killing Joke|Requiem|1980|U7WPI4TJImo|Killing Joke|S1837
 Jimmie Rodgers|In the Jailhouse Now|1928|p3L2qf3q-ok|Jimmie Rodgers (country singer)|S4057
 Mylo|Drop the Pressure|2004|er1hvGFQ8Xg|Mylo|S3119
@@ -6702,7 +6702,7 @@ Gene Vincent and His Blue Caps|Blue Jean Bop|1956|b07HVaUtHss|Gene Vincent|S6519
 Redbone|Come and Get Your Love|1973|OnJqFrVD3uE|Redbone (band)|S3747
 Massive Attack|Hymn of the Big Wheel|1991|TYtWyhNC2Os|Massive Attack|S7468
 The Lovin' Spoonful|Darling Be Home Soon|1967|pAur4CWJIPw|The Lovin' Spoonful|S2284
-Nino Ferrer|Mirza|1965|tv3q1U9xSuU|Nino Ferrer|S11769
+Nino Ferrer|Mirza|1965|u5XwT6fc_Gg|Nino Ferrer|S11769
 Neil Diamond|Girl, You'll Be a Woman Soon|1967|jk3YTcIOU6I|Neil Diamond|S2835
 Daft Punk feat. Pharrell Williams|Lose Yourself to Dance|2013|NF-kLy44Hls|Daft Punk|S9427
 Archie Roach|Took the Children Away|1990|aywDT6yHMmo|Archie Roach|S10017
@@ -7509,7 +7509,7 @@ Big Sean feat. Drake & Kanye West|Blessings|2015|M6t47RI4bns|Big Sean|S9710
 Wham!|Wham Rap! (Enjoy What You Do)|1982|BsyHQgiem8c|Wham!|S8981
 Public Enemy|By the Time I Get to Arizona|1991|zrFOb_f7ubw|Public Enemy (band)|S11958
 Take That|Never Forget|1995|yoO_1FFr56k|Take That|S15920
-Conway Twitty|Hello Darlin'|1970|JGWm6mkqmRo|Conway Twitty|S1724
+Conway Twitty|Hello Darlin'|1970|Og1QRtcWdEY|Conway Twitty|S1724
 Scritti Politti|The Word Girl|1985|G-8qE1dF8Dc|Scritti Politti|S8336
 Al Stewart|Time Passages|1978|TRRXg1yhsEk|Al Stewart|S12977
 El Columpio Asesino|Toro|2011|XphGlc8anHM|https://es.wikipedia.org/wiki/El_Columpio_Asesino|S6215
@@ -8453,7 +8453,7 @@ Bruce Springsteen|Cover Me|1984|r13kXZKe4IA|Bruce Springsteen|S5650
 Tomte|Ich sang die ganze Zeit von dir|2006|M6zP71psCT4|Tomte (band)|S8811
 Rich Homie Quan|Flex (Ooh, Ooh, Ooh)|2015|bWMw4vE3J8s|Rich Homie Quan|S9830
 Lennie Tristano|Intuition|1950|NlrfIA8ADJ8|Lennie Tristano|S13224
-M.I.A.|Bird Flu|2006|Z_xeuYwK3Wc|M.I.A. (rapper)|S4654
+M.I.A.|Bird Flu|2006|7EBnYGyY8NY|M.I.A. (rapper)|S4654
 Def Leppard|Love Bites|1987|W4XiSFyYRE8|Def Leppard|S10564
 Frank Zappa|Joe's Garage|1979|VX8415wWqU4|Frank Zappa|S10867
 The dB's|Black and White|1980|KWN-adiDNtM|The dB's|S4192
@@ -10203,7 +10203,7 @@ Ash|Oh Yeah|1996|-aPIXeAmpO8|Ash (band)|S5251
 La Bien Querida|De momento abril|2009|uCCVQ9ac9_4|La Bien Querida|S7162
 The Avett Brothers|I and Love and You|2009|T0eSpAgqrWo|The Avett Brothers|S4824
 Tocotronic|Kapitulation|2007|6nf-Vvi2FXI|Tocotronic|S8775
-Polarkreis 18|Allein allein|2008|8wrIHqg0Y9E|Polarkreis 18|S7984
+Polarkreis 18|Allein allein|2008|-SHwn6O25CY|Polarkreis 18|S7984
 Los Planetas|Un buen día|2000|1BVP72VrGQs|https://es.wikipedia.org/wiki/Los_Planetas_(banda)|S7309
 Rihanna|Disturbia|2008|E1mU6h4Xdxc|Rihanna|S4743
 R. Kelly|Your Body's Callin'|1993|BzVZmt_TdR8|R. Kelly|S8052
@@ -10229,7 +10229,7 @@ Ivory Joe Hunter|I Almost Lost My Mind|1949|ZKLbIn8yx-o|Ivory Joe Hunter|S6806
 Destiny's Child|Lose My Breath|2004|AqeIiF0DlTg|Destiny's Child|S6050
 Arrested Development|Revolution|1992|RWlvOolOic4|Arrested Development (group)|S2934
 Dyke and the Blazers|Funky Broadway|1967|3C5Kl58eMTA|Dyke and the Blazers|S3364
-Killer Mike|That's Life|2006|F8FnQ3k4qu0|Killer Mike|S7098
+Killer Mike|That's Life|2006|HoR7GZQPTEc|Killer Mike|S7098
 Hercules and Love Affair|Hercules Theme|2008|ff8eHolqQbI|Hercules and Love Affair|S4779
 Billie Holiday|Summertime|1936|uYUqbnk7tCY|Billie Holiday|S9145
 Ratatat|Seventeen Years|2003|IY8eJYRDIOA|Ratatat|S8101
