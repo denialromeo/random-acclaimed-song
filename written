@@ -62,7 +62,7 @@ The Crickets|That'll Be the Day|1957|9nrInsANB8Q|The Crickets|S1231
 Ramones|Blitzkrieg Bop|1976|268C3N2dDYk|Ramones|S669
 The Verve|Bitter Sweet Symphony|1997|1lyu1KKwC74|The Verve|S1
 Massive Attack|Unfinished Sympathy|1991|ZWmrfgj0MZI|Massive Attack|S187
-Eagles|Hotel California|1976|r9hFgmYnnRY|Eagles (band)|S632
+Eagles|Hotel California|1976|YO3UDbNfr80|Eagles (band)|S632
 Derek and the Dominos|Layla|1970|TngViNw2pOo|Derek and the Dominos|S841
 Talking Heads|Once in a Lifetime|1980|5IsSpAOD6K8|Talking Heads|S518
 The Animals|The House of the Rising Sun|1964|4-43lLKaqBQ|The Animals|S1025
@@ -790,7 +790,7 @@ The Velvet Underground|Sunday Morning|1966|3qK82JvRY5s|The Velvet Underground|S3
 Bob Dylan|Masters of War|1963|JEmI_FT4YHU|Bob Dylan|S2412
 Tommy James and the Shondells|Crimson and Clover|1968|GpGEeneO-t0|Tommy James and the Shondells|S922
 Pink Floyd|Astronomy Domine|1967|pJh9OLlXenM|Pink Floyd|S3702
-Cream|White Room|1968|dJWnnDE4Fmg|Cream (band)|S2418
+Cream|White Room|1968|u6WUbFTSjFg?start=16|Cream (band)|S2418
 The Rolling Stones|Start Me Up|1981|SGyOaCXr8Lw|The Rolling Stones|S520
 The Clash|White Riot|1977|zoJYM3krDWQ|The Clash|S644
 Kiss|Rock and Roll All Nite|1975|EFMD7Usflbg|Kiss (band)|S697
@@ -1418,7 +1418,7 @@ Yo La Tengo|Autumn Sweater|1997|vtOfYeJFq0k|Yo La Tengo|S21
 Wham! feat. George Michael|Careless Whisper|1984|izGwDsrQ1eQ|Wham!|S1913
 Quintette du Hot Club de France avec Alix Combelle|Nuages|1940|j15Nqn9SmfM|Quintette du Hot Club de France|S2734
 Blind Faith|Can't Find My Way Home|1969|PJJnA6zEcGk|Blind Faith|S5492
-Dead Kennedys|California Über Alles|1979|GoA_zY6tqQw|Dead Kennedys|S1829
+Dead Kennedys|California Über Alles|1979|-CR2rxRMcTE|Dead Kennedys|S1829
 Martha and the Vandellas|Nowhere to Run|1965|mG9m-6dVKRI|Martha and the Vandellas|S1543
 Adele|Someone Like You|2011|hLQl3WQQoQ0|Adele|S4941
 New Order|Crystal|2001|KVMyXDsadLQ|New Order (band)|S1463
@@ -1876,7 +1876,7 @@ Veruca Salt|Seether|1994|jC9AUR-iTo0|Veruca Salt|S95
 Lionel Richie|All Night Long (All Night)|1983|nqAvFx3NxUM|Lionel Richie|S470
 James|Laid|1993|g_qZ5B-yioU|James (band)|S3509
 Kanye West feat. Dwele|Flashing Lights|2007|ila-hAUXR5U?start=6|Kanye West|S4771
-Queen|Somebody to Love|1976|kijpcUv-b8M?start=3|Queen (band)|S8043
+Queen|Somebody to Love|1976|kijpcUv-b8M?start=5|Queen (band)|S8043
 Arcade Fire|Afterlife|2013|EcKinnMXuKg|Arcade Fire|S9404
 The Carter Family|Can the Circle Be Unbroken (Bye and Bye)|1935|qjHjm5sRqSA|Carter Family|S2661
 Tom Waits|(Looking For) The Heart of Saturday Night|1974|lyyFLYNbQpg|Tom Waits|S8796
@@ -1976,7 +1976,7 @@ Glen Campbell|By the Time I Get to Phoenix|1967|mUg5p3BncuQ|Glen Campbell|S1686
 The White Stripes|Icky Thump|2007|1OjTspCqvk8|The White Stripes|S4291
 George Harrison|What Is Life|1970|fiH9edd25Bc|George Harrison|S6532
 Jan and Dean|Surf City|1963|ERrwjR4ZlfI|Jan and Dean|S1070
-Blood Orange feat. Empress Of|Best to You|2016|cR2EzHlPzxA|Dev Hynes|S16041
+Blood Orange feat. Empress Of|Best to You|2016|DDqAGE2AFfE|Dev Hynes|S16041
 Primal Scream|Kowalski|1997|ZVcwG-gY9dM|Primal Scream|S10
 Kanye West feat. Rihanna|All of the Lights|2010|HAfFfqiYLp0|Kanye West|S4911
 Phoenix|If I Ever Feel Better|2000|jJp3kVelU3c|Phoenix (band)|S2197
@@ -2260,7 +2260,7 @@ Cher|Believe|1998|nZXRV4MezEw|Cher|S300
 Smokey Robinson and the Miracles|I Second That Emotion|1967|mv9cWgkpIZ4|The Miracles|S956
 Green Day|When I Come Around|1994|i8dh9gDzmz8|Green Day|S3453
 The Kinks|Days|1968|ptMgZI6O8gg|The Kinks|S7125
-Diana Ross and the Supremes|Love Child|1968|fFg-2UrUTUc|The Supremes|S3874
+Diana Ross and the Supremes|Love Child|1968|fFg-2UrUTUc|Diana Ross|S3874
 Chromatics|Kill for Love|2011|c0mxXrHowHQ|Chromatics (band)|S5005
 Spinners|Could It Be I'm Falling in Love|1972|nVGagFVhbAw|The Spinners (American R&B group)|S1554
 Prince Buster|Al Capone|1965|OaDx6_-WbLs|Prince Buster|S8017
@@ -2616,7 +2616,7 @@ Boris Vian|Le Déserteur|1955|gjndTXyk3mw|Boris Vian|S10276
 The Roots feat. Erykah Badu & Eve|You Got Me|1999|MJCHeEQV454|The Roots|S1357
 The Flaming Lips|Waitin' for a Superman|1999|o0AOG7ciuJo|The Flaming Lips|S4531
 Nusrat Fateh Ali Khan|Mustt Mustt (Lost in His Work)|1990|SDfELfpumEE?start=45|Nusrat Fateh Ali Khan|S3535
-Gilbert Bécaud|Et maintenant|1961|hmSBAJdie7E|Gilbert Bécaud|S6562
+Gilbert Bécaud|Et maintenant|1961|TU6KBaUufks?start=44|Gilbert Bécaud|S6562
 Foals|My Number|2012|QRR_pvZcu-o|Foals (band)|S9451
 Audio Two|Top Billin'|1987|JPn82XZgTMA|Audio Two|S1966
 Janet Jackson|What Have You Done for Me Lately|1986|r9uizdKZAGE|Janet Jackson|S388
@@ -3230,7 +3230,7 @@ Sugababes|Overload|2000|eVG4Ix9GgFg|Sugababes|S1400
 Charlie Parker|Parker's Mood|1948|9Nn_Nghem60|Charlie Parker|S10383
 Father John Misty|Pure Comedy|2017|wKrSYgirAhc|Josh Tillman|S16370
 Elvis Costello|Less Than Zero|1977|QrNDxNYb92U|Elvis Costello|S1787
-Minor Threat|Straight Edge|1981|dctcVopIFjI|Minor Threat|S2354
+Minor Threat|Straight Edge|1981|Ypkmp6D90KU|Minor Threat|S2354
 Liquid Liquid|Cavern|1983|yGncWGLHdQw|Liquid Liquid|S4566
 Muse|Muscle Museum|1999|16_2HBaeFXk|Muse (band)|S7641
 Freddie King|Hide Away|1961|wEmGbMd2duk|Freddie King|S1126
@@ -3385,7 +3385,7 @@ Plastilina Mosh|Mr. P Mosh|1998|2Qw9y06HSV4|Plastilina Mosh|S7978
 Chick Webb & His Orchestra with Ella Fitzgerald|A-Tisket, A-Tasket|1938|o-jE2dV1e9g|Chick Webb|S2759
 Original Dixieland Jazz Band|Livery Stable Blues|1917|5WojNaU4-kI|Original Dixieland Jass Band|S9312
 The Stooges|Gimme Danger|1973|LVXd7Wc1xBA|The Stooges|S8599
-Buddy Holly|Everyday|1957|GMezwtB1oCU|Buddy Holly|S1623
+Buddy Holly|Everyday|1957|EqWwy6BCxxU|Buddy Holly|S1623
 B.J. Thomas|Raindrops Keep Fallin' on My Head|1969|4TO7zD6HNes|B. J. Thomas|S3896
 Fleetwood Mac|Man of the World|1969|OJWOtL-PZiE|Fleetwood Mac|S1706
 Kraftwerk|Schaufensterpuppen / Showroom Dummies|1977|yx6aaF8xCqg|Kraftwerk|S7146
@@ -3606,7 +3606,7 @@ Men Without Hats|The Safety Dance|1982|AjPau5QYtYs|Men Without Hats|S7516
 SZA|Drew Barrymore|2017|dp45V_M4Akw|SZA (singer)|S16490
 Skeeter Davis|The End of the World|1962|PbZ9ILRYQ2o|Skeeter Davis|S1645
 The Vaccines|If You Wanna|2011|uQKjI6395iU|The Vaccines|S8903
-Buddy Holly|It Doesn't Matter Anymore|1959|kNf2hSNlhqg|Buddy Holly|S1175
+Buddy Holly|It Doesn't Matter Anymore|1959|umPKhs17DmE|Buddy Holly|S1175
 The Parliaments|(I Wanna) Testify|1967|v-OZ-M2y0Ao|The Parliaments|S2841
 D'Angelo|Untitled (How Does It Feel?)|2000|SxVNOnPyvIU|D'Angelo|S2195
 The Jackson 5|The Love You Save|1970|eAyqMJam1D0|The Jackson 5|S1721
@@ -5655,13 +5655,13 @@ Beck|Jack-Ass|1996|SXHiZr0vHPI|Beck|S10129
 The Nashville Teens|Tobacco Road|1964|O3AWbZcLpGw|The Nashville Teens|S3656
 Altered Images|Happy Birthday|1981|6t1vaF50Ks0|Altered Images|S5178
 The Streets|Blinded by the Lights|2004|QJD8mpcGykE|The Streets|S8609
-Diana Ross and the Supremes|Someday We'll Be Together|1969|ixEOMB6jyEE|The Supremes|S1588
+Diana Ross and the Supremes|Someday We'll Be Together|1969|ixEOMB6jyEE|Diana Ross|S1588
 Basement Jaxx|Raindrops|2009|4sov7bmBRVA|Basement Jaxx|S4787
 Fleet Foxes|Grown Ocean|2011|Pgv6dKV03dA|Fleet Foxes|S6387
 Cocteau Twins|Sugar Hiccup|1983|xtCI1s4cLb4|Cocteau Twins|S5849
 Tim Hardin|If I Were a Carpenter|1967|F4OiAlgC310|Tim Hardin|S3458
 Eagle-Eye Cherry|Save Tonight|1997|Nntd2fgMUYw|Eagle-Eye Cherry|S6181
-Diana Ross and the Supremes|Reflections|1967|2uwSVDOWh4Y|The Supremes|S2833
+Diana Ross and the Supremes|Reflections|1967|2uwSVDOWh4Y|Diana Ross|S2833
 ESG|UFO|1981|h9ikatomf6g|ESG (band)|S4452
 The Passions [UK]|I'm in Love with a German Film Star|1981|JXhJbC-kvaw|The Passions (British band)|S7854
 Bon Jovi|Runaway|1984|s86K-p089R8|Bon Jovi|S5585
@@ -7306,7 +7306,7 @@ Jamiroquai|Space Cowboy|1994|OPkjnRIdQXQ|Jamiroquai|S13821
 The Gap Band|Burn Rubber (Why You Wanna Hurt Me)|1980|zSsXRWhfN3w|The Gap Band|S1579
 Stiff Little Fingers|Suspect Device|1978|sKsN5cj9ehs|Stiff Little Fingers|S8586
 Mariah Carey|Honey|1997|w3KOowB4k_k|Mariah Carey|S7423
-Cher|If I Could Turn Back Time|1989|BsKbwR7WXN4|Cher|S5777
+Cher|If I Could Turn Back Time|1989|oD46Z-Xsf94|Cher|S5777
 David & David|Welcome to the Boomtown|1986|97wvwuHUMCw|David & David|S3319
 WU LYF|Dirt|2011|1wKZqNkcAt8|WU LYF|S12625
 Bone Thugs-N-Harmony|1st of tha Month|1995|4j_cOsgRY7w|Bone Thugs-n-Harmony|S5586
@@ -7431,7 +7431,7 @@ Bobby Lewis|Tossin' and Turnin'|1961|Yqo3jVJuRQ4|Bobby Lewis|S5575
 Ibeyi feat. Kamasi Washington|Deathless|2017|yN8TUgkPnbU|Ibeyi|S16394
 Converge|Concubine/Fault & Fracture|2001|38m1NXeQP4E|Converge (band)|S14258
 Joe Jones|You Talk Too Much|1960|2GOYYbiEul0|Joe Jones (singer)|S6936
-The Ventures|Hawaii 5-0|1969|aQSPivbWwuY|The Ventures|S8973
+The Ventures|Hawaii 5-0|1969|aQSPivbWwuY?start=13|The Ventures|S8973
 Nazareth|Hair of the Dog|1975|jEG0-3xlAkg|Nazareth (band)|S11722
 CHVRCHES|Clearest Blue|2015|BZyzX4c1vIs|Chvrches|S9726
 Bourvil|Ballade irlandaise (un oranger)|1958|UF1WNxsjZcM|Bourvil|S10280
@@ -8660,7 +8660,7 @@ Trinity|Three Piece Suit|1977|CbPHcWbOCAY|Trinity (musician)|S12841
 Commodores|Machine Gun|1974|vVoMJSMgsUM|Commodores|S4419
 Daniel Darc|Je me souviens, je me rappelle|2004|MHUFwMA9TDo|Daniel Darc|S10496
 Aretha Franklin|Jump to It|1982|1mgxp2vsHCg|Aretha Franklin|S3427
-Vicki Lawrence|The Night the Lights Went Out in Georgia|1973|vrQvOvu_eRc|Vicki Lawrence|S12845
+Vicki Lawrence|The Night the Lights Went Out in Georgia|1973|b4-txVClamI|Vicki Lawrence|S12845
 The Strokes|What Ever Happened?|2003|-DAeR-OyabY|The Strokes|S8612
 Royal Blood|Out of the Black|2013|bSdtvfBQd6c|Royal Blood (band)|S13951
 Crystal Castles|Alice Practice|2006|e2FOnrFlEJY|Crystal Castles|S5913
@@ -9514,7 +9514,7 @@ Joan Manuel Serrat|Mediterráneo|1971|_w2WOHs9wG4|Joan Manuel Serrat|S11216
 The Eighties Matchbox B-Line Disaster|Celebrate Your Mother|2002|20CCTpU_Mdg|The Eighties Matchbox B-Line Disaster|S6212
 Manuel Göttsching|E2-E4|1984|ys0HyevZpQg|Manuel Göttsching|S11540
 The Velvet Underground|Run Run Run|1967|CGqwy_DQnS4|The Velvet Underground|S9391
-Radiohead|Videotape|2007|-0ZECWpnQNQ|Radiohead|S15807
+Radiohead|Videotape|2007|njCps4jGaks?start=15|Radiohead|S15807
 Miles Davis|Right Off|1971|VN0rvZwTwRI|Miles Davis|S12810
 Clipse|Trill|2006|IGQr7Mevlzw|Clipse|S5836
 Fabrizio De André|Il pescatore|1970|ijEHZufmKU8|Fabrizio De André|S12986
@@ -10123,7 +10123,7 @@ Armand van Helden feat. Roland Clark|Flowerz|1999|TVWRt_rPFyk|Armand van Helden|
 Stereophonics|Local Boy in the Photograph|1997|5kZaW1a_olk|Stereophonics|S12308
 Bruce Springsteen|Devils and Dust|2005|cG8ZQkeZvzc|Bruce Springsteen|S14192
 The Andrews Sisters|Rum and Coca-Cola|1944|WiayZdPESno|The Andrews Sisters|S14065
-Peter Tosh|Equal Rights|1977|iqeOTg2a-l8|Peter Tosh|S7949
+Peter Tosh|Equal Rights|1977|1SN7Pko_jCM|Peter Tosh|S7949
 Liza Minnelli|Losing My Mind|1989|Kj2nYBgOgBA|Liza Minnelli|S7286
 The Techniques|Queen Majesty|1967|Sxhh_rkMvP4|The Techniques|S15109
 Billy Murray|You're a Grand Old Rag|1906|7DqGCMu37Ow|Billy Murray (singer)|S9149
