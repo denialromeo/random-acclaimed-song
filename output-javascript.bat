@@ -1,3 +1,4 @@
+@break > new-written
 @echo const songs = [ > songs.js
 @sed s/\"/\\\\\"/g written > t
 @powershell "get-content .\t | set-content -encoding utf8 g"
