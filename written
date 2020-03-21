@@ -62,7 +62,7 @@ The Crickets|That'll Be the Day|1957|9nrInsANB8Q|The Crickets|S1231
 Ramones|Blitzkrieg Bop|1976|268C3N2dDYk|Ramones|S669
 The Verve|Bitter Sweet Symphony|1997|1lyu1KKwC74|The Verve|S1
 Massive Attack|Unfinished Sympathy|1991|ZWmrfgj0MZI|Massive Attack|S187
-Eagles|Hotel California|1976|BaFAcKTwwS4|Eagles (band)|S632
+Eagles|Hotel California|1976|dMb1yJ_Yj5w|Eagles (band)|S632
 Derek and the Dominos|Layla|1970|TngViNw2pOo|Derek and the Dominos|S841
 Talking Heads|Once in a Lifetime|1980|5IsSpAOD6K8|Talking Heads|S518
 The Animals|The House of the Rising Sun|1964|4-43lLKaqBQ|The Animals|S1025
@@ -104,7 +104,7 @@ ABBA|Dancing Queen|1976|xFrGuyw1V8s|ABBA|S675
 The Beatles|Yesterday|1965|wXTJBr9tt8Q|The Beatles|S1009
 James Brown|Get Up (I Feel Like Being a) Sex Machine|1970|1UzZUfFUnxY|James Brown|S842
 Daft Punk feat. Pharrell Williams|Get Lucky|2013|5NV6Rdv1a3I|Daft Punk|S9426
-Blondie|Heart of Glass|1978|WGU_4-5RaxU|Blondie (band)|S584
+Blondie|Heart of Glass|1978|WGU_4-5RaxU|Debbie Harry|S584
 Run-DMC|Walk This Way|1986|4B_UYYPb-Gk|Run-DMC|S363
 Creedence Clearwater Revival|Proud Mary|1969|XfyEpmQM7bw|Creedence Clearwater Revival|S874
 Chic|Good Times|1979|humibwm_-8s?start=9|Chic (band)|S572
@@ -522,7 +522,7 @@ Al Green|Tired of Being Alone|1971|Tdw7kxD8eUc|Al Green|S820
 James Brown and the Famous Flames|Please Please Please|1956|vruy2GRUsV8|The Famous Flames|S1267
 R.E.M.|The One I Love|1987|j7oQEPfe-O8|R.E.M.|S346
 Fleet Foxes|White Winter Hymnal|2008|DrQRS40OKNE|Fleet Foxes|S4716
-The Easybeats|Friday on My Mind|1966|3iW2_Ec3uEU|The Easybeats|S1486
+The Easybeats|Friday on My Mind|1966|NSowZcvoqr4|The Easybeats|S1486
 The Buggles|Video Killed the Radio Star|1979|W8r-tXRLazs|The Buggles|S2338
 The Walkmen|The Rat|2004|aWR1h-5EzUo|The Walkmen|S2451
 The Drifters|There Goes My Baby|1959|i3HXy9mGPpI|The Drifters|S1173
@@ -777,7 +777,7 @@ Nick Drake|River Man|1969|idcaRTg4-fM|Nick Drake|S2538
 The Beatles|I Saw Her Standing There|1963|oxwAB3SECtc|The Beatles|S2415
 Coldplay|The Scientist|2002|RB-RcX5DS5A|Coldplay|S2239
 Happy Mondays|Step On|1990|2CQLAhNlbfQ|Happy Mondays|S214
-Blondie|Call Me|1980|StKVS0eI85I|Blondie (band)|S547
+Blondie|Call Me|1980|StKVS0eI85I|Debbie Harry|S547
 Sonny and Cher|I Got You Babe|1965|BERd61bDY7k|Sonny & Cher|S1452
 U2|Beautiful Day|2000|co6WMzDOh1o|U2|S1394
 Tubeway Army|Are 'Friends' Electric?|1979|ZF4Z6smOrZw|Tubeway Army|S1835
@@ -826,7 +826,7 @@ George Michael|Faith|1987|6Cs3Pvmmv0E|George Michael|S348
 The Rolling Stones|Under My Thumb|1966|aGRnokznTF0|The Rolling Stones|S3780
 James Brown|Say It Loud - I'm Black and I'm Proud|1968|9bJA6W9CqvE|James Brown|S2416
 The Jimi Hendrix Experience|Crosstown Traffic|1968|0-xyGFI_Nq8|Jimi Hendrix|S927
-Blondie|Atomic|1979|O_WLw_0DFQQ|Blondie (band)|S556
+Blondie|Atomic|1979|O_WLw_0DFQQ|Debbie Harry|S556
 Jamie xx feat. Romy|Loud Places|2015|TP9luRtEqjc|Jamie xx|S9785
 The Penguins|Earth Angel (Will You Be Mine)|1954|VJcGi4-n_Yw|The Penguins|S1340
 Pixies|Gigantic|1988|xJncHEZ3URs|Pixies (band)|S309
@@ -1044,7 +1044,7 @@ Joe Cocker|With a Little Help from My Friends|1968|nCrlyX6XbTU|Joe Cocker|S917
 The Young Rascals|Good Lovin'|1966|DknhW6Mu55Q|The Rascals|S970
 The Platters|Only You (And You Alone)|1955|3FygIKsnkCw|The Platters|S1292
 The Moody Blues|Nights in White Satin|1967|9muzyOd4Lh8|The Moody Blues|S939
-Blondie|Rapture|1980|pHCdS7O248g|Blondie (band)|S523
+Blondie|Rapture|1980|pHCdS7O248g|Debbie Harry|S523
 The Drifters|Up on the Roof|1962|3C3zVHBhfd8|The Drifters|S1085
 Wire|Outdoor Miner|1978|83fpEaEET7k|Wire (band)|S2596
 The Replacements|I Will Dare|1984|Ln3iKL6wF-M|The Replacements (band)|S443
@@ -1868,7 +1868,7 @@ Bob Dylan|Idiot Wind|1975|w8DylAtPF0I|Bob Dylan|S2994
 Kraftwerk|Computer Liebe/Computer Love|1981|CFmmzFcM-MA|Kraftwerk|S7148
 Muse|Plug In Baby|2001|dbB-mICjkQM|Muse (band)|S2220
 The Dixie Cups|Chapel of Love|1964|fc5stxiLSWQ|The Dixie Cups|S1032
-Blondie|Dreaming|1979|TU3-lS_Gryk|Blondie (band)|S1571
+Blondie|Dreaming|1979|TU3-lS_Gryk|Debbie Harry|S1571
 Grizzly Bear|Yet Again|2012|AuG9i5cwGW0|Grizzly Bear (band)|S5015
 AC/DC|Dirty Deeds Done Dirt Cheap|1976|whQQpwwvSh4|AC/DC|S3130
 Kanye West|Through the Wire|2003|GLTQPR8PoZU|Kanye West|S2483
@@ -2016,9 +2016,9 @@ Roots Manuva|Witness (1 Hope)|2001|ltP7L16A8Hs|Roots Manuva|S1482
 The Human League|Love Action (I Believe in Love)|1981|HnjLlDY_xww|The Human League|S540
 Peter Tosh|Legalize It|1975|ER51ZvTHNpM|Peter Tosh|S1784
 Men at Work|Down Under|1981|XfR9iY5y94s|Men at Work|S3618
-Blondie|One Way or Another|1978|ygfUjp4x_hQ|Blondie (band)|S2337
+Blondie|One Way or Another|1978|ygfUjp4x_hQ|Debbie Harry|S2337
 iLoveMakonnen|Club Goin' Up on a Tuesday / Tuesday (feat. Drake)|2014|avFq9errZCk|ILoveMakonnen|S9565
-Blondie|Hanging on the Telephone|1978|uWhkbDMISl8|Blondie (band)|S5505
+Blondie|Hanging on the Telephone|1978|uWhkbDMISl8|Debbie Harry|S5505
 Yves Montand|Les feuilles mortes|1949|JWfsp8kwJto|Yves Montand|S9105
 DJ Mujava|Township Funk|2008|_l1bjtjzZFo|DJ Mujava|S4713
 Jacques Dutronc|Et moi, et moi, et moi|1966|grn7SMp_EDs|Jacques Dutronc|S6835
@@ -2420,7 +2420,7 @@ Bob Wills and His Texas Playboys|New San Antonio Rose|1940|snMQeWdqwmA|Bob Wills
 Sir Douglas Quintet|She's About a Mover|1965|XboE3_7KZ3Y|Sir Douglas Quintet|S1453
 M.O.P|Ante Up (Robbing-Hoodz Theory)|2000|jqPxJp5OJW0|M.O.P.|S2200
 Joy Division|Disorder|1979|fhCLalLXHP4|Joy Division|S4559
-Blondie|Denis|1977|ahGxiSV_LH0|Blondie (band)|S2331
+Blondie|Denis|1977|ahGxiSV_LH0|Debbie Harry|S2331
 Tool|Stinkfist|1996|6zpvlMp04D0|Tool (band)|S3105
 Wilco|I Am Trying to Break Your Heart|2002|zlxH9-TYseY|Wilco|S4252
 Deichkind|Remmidemmi (Yippie Yippie Yeah)|2006|7TYwvmwZrVk|Deichkind|S4043
@@ -2597,7 +2597,7 @@ Squarepusher|My Red Hot Car|2001|SqjZUyUtqYs|Squarepusher|S1458
 Roxy Music|A Song for Europe|1973|1zWrxQXzyGE?start=5|Roxy Music|S4169
 Big Audio Dynamite|E=MC2|1986|cHTDkJ-bQqM|Big Audio Dynamite|S4206
 George Jones|She Thinks I Still Care|1962|pE1QYlATnGo|George Jones|S1086
-Blondie|The Tide Is High|1980|ypWXEnK_0T8|Blondie (band)|S3221
+Blondie|The Tide Is High|1980|ypWXEnK_0T8|Debbie Harry|S3221
 Plastic Ono Band|Cold Turkey|1969|2C6ThAaxrWw|Plastic Ono Band|S1589
 Unknown Mortal Orchestra|Multi-Love|2015|bEtDVy55shI|Unknown Mortal Orchestra|S9866
 Tears for Fears|Head Over Heels|1985|CsHiG-43Fzg|Tears for Fears|S4470
@@ -4269,7 +4269,7 @@ Primal Scream|Country Girl|2006|Mcck9nW8o1M|Primal Scream|S4022
 Duke Ellington|East St. Louis Toodle-oo|1926|q6LmSj26RRc|Duke Ellington|S9210
 Green Day|Holiday|2004|A1OqtIqzScI|Green Day|S6641
 Janelle Monáe|Dance Apocalyptic|2013|eaMBagakSdM|Janelle Monáe|S9460
-Blondie|Sunday Girl|1978|u5SmLgGnKJ4|Blondie (band)|S5507
+Blondie|Sunday Girl|1978|u5SmLgGnKJ4|Debbie Harry|S5507
 Alice in Chains|Man in the Box|1990|TAqZb52sgpU|Alice in Chains|S5160
 Fats Waller|Honeysuckle Rose|1934|UAlkSdrO1DY|Fats Waller|S2757
 Billy Bragg|Between the Wars|1985|xjUA3RU4B8E|Billy Bragg|S2357
@@ -4732,7 +4732,7 @@ Kylie Minogue|Love at First Sight|2001|wf421JsG004|Kylie Minogue|S4614
 Cannibal & The Headhunters|Land of 1000 Dances|1965|VZFzKZyyQK0|Cannibal & the Headhunters|S2491
 Ghostface Killah|Daytona 500|1996|1G03xA3SMKo|Ghostface Killah|S3445
 Joe Liggins|The Honeydripper|1945|MbkjzmXKevc|Joe Liggins|S4358
-Blondie|X-Offender|1976|PjvpLiS2gKA|Blondie (band)|S4181
+Blondie|X-Offender|1976|PjvpLiS2gKA|Debbie Harry|S4181
 Roy Orbison|Blue Bayou|1963|HiMl4yX1JiA|Roy Orbison|S2413
 Christina Aguilera|Genie in a Bottle|1999|kIDWgqDBNXA|Christina Aguilera|S3144
 Alex Reece|Pulp Fiction|1995|oGG3_CJ60u8|Alex Reece|S81
@@ -6251,7 +6251,7 @@ Wanda Jackson|Fujiyama Mama|1957|oVvbl8nsPck|Wanda Jackson|S4373
 Jamiroquai|Virtual Insanity|1996|4JkIs37a2JE|Jamiroquai|S6858
 Paul Weller|You Do Something to Me|1995|tM1rSTOs7Zs|Paul Weller|S7903
 Depeche Mode|Walking in My Shoes|1993|GrC_yuzO-Ss|Depeche Mode|S10579
-Blondie|Maria|1999|abw49k3rIN0|Blondie (band)|S5508
+Blondie|Maria|1999|abw49k3rIN0|Debbie Harry|S5508
 Elvis Costello and the Attractions|Beyond Belief|1982|fZGNJTdh-Z0|Elvis Costello|S4563
 Fabolous|Breathe|2004|hQE6QhAEtuo|Fabolous|S4631
 Eric Donaldson|Cherry Oh Baby|1971|FFHNE6_bEHU?start=137|Eric Donaldson|S6302
@@ -6457,7 +6457,7 @@ Tom Waits|Martha|1973|y9Mse62NFl4|Tom Waits|S4550
 Die Sterne|Was hat dich bloß so ruiniert|1996|b4qeYfFSVS8|Die Sterne|S15423
 Jefferson Starship|Miracles|1975|B4TBU2a8HYs|Jefferson Starship|S6890
 The Presidents of the United States of America|Peaches|1995|wvAnQqVJ3XQ|The Presidents of the United States of America (band)|S7999
-Blondie|Rip Her to Shreds|1976|e1tunkDHgcA|Blondie (band)|S10209
+Blondie|Rip Her to Shreds|1976|e1tunkDHgcA|Debbie Harry|S10209
 Lambchop|Is a Woman|2002|5jfaqxcuebs|Lambchop (band)|S13862
 Jay-Z|I Just Wanna Love U (Give It 2 Me)|2000|nG8o_9RliwU|Jay-Z|S4603
 Los Fabulosos Cadillacs feat. Celia Cruz|Vasos vacíos|1988|3AxwmES4ZyE|Los Fabulosos Cadillacs|S13548
@@ -7912,7 +7912,7 @@ Daryl Hall & John Oates|You Make My Dreams|1980|EErSKhC0CZs|Hall & Oates|S11007
 Mantronix|Who Is It?|1986|b2dQ8hdXhGE|Mantronix|S4472
 Loretta Lynn|One's on the Way|1971|yMzSYyjNb74|Loretta Lynn|S1548
 Bob Dylan|Abandoned Love|1985|BwV36JL_G0s|Bob Dylan|S10221
-Blondie|Picture This|1978|QbdCpi4qTNY|Blondie (band)|S5506
+Blondie|Picture This|1978|QbdCpi4qTNY|Debbie Harry|S5506
 Steely Dan|Dirty Work|1972|QrE_cDvcgJg|Steely Dan|S8553
 The Animals|Inside-Looking Out|1966|H8M1MpkozJQ|The Animals|S13266
 Clap Your Hands Say Yeah|Is This Love?|2005|5ie9WAeiKZY|Clap Your Hands Say Yeah|S3046
@@ -8173,7 +8173,7 @@ Morrissey|Speedway|1994|SvbuLtncmtw|Morrissey|S7605
 Alicia Bridges|I Love the Nightlife (Disco 'Round)|1978|umAurdHLNzU|Alicia Bridges|S9973
 Lili Drop|Sur ma mob|1979|oQT2YpltjR0|https://fr.wikipedia.org/wiki/Lili_Drop|S11439
 Was (Not Was)|Wheel Me Out|1980|ScviwFh6T3M|Was (Not Was)|S8940
-James Taylor|Don't Let Me Be Lonely Tonight|1972|XTh1335y7EA|James Taylor|S13819
+James Taylor|Don't Let Me Be Lonely Tonight|1972|sXEKnABnHe4|James Taylor|S13819
 Gladys Knight and the Pips|Neither One of Us (Wants to Be the First to Say Goodbye)|1972|uSw7vulUfME|Gladys Knight & the Pips|S3547
 Emmett Miller & His Georgia Crackers|Lovesick Blues|1928|otNICva63mQ|Emmett Miller|S4056
 Ramones|I Don't Want to Grow Up|1995|1Tpu_XoNABA|Ramones|S14920
