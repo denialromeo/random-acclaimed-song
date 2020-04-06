@@ -6,4 +6,4 @@ rem schtasks /create /tn "random-acclaimed-song-maintenance" /tr C:\Users\hi\Des
 @if %errorlevel% neq 0 exit /b %errorlevel%
 @copy /y C:\Users\hi\Desktop\code\random-acclaimed-song\new-written C:\Users\hi\Desktop\code\random-acclaimed-song\written
 @break > C:\Users\hi\Desktop\code\random-acclaimed-song\new-written
-@cd C:\Users\hi\Desktop\code\random-acclaimed-song & output-javascript
+@cd C:\Users\hi\Desktop\code\random-acclaimed-song & b & m
