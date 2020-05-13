@@ -21,7 +21,13 @@ api_keys = ["AIzaSyBQnISjzNNGwITiZ9IGa8h-ACv-zFcQnZw",
             "AIzaSyAES65sOUOS22G4XD5ink6EBEoIAN-WUmo"]
 
 def poll_api(url, payload):
-    return json.loads(requests.get(url, payload).text)
+    while True:
+        try:
+            response = json.loads(requests.get(url, payload).text)
+        except requests.exceptions.ConnectionError:
+            continue
+        else:
+            return response
 
 def wikipedia_title(artist):
     url = "https://en.wikipedia.org/w/api.php"
@@ -43,7 +49,10 @@ def get_response(url, payload):
     while "error" in response:
         print(response["error"]["errors"][0]["message"][0:76])
         api_keys.pop()
-        payload["key"] = api_keys[-1]
+        try:
+            payload["key"] = api_keys[-1]
+        except IndexError:
+            raise IndexError("API keys exhausted! Try again at midnight!")
         response = poll_api(url, payload)
     return response
 
