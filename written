@@ -268,7 +268,7 @@ Aphex Twin|Windowlicker|1999|5ZT3gTu4Sjw|Aphex Twin|S1362
 Lorde|Green Light|2017|dMK_npDG12Q|Lorde|S16436
 The Breeders|Cannonball|1993|fxvkI9MTQw4|The Breeders|S121
 Eminem feat. Dido|Stan|2000|gOMhN-hfMtY|Eminem|S1385
-Michael Jackson|Beat It|1982|oRdxUFDoQe0|Michael Jackson|S457
+Michael Jackson|Beat It|1982|oRdxUFDoQe0?start=22|Michael Jackson|S457
 Radiohead|Idioteque|2000|Y7WCdYFqz5g|Radiohead|S3124
 Sam Cooke|You Send Me|1957|mrwfB4aAZZc|Sam Cooke|S1236
 ? and the Mysterians|96 Tears|1966|R7uC5m-IRns|%3F and the Mysterians|S969
@@ -1030,7 +1030,7 @@ Bruce Springsteen|I'm On Fire|1984|lrpXArn3hII|Bruce Springsteen|S3845
 Spice Girls|Wannabe|1996|gJLIiF15wjQ|Spice Girls|S44
 M.I.A.|Galang|2004|yRvWQrGurkQ|M.I.A. (rapper)|S2467
 The Beatles with Billy Preston|Get Back|1969|YEESfv-11ng|The Beatles|S892
-Madonna|Hung Up|2005|EDwb9jOVRtU|Madonna (entertainer)|S3020
+Madonna|Hung Up|2005|EDwb9jOVRtU?start=14|Madonna (entertainer)|S3020
 A Guy Called Gerald|Voodoo Ray|1988|XvqSnSSF2i4?start=5|A Guy Called Gerald|S326
 Stevie Wonder|Sir Duke|1976|s6fPN5aQVDI|Stevie Wonder|S1795
 The Specials|Gangsters|1979|lgCZN1rU5co|The Specials|S575
@@ -1572,7 +1572,7 @@ Leftfield feat. John Lydon|Open Up|1993|uctraa3zKCI|Leftfield|S125
 The Melodians|Rivers of Babylon|1970|e57brp0HGDA|The Melodians|S3617
 Sigur Rós|Svefn-g-englar|1999|8L64BcCRDAE|Sigur Rós|S2175
 The Beat|Mirror in the Bathroom|1980|SHWrmIzgB5A|The Beat (British band)|S561
-T. Rex|Children of the Revolution|1972|pu3-ZGbqUyk|T. Rex (band)|S810
+T. Rex|Children of the Revolution|1972|ayv0vU74soM|T. Rex (band)|S810
 Burning Spear|Marcus Garvey|1975|AHbvg8xhJkk|Burning Spear|S5680
 Nick Drake|Way to Blue|1969|S40DdlD9JxI|Nick Drake|S2295
 The White Stripes|Dead Leaves and the Dirty Ground|2001|7OyytKqYjkE|The White Stripes|S4617
@@ -2035,7 +2035,7 @@ Bob Dylan|Every Grain of Sand|1981|lhJaENjDEME|Bob Dylan|S2898
 Smokey Robinson and the Miracles|Shop Around|1960|AQGXa3FiXKM|The Miracles|S1168
 Gwen Stefani|Hollaback Girl|2004|Kgjkth6BRRY|Gwen Stefani|S3025
 Talking Heads|Born Under Punches (The Heat Goes On)|1980|YO7N2tFb0X8|Talking Heads|S4449
-The Velvet Underground & Nico|Femme Fatale|1966|jog8gh40Fho|The Velvet Underground|S1487
+The Velvet Underground & Nico|Femme Fatale|1966|r_4wKYrky4k|The Velvet Underground|S1487
 Slowdive|Sugar for the Pill|2017|BxwAPBxc0lU|Slowdive|S16479
 Armand van Helden|U Don't Know Me|1999|a8u5-CnmJk8|Armand van Helden|S1361
 Ray Charles|Lonely Avenue|1956|6f4m6Ku2jyk|Ray Charles|S1279
@@ -2372,7 +2372,7 @@ SBTRKT feat. Yukimi Nagano|Wildfire|2011|A-LEiOzXHWM|Sbtrkt|S4984
 Major Lazer & DJ Snake feat. MØ|Lean On|2015|YqeW9_5kURI|Major Lazer|S9815
 QT|Hey QT|2014|1MQUleX1PeA|QT (musician)|S9574
 Kool & The Gang|Celebration|1980|3GwjfUFyY6M|Kool & the Gang|S1836
-Solomon Burke|Cry to Me|1962|VfARCp38XtA|Solomon Burke|S1103
+Solomon Burke|Cry to Me|1962|mEu8DrO9PbY|Solomon Burke|S1103
 Shirley and Co.|Shame, Shame, Shame|1974|YEzQV75LDL0|Shirley Goodman|S696
 David Bowie|I Can't Give Everything Away|2016|sE1Zcngd3VA|David Bowie|S16068
 Blood, Sweat & Tears|Spinning Wheel|1969|SFEewD4EVwU|Blood, Sweat & Tears|S896
@@ -3538,7 +3538,7 @@ Tom Waits|Innocent When You Dream|1987|95gu6758320|Tom Waits|S3928
 Red Hot Chili Peppers|Otherside|1999|rn_YodiJO6k|Red Hot Chili Peppers|S8124
 Adam and the Ants|Stand and Deliver|1981|4B2a6l6wM2k|Adam and the Ants|S3135
 Tinashe feat. Schoolboy Q|2 On|2014|-s7TCuCpB5c|Tinashe|S9581
-The Who|I'm a Boy|1966|8lO91WWJ9tI|The Who|S3955
+The Who|I'm a Boy|1966|QRj-NokS2xI|The Who|S3955
 Big Daddy Kane|Ain't No Half Steppin'|1988|nqPlF5Mn32M|Big Daddy Kane|S1988
 Los Rodriguez|Sin documentos|1993|BUKHMGiW_rY|Los Rodríguez|S7314
 Stone Temple Pilots|Plush|1992|V5UOC0C0x8Q|Stone Temple Pilots|S8595
@@ -4128,7 +4128,7 @@ The Paragons|The Tide Is High|1967|sjcWJyKeScI|The Paragons|S7847
 Yo La Tengo|Tom Courtenay|1995|lrALeoN18bw|Yo La Tengo|S4228
 Jeff Buckley|Everybody Here Wants You|1998|nrMwgTc69y4|Jeff Buckley|S4847
 Ian Hunter|Once Bitten, Twice Shy|1975|NKgQO6sILug|Ian Hunter (singer)|S6767
-Pascal Comelade & PJ Harvey|Love Too Soon|1998|Z87cA1c3M50|PJ Harvey|S7852
+Pascal Comelade & PJ Harvey|Love Too Soon|1998|lBvJpl_0ZME|PJ Harvey|S7852
 The Notwist|Pick Up the Phone|2002|Ox95G3v-CD0|The Notwist|S7774
 Red Hot Chili Peppers|Can't Stop|2002|8DyziWtkfBw|Red Hot Chili Peppers|S8125
 The Showmen|It Will Stand|1961|aa17h1n5kCw|The Showmen|S1137
@@ -4162,7 +4162,7 @@ Bruce Springsteen|No Surrender|1984|tLeZ7EolBDE|Bruce Springsteen|S5651
 The Plastic Ono Band with the Harlem Community Choir|Happy Xmas (War Is Over)|1971|yN4Uu0OlmTg|John Lennon/Plastic Ono Band|S2308
 The Byrds|Goin' Back|1967|wkIPB_MYl30|The Byrds|S1491
 Bersuit Vergarabat|Sr. Cobranza|1998|MjlYbw9WbHU|Bersuit Vergarabat|S10152
-Iggy Azalea feat. Charli XCX|Fancy|2014|O-zpOMYRi0w|Iggy Azalea|S9605
+Iggy Azalea feat. Charli XCX|Fancy|2014|O-zpOMYRi0w?start=3|Iggy Azalea|S9605
 Chuck Willis|C.C. Rider|1957|-7R-ck2LRWo|Chuck Willis|S1244
 The Horrors|Something to Remember Me By|2017|e38KoYlHDTA|The Horrors|S16495
 Todd Rundgren|Can We Still Be Friends|1978|jI_oBXzLNmw|Todd Rundgren|S8779
@@ -4755,7 +4755,7 @@ The Bad Plus|Smells Like Teen Spirit|2003|RZ6Xo1mYSJg|The Bad Plus|S10066
 Lil Wayne feat. Static Major|Lollipop|2008|2IH8tNQAzSs|Lil Wayne|S4728
 Electronic|Get the Message|1991|vqC2eT5vI9w|Electronic (band)|S190
 The Pretenders|Precious|1980|69jUwYWxens|The Pretenders|S2601
-Jay-Z feat. The Notorious B.I.G.|Brooklyn's Finest|1996|4o24e7MnblU|Jay-Z|S6878
+Jay-Z feat. The Notorious B.I.G.|Brooklyn's Finest|1996|4JGs6fqUcLA|Jay-Z|S6878
 The Rolling Stones|Sweet Virginia|1972|tIfQipkkOqs|The Rolling Stones|S8227
 Killer Mike feat. Bun B, T.I. & Trouble|Big Beast|2012|Z8-RmM5py1c|Killer Mike|S7099
 Camarón|La leyenda del tiempo|1979|MrUWtOtfwDw|Camarón de la Isla|S5698
@@ -5524,7 +5524,7 @@ Janet Jackson|The Pleasure Principle|1986|Q-gu1KETjVY|Janet Jackson|S6863
 England Dan & John Ford Coley|I'd Really Love to See You Tonight|1976|UuUVgKT4roQ|England Dan & John Ford Coley|S6285
 John Lee Hooker|I'm in the Mood|1951|rT-FoZt95D4|John Lee Hooker|S6949
 Benny Goodman feat. Charlie Christian|Good Enough to Keep/Air Mail Special|1941|wPFL7CbtWcg|Benny Goodman|S9141
-Liz Phair|Divorce Song|1993|fXnSjaYi5Ig|Liz Phair|S4586
+Liz Phair|Divorce Song|1993|zU8WEqr5Lkk|Liz Phair|S4586
 Wir sind Helden|Guten Tag (Die Reklamation)|2002|chlXBRpcIFA|Wir sind Helden|S12609
 Paolo Conte|Via con me|1981|lUP_fex2RaA|Paolo Conte|S11837
 Don Gibson|Oh Lonesome Me|1958|-Z4kPGcmyPI|Don Gibson|S3448
@@ -5787,7 +5787,7 @@ Duke Ellington|Harlem Air-Shaft|1940|HvaBqWeCe3w|Duke Ellington|S10661
 Local Natives|Airplanes|2009|ob6kXOGfHPE|Local Natives|S7292
 Tommy Dorsey|Opus No. 1|1944|uRIaFOKYN0k|Tommy Dorsey|S8803
 Kate Bush|The Sensual World|1989|h1DDndY0FLI|Kate Bush|S2434
-Adam Green|Jessica|2003|wuZVOWYPtcw|Adam Green (musician)|S4254
+Adam Green|Jessica|2003|Xq0co7N_7Qw|Adam Green (musician)|S4254
 The Beatles|I've Just Seen a Face|1965|m8LbJfC0SYM|The Beatles|S10109
 The Louvin Brothers|Knoxville Girl|1956|KhMiKeSffns|The Louvin Brothers|S4382
 The Notwist|Kong|2014|KUpktwg7O4M|The Notwist|S9610
@@ -7201,7 +7201,7 @@ Traffic|Hole in My Shoe|1967|5SsROjSmu2U|Traffic (band)|S12693
 ceo|Come with Me|2010|4T74frXBpgk|Ceo (musician)|S5746
 Styx|Babe|1979|uBi61pgDUP8|Styx (band)|S8619
 The Coral|Don't Think You're the First|2003|-Y4wmn-fw-c|The Coral|S5869
-L'Trimm|Cars with the Boom|1988|BaeNelsAOGo|L'Trimm|S3576
+L'Trimm|Cars with the Boom|1988|6fMERyRz498|L'Trimm|S3576
 Hootie & The Blowfish|Only Wanna Be With You|1994|Ln6WQqRDrCo|Hootie & the Blowfish|S12945
 Babasónicos|Irresponsables|2003|eXkA1Cjr7cU|Babasónicos|S10057
 The Monkees|(I'm Not Your) Steppin' Stone|1966|nCM7qcRyfKo|The Monkees|S11674
@@ -7268,7 +7268,7 @@ Meat Puppets|Backwater|1994|9-HFbNhTTKQ|Meat Puppets|S7499
 Caribou|Sun|2010|f-qof_oiF0M|Dan Snaith|S5715
 Razorlight|Golden Touch|2004|KbANp9cRd6o|Razorlight|S8115
 Double 99|Rip Groove|1997|uR3Vw8J8vUo?start=5|Double 99|S2131
-Honey Cone|Want Ads|1971|IkJGSnRB9RM|Honey Cone|S6729
+Honey Cone|Want Ads|1971|c2cQ47VVzU0|Honey Cone|S6729
 Les Chats Sauvages|Twist à St. Tropez|1961|BpIdUE3AZu8|Les Chats Sauvages|S7246
 Dido|Thank You|1999|1TO48Cnl66w|Dido (singer)|S6068
 Spoonie Gee|The Godfather|1987|OEWTaMSe64w|Spoonie Gee|S1960
@@ -7951,7 +7951,7 @@ Wallace Collection|Daydream|1969|60ejKrj38j8|Wallace Collection (band)|S8914
 Sonny and Cher|Baby Don't Go|1965|BjHSOzVU5j0|Sonny & Cher|S13356
 Eels|Last Stop: This Town|1998|0TfqbuTBqX8|Eels (band)|S10693
 Led Zeppelin|Thank You|1969|u1z4vkPWkLQ|Led Zeppelin|S11395
-The Decemberists|Here I Dreamt I Was an Architect|2002|qkWrnWRKDJQ|The Decemberists|S4674
+The Decemberists|Here I Dreamt I Was an Architect|2002|qkWrnWRKDJQ?start=38|The Decemberists|S4674
 Rammstein|Mein Teil|2004|PBvwcH4XX6U|Rammstein|S14919
 Sub Sub|Ain't No Love|1993|pRguEi3wufQ|Sub Sub|S2063
 Berthe Sylva|Les Roses Blanches|1926|sJXx7jZX39U|https://fr.wikipedia.org/wiki/Berthe_Sylva|S10153
@@ -8008,7 +8008,7 @@ Stevie Wonder|If You Really Love Me|1971|UmR4y4slhmo|Stevie Wonder|S12321
 Nas|Life's a Bitch|1994|gheFrQ5X3mU|Nas|S4502
 Wild Nothing|Live in Dreams|2010|M0SFLuxJ_H0|Wild Nothing|S9025
 Miss Kittin & The Hacker|1982|1998|_LGI5qAwKP8|Miss Kittin|S15717
-Björk|Isobel|1995|AGjGh74n_9U|Björk|S5473
+Björk|Isobel|1995|VGPYO0mzmBQ|Björk|S5473
 Groove Armada|Superstylin'|2001|_kE0pxRkMtQ|Groove Armada|S6651
 The Wrens|She Sends Kisses|2003|i8xaUuZaIsI|The Wrens|S4685
 Skrillex|Scary Monsters and Nice Sprites|2010|WSeNSzJ2-Jw|Skrillex|S16297
