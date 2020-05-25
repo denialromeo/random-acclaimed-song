@@ -1,1 +1,1 @@
-git commit -a -m more
+git commit -a -m more & git push
