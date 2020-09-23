@@ -316,7 +316,7 @@ Ritchie Valens|La Bamba|1958|Jp6j5HJ-Cok|Ritchie Valens|S1204
 Neil Young|Heart of Gold|1972|Eh44QPT1mPE?start=107|Neil Young|S797
 The Beatles|Come Together|1969|45cYwDMibGo|The Beatles|S2531
 David Bowie|Ashes to Ashes|1980|HyMm4rJemtI|David Bowie|S549
-Jefferson Airplane|Somebody to Love|1967|cBYv2wr9co0|Jefferson Airplane|S947
+Jefferson Airplane|Somebody to Love|1967|JUbMWtUyIIE|Jefferson Airplane|S947
 The Flaming Lips|Do You Realize??|2002|lPXWt2ESxVY|The Flaming Lips|S1530
 The Beatles|Ticket to Ride|1965|SyNt5zm3U_M|The Beatles|S1001
 Pixies|Monkey Gone to Heaven|1989|XycBLF6kWuY|Pixies (band)|S245
@@ -718,7 +718,7 @@ Louis Armstrong|What a Wonderful World|1967|CWzrABouyeE|Louis Armstrong|S2842
 Carly Simon|You're So Vain|1972|j13oJajXx0M|Carly Simon|S805
 My Bloody Valentine|Only Shallow|1991|FyYMzEplnfU|My Bloody Valentine (band)|S2029
 The Cure|Close to Me|1985|FY-zoTZjSVM|The Cure|S4204
-Michael Jackson|Thriller|1982|sOnqjkJTMaA|Michael Jackson|S1907
+Michael Jackson|Thriller|1982|sOnqjkJTMaA?start=254|Michael Jackson|S1907
 Ariel Pink's Haunted Graffiti|Round and Round|2010|y_VJwFNrvlE|Ariel Pink|S4888
 The Marvelettes|Please Mr. Postman|1961|rGJcbHni4rc|The Marvelettes|S1121
 Leonard Cohen|Hallelujah|1984|YrLk4vdY28Q|Leonard Cohen|S3291
@@ -955,7 +955,7 @@ The Chemical Brothers|Setting Sun|1996|p5NX1FC-7-w|The Chemical Brothers|S38
 Ray Charles|Hit the Road Jack|1961|Q8Tiz6INF7I|Ray Charles|S1113
 The Doors|Break On Through (To the Other Side)|1967|YCohm_CilUY|The Doors|S1492
 Neil Young with Crazy Horse|Down by the River|1969|TiX8Rz5C3LY|Neil Young|S900
-Suicide|Frankie Teardrop|1977|tONEk9YMoIw|Suicide (band)|S2593
+Suicide|Frankie Teardrop|1977|8_dXp0eF8s0|Suicide (band)|S2593
 Jeff Buckley|Grace|1994|A3adFWKE9JE|Jeff Buckley|S4220
 Lonnie Donegan|Rock Island Line|1955|wI4nRD-DRpk|Lonnie Donegan|S1331
 Bruce Springsteen|Rosalita (Come Out Tonight)|1973|WZQrCLPf5kc|Bruce Springsteen|S3847
@@ -1680,7 +1680,7 @@ Curtis Mayfield|Freddie's Dead|1972|0B6TKClPFQA|Curtis Mayfield|S1316
 Arctic Monkeys|When the Sun Goes Down|2006|EqkBRVukQmE|Arctic Monkeys|S4031
 Stiff Little Fingers|Alternative Ulster|1978|nTO7nXw4StY|Stiff Little Fingers|S2334
 Doves|There Goes the Fear|2002|SneuvKIkM3A|Doves (band)|S1511
-Bob Marley and the Wailers|Jamming|1977|5WlCdiU9IzA|Bob Marley|S657
+Bob Marley and the Wailers|Jamming|1977|VF30VS5FZ6c|Bob Marley|S657
 Arctic Monkeys|Fake Tales of San Francisco|2005|ePg1tbia9Bg|Arctic Monkeys|S3053
 Gene Kelly|Singin' in the Rain|1952|w40ushYAaYA|Gene Kelly|S2769
 The Killers|When You Were Young|2006|ff0oWESdmH0|The Killers|S3997
@@ -4025,7 +4025,7 @@ Madonna|Don't Tell Me|2000|FRLHro9EPD0|Madonna (entertainer)|S3583
 Ratt|Round and Round|1984|0u8teXR8VE4|Ratt|S4203
 The Stylistics|I'm Stone in Love with You|1972|UVIZ0Fy-hfo|The Stylistics|S807
 Right Said Fred|I'm Too Sexy|1991|P5mtclwloEQ|Right Said Fred|S207
-KC and the Sunshine Band|Get Down Tonight|1975|LHEsE9yN2CY|KC and the Sunshine Band|S7073
+KC and the Sunshine Band|Get Down Tonight|1975|9wJLMe2mLoE|KC and the Sunshine Band|S7073
 Adele|Chasing Pavements|2008|08DjMT-qR9g|Adele|S4699
 Ace of Base|All That She Wants|1992|d73tiBBzvFM|Ace of Base|S5091
 Gang of Four|To Hell with Poverty!|1981|QRjjVFC-oG4|Gang of Four (band)|S3435
@@ -5412,7 +5412,7 @@ Donovan|Atlantis|1968|bj9F8pHJF10|Donovan|S6133
 Lady Gaga|Born This Way|2011|wV1FrqwZyKw|Lady Gaga|S7171
 Metallica|Disposable Heroes|1986|NoVavpbhBfM|Metallica|S14740
 Van Morrison|The Way Young Lovers Do|1968|1cXIdFxbpIg|Van Morrison|S9388
-The Ohio Express|Yummy Yummy Yummy|1968|-4aQiFaCod8|Ohio Express|S7796
+The Ohio Express|Yummy Yummy Yummy|1968|VECljlG--gE|Ohio Express|S7796
 Horace Silver|The Preacher|1955|yzPlNNwJhbs|Horace Silver|S13200
 Dizzee Rascal|Stand Up Tall|2004|TArZLAUsM10|Dizzee Rascal|S2449
 Emerson, Lake & Palmer|Karn Evil 9 - First Impression, Part 1|1973|yIFBpn7_uBQ|Emerson, Lake & Palmer|S6271
@@ -6336,7 +6336,7 @@ Red Hot Chili Peppers|My Friends|1995|0kT5w27YxyI|Red Hot Chili Peppers|S12040
 Bo Diddley|You Can't Judge a Book by the Cover|1962|Lch0o4wwGyw|Bo Diddley|S5532
 No Age|Glitter|2010|j3_t3q1tjH4|No Age|S7759
 Umberto Tozzi|Gloria|1979|c1P8jDSsykc|Umberto Tozzi|S8893
-Bad Company|Bad Company|1974|zclItQT66kQ|Bad Company|S10062
+Bad Company|Bad Company|1974|ww5GXbk58R0|Bad Company|S10062
 Pharoah Sanders|The Creator Has a Masterplan|1969|eZswXa9fbn8|Pharoah Sanders|S12703
 Falco|Der Kommissar|1982|8-bgiiTxhzM|Falco (musician)|S9217
 Ruby|Paraffin|1995|J5O56vmE_s8|Ruby (band)|S8262
@@ -6618,7 +6618,7 @@ Lead Belly|The Gallis Pole|1939|ye2N_2ce3QE|Lead Belly|S14652
 Julieta Venegas|De mis pasos|1997|kcwfjNduQok|Julieta Venegas|S13529
 Sloan|Underwhelmed|1992|MkN_qkN5JLQ|Sloan (band)|S2942
 The The|Heartland|1986|fPSO8pdAX6c|The The|S1953
-Death Cab for Cutie|I Will Follow You into the Dark|2005|aoR0mGq_z2I|Death Cab for Cutie|S5998
+Death Cab for Cutie|I Will Follow You into the Dark|2005|3iV_1ESMHaI?start=28|Death Cab for Cutie|S5998
 Beck|Blue Moon|2014|yf3CVZ4CgfA|Beck|S9608
 Mott the Hoople|The Golden Age of Rock 'n' Roll|1974|jToqxJfUZTc|Mott the Hoople|S7619
 Neutral Milk Hotel|Oh Comely|1998|OALwvzmW6_o|Neutral Milk Hotel|S15736
@@ -8666,7 +8666,7 @@ Royal Blood|Out of the Black|2013|bSdtvfBQd6c?start=6|Royal Blood (band)|S13951
 Crystal Castles|Alice Practice|2006|e2FOnrFlEJY|Crystal Castles|S5913
 The Shamen|Ebeneezer Goode|1992|7b2T8K2D-ps|The Shamen|S12188
 Supertramp|School|1974|9gkbsOywVxU|Supertramp|S12372
-Carly Simon|Why|1982|w7hJSr6v20A|Carly Simon|S10355
+Carly Simon|Why|1982|HSARHAgEnk4|Carly Simon|S10355
 Ronnie Hawkins|Mary Lou|1959|bWkSP8s12iM|Ronnie Hawkins|S4380
 Stephan Eicher|Déjeuner en paix|1991|S7cP8jGMtAE|Stephan Eicher|S13633
 Leonard Cohen|The Partisan|1969|S34cVkL6zCE|Leonard Cohen|S13542
@@ -8917,7 +8917,7 @@ Wanda|Meine beiden Schwestern|2015|ahlorvBLKnI|Wanda (band)|S9867
 Lucinda Williams|Drunken Angel|1998|cckroKLPsqg|Lucinda Williams|S2153
 Cake|Short Skirt/Long Jacket|2001|X5KmB8Laemg|Cake (band)|S10342
 Kevin Ayers|The Lady Rachel|1969|iFxd3tKmN4o|Kevin Ayers|S13031
-Joseito Fernandez|Guajira Guantanamera|1973|XMJswzLU0RY|Joseíto Fernández|S12908
+Joseito Fernandez|Guajira Guantanamera|1973|o5QZztjmY9E|Joseíto Fernández|S12908
 Bauhaus|Kick in the Eye|1981|rb-6ka1y-K8|Bauhaus (band)|S5336
 Tom Waits|The Piano Has Been Drinking (Not Me) (An Evening With Pete King)|1976|0GjyGdDrXXs?start=48|Tom Waits|S13992
 Genesis|Turn It On Again|1980|8OIkw9kJ0u4|Genesis (band)|S10911
