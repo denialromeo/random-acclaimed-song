@@ -129,8 +129,8 @@ def maintenance():
                     pass
                 elif (video_is_playable_in_US(video_id)):
                     pass
-                elif (video_is_embeddable(video_id)):
-                    pass
+                # elif (video_is_embeddable(video_id)):
+                    # pass
                 else:
                     search_string = row[0] + " " + row[1]
                     row[3] = get_youtube_id(search_string)
