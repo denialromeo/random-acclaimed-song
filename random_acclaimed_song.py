@@ -136,15 +136,5 @@ def maintenance():
                     row[3] = get_youtube_id(search_string)
                 append_to_file(TEMPFILE, row)
 
-def print_titles(s=0):
-    with open(OUTFILE) as csvfile:
-        for idx, row in enumerate(csv.reader(csvfile, delimiter="|")):
-            if (idx >= s):
-                video_id = row[3]
-                if video_id.startswith("http"):
-                    continue
-                video_title(video_id)
-
 if __name__ == "__main__":
     maintenance()
-    # print_titles()
