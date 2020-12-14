@@ -3,7 +3,7 @@ import json
 import re
 import requests
 
-DIR      = "C:\\Users\\hi\\Desktop\\code\\random-acclaimed-song\\"
+DIR      = "C:\\Users\\dvmoo\\Desktop\\code\\random-acclaimed-song\\"
 INFILE   = DIR + "all-songs"
 OUTFILE  = DIR + "written"
 TEMPFILE = DIR + "new-written"
