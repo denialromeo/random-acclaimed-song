@@ -6,5 +6,5 @@
 @echo ] >> songs.js
 @del t
 @del g
-@copy /y songs.js C:\Users\dvmoo\Desktop\danielmoore.us\js\songs.js
+@copy /y songs.js C:\Users\hi\Desktop\danielmoore.us\js\songs.js
 @del *~
