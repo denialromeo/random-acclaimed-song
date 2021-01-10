@@ -59,9 +59,12 @@ def get_response(url, payload):
 def get_youtube_id(search_string):
     url = "https://www.googleapis.com/youtube/v3/search"
     payload = {"part": "snippet", "q": search_string, "maxResults": 1, "type": "video", "regionCode": "US", "videoEmbeddable": "true"}
+    # payload = {"part": "snippet", "q": search_string, "maxResults": 1, "type": "playlist", "regionCode": "US" }
     response = get_response(url, payload)
     print(response["items"][0]["snippet"]["title"], response["items"][0]["id"]["videoId"])
+    # print(response["items"][0]["snippet"]["title"], response["items"][0]["id"]["playlistId"])
     return response["items"][0]["id"]["videoId"]
+    # return response["items"][0]["id"]["playlistId"]
 
 def video_title(video_id):
     url = "https://www.googleapis.com/youtube/v3/videos"
