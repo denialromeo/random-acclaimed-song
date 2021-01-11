@@ -4,9 +4,9 @@ import re
 import requests
 
 DIR      = "C:\\Users\\hi\\Desktop\\code\\random-acclaimed-song\\"
-INFILE   = DIR + "all-songs"
-OUTFILE  = DIR + "written"
-TEMPFILE = DIR + "new-written"
+INFILE   = "all-songs"
+OUTFILE  = "written"
+TEMPFILE = "new-written"
 
 api_keys = ["AIzaSyBQnISjzNNGwITiZ9IGa8h-ACv-zFcQnZw",
             "AIzaSyD708scD_-j8jkICMSLnhWl9wTDMEN9w3c",
@@ -56,15 +56,24 @@ def get_response(url, payload):
         response = poll_api(url, payload)
     return response
 
-def get_youtube_id(search_string):
+def get_youtube_id(search_string, mode):
     url = "https://www.googleapis.com/youtube/v3/search"
-    payload = {"part": "snippet", "q": search_string, "maxResults": 1, "type": "video", "regionCode": "US", "videoEmbeddable": "true"}
-    # payload = {"part": "snippet", "q": search_string, "maxResults": 1, "type": "playlist", "regionCode": "US" }
+    payload = { "part": "snippet", "q": search_string, "maxResults": 1, "regionCode": "US" }
+    if mode == "song":
+        payload["type"] = "video"
+        payload["videoEmbeddable"] = "true"
+    elif mode == "album":
+        payload["type"] = "playlist"
     response = get_response(url, payload)
-    print(response["items"][0]["snippet"]["title"], response["items"][0]["id"]["videoId"])
-    # print(response["items"][0]["snippet"]["title"], response["items"][0]["id"]["playlistId"])
-    return response["items"][0]["id"]["videoId"]
-    # return response["items"][0]["id"]["playlistId"]
+    if mode == "song":
+        print(response["items"][0]["snippet"]["title"], response["items"][0]["id"]["videoId"])
+        return response["items"][0]["id"]["videoId"]
+    elif mode == "album":
+        if (len(response["items"]) == 0):
+          print(search_string + "!!!!!!")
+          return "~~~"
+        print(response["items"][0]["snippet"]["title"], response["items"][0]["id"]["playlistId"])
+        return response["items"][0]["id"]["playlistId"]
 
 def video_title(video_id):
     url = "https://www.googleapis.com/youtube/v3/videos"
@@ -105,15 +114,6 @@ def append_to_file(file, row):
     with open(file, "a") as csvfile:
         csv.writer(csvfile, delimiter="|", lineterminator="\n", quotechar="~").writerow(row)
 
-def initial():
-    num_songs_written = num_lines_in_file(OUTFILE)
-    with open(INFILE) as csvfile:
-        for idx, row in enumerate(csv.reader(csvfile, delimiter="|")):
-            if (idx >= num_songs_written):
-                search_string = row[0] + " " + row[1]
-                row.append(get_youtube_id(search_string))
-                append_to_file(OUTFILE, row)
-
 def wikipedia_titles():
     num_songs_written = num_lines_in_file(TEMPFILE)
     with open(OUTFILE) as csvfile:
@@ -121,6 +121,15 @@ def wikipedia_titles():
             if (idx >= num_songs_written):
                 row.append(wikipedia_title(row[0]))
                 append_to_file(TEMPFILE, row)
+
+def initial(infile, outfile):
+    num_songs_written = num_lines_in_file(outfile)
+    with open(infile) as csvfile:
+        for idx, row in enumerate(csv.reader(csvfile, delimiter="|")):
+            if (idx >= num_songs_written):
+                search_string = row[0] + " " + row[1]
+                row.append(get_youtube_id(search_string, "album"))
+                append_to_file(outfile, row)
 
 def maintenance():
     num_songs_written = num_lines_in_file(TEMPFILE)
@@ -140,4 +149,6 @@ def maintenance():
                 append_to_file(TEMPFILE, row)
 
 if __name__ == "__main__":
+    # https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=300&playlistId=PLj5TmO4kroQH4XM8P3JavV0p7Gtnno1E2
+    initial("albums", "albums2")
     maintenance()
