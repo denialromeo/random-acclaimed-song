@@ -145,10 +145,10 @@ def maintenance():
                     # pass
                 else:
                     search_string = row[0] + " " + row[1]
-                    row[3] = get_youtube_id(search_string)
+                    row[3] = get_youtube_id(search_string, "song")
                 append_to_file(TEMPFILE, row)
 
 if __name__ == "__main__":
     # https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=300&playlistId=PLj5TmO4kroQH4XM8P3JavV0p7Gtnno1E2
-    initial("albums", "albums2")
+    # initial("albums", "albums2")
     maintenance()
