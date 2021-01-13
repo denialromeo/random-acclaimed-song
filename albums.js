@@ -635,7 +635,7 @@ const albums = [
 "The Roots|Things Fall Apart|1999|PLkVSzrKdeIKWyMNqNYeNC0Fc097N8qBvU|A1080",
 "Rosalía|El mal querer|2018|PLkqz3S84Tw-Sm_o0JwLTNxa5XvLQ3YiVt|A6037",
 "Phoenix|Wolfgang Amadeus Phoenix|2009|PLd7t_6cAjUNaA1oJdaVgDRE3oXZsRMtwA|A4990",
-"Young Marble Giants|Colossal Youth|1980|PLOJWuc3CN3007vyrt-bAyBuHuI4OdcH8y|A510",
+"Young Marble Giants|Colossal Youth|1980|PL8eRaHvJ2FIUnS1h5cXH-rMGE3jNnxP8q|A510",
 "The Smiths|Hatful of Hollow|1984|PLDPgbLgBVdSwxULZohJYIDbf1FTxeLtUs|A616",
 "Deafheaven|Sunbather|2013|PLZqsyBiYZFQ0da3amOC_4Kr5flqbIVLEH|A5295",
 "Leonard Cohen|You Want It Darker|2016|PL4SnPCOcKRxZzfa0Mn8y32mr2AR6hOqMx|A5765",
