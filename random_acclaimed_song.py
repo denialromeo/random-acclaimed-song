@@ -7,6 +7,8 @@ DIR      = "C:\\Users\\hi\\Desktop\\code\\random-acclaimed-song\\"
 INFILE   = "all-songs"
 OUTFILE  = "written"
 TEMPFILE = "new-written"
+# OUTFILE  = "albums"
+# TEMPFILE = "albums2"
 
 api_keys = ["AIzaSyBQnISjzNNGwITiZ9IGa8h-ACv-zFcQnZw",
             "AIzaSyD708scD_-j8jkICMSLnhWl9wTDMEN9w3c",
@@ -32,16 +34,18 @@ def poll_api(url, payload):
 def wikipedia_title(artist):
     url = "https://en.wikipedia.org/w/api.php"
     search_string = re.compile("( [fF]eat\.?)|( with )").split(artist)[0]
-    payload = {"action": "query", "list": "search", "format": "json", "srsearch": search_string}
+    payload = {"action": "query", "list": "search", "format": "json", "srsearch": search_string, "utf8": ""}
     response = poll_api(url, payload)
+    if len(response["query"]["search"]) == 0:
+        return "~~~"
     poss_title = response["query"]["search"][0]["title"]
-    if ((poss_title.lower() == search_string.lower()) and ("may refer to" not in response["query"]["search"][0]["snippet"])):
-        return poss_title
-    else:
-        payload["srsearch"] = search_string + " band"
+    if "album" not in response["query"]["search"][0]["snippet"]:
+        search_string += " album"
+        payload = {"action": "query", "list": "search", "format": "json", "srsearch": search_string, "utf8": ""}
         response = poll_api(url, payload)
         poss_title = response["query"]["search"][0]["title"]
-        return poss_title
+    print(poss_title)
+    return poss_title
 
 def get_response(url, payload):
     payload["key"] = api_keys[-1]
@@ -107,19 +111,21 @@ def video_is_embeddable(video_id):
     return response["items"][0]["status"]["embeddable"]
 
 def num_lines_in_file(file):
+    # with open(file, encoding="utf-8") as f:
     with open(file) as f:
         return sum(1 for line in f)
 
 def append_to_file(file, row):
-    with open(file, "a") as csvfile:
+    with open(file, "a", encoding="cp1252") as csvfile:
         csv.writer(csvfile, delimiter="|", lineterminator="\n", quotechar="~").writerow(row)
 
 def wikipedia_titles():
     num_songs_written = num_lines_in_file(TEMPFILE)
-    with open(OUTFILE) as csvfile:
+    with open(OUTFILE, encoding="utf-8") as csvfile:
         for idx, row in enumerate(csv.reader(csvfile, delimiter="|")):
             if (idx >= num_songs_written):
-                row.append(wikipedia_title(row[0]))
+                if "~" in row[5]:
+                    row[5] = wikipedia_title(row[0] + " " + row[1])
                 append_to_file(TEMPFILE, row)
 
 def initial(infile, outfile):
@@ -148,7 +154,20 @@ def maintenance():
                     row[3] = get_youtube_id(search_string, "song")
                 append_to_file(TEMPFILE, row)
 
+def repair():
+    wikis = []
+    with open("albums", encoding="utf-8") as file1:
+        for row in csv.reader(file1, delimiter="|"):
+            print(row)
+            wikis.append(row[5])
+    with open("albums-utf") as file2:
+        for (idx, row) in enumerate(csv.reader(file2, delimiter="|")):
+            row.append(wikis[idx])
+            append_to_file("albums2", row)
+
 if __name__ == "__main__":
     # https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=300&playlistId=PLj5TmO4kroQH4XM8P3JavV0p7Gtnno1E2
     # initial("albums", "albums2")
     maintenance()
+    # wikipedia_titles()
+    # repair()
