@@ -63,12 +63,15 @@ def get_response(url, payload):
 def get_youtube_id(search_string, mode):
     url = "https://www.googleapis.com/youtube/v3/search"
     payload = { "part": "snippet", "q": search_string, "maxResults": 1, "regionCode": "US" }
+
     if mode == "song":
         payload["type"] = "video"
         payload["videoEmbeddable"] = "true"
     elif mode == "album":
         payload["type"] = "playlist"
+
     response = get_response(url, payload)
+
     if mode == "song":
         print(response["items"][0]["snippet"]["title"], response["items"][0]["id"]["videoId"])
         return response["items"][0]["id"]["videoId"]

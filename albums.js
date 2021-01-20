@@ -1385,7 +1385,7 @@ const albums = [
 "Blur|Modern Life Is Rubbish|1993|PLyWB0TxTMmTkplif-JyZXx2UI3LAKF7Wr|A876|Modern Life Is Rubbish",
 "Sufjan Stevens|Michigan|2003|PLZqsyBiYZFQ3C0u63RBlbKtDeO2OpqESQ|A3913|Illinois (Sufjan Stevens album)",
 "Lily Allen|Alright, Still|2006|PL0651B28ABBF4E693|A3050|Alright, Still",
-"Michael Kiwanuka|Kiwanuka|2019|PLW0qrlJ-5IPlhYQ7GELtaxsGU3Z6Y_5ud|A6305|Michael Kiwanuka",
+"Michael Kiwanuka|Kiwanuka|2019|PLW0qrlJ-5IPlhYQ7GELtaxsGU3Z6Y_5ud|A6305|Kiwanuka (album)",
 "Savages|Silence Yourself|2013|PLlsZHYnNM0paN_2PiOMvYs82SmbC79bfD|A5364|Silence Yourself",
 "Kate and Anna McGarrigle|Kate and Anna McGarrigle|1975|PLf6atpswV5is2oMOv2UjDY_2gDc2BZIUQ|A358|Kate McGarrigle",
 "Joanna Newsom|Divers|2015|PLWc5GYUq258Ph1eQIbUx-ecIj6_BFRcJo|A5551|Divers (album)",
