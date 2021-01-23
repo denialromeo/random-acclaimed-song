@@ -710,7 +710,7 @@ const albums = [
 "Justin Timberlake|FutureSex/LoveSounds|2006|PLYA8dJovP5DfiOBlWf0tklR_PM0ozveE2|A3106|FutureSex/LoveSounds",
 "Manic Street Preachers|The Holy Bible|1994|PL08AC7A8BF502AD70|A922|The Holy Bible (album)",
 "Sharon Van Etten|Remind Me Tomorrow|2019|PLZqsyBiYZFQ27eE3GEsZ9nXZ2JGByM6qr|A6329|Remind Me Tomorrow",
-"Fever Ray|Fever Ray|2009|PLiN-7mukU_RHnbca_YQh3OAgG-mpPsWOW|A4992|Fever Ray (album)",
+"Fever Ray|Fever Ray|2009|PLmsEm4EDLWCz6zNRUo1bksploFPgWmn87|A4992|Fever Ray (album)",
 "Metallica|Kill 'Em All|1983|PL98C22F89DBF23879|A586|Kill 'Em All",
 "John Coltrane|Blue Train|1958|PLBZmD4G_qXo6wSvUYQqjtBINnPkfwoXWB|A1815|Blue Train (album)",
 "Purple Mountains|Purple Mountains|2019|PL0bphQtr42WLax0X9IOoOyEYfygYpB_w8|A6318|Purple Mountains (album)",
